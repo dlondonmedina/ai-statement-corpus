@@ -1,0 +1,30 @@
+Daemen College official policy on generative AI Artificial Intelligence
+https://www.daemen.edu/academics/executive-vice-president-academic-affairs/position-statement-use-generative-artificial
+
+
+As an institution committed to preparing creative, ethically-minded leaders for a diverse and interconnected world, Daemen University recognizes the growing impact that Generative AI Tools (e.g. ChatGPT and Firefly) are having upon many fields.  Impacts include, but are not limited to, language processing, image generation, content development, and workplace efficiencies.  Outlined below are Daemen’s general guidelines on the acceptable and unacceptable use of Generative AI Tools, underscoring the importance of ethical use, accountability, and security.  Daemen University's Position Statement serves as a beginning point toward the development of a culture of consent and disclosure for all Daemen community members around Generative AI Tool use, with value placed on knowledge provenance.
+Acceptable Use of Generative AI Tools
+
+Precautions should be taken when using Generative AI Tools for research  purposes.  
+Original intellectual and/or creative work placed in a query becomes part of the algorithm of the AI tool  and is no longer your intellectual property, but rather the intellectual property of the entity that owns the AI tool.  
+Placing the work of others into a query without their consent may be considered intellectual property theft, and a likely violation of copyright.
+AI has been found to invent sources and to generate faulty attributions. 
+
+Generative AI Tools can be useful in the formative research phase of a project: generating lists, articles, and reports, among other materials.  However, using Generative AI Tools in such a manner must be done in an ethical way to guard against plagiarism and copyright infringement.  
+Generative AI Tools can be used to improve the ability of all learners to access information.   
+Students may use Generative AI Tools when explicitly sanctioned for an assignment within a course, and under the guidance of a faculty member, whose assignments should be in alignment with the University’s Position Statement on the Use of Generative AI Tools. 
+
+Unacceptable Use of Generative AI Tools
+
+Generative AI Tools should not be used for any purpose that would breach someone’s privacy (including your own), create malicious content, or engage in activity that is in violation of the Faculty or Student Handbooks.
+Generative AI Tools should not be used for any purpose that would violate data protection or copyright laws. 
+Generative AI Tools should not be used to create content that results in plagiarism or any violation of academic integrity. (See Academic Honesty Policy )  
+
+Accountability and Transparency
+
+Any use of a Generative AI Tool is expected to be ethically accomplished.  All academic work is expected to be done in a transparent way, and any use of a Generative AI Tool should be properly documented/referenced when applicable. 
+Research projects involving Generative AI Tools that also involve human subjects are expected to submit their proposal to the University’s IRB prior to conducting the research.  This ensures that appropriate steps are taken to protect the rights and welfare of humans participating as subjects in research.
+
+Conclusion
+
+Daemen University is committed to providing an atmosphere of academic excellence and scholarly distinction in an effort to prepare our community for meaningful, inclusive civic engagement.  Through responsible and ethical use, Daemen believes that Generative AI Tools can help achieve this vision.  Adherence to these principles will help ensure Daemen University continues to offer a forward-looking curriculum, preparing students for academic and professional excellence.  

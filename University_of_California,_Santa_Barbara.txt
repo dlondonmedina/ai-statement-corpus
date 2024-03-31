@@ -1,0 +1,10 @@
+University of California, Santa Barbara official policy on generative AI Artificial Intelligence
+https://ml.ucsb.edu/
+
+The Center for Responsible Machine Learning reflects UC Santa Barbara's commitment to advancing cutting-edge research in AI, machine learning, natural language processing, and computer vision, with an emphasis on the societal impacts of these rapidly evolving technologies. We are particularly interested in addressing issues of fairness, bias, privacy, transparency, explainability, and accountability in the context of AI algorithms, and in understanding the wide range of ethical, policy, legal, and energy-efficiency issues associated with machine-learning models. We envision the center becoming an indispensable locus of innovation, where bold leaders produce visionary software and revolutionary techniques that powerfully serve the greater good.
+
+
+
+
+
+Connect

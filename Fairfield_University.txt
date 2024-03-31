@@ -1,0 +1,233 @@
+Fairfield University official policy on generative AI Artificial Intelligence
+https://librarybestbets.fairfield.edu/citationguides/ama
+AMA Manual of Style, 11th ed. Ref. R119.A533 2020 and online
+For supplemental material, please visit  AMAmanualofstyle.com or view the library book.
+Commonly Cited Sources in AMA
+
+
+
+
+AMA Style uses superscript numbers for in-text citations. The superscript comes after quotations, periods, and commas. The superscript goes immediate following the information including mid-sentence.  At the end of the paper list References with their number in the order they appear in the paper. 
+Examples of in-text citations: 
+Advanced nursing practitioners must have measurable roles of increased level of competencies.1
+Coordinating, planning, and education2 are key components to the concept.
+Using the same source more than once:
+If you use the same source more than once it will use the same number. 
+Using direct quotes:
+If you use a direct quote include page numbers.
+Schober states "a recommendation for scope of practice and suggestions to guide development of standards for professional regulation, education, and competencies subsequently followed."2(p.3)
+Or 
+According to Schober "a recommendation for scope of practice and suggestions to guide development of standards for professional regulation, education, and competencies subsequently followed"2(p.3) and should be considered going forward. 
+Citing multiple sources in one sentence:
+If the sources are consecutive use a hyphen.
+Patient-centered team care and measurement based treatment should be included.4-5
+If the sources are not consecutive use commas.
+Issues can include healthcare diversity and education while also considering policy and and economics.2,7
+When mentioning in text, if there are more than 2 authors only use the first author then use et al. for the rest:
+Smith et al. reported their results.1  
+ 
+Personal communications should not be in the reference list. 
+When a personal communication is cited in-text include the date and how it was documented.
+In-text Citation Example:
+The findings were inconclusive according to Smith (email, March 12, 2020).
+Or:
+In March 2020 J.H. Smith noted in a written communication that...
+For more examples see AMA Manual 3.13.10
+Choose a book type. Minimums for citations are listed in AMA Manual 3.4.
+More in-text Citation Information
+AMA Manual 3.7, 3.12.2
+Author AA. Title of Book. Publisher; Year.
+Cozolino, LJ. The Neuroscience of Psychotherapy: Healing the Social Brain. W.W. Norton; 2017. 
+Author AA, Author BB, Author CC. Title of Book. Publisher; Year.
+Andersen K, Kuhn K, Wong, EC, Wong ES. What the Health: The Startling Truth Behind the Foods We Eat. BenBella Books; 2018.
+ 
+ 
+ 
+Note: Rules for multiple authors apply to all references in your list, regardless of the format of work (e. g. book, journal or magazine article, audio/video, etc.)
+AMA Manual 3.7, 3.12.2
+When there are 7 or more authors list the first 3 then et al. 
+Author AA, Author BB, Author CC, et al. Title of Book. Publisher; Year.
+Newbigging K, Ridley J, McKeown M, et al. Independent Mental Health Advocacy: The Right to be Heard: Context, Values and Good Practice. Jessica Kingsley Publishers; 2015.
+ 
+AMA Manual 3.7.2, 3.12.2
+Name of Organization. Title of Book. Publisher; Year.
+World Health Organization. WHO Expert Committee on Specifications for Pharmaceutical Preparations. World Health Organization; 2016.
+ 
+AMA Manual 3.12.4
+Author AA. Title of chapter. In: Editor AA, Editor BB eds. Title of Book. Publisher; Year: pages. 
+Berger AM. Improving supportive care for cancer patients and their families. In: LoBiondo-Wood G, Haber J eds. Nursing Research: Methods and Critical Appraisal for Evidence-Based Practice. Elsevier; 2014: 2-4.
+ 
+AMA Manual 3.12.2, 3.12.5 
+Editor  AA, ed. Title of Book. Publisher; Year.
+Kuman D, ed. Genomic Medicine: Principles and Practice. Oxford University Press; 2015. 
+Note: For more than one editor, use eds.
+Editor AA, Editor BB, eds. Title of book. Publisher; Year.
+DiMartini AF, Ackerman K, eds. Psychosomatic Medicine. Oxford University Press; 2015.
+ 
+ 
+AMA Manual 3.12.2, 3.12.5
+Reference List Format
+ 
+When there are 7 or more editors list the first 3 then et al. 
+Author AA, Author BB, Author CC, et al., eds. Title of Book. Publisher; Year.
+Broaddus VC, Mason RJ, Ernst JD, et al., eds. Murray & Nadel's Textbook of Respiratory Medicine. Saunders; 2016.
+.
+ 
+AMA Manual 3.13.11
+Author AA. Title of Work. Scene, verse, etc.
+Shakespeare W. As You Like It. Act 2, scene 7, line 139.
+OR
+Aristotle. Metaphysics. 3. 2.966b 5-8.
+Note: For classical references, the Chicago Manual of Style may be used as a guide.
+ 
+AMA Manual 3.12.7
+Author AA. Title of Book. 2nd ed. Publisher; Year.
+Baum A, Revenson T, Singer J. Handbook of Health Psychology. 2nd ed. Psychology Press; 2012.
+ 
+AMA Manual 3.12.5
+Author A A. Title of Book.  Translator BB, trans. Publisher; Year.
+Fang F. Wuhan Diary: Dispatches from a Quarantined City. Berry M, trans. HarperCollins; 2020.
+ 
+AMA Manual 3.12.6
+Author AA. Title of Book. Vol. #. Publisher; Year.
+Tomasson, RF. Comparative Social Research: An Annual Publication. Vol. 3. JAI Press; 1980.
+Note: Use Arabic numerals for volume numbers even if the publisher has used Roman numerals.
+ 
+Choose the Ebook type
+More in-text Citation Information
+AMA Manual 3.4, 3.12.4
+Author AA. Title of chapter. In: Editor AA, Editor BB, eds. Title of Book. Publisher; Year: chapter number or page numbers.  Accessed Month Day, Year. URL
+Coles R. Occasional notes: Medical ethics and living a life. In: Stagno S, ed. From Reading to Healing: Teaching Medical Professionalism Through Literature. Kent State University Press; 2019: 28-34. Accessed April 18, 2021. https://fairfield.primo.exlibrisgroup.com/permalink/01FUNI_INST/1a3cb3m/alma991005420869604711
+ 
+AMA Manual 3.4, 3.12.2
+Author AA. Title of Book. Publisher; Year.  Accessed Month Day, Year. URL
+Farver C, Ghosh S, GIldea T, Sturgis C. Pulmonary Disease Pathology, Radiology, Bronchoscopy. Springer International Publishing; 2020. Accessed March 3, 2021. https://na04.primo.exlibrisgroup.com/permalink/01FUNI_INST/fch04/alma991005444794804711
+ 
+ 
+Choose the Journal type
+More in-text Citation Information
+Note: AMA uses abbreviations for journals. To find journal abbreviations check the National Library of Medicine.
+AMA Manual 3.11.4
+Author AA, Author BB. Title of article. Abbreviated Journal Title. Year of publication; volume(issue): page numbers. doi:xxxxxxxxxxxxxx
+Rothnie KJ, Mullerova H, Smeeth L, Quint JK. Natural history of chronic obstructive pulmonary disease exacerbations in a general practice-based population with chronic obstructive pulmonary disease. AM J Respir Crit Care Med. 2018; 198(4): 464-471. doi: 10.1164/rccm.201710-2029OC
+Note: A DOI is preferred.  If there is no DOI use URL and Accessed date.
+Author AA. Title of article. Abbreviated Journal Title. Year of publication; volume(issue): page numbers. Accessed date. URL
+Baker EF, Iserson KV,  Aswegan AL, Larkin GL, Derse AR, Kraus CK. Open access medical journals: Pomise, perils, and pitfalls. Acad Med. 2019; 95(5): 634-639. Accessed March 2, 2021. https://journals.lww.com/academicmedicine/fulltext/2019/05000/open_access_medical_journals__promise,_perils,_and.26.aspx
+ 
+AMA Manual 3.11
+Author AA. Title of article. Abbreviated Journal Title. Year of publication; volume(issue): page numbers.
+Fowler MD. Why the history of nursing ethics matters. Nurs Ethics. 2017; 24(3): 292-304. 
+ 
+Choose the Magazine type
+More in-text Citation Information
+AMA Manual 3.11.4
+Author AA. Title of article. Magazine Title. Year of publication; volume(issue): page numbers.
+Stengel R.  A world of possibilities. Time. 2012; 179(17): 1. Accessed August 9, 2021. http://libdb.fairfield.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=aph&AN=74531179&site=ehost-live&scope=site
+Note: Include DOI at the end if available. If a DOI is not available, a URL and an accessed date may be used.
+ 
+AMA Manual 3.11.4
+Author AA. Title of article. Magazine Title. Year of publication; volume(issue): page numbers. Accessed Month Day, Year. URL
+Barath H. New blood analyzer tells human from animal samples on the spot. Scientific American. 2021; 324(5): 6. Accessed April 22, 2021. https://www.scientificamerican.com/article/new-blood-analyzer-tells-human-from-animal-samples-on-the-spot/
+Note: If magazine is in print remove Accessed Month Day, Year and URL.
+ 
+Choose the Newspaper type
+More in-text Citation Information
+AMA Manual 3.13.1
+Author, AA. Title of article. Newspaper Title. Month Day, Year. Accessed Month Day, Year. URL
+Kolata G. They have Alzheimer's. This clinical trial may be a last hope. New York Times. April 22, 2021. Accessed April 24, 2021. https://www.nytimes.com/2021/04/22/health/alzheimers-clinical-trials.html
+Note: If there is a DOI use that in place of Accessed Month Day, Year and URL. 
+ 
+AMA Manual 3.13.1
+Author, AA. Title of article. Newspaper Title. Month Day, Year: pages. 
+Kolata G. They are in a clinical trial for Alzheimer's to keep hope alive. New York Times. April 23, 2021: A23.
+ 
+AMA Manual Update 5.2.1.1
+Always check your syllabus to see what your professor’s policy on AI is. If it’s not on the syllabus, just ask.
+Report the use of Artificial Intelligence to create content or assist with writing or editing in the Acknowledgment or Methods section. Include a description of the content that was created or edited and the name of the language model or tool, version and extension numbers, and manufacturer. 
+Choose the Source type
+More in-text Citation Information
+ 
+AMA Manual 3.15.3
+Author AA or Organization. Title of Article or Item. Name of Website. Published Month Day, Year. Updated Month Day, Year. Accessed Month Day, Year. URL
+Conditions and treatments. American Academy of Allergy, Asthma & Immunology. January 27, 2021. Accessed March 31, 2021. https://www.aaaai.org/conditions-and-treatments
+Note: If Author/Organization is the same as the Name of Website only put once. If there is no Updated date then omit. 
+ 
+ 
+ 
+ 
+AMA Manual 3.15.11, 3.16
+First party v second party, Reporter volume number Official reporter abbreviation First page of case, specific page of case used if applicable (Deciding circuit court and Year of decision).
+Scoles v Mercy Health Corp, 887 F Supp 765 (ED Pa 1994).
+ 
+Note: For more examples of legal references see 3.16-3.17 in AMA Manual.
+AMA Manual 3.15.5
+Author AA. Title of report. Month Day, Year(if available). Accessed Month Day, Year. URL 
+Agency for Healthcare Research and Quality. National healthcare quality & disparities report 2018. September, 2019. Accessed March 30, 2021. https://www.ahrq.gov/sites/default/files/wysiwyg/research/findings/nhqrdr/2018qdr-intro-methods.pdf
+ 
+AMA Manual 3.15.4
+Author AA. Title of post. Title of Blog blog. Month Day, Year.  Accessed Month Day, Year. URL
+Simon N. How different types of museums approach participation. Museum 2.0 blog. February 9, 2020. Accessed March 3, 2021. https://museumtwo.blogspot.com/2010/02/how-different-types-of-museums-approach.html  
+ 
+AMA Manual 3.15.4
+The AMA Manual provides general guidelines for social media as shown below. See section 3.15.4 of the manual for more suggestions and guidance. 
+Author AA.  Title of post or content if short. Month Day, Year.  Accessed Month Day, Year. URL
+Note: If writing for publication may want to self-archive any social media updates
+  
+AMA Manual 3.15.4
+@username. Content of post. Month Day, Year. Accessed Month Day, Year. URL 
+@NYTimes. Throughout the U.S., marine labs that study the environment are being threatened by climate change. January 7, 2020. Accessed April 1, 2020. https://twitter.com/nytimes/status/1214685673082511360
+Note: If writing for publication may want to self-archive any social media updates
+ 
+AMA Manual 3.15.4
+Author Facebook page. Title of post or entire post depending on length. Accessed Month Day, Year. URL 
+American Psychological Association Facebook page. Are you setting some goals to ring in the new year? Accessed March 5, 2021. https://www.facebook.com/pg/AmericanPsychologicalAssociation/posts/
+Note: If writing for publication may want to self-archive any social media updates
+ 
+ 
+Choose the source type
+AMA Manual 3.13.10
+Note: E-mails (like other personal communication) are not included in the reference list; however, cite the e-mail in the text and include the author's initials in addition to the author's last name and provide a specific date.
+ 
+AMA Manual 3.13.10
+Note: Personal communication (such as letters, memos, e-mails, personal interviews and telephone conversations) are not included in the reference list. Cite the personal communication in the text, and include the author's initials in addition to the author's last name and provide a date as specific as possible.
+ 
+Choose the source type
+AMA 3.15.4 and 3.14.1
+Author or host. Title of video.  Person or Group that Uploaded Video.  Accessed date. URL 
+Koroshetz W. The impact of the opioid crisis on people who are really dealing with chronic pain. National Institutes of Health.  Accessed April 2, 2021. https://www.nih.gov/news-events/videos/impact-opioid-crisis-people-who-are-really-dealing-chronic-pain
+OR 
+For YouTube page:
+Name of account Youtube page. Accessed date. URL
+Johns Hopkins Medical Youtube page. Accessed April 2, 2021. https://www.youtube.com/user/JohnsHopkinsMedicine
+Note: If Author and Person or Group that uploaded is the same only put once.
+ 
+AMA Manual 3.14.1
+Author A. Title of DVD or Video. DVD. Publisher; Year.
+Hurst JW. Hurst's The Heart. DVD. McGraw-Hill Medical; 2011.
+Note: The host may be given as author. 
+ 
+AMA Manual 3.14.2
+Title. Podcast. Month Day, Year. Accessed Month Day, Year. URL
+Interview with Sinead M. Langan, author of "Association Between Atopic Dermatitis and Educational Attainment in Denmark". JAMA Network. April 14, 2021. Accessed April 19, 2021. https://edhub.ama-assn.org/jn-learning/audio-player/18602224
+ 
+More in-text Citation Information
+AMA 3.11.4.2.2
+From a repository:
+Author AA. Data from: Title of data. Title of Repository. Month day, Year published. doi:xxxxxxxxxxxx or URL
+National Institute of Health. Data from: Lymphoid neoplasm diffuse large b-cell lymphoma.  National Cancer Institute CDC Data Portal. 2021. https://portal.gdc.cancer.gov/projects/TCGA-DLBC
+Or from a journal:
+Author AA. Data from: Title of data. Abbreviated Title of Journal. Year;Volume(Issue): pages. doi:xxxxxxxxxx
+Gupta R, Sandison A, Wenig BM, Thompson LDR. Data from: Reporting of ear and temporal bone tumors: Explanations and recommendations of the guidelines from the International Collaboration on Cancer Reporting. Arch Pathol Lab Med. 2019;143(5): 593-602.  doi:10.5858/arpa.2018-0415-SA
+Note: If you are citing existing data or statistics, cite the publication in which the data were published (e.g., a journal article, report, or webpage) rather than the data set itself.
+ 
+ 
+ 
+ 
+ 
+What is a DOI, and how do I find it? A DOI is an alpha-numeric code that provides a persistent link to an article location on the Internet. With an HTML full-text article, the DOI is often found in the online citation of the article. With a PDF article, the DOI is often found on the beginning page of the article. Not all articles have a DOI. 
+Online Journal Article | Newspaper Article from Library Database
+FIND US ON
+                        
+
+
+

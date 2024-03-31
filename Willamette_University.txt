@@ -1,0 +1,17 @@
+Willamette University official policy on generative AI Artificial Intelligence
+https://libguides.willamette.edu/ai
+
+ 
+Generative Artificial Intelligence (AI) and AI-assisted technologies are technologies that learn from existing content to generate new text, images, code, audio, video, simulations, robotic actions, sequence molecules in response to prompts. ~ Wikipedia
+ 
+While AI technology has been around for decades, with the release of ChatGPT in 2022 and GPT-4 in March, 2023, the general public has gained unprecedented access to AI that can generate text. Other AI generators can create images, sounds, videos, computer code, sift through content, and more. There are a growing number of apps that utilize AI, and the technology will only proliferate in the future.
+
+ChatGPT, short for "Chat Generative Pre-trained Transformer," is the best known of many generative AI tools that is trained on a large body of data that can instantly generate human-like responses to questions and prompts. Conversely, it can "chat" with people. Microsoft's Bing incorporated GPT-4 into its search engine and Bing Chat. Google released its own AI engine called Google Bard.
+ 
+Writing practices have already been influenced by a plethora of digital tools which are embedded everywhere (Grammarly, online translators, autocomplete features, etc.). As the use of AI tools become more prevalent, it will be important to consider when and how to use them to enhance learning and when to limit their use. This is a transformational opportunity for educators to incorporate AI tools and pedagogy; to prepare students to use them ethically, judiciously, and critically; and to expand the notion of digital literacy to include such tools.
+ 
+It is important to note that while most of these were initially free, many have started charging for access.
+ 
+
+ 
+For a more descriptive explanation, visit TechRound.

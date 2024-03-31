@@ -1,0 +1,59 @@
+Butler University official policy on generative AI Artificial Intelligence
+https://libguides.butler.edu/ai-in-the-classroom
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. You are welcome to use, remix, and share with attribution.
+Khoa Le (2022) of Salesforce defines a chatbot by saying, "A chatbot (coined from the term “chat robot”) is a computer program that simulates human conversation either by voice or text communication, and is designed to help solve a problem. Organizations use chatbots to engage with customers alongside the classic customer service channels like phone, email, and social media." 
+He goes on to differentiate a special kind of chatbot: one that uses artificial intelligence. He states:
+Artificial intelligence chatbots are programmed to have human-like conversations... to better understand the intent behind what is being said and to respond more intelligently... With AI, the chatbot can interpret the context as it is written, which enables it to operate more or less on its own. In other words, AI chatbot software can understand language outside of pre-programmed commands and provide a response based on existing data. This allows visitors to lead the conversation, and the bot to follow.
+Watch the video below for a short summary about chatbots.
+ 
+Chat GPT is a specific chatbot built as an online assistant that can talk back-and-forth with a user. The creators, OpenAI, describe ChatGPT by saying, "We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests" (2022).
+You can think about ChatGPT like you would your favorite pen. Whether it's a Pilot G-2 or a Zebra pen, you choose your favorite pen based on it's ability to glide smoothly across the page, not smudge, and ink consistently. We can all agree that Bic is garbage in comparison. Similarly, ChatGPT has recently made headlines for the ease with which it operates; you might forget that you are talking to a machine when you dialogue with ChatGPT. ChatGPT puts the older generation, Bic-like chatbots to shame.
+One important thing to note when understanding ChatGPT is that it does not understand what it is composing. Instead, the chatbot is guessing the most likely word that follows the previous word, and the most likely word after that. Warner (2022) describes the inner workings of ChatGPT in layman's terms, saying, 
+I cannot emphasize this enough: ChatGPT is not generating meaning. It is arranging word patterns. I could tell GPT to add in an anomaly... and it would introduce it into the text without a comment about being anomalous. It is not entirely unlike the old saw about a million monkeys banging on a typewriter for along enough, that one of them would produce the works of Shakespeare through random chance, except this difference is, ChatGPT has been trained on a data set that eliminates all the gibberish.
+Haven (2007) describes the neuroscience behind why our brains follow language and syntax rules in stories. ChatGPT has no concept of language or syntax rules. The phrase "Colorless green ideas sleep furiously." would not be uttered by a human because it is meaningless (Chomsky, 1991, as cited in Haven, 2007, p. 62); in contrast, these words would not be strung together by ChatGPT because the probability of each word appearing after the next is so low.
+ChatGPT is currently free but will be monitized in the near future.
+ 
+OpenAI is upfront on the limitations of ChatGPT. First, the model doesn't have access to the internet; instead, it was given a specific dataset to learn from, and information from this dataset stops in 2021, meaning current events and very recent research is not included. Second, the tool does sometimes give incorrect answers.
+The developers have also included an important intentional limitation: ChatGPT will not answer questions that may be harmful to humans, like those that promote violence, racism, homophobia, etc. (Sharkland, 2022). The moderation is not completely effective, so OpenAI does ask users to report potential harms in addition to bugs (OpenAI, 2022).
+As described above, ChatGPT doesn't understand its own output. Remi Kalir points out the tool's limitation of not knowing its own ignorance:
+I've always enjoyed scientist Stuart Firestein's idea of knowledge ignorance, a kind of communal not knowing that emerges when things just don't make sense and there's a need to ask better questions (see his book "Ignorance").
+
+We need knowledgeable ignorance about learning. /5
+Read Kalir's full thread on ChatGPT.
+Microsoft, a key investor in Open AI (the developers of ChatGPT), has announced that ChatGPT will be included in Microsoft products in the near future (Schechner, 2023). (Note that some word processors already include this technology, like magic write found in Canva Docs.)
+AI chatbots have been used in higher education for a while, although we typically encounter then in innocuous settings. You may have even seen Hink pop up on Butler's website. However, there is now concern that chatbots, like ChatGPT, are now smart enough to cobble together more complex writings.
+Jeana Jorgensen, Lecturer in the Departments of History and Anthropology; Global and Historical Studies; and First Year Seminar, summarizes the effect on her courses and our institution:
+Unfortunately, it means we now must be vigilant against this as a form of plagiarism. It's up to you how to ward against this, but I am strongly considering adding language to my syllabus about it, so I have a policy to point to in case there's ever a problem. I'll probably say something along the lines of how I reserve the right to run portions of papers through an AI-generation-checker, and if something comes up as likely AI-generated, I will ask the student to come talk to me so they can explain their thought process and research going into the paper-writing process. If they cannot or will not meet with me, or cannot explain how they arrived at their thoughts and phrasing, it will be an automatic F on the paper.
+CNET (2022) reports two other educator's reactions to ChatGPT:
+High school teacher Daniel Herman concluded ChatGPT already writes better than most students today. He's torn between admiring ChatGPT's potential usefulness and fearing its harm to human learning: "Is this moment more like the invention of the calculator, saving me from the tedium of long division, or more like the invention of the player piano, robbing us of what can be communicated only through human emotion?"
+Dustin York, an associate professor of communication at Maryville University, hopes educators will learn to use ChatGPT as a tool and realize it can help students think critically.
+"Educators thought that Google, Wikipedia, and the internet itself would ruin education, but they did not," York said. "What worries me most are educators who may actively try to discourage the acknowledgment of AI like ChatGPT. It's a tool, not a villain."
+As Jorgensen points out, educators must be wary of this new tool and communicate course expectations clearly from the start. Like Wikipedia, this technology is here to stay, so we encourage you to explore the Assignments Using Chatbots page for ideas on how to incorporate it into your class.
+Several educators have reflected that the rise of AI chatbots should cause educators to revisit their course learning objectives. In reflecting on an online ChatGPT discussion, Derek Bruff, former director of Vanderbilt University's Center for Teaching, writes, 
+Forum participant George Veletsianos, professor of learning and technology at Royal Roads University, chimed in here. If higher education is preparing students for formulaic thinking and writing and work and ChatGPT does that kind of work better, that’s more a reflection of the shortcomings of higher ed than problems with ChatGPT. These comments are consistent with my third point from that blog post: We will need to update our learning goals for students in light of new AI tools, and that can be a good thing.
+ 
+
+
+The Academic Integrity Statement is required without revision on your syllabus. Reference the Syllabi Statements document for the full language.
+ 
+Consider including another statement after the university academic integrity statement to clarify the role of AI tools in your course. CAT would like to acknowledge and thank Jeana Jorgensen for sharing the following syllabus language:
+Additionally, while AI technology is new and constantly evolving, please know that using ChatGPT or any other AI text generator to assist in writing your papers counts as plagiarism and will be treated as such. Consequences may range from being asked to schedule an oral exam to reiterate the paper’s material to outright failing the assignment.
+ 
+The Sentient Syllabus Project recognizes that students will begin to use AI in their work. In addition to laying out guidelines for how to ethically use AI in an academic course, this syllabus redefines achievement and pushes students to produce work that surpasses work produced by AI. (Note that this syllabus language assumes that most students will use AI somewhere in their writing process.)
+Bruff, D. (2023, January 5). A bigger, badder clippy: Enhancing student learning with AI writing tools. Agile Learning. Retrieved January 9, 2023, from https://derekbruff.org/?p=3995. 
+Le, K. (2022, August 15). ‘Hi, can I help you?’ — How chatbots are changing customer service. Salesforce. Retrieved January 6, 2023, from https://www.salesforce.com/blog/what-is-a-chatbot/
+Haven, K. (2007). Story proof: The science behind the startling power of story. Libraries Unlimited.
+OpenAI. (2022, November 30). ChatGPT: Optimizing language models for dialogue. Retrieved January 5, 2023, from https://openai.com/blog/chatgpt/
+Schechner, S. (2023, January 17). Microsoft Plans to Build OpenAI Capabilities Into All Products. The Wall Street Journal. Retrieved on January 17, 2023, from https://www.wsj.com/articles/microsoft-plans-to-build-openai-capabilities-into-all-products-11673947774
+Sharkland, S. (2022, December 22). Why everyone's obsessed with ChatGPT, a mind-blowing AI chatbot. CNET. Retrieved January 5, 2023, from https://www.cnet.com/tech/computing/why-everyones-obsessed-with-chatgpt-a-mind-blowing-ai-chatbot/
+Steipe, B. (2023). The Sentient Syllabus Project. http://sentientsyllabus.org
+Warner, J. (2022, December 11). ChatGPT can't kill anything worth preserving: If an algorithm is the death of high school English, maybe that's an okay thing. The Biblioracle Recommends. Retrieved on January 11, 2023, from https://biblioracle.substack.com/p/chatgpt-cant-kill-anything-worth
+Email Butler University Libraries
+Irwin Library: 317-940-9227
+Science Library: 317-940-9937
+
+
+Library Hours
+Study Rooms
+My Library Account
+Library Website

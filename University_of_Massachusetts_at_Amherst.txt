@@ -1,0 +1,42 @@
+University of Massachusetts at Amherst official policy on generative AI Artificial Intelligence
+https://www.umass.edu/ideas/generative-artificial-intelligence
+Generative Artificial Intelligence (also called GenAI or just AI) has presented a moment of transformation and transition in educational technology. GenAI tools can perform many tasks thought of as unique to a human, including generating content that mimics human creativity. The platforms using this technology can produce text, as well as other media such as images, audio, and video - and they can produce output much faster than a human can. 
+These tools open up a lot of possibilities for educational use, as well as creating an opportunity to reflect on our approaches to central questions like learning, assessment, and academic integrity. At UMass, the policy surrounding the use of AI tools in the classroom defers to the instructor’s discretion - instructors are encouraged to include a statement in their syllabus that explains the proper and improper use of AI tools in their specific course context. 
+If you want to learn more about specific AI tools, such as AI Text and Media-based platforms, check out our detailed articles!
+The landscape of generative AI tools which could have an impact on higher education is already vast and complex, with intuitive and user-friendly tools. Generative AI platforms have the capacity to influence both the teaching and the learning sides of education - AI tools to help create lessons plans for instructors based on texts and the context of a course, or tools to provide feedback to students on their writing as they compose. Many of these tools have distinct use-cases in mind with how they generate output, i.e., a chatbot designed to respond to and produce text. However, even within areas of similar tools, one may have advantages for particular use-cases over others. It can be overwhelming, but patient exploration will help you understand the tools and their current capabilities. 
+To help orient new users, we’ve grouped some of the most popular tools by their output, either Text, or Media (such as Images, and Audio/Video). 
+For those looking to explore more deeply, and find new generative AI tools, futuretools.io serves as a robust resource, cataloging thousands of AI applications in a searchable format. 
+Most AI tools and platforms require an account to access their services. When you're signing up for an account, keep in mind:
+Most generative AI platforms and tools use prompting, a method of inputting information for the tool to respond to or tell it what to produce. Prompts, in most cases, are in the form of text, though some platforms can accept audio, images, and video as well. Writing a good prompt is essential for getting good output. 
+The key to harnessing the power of AI tools lies in the ability to craft effective prompts. A prompt is the input given to an AI tool to generate the desired output. It's a question or statement that guides the AI in creating content that meets specific needs or answers a particular query.
+A good prompt is clear, concise, and specific, providing the AI with enough context to generate useful and accurate content. It often includes parameters or constraints to guide the AI's creativity in a direction that's beneficial for educational purposes. While prompt engineering is an emerging field and there are many ways to approach prompt-writing, most frameworks break prompts down into 4 general parts:
+As you explore AI platforms, you can ask questions and chat with the tools to experience and get a sense of their capacities and limitations. When you are getting started, consider starting with very simple questions, such as:
+Plan a vacation to the Maldives, going to all the best local food spots. 
+Use the prompt and the response to iterate and refine your prompt. In your second response, consider:
+Please add to the itinerary opportunities to go scuba-diving. 
+If you notice the output is getting too wordy, ask for a more concise or brief version. If it's too simple, ask for more detail. 
+Some other simple prompts include:
+Tell me a story about a historical event from the perspective of a cat
+Write a poem about the history of UMass Amherst
+Make up a fun, star-trek inspired recipe for potatoes
+While simple questions are great to start, you can make your prompts more complex as you go along and get more confident.
+Create an image that visually represents [Key Concept] in [course discipline]. Create the image in a [Visual Style] style, suitable for use in a [Subject Area] course. Incorporate elements such as [Additional Elements or concepts].
+ 
+Copy and paste this prompt and add in information about your course, and the type of image you would like as output. You can use visual styles such as illustrations, realistic, or digital art. Keep in mind that many image generators struggle with generating text in the images. 
+One of the major advancements in generative AI is their capacity to understand and react to conversational input. For most users, this presents the opportunity to improve output but following up with responses ranging from asking for clarification to providing new information. Rarely is a prompt and output perfect, just like good writing, prompting is a process of refinement.
+Try using phrases like "Can you make this sound friendlier?" or "Can you make this more concise?". 
+Joint Task Force on Generative AI
+Joint Task Force on Generative AI
+Center for Teaching and Learning - How do I...?
+Center for Teaching and Learning - How do I...?
+The Writing Program's Resource Hub
+The Writing Program's Resource Hub
+Generative AI Discussion Group
+Generative AI Discussion Group
+How do I Redesign Assignments and Assessments?
+How do I Redesign Assignments and Assessments?
+College of Education - Addressing AI Tools
+College of Education - Addressing AI Tools
+Recognize an Outstanding IDEAS Team Member
+Love IDEAS? Blown away by a team member's passion and helpfulness? Saw something that made you go WOW?
+Nominate an IDEAS team member for a WOW (Wonderfully Outstanding Work) Award. Your praise will be shared with IDEAS leaders and the nominee.

@@ -1,0 +1,109 @@
+University of Miami official policy on generative AI Artificial Intelligence
+https://petal.miami.edu/resources/using-ai-for-teaching-learning-and-scholarship/index.html
+This page provides guidance for the potential use of Artificial Intelligence (AI) tools for teaching, learning, and other scholarly activity. This page will be updated frequently to reflect the changing landscape of AI tools, policies, and procedures.
+Quick Links: Background / Guidance / Examples / Sample Syllabus Language / Additional Considerations
+The emergence and proliferation of generative Artificial Intelligence (AI) systems, features, and add-ons provide great opportunities but also raise concerns over security and the unintentional sharing of confidential data. Providing any data to generative AI tools or services as part of a query are equivalent to posting the data on a public-facing website; generative AI systems “learn” by collecting and storing user-provided data. This data may then be used as output provided to others.
+As an instructor, you can use AI platforms to assist with some aspects of teaching and course design that do not involve sensitive data, including:
+Examples
+The examples below illustrate some different uses of a system like ChatGPT.  The ones on the left represent no risk. The ones on the right expose confidential data.
+
+
+
+
+No Confidential Data ✅
+
+
+Exposure of Confidential Data ❌
+
+
+
+Suggest a prompt for an essay assignment relating to Keirkegaard’s “Either/Or” for my course on Existential Philosophy.
+
+Evaluate this student’s submission for an essay on Kierkegaard’s “Either/Or” [...]
+
+Exposes FERPA data
+
+
+
+
+What were some notable real-life events that could make interesting case studies for my Corporate Crisis Management course?
+
+Below are the transcripts of my interviews with research subjects. Identify relevant themes. [...]
+
+Exposes research data
+
+
+
+
+I’m teaching International Comparative Higher Education and assigning ten groups of students to compare and contrast two countries’ systems of higher education. Create 10 random pairings of two countries that would serve as the basis for comparative analysis projects.
+
+Here are the results of the diagnostic attended polysomnography and multiple sleep latency test for patient Frederick Jones (MRN 12345678). Prepare an interpretation report and differential diagnosis. [...]
+
+Exposes HIPAA data
+
+
+
+
+
+The examples below illustrate some different uses of a system like ChatGPT.  The ones on the left represent no risk. The ones on the right expose confidential data.
+Evaluate this student’s submission for an essay on Kierkegaard’s “Either/Or” [...]
+Below are the transcripts of my interviews with research subjects. Identify relevant themes. [...]
+Here are the results of the diagnostic attended polysomnography and multiple sleep latency test for patient Frederick Jones (MRN 12345678). Prepare an interpretation report and differential diagnosis. [...]
+Sample Syllabus Language Suggestions and Samples
+The widespread availability of generative AI tools requires our attention and careful consideration as faculty. We encourage faculty to reach out to colleagues to consider what approach you and your field should take. Additionally, we encourage all faculty to communicate expectations and approaches to students. To that end, we should have language in our syllabi so that students know what is allowed and what is not in each class.
+The text below, based on similar documents produced by UNC and other universities, is designed as a template for possible inclusion in class syllabi for this Fall semester. It should be modified as appropriate for individual faculty, style of pedagogy, and subject field. Our Faculty Senate’s Academic Standards Committee will take up this topic during the Fall semester, with the goal of proposing possible modifications to the Academic Integrity Policy.
+Suggested text for inclusion in syllabi:
+ChatGPT and other Generative Artificial Intelligence (AI) software may be useful tools for enhancing learning, productivity, and creativity. For instance, they can assist with brainstorming, finding information, and creating materials, such as text, images, and other media. However, these tools must be used appropriately and ethically, and you must understand their limitations. In particular, it is important to realize that all AI software has the following limitations:
+
+How output is arrived at is not clear as the internal processes used to produce a particular output within the generative AI cannot be determined.
+AI output is typically based on data harvested from unknown online sources. As such, it may reflect biases that should be acknowledged. AI output may also be inaccurate or entirely fabricated, even if it appears reliable or factual.
+AI evokes a range of intellectual property concerns; sourcing and ownership of information is often unclear and is currently the subject of ongoing litigation.
+
+If you use AI tools in any part of your work, you are responsible for the final product of that work, both academically and in the workforce. 
+The widespread availability of generative AI tools requires our attention and careful consideration as faculty. We encourage faculty to reach out to colleagues to consider what approach you and your field should take. Additionally, we encourage all faculty to communicate expectations and approaches to students. To that end, we should have language in our syllabi so that students know what is allowed and what is not in each class.
+The text below, based on similar documents produced by UNC and other universities, is designed as a template for possible inclusion in class syllabi for this Fall semester. It should be modified as appropriate for individual faculty, style of pedagogy, and subject field. Our Faculty Senate’s Academic Standards Committee will take up this topic during the Fall semester, with the goal of proposing possible modifications to the Academic Integrity Policy.
+ChatGPT and other Generative Artificial Intelligence (AI) software may be useful tools for enhancing learning, productivity, and creativity. For instance, they can assist with brainstorming, finding information, and creating materials, such as text, images, and other media. However, these tools must be used appropriately and ethically, and you must understand their limitations. In particular, it is important to realize that all AI software has the following limitations:
+If you use AI tools in any part of your work, you are responsible for the final product of that work, both academically and in the workforce. 
+1. AI should help you think, not think for you. AI tools may be used to help generate ideas, frame problems, and perform research. It can be a starting point for your own thought process, analysis, and discovery. Do not use them to do your work for you, e.g., do not enter an assignment question into ChatGPT and copy and paste the response as your answer.
+2. The use of AI must be open and documented. The use of any AI in the creation of your work must be declared in your submission and explained. Your faculty can provide guidance as to the format and contents of the disclosure. The undeclared use of any AI (including text, images, program code, musical notation, etc) in any work may be considered as plagiarism.
+3. Engage with AI Responsibly and Ethically. Engage with AI technologies responsibly, critically evaluating AI-generated outputs and considering potential biases, limitations, and ethical implications in your analysis and discussions. Ensure that the data used for AI applications are obtained and shared responsibly. Never pass off as your own work generated by AI.
+4. You are 100% responsible for your final product. You are the user; if the AI tool makes a mistake, and you use it, then it’s your mistake. If you don’t know whether a statement about any item in the output is true, then it is your responsibility to research it. If you cannot verify it as factual, you should delete it. You hold full responsibility for AI-generated content. Ideas must be attributed, and sources must be verified.
+5. These principles are in effect unless the instructor gives you specific guidelines for an assignment or exam. It is your responsibility to ensure you are following the correct guidelines. Not following them will result in a breach of the Academic Integrity Policy.
+6. Data that are confidential or personal should not be entered into generative AI tools. Putting confidential or personal data into these tools exposes you and others to the loss of important information. Therefore, do not do so. See point 3 above.
+7. The rules and practices on the use of AI may vary from class to class, discipline to discipline. Do not assume that what is acceptable in a Computer Science class will be acceptable in a Philosophy class. It is the student’s responsibility to stay informed as to the instructor’s expectations. When in doubt, ask.
+1. AI should help you think, not think for you. AI tools may be used to help generate ideas, frame problems, and perform research. It can be a starting point for your own thought process, analysis, and discovery. Do not use them to do your work for you, e.g., do not enter an assignment question into ChatGPT and copy and paste the response as your answer.
+2. The use of AI must be open and documented. The use of any AI in the creation of your work must be declared in your submission and explained. Your faculty can provide guidance as to the format and contents of the disclosure. The undeclared use of any AI (including text, images, program code, musical notation, etc) in any work may be considered as plagiarism.
+3. Engage with AI Responsibly and Ethically. Engage with AI technologies responsibly, critically evaluating AI-generated outputs and considering potential biases, limitations, and ethical implications in your analysis and discussions. Ensure that the data used for AI applications are obtained and shared responsibly. Never pass off as your own work generated by AI.
+4. You are 100% responsible for your final product. You are the user; if the AI tool makes a mistake, and you use it, then it’s your mistake. If you don’t know whether a statement about any item in the output is true, then it is your responsibility to research it. If you cannot verify it as factual, you should delete it. You hold full responsibility for AI-generated content. Ideas must be attributed, and sources must be verified.
+5. These principles are in effect unless the instructor gives you specific guidelines for an assignment or exam. It is your responsibility to ensure you are following the correct guidelines. Not following them will result in a breach of the Academic Integrity Policy.
+6. Data that are confidential or personal should not be entered into generative AI tools. Putting confidential or personal data into these tools exposes you and others to the loss of important information. Therefore, do not do so. See point 3 above.
+7. The rules and practices on the use of AI may vary from class to class, discipline to discipline. Do not assume that what is acceptable in a Computer Science class will be acceptable in a Philosophy class. It is the student’s responsibility to stay informed as to the instructor’s expectations. When in doubt, ask.
+Additional Considerations
+AI Text Detectors
+The use of systems that claim to detect AI-generated text (e.g. GPTZero, Copyleaks) are not recommended. Submitting students’ coursework to these systems may constitute a FERPA violation since students’ work is considered an educational record. Furthermore, AI-generated text cannot be reliably detected (Sankar Sadasivan et al., 2023), and some evidence indicates that text detecting tools may demonstrate bias against texts written by non-native English speakers (Liang, et al., 2023).
+Liang, W., Yuksekgonul, M., Mao, Y., Wu, E., & Zou, J. (2023). GPT detectors are biased against non-native English writers. Patterns (4)7. 
+Sankar Sadasivan, V., Kumar, A., Balasubramanian, S., Wang, W., & Feizi, S. (2023). Can AI-Generated Text be Reliably Detected?. arXiv e-prints, arXiv-2303.
+Students With Disabilities
+Using AI platforms as part of teaching and learning may have differential impacts on students with disabilities. Some strategies may help them in the learning process, while other applications of AI might hinder them. For more information, refer to:
+
+How ChatGPT Could Help or Hurt Students With Disabilities
+
+
+3 Ways AI Can Help Students with Disabilities
+
+The use of systems that claim to detect AI-generated text (e.g. GPTZero, Copyleaks) are not recommended. Submitting students’ coursework to these systems may constitute a FERPA violation since students’ work is considered an educational record. Furthermore, AI-generated text cannot be reliably detected (Sankar Sadasivan et al., 2023), and some evidence indicates that text detecting tools may demonstrate bias against texts written by non-native English speakers (Liang, et al., 2023).
+Liang, W., Yuksekgonul, M., Mao, Y., Wu, E., & Zou, J. (2023). GPT detectors are biased against non-native English writers. Patterns (4)7. 
+Sankar Sadasivan, V., Kumar, A., Balasubramanian, S., Wang, W., & Feizi, S. (2023). Can AI-Generated Text be Reliably Detected?. arXiv e-prints, arXiv-2303.
+Using AI platforms as part of teaching and learning may have differential impacts on students with disabilities. Some strategies may help them in the learning process, while other applications of AI might hinder them. For more information, refer to:
+
+
+                Copyright: 2024 University of Miami. All Rights Reserved.
+                
+
+Emergency Information
+
+Privacy Statement & Legal Notices
+
+
+			    Individuals with disabilities who experience any technology-based barriers accessing the University’s websites or services can visit the Office of Workplace Equity and Inclusion.
+			

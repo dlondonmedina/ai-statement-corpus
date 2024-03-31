@@ -1,0 +1,24 @@
+University of Tennessee - Chattanooga official policy on generative AI Artificial Intelligence
+https://www.utc.edu/academic-affairs/walker-center-for-teaching-and-learning/resources-chatgpt
+ApplyNow
+Generative AI such as ChatGPT is range of AI language models that employ neural networks to process, understand, and generate human-like language. They excel in various tasks, such as text generation, answering questions, summarizing information, translating text, and engaging in conversations with users. The process involves receiving the user's input, breaking it down into manageable parts (or tokenization), processing it, and generating a relevant and coherent response. There are a growing number of generative AI tools to explore, each with its own unique characteristics, implications, and use cases.
+These include the potential for misinformation, since its database contains information from the internet, which may not always be accurate. Additionally, ChatGPT is limited to data collected in September 2021, which means it may not be up-to-date on current events. Therefore, when asked about current events, these tools may fabricate information or indicate that it is unable to provide a response. They can also struggle with understanding certain language aspects, leading to off-topic or unclear responses. Furthermore, they lacks human qualities, such as common sense and personability, though these tools are constantly changing and will improve in the future.
+It does not possess emotions, consciousness, or the same level of understanding as humans. While it is designed to provide accurate and helpful information, it can still make errors or provide incorrect data. Generative AI might also exhibit biases based on the data used to train it, although efforts are made to minimize such biases. Users should always verify and cross-check the information they receive from these tools before relying on them, especially when it comes to making important decisions or forming opinions.
+Putting data into ChatGTP or similar services is equivalent to disclosing the data to the public. Therefore, you should use extreme caution regarding what you enter into these tools. Specifically, this means you should never enter data whose disclosure to the public would be considered a breach under FERPA, HIPAA, PCI, GLBA or any other Federal or State Statute. Examples include:
+
+Social Security Numbers
+Credit Card Numbers
+Personally identifiable medical information
+Financial Aid information
+Student names and grades
+Additionally, great caution is suggested with the following information:
+Research data/Intellectual Property
+Source code
+Proprietary data 
+Internal meeting notes
+Hardware related information
+Presentation notes
+Emails
+Questions? © 2012-2024 University of Tennessee at Chattanooga. All rights reserved.
+Title IX Statement | Privacy Statement | Accessibility | Web Services
+A comprehensive, community-engaged campus of the University of Tennessee System and partner in the Tennessee Transfer Pathway.

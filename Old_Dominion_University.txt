@@ -1,0 +1,160 @@
+Old Dominion University official policy on generative AI Artificial Intelligence
+https://www.odu.edu/facultydevelopment/ai-content-generation-tools-teaching-learning-and-research
+Artificial intelligence content generation tools (AICGTs), such as ChatGPT, Claude, Bard, Bing, DALL●E 2 and Midjourney, have the potential to transform the teaching, learning, and research landscape in higher education. By augmenting the human ability to generate ideas and create various forms of content, including text, images, digital art, sound, video, and programming code, AICGTs are slowly disrupting teaching practices and traditional models of knowledge creation. While some educators are excited about the pedagogical potential of these tools, others worry that they could undermine students' academic integrity, creativity, and critical thinking. The disruptive nature of these fast-paced AI tools is likely to redefine not only models of knowledge creation in academia, but also curriculum programs and the skills and knowledge associated with current and future job prospects. As these AI content creation technologies become more ubiquitous, it is increasingly important to develop a nuanced understanding of their capabilities and limitations without overestimating or underestimating their potential impact on education (healthy skepticism).  
+To help you navigate this emerging landscape, the Center for Faculty Development has created a comprehensive FAQ document that addresses common questions about generative AI content.
+We hope this useful resource will help you (1) understand the possibilities and the limitations of AICGTs for teaching and learning practices, content creation,  assessment integrity, etc.; (2) make informed decisions about how to incorporate AI-generated content into your teaching, learning, and research activities; (3) engage your students in a reflective, responsible, productive and ethical use of these tools in various teaching and learning activities; and finally (4) help you explore and perhaps reframe your own narrative about how AICGTs will influence your professional identity as an educator and as a scholar.
+We encourage you to use this resource and share it with your colleagues. The FAQ will be updated regularly to keep you informed about the latest AI tools. If you have any suggestions or feedback, please contact us at cfd@odu.edu.
+AI-generated content such as text, images, video, code, and other media is produced by artificial intelligence systems trained on massive datasets, using complex algorithms to generate output based on text prompts. Tools like GPT-4, Claude, Stable Diffusion and DALL-E 2 can generate superficially realistic content on a wide range of topics and from user descriptions. While AICGTs offer exciting new opportunities for automated, creative content production, they also pose challenges regarding the veracity, originality, and ethics of the output. AI-generated material can be persuasive but might lack depth or have biases from its training data. Therefore, it's essential for educators and students to approach AI-produced content with caution, checking its accuracy against trusted references. By recognizing the innovative possibilities while continually staying in the loop by evaluating AICGTs content, we can thoughtfully integrate these rapidly evolving tools into teaching and learning in a measured, responsible way.
+ 
+Reminder: Please keep in mind that the effectiveness of learning is highly dependent on how you design your assignments and acknowledge that AICGTs often give incorrect information. 
+Note: The CFD does not endorse the use of AI tools exclusively for student work or to circumvent the actual student learning process. The ethical use of AICGTs must always be considered.
+Note: Learning how AICGTs respond to your assessment tasks can help guide their redesign, taking into account the current limitations of these tools. However, be careful not to enter your exam questions into AICGTs, as this could become part of the training data used by these tools.
+To discourage student reliance on AI-generated content while still providing opportunities for creativity, consider the following when designing your course assignments:
+In addition, analysis, and application assignments force students to demonstrate deeper understanding. Descriptive responses are easier for AI to generate.
+Instead of using AI-generated content, discuss academic integrity and learning implications with students. Help them think through how AI tools should or should not be incorporated into the course. Alternatively, invite students to think about how they might incorporate AI-generated content into their course activities, while considering the impact on their creativity and learning journey.
+Depending on your course learning outcomes and expectations, consider adopting or modifying one of the following examples:
+Note: Please note that ODU does not require an AI statement in your syllabus, but it is highly recommended.
+ 
+Provide clear guidelines for citing AI-generated content:
+Example: (OpenAI's ChatGPT AI language model, "prompt", "draft", March 1, 2023).
+Accuracy and bias: AI-generated content may not always be accurate or unbiased. Some tools, such as ChatGPT, may even create information or references that do not exist.
+Current knowledge: AICGTs have a limited understanding of world events that have occurred after 2021. However, newer versions of the AICGT are able to search the Internet, read links and provide updated information.
+Conversational responses: ChatGPT, for example, remembers past prompts and can adapt responses. This in-context learning is often used to circumvent ChatGPT's internal safeguards.
+Availability: Unless you have a paid monthly subscription, some AIGCTs like ChatGPT may not always be available.
+User Data: AIGCTs collect user data, so it is important not to share any personal information.
+AI Writing Check
+Caution: Uploading student work to external AI detection tools may result in FERPA, privacy, and copyright violations.
+Reminder:  Remember that AI detectors provide probabilities, not definitive proof of student misconduct. Their results may be inconsistent, and students may manipulate content (e.g., use multiple AI paraphrasing tools such as Quilbot) to avoid detection. If you suspect academic dishonesty based on these tools, please review, and investigate before taking disciplinary action. The accuracy and reliability of these systems are limited, and your judgment in determining authorship remains critical.
+Note: As of July 25, 2023, OpenAI has shut down its AI Classifier, a tool that claimed to flag AI-generated text, due to "low accuracy".
+Gewitz, D. (2023, January 13). Can AI detectors save us from ChatGPT? I tried 3 online tools to find out. ZDNET.
+Content Type
+AI Tools
+Website
+Potential Use
+Text
+GPT-3
+	GTP-4
+https://openai.com/gpt-3/
+Revise content on a variety of topics, including creating syllabi, lectures, assignments, rubrics, quizzes, and more.
+ChatGPTwriter
+https://chatgptwriter.ai/
+Compose and respond to email using simple prompts.
+GPT For Work
+https://gptforwork.com/
+Create, edit, summarize, translate, and classify content in Google Sheets and Google Docs..
+Rephrase
+https://www.rephrasee.com/
+Paraphrase sentences and paragraphs.
+DeepL Write
+https://www.deepl.com/write
+Correct mistakes and rephrase sentences.
+Hemingway Editor
+https://hemingwayapp.com/
+Analyze and improve your sentences and paragraphs.
+QuilBot
+https://quillbot.com/
+Paraphrase sentences, check grammar, summarize and generate quotations.
+Speedwrite
+https://speedwrite.com/
+Write, rewrite, and generate text.
+Slide Creation
+https://tome.app/ https://www.chatba.com/
+Design slides and stories that combine multiple types of content.
+Images and Visuals
+DALL●E 2
+https://openai.com/dall-e-2/
+Create images and digital artwork based on text descriptions.
+PaintsChainer
+http://paintschainer.preferred.t ech/
+Color and paint images using different colors.
+Prompthunt
+https://www.prompthunt.com/
+Create, edit, and share themes, including vector illustrations and soft color palettes.
+Lexica
+https://lexica.art/
+Search for images and artwork created with Stable Diffusion.
+Image Cleaner
+https://imgcleaner.com/
+Clean up your images and pictures by instantly removing unwanted objects.
+Canva Image Generator
+https://www.canva.com/featur es/ai-image-generator/
+Create different images and artwork based on text prompts and descriptions.
+Audio
+WaveNet
+https://deepmind.com/research/
+Create transcripts and raw audio.
+Lyrebird
+https://lyrebird.ai/
+Create synthetic voices and audio.
+Adobe Speech Enhancer
+https://podcast.adobe.com/enhance
+Improve audio clarity by removing background noise.
+Video
+Designs.ai
+https://designs.ai/
+Create, edit, and scale content such as logos, videos, banners, flyers, and mockups.
+Make-A-Video
+https://makeavideo.studio/
+Create short video clips from text prompts.
+FlexClip
+https://www.flexclip.com/
+Edit and create videos that include text, images, audio, and animation.
+Various tools
+InVideo.io, Synthesia.io, VEED.io, Lumen5, Designs.AI
+Edit and create videos that include text, images, audio, and animation.
+Unscreen
+https://www.unscreen.com/
+Remove background from videos.
+Coding
+DeepCode
+https://deepcode.ai/
+Write programming code and troubleshoot coding errors.
+Codex
+https://openai.com/codex/
+Generate code in multiple languages, debug and fix errors. Create programming assignments and coding tutorials.
+Polycoder
+https://github.com/VHellendoo rn/Code-LMs
+Generate, debug, and fix code in multiple languages.
+Tabnine
+https://www.tabnine.com/
+Auto-complete lines of code.
+3D
+LeiaPix
+https://convert.leiapix.com/
+Convert images to 2D and 3D formats.
+GPTZero
+https://gptzero.me/
+Detect AI-generated text.
+AI Content Detector
+https://writer.com/ai-content- detector/
+Detect AI-generated text.
+https://copyleaks.com/ai-content-detector
+Translation
+DeepL
+https://www.deepl.com/transla tor
+Translate any text into 29 languages.
+Academic Research
+Elicit
+https://elicit.org/
+Automate research workflows, such as parts of literature reviews.
+Trinka
+https://cloud.trinka.ai
+Check grammar and improve academic and technical writing.
+Galactica
+https://galactica.org/explore/
+Search and summarize academic literature, solve math problems, and write scientific code.
+Papers with Code
+https://paperswithcode.com/
+Access free and open resources with machine learning papers, code, datasets, methods, and evaluation tables.
+ 
+
+          2326, 2331, 2332 Education Building (New)          
+        Norfolk,           VA 23529
+  
+
+          5115 Hampton Blvd          
+        Norfolk,           VA 23529
+  
+Enhance your college career by gaining relevant experience with the skills and knowledge needed for your future career. Discover our experiential learning opportunities.
+Picture yourself in the classroom, speak with professors in your major, and meet current students.
+From sports games to concerts and lectures, join the ODU community at a variety of campus events. 

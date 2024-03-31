@@ -1,0 +1,64 @@
+Bond University official policy on generative AI Artificial Intelligence
+https://bond.edu.au/current-students/study-information/integrity-at-bond/academic-integrity/generative-artificial
+Oops, something went wrong.
+Students at Bond University have begun using Generative Artificial Intelligence (Gen-AI) to benefit their work processes, where permitted. 
+Gen-AI uses complex algorithms to generate text, images, data, sounds and videos based on existing data. Large Language Models, such as ChatGPT, produce text from large datasets in response to prompts. 
+Gen-AI can quickly complete otherwise time-consuming tasks such as data gathering and analysis, and can serve as a valuable scoping tool for students.
+While Gen-AI can assist your studies, it's important to be aware of the limitations and risks. Read on for further information about the use of GenAI at Bond University.
+Some assessment tasks permit the use of Gen-AI and others do not. 
+Students must check each assessment task sheet and follow the instructions provided. If it is still unclear, ask your educators, including Beyond Bond.
+The use of Gen-AI at Bond must align with Bond’s Principles of Academic Integrity, and uphold the Student Code of Conduct and Academic Integrity Policy.
+If you are a new student, complete the compulsory Academic Integrity Module. This module is also recommended for continuing students.
+Do:
+Don't:
+If Gen-AI is permitted in an assessment task, there are still risks associated with using Gen-AI output. Students must consider the current risks, including: 
+The unauthorised or improper use of Gen-AI is academic misconduct, as set out in the Student Code of Conduct Policy.
+Research students should also refer to the Research Misconduct Policy. 
+The styles used at Bond University are developed from specific instructions on how to cite and reference output from Gen-AI tools.
+Librarians monitor notifications from each style manual and update the referencing style guides when new advice is received via their websites.
+The Library has developed these FAQs and will review and update individual referencing style guides for the start of each semester.
+Some assessment tasks permit the use of Gen-AI and others do not. 
+Students must check each assessment task sheet and follow the instructions provided. If it is still unclear, ask your educators, including Beyond Bond.
+The use of Gen-AI at Bond must align with Bond’s Principles of Academic Integrity, and uphold the Student Code of Conduct and Academic Integrity Policy.
+If you are a new student, complete the compulsory Academic Integrity Module. This module is also recommended for continuing students.
+Do:
+Don't:
+If Gen-AI is permitted in an assessment task, there are still risks associated with using Gen-AI output. Students must consider the current risks, including: 
+The unauthorised or improper use of Gen-AI is academic misconduct, as set out in the Student Code of Conduct Policy.
+Research students should also refer to the Research Misconduct Policy. 
+The styles used at Bond University are developed from specific instructions on how to cite and reference output from Gen-AI tools.
+Librarians monitor notifications from each style manual and update the referencing style guides when new advice is received via their websites.
+The Library has developed these FAQs and will review and update individual referencing style guides for the start of each semester.
+The use of Gen-AI differs across subjects and assessment tasks according to the learning outcomes being addressed.
+Students must check each assessment task sheet for details of whether and how Gen-AI can be used. 
+The below examples demonstrate how Gen-AI is being used in some assessments. 
+Educator: Dr Sharon Micken, Faculty of Health Sciences & Medicine
+Students in the Healthcare Innovations program can use Gen-AI to: 
+1. Familiarise themselves with a topic.
+2. Brainstorm and generate ideas.
+3. Improve language proficiency, drafting and editing.
+4. Generate images, videos, or voice recordings.
+Students must extend Gen-AI output to create their analysis and conclusions, reference Gen-AI appropriately, and verify that Gen-AI output is reliable, unbiased and current. 
+Educator: Assistant Professor Rob Layton, Faculty of Society & Design
+Task: Students use Gen-AI tools to develop a creative piece of work such as a music album, story illustration or social media post.
+They write a comprehensive report outlining their steps in the generative process including details of all prompts and variations of prompts, and a reflective report demonstrating their understanding of generative art.
+Educator: Professor Jeff Brand, Faculty of Society and Design
+Task: Students use Gen-AI to co-author a digital literacy portfolio. 
+They present their portfolio in class, profiling their level of digital literacy in relation to career goals and career development priorities. 
+Prior to this, students contribute ideas and exchange feedback on portfolio profiles during weekly forums and tutorials. 
+Students diarise giving and receiving feedback and submit this as an appendix. 
+They also reference quality information sources using a standard referencing style and acknowledge Gen-AI as a co-author. 
+Educator: Associate Professor Catherine McDermott, Faculty of Health Sciences & Medicine
+Task: Students complete a literature review in their chosen area of research for their Honours project. 
+Gen-AI can be used to draft the structure, review, or rewrite paragraphs, and must be referenced appropriately. 
+All drafts including, step-by-step processes, are submitted in a separate document upon final submission. 
+This includes screenshots of inputs or prompts, and accompanying text/outputs indicating the paragraph/line/section where Gen-AI was used.
+Educator: Thomas Coghlan, Transformation CoLab
+Task: For two weeks of semester, students focus on artificial intelligence during which they analyse Gen-AI's suitability for various tasks. 
+Students apply Gen-AI to a range of typical human outputs such as pop songs, scholarly summaries and lived-experience journals. 
+They then reflect on the suitability of GAI for each task and come together for critical discussion. 
+The exercise is repeated for outputs typical of their prospective industries in relation to labour effectiveness and professional integrity.
+AIM is a 30-minute, online module that is compulsory for new students, recommended for continuing students and available to staff.
+COMPLETE NOW
+Copyright © Bond University
+CRICOS Provider Code 00017B | TEQSA Provider ID PRV12072

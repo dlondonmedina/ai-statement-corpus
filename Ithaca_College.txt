@@ -1,0 +1,40 @@
+Ithaca College official policy on generative AI Artificial Intelligence
+https://libguides.ithaca.edu/chatgpt/readings
+Here's an eclectic selection of articles compiled by David Weil, panelist at the Ithaca College event, "A Campus Conversation about ChatGPT. Access to newspapers with paywalls is provided by the Ithaca College library.  If you need help, contact: reference@ithaca.edu
+Good places to start:
+ChatGPT, K. M. and. (2022, December 7). How ChatGPT Could Transform Higher Education. Social Science Space.
+Heilweil, R. (2023, January 5). What is generative AI, and why is it suddenly everywhere? Vox.
+Huang, K. (2023, January 16). Alarmed by A.I. Chatbots, Universities Start Revamping How They Teach. The New York Times.
+Kovanovic, V. (2022, December 15). The dawn of AI has come, and its implications for education couldn’t be more significant. The Conversation.
+Schroeder, Ray. (2022, August 24). Higher Ed, Meet GPT-3: We Will Never Be the Same! Inside Higher Ed.
+Schulten, K. (2023, January 25). Lesson Plan: Teaching and Learning in the Era of ChatGPT. The New York Times.
+Wood, P., & Kelly, M. L. (2023, January 26). “Everybody is cheating”: Why this teacher has adopted an open ChatGPT policy. NPR.
+Other articles and examples: 
+aarohi. (2022, April 20). How GPT-3 is Affecting the Education Sector. The Education Outlook.
+ChatGPT-4, the Fined Tuned Version of ChatGPT-3, Might Prompt a Major Shift. (2023, January 2). IBL News.
+Dzieza, J. (2022, December 24). How Kindle novelists are using ChatGPT. The Verge.
+Eadicicco, L. (2023, January 14). You’ll Be Seeing ChatGPT’s Influence Everywhere This Year. CNET.
+Editorial Board. (2022, December 28). Opinion | We asked an AI bot hundreds of questions. Here’s what we learned. Washington Post.
+Finnie-Ansley, J., Denny, P., Becker, B. A., Luxton-Reilly, A., & Prather, J. (2022). The Robots Are Coming: Exploring the Implications of OpenAI Codex on Introductory Programming. Proceedings of the 24th Australasian Computing Education Conference, 10–19. https://doi.org/10.1145/3511861.3511863
+Forsyth, Ollie. (2022, December 20). Mapping the Generative AI landscape. Antler.
+Geher, Glenn. (2023, January 6). ChatGPT, Artificial Intelligence, and the Future of Writing. Psychology Today.
+Grant, N., & Metz, C. (2022, December 21). A New Chat Bot Is a ‘Code Red’ for Google’s Search Business. The New York Times.
+Held, Markham. (2022, December 29). Opinion | Here’s how teachers can foil ChatGPT: Handwritten essays. Washington Post.
+Hern, A. (2022, December 31). AI-assisted plagiarism? ChatGPT bot says it has an answer for that. The Guardian.
+Kim, S. (2023, January 7). How to Detect OpenAI’s ChatGPT Output. Geek Culture.
+Marche, S. (2022, December 6). The College Essay Is Dead. The Atlantic.
+Martin, Cheryl. (2022, November 21). AI is the future-is your school ready to teach it? ECampus News.
+Meckler, L., & Verma, P. (2022, December 29). Teachers are on alert for inevitable cheating after release of ChatGPT. Washington Post.
+Mintz, Steven. (2022, December 16). AI Unleashed. Inside Higher Ed.
+Mitchell, Alex. (2022a, December 26). Professor catches student cheating with ChatGPT: ‘I feel abject terror.’ New York Post.
+Mitchell, Alex, V. A. (2022b, December 26). Students using ChatGPT to cheat, professor warns. New York Post.
+Nolan, B. (2022, December 29). I asked ChatGPT to write my cover letters. 2 hiring managers said they would have given me an interview but the letters lacked personality. Business Insider.
+Sharples, Mike. (2022, May 17). New AI tools that can write student essays require educators to rethink teaching and assessment. Impact of Social Sciences.
+Truly, Alan. (2022, December 29). 5 amazing things people have done with ChatGPT. Digital Trends.
+Yalalov, D. (2022, December 11). 100 Best ChatGPT Prompts to Unleash AI’s Potential. Metaverse Post.
+veekaybee. (N.A.). Everything I understand about ChatGPT. GitHub Gist.
+Wolfram, Stephen. (2023, January 9). Wolfram|Alpha as the Way to Bring Computational Knowledge Superpowers to ChatGPT. Stephen Wolfram: Writings.
+Xiang, C. (2023, January 6). A CompSci Student Built an App That Can Detect ChatGPT-Generated Text. Vice.
+Resources:
+Zotero group with extensive list of 40+ curated articles on ChatGPT specifically for its impact in higher education 
+Ryan Baker, LinkedIn: Example of a syllabus insert that completely allows the use of generative AI but cautions that the results can be incorrect, and that the student is entirely responsible for both the correctness of the results and for acknowledging the source.

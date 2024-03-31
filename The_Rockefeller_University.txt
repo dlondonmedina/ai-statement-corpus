@@ -1,0 +1,15 @@
+The Rockefeller University official policy on generative AI Artificial Intelligence
+https://librarynews.rockefeller.edu/index.php/2024/02/06/ccts-r3-series-2023-2024-guest-speaker-michele-santacatterina-ph-d/
+Michele Santacatterina, Ph.D.
+Assistant Professor, Department of Population Health,
+New York University Grossman School of Medicine
+Exploring the Role of AI in Medical Research: A Causal Perspective
+February 15th, 2024 at 2 pm at Carson Auditorium
+Open to the Rockefeller University Community
+ 
+In recent years, AI algorithms have demonstrated remarkable advancements, particularly in generative AI, such as image and text generation. While various tech industries advocate for the utilization of AI across multiple domains, it prompts the questions: What role does AI play in medical research? How can we harness AI to enhance medical decision-making processes? In this talk, I argue that AI can significantly contribute to the progress of medical research when approached from a causality framework. Simply put, to develop intelligent machines, we must teach them causality. I present several instances where AI can facilitate causal tasks, including causal discovery, causal inference, and recommender systems.
+Please join us at the Carson Auditorium! This lecture is also available on Zoom. For login information, please e-mail marksulibrary@rockefeller.edu
+ 
+ 
+ 
+ 

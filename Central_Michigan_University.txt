@@ -1,0 +1,166 @@
+Central Michigan University official policy on generative AI Artificial Intelligence
+https://www.cmich.edu/offices-departments/curriculum-instructional-support/explore-teaching-and-learning/teaching-and-learning-services-and-resources/artificial-intelligence-AI-resources
+ Artificial Intelligence (AI) Resources
+
+With the rapid advance of Artificial Intelligence (AI), higher education institutions must engage in thoughtful discussion about AI’s impact on teaching, learning, curriculum, research, careers, and the broader societal implications. We have developed this page of resources, organized by themes, to keep our faculty and staff informed about AI. Because AI tools and news about AI are rapidly evolving, this site will be reviewed and updated regularly. (last reviewed 3/5/24)
+
+NOTE: The curated list of resources is for information only and does not reflect CMU’s stance on or preference for AI tools. 
+Understanding generative AI
+
+Handout: AI Terms Cheat Sheet (resource added 3/5/24)
+
+Article: What is RAG in AI? Explained in Everyday Language for AI Beginners (resource added 3/5/24)
+
+Article: Collaborating with artificial intelligence? Use your metacognitive skills (resource added 11/10/23)
+
+Article: Generative AI exists because of the transformer: This is How it Works (resource added 11/10/23)
+
+Video: ChatGPT Doesn't Know Anything (2:57) (resource added 10/4/23)
+
+Video: Practical AI for Instructors and Students Part 1: Introduction (10:16) (resource added 8/25/23)
+
+Blog: ChatGPT is a smart, drunk intern: 3 examples (resource added 8/25/23)
+AI in teaching
+
+Article: What ChatGPT’s Voice and Image Capabilities Mean for Educators (resource added 3/5/24)
+
+Article: 4 Simple Ways to Integrate AI into Your Class (resource added 3/5/24)
+
+Article: Revolutionizing education with AI: Exploring the transformative potential of ChatGPT (resource added 3/5/24)
+
+Article: A Year Later, Did Our ChatGPT Advice Get It Right? (resource added 1/15/24)
+
+Article: Indecision About AI in Classes Is So Last Week (resource added 1/15/24)
+
+Article: ChatGPT Has Changed Teaching. Our Readers Tell Us How (resource added 12/15/23)
+
+Article with video: Helpful or Harmful? How AI Shaped Education In 2023 (resource added 12/15/23)
+
+Graphic: Bloom’s Taxonomy Revisited (resource added 12/1/23)
+
+Video: Machine Learning, AI, and the Future of Education|Marc Natanagara |TEDxBrookdaleCommunityCollege (10:09) (resource added 11/10/23)
+
+Newsletter: Critical Reflections on AI from Faculty (resource added 11/10/23)
+
+Report: Artificial Intelligence and the Future of Teaching and Learning Insights and Recommendation (resource added 10/4/23)
+
+Article: Are Your Students Ready for AI? A Four-Step Framework to Prepare Learners for a ChatGPT World (resource added 8/25/23)
+
+101 Creative Ideas to Use AI in Education (resource updated 10/04/23)
+AI and assessing student learning
+
+Example: Sean Nufer “Engaging Advertisement” Assignment (resource added 12/1/23)
+
+Guide: Promoting Authenticity of Student Work in the Age of Artificial Intelligence: A Faculty Guide from the Center for Teaching and Learning Enhancement at Lamar University (resource added 10/4/23)
+
+Graphic: 6 Strategies for AI Integration in Classroom Assessment (resource added 10/4/23)
+
+Article: Prompt engineering for students – making generative AI work for you (resource added 8/25/23)
+
+Article: What to do about assessments if we can’t out-design or out-run AI? (resource added 8/25/23)
+
+Article: Prompt engineering for educators – making generative AI work for you (resource added 8/25/23)
+
+Incorporating AI in Learning Assessments Guided Pathways  (resource added 8/25/23)
+Writing in an age of AI
+
+Tool: Template Phrases for Critiquing AI Outputs (resource added 11/10/23)
+
+Podcast: Teaching in Higher Ed: Teaching Writing in the Age of AI (37:03) (resource added 8/25/23)
+Academic integrity and detection
+
+Paper: Academic Integrity and Assignment Design – MLA-CCCC Joint Task Force on Writing and AI (hcommons.org) (resource added 10/4/23)
+
+Article: We tested a new ChatGPT-detector for teachers. It flagged an innocent student. (resource added 8/25/23)
+
+Article: Why AI detectors think the US Constitution was written by AI | Ars Technica (resource added 8/25/23)
+
+Article: GPT Detectors are Biased Against Non-Native English Writers (resource added 8/25/23)
+
+Conversation Transcript from The Chronicle of Higher Education: Nobody Wins in an Academic-Integrity Arms Race (resource added 8/25/23)
+
+Article:  Means. Motive, Opportunity: A Composite Narrative about Academic Misconduct (resource added 8/25/23)
+AI in your syllabus
+
+Interactive tool: Generative AI Syllabus Statement Tool (Seaver College) (resource added 10/4/23)
+
+The Sentient Syllabus Project (resource added 8/25/23)
+Bringing AI into the classroom
+
+Article: 4 Simple Ways to Integrate AI into Your Class (resource added 3/5/24)
+
+Article: Can large language models provide useful feedback on research papers? A large-scale empirical analysis (resource added 11/10/23)
+
+Article: Incorporating AI in Teaching: Practical Examples for Busy Instructors (resource added 10/4/23)
+
+Article: 4 Steps to Help You Plan for ChatGPT in Your Classroom (resource added 8/25/23)
+
+Article: Assigning AI: Seven Approaches for Students, with Prompts (resource added 8/25/23)
+AI ethics and equity
+
+Article: ‘Obviously ChatGPT’ — how reviewers accused me of scientific fraud (resource added 3/5/24)
+
+Article: Ethical concerns mount as AI takes bigger decision-making role in more industries (Four Part Series) (resource added 12/15/23)
+
+Blog: Accessibility of AI Interfaces (resource added 10/4/23)
+
+Paper: The Affordances and Contradictions of AI-Generated Text for Second Language Writers (resource added 10/4/23)
+
+CMU Podcast: What are the Ethical Concerns with AI? (19:27) (resource added 8/25/23)
+
+Opinion: So what if ChatGPT wrote it? (resource added 8/25/23)
+
+Article: Managing the Risks of Generative AI (resource added 8/25/23)
+
+Article: AI Brings Opportunities And Risks To Workplace DEI Efforts (resource added 8/25/23)
+
+Article: Humans Are Biased. Generative AI Is Even Worse (resource added 8/25/23)
+
+Blog: Teaching AI Ethics (resource added 8/25/23)
+
+Article: Should ChatGPT be Biased? Challenges and Risks of Bias in Large Language Models (resource added 8/25/23)
+
+Op-Ed: The mounting human and environmental costs of generative AI (resource added 8/25/23)
+Tools
+
+Article: First Hands-On With Google’s New Gemini Ultra: How does it compare to ChatGPT and GPT-4? (resource added 3/5/24)
+
+Article: 5 new hottest AI tools for research (resource added 3/5/24)
+
+Article: Google Gemini explained: 7 things you need to know about the new Copilot and ChatGPT rival (resource added 3/5/24)
+
+Article: 10 Prompt engineering techniques to improve your results (resource added 3/5/24)
+
+Article: Student Use Cases for AI (resource added 12/1/23)
+
+Podcast: The Higher EdTech Podcast: A Look at AI Tools in Fall 23 Part 1 and Part 2 (resource added 11/10/23)
+
+Repository: Microsoft Prompts for Education: Enhancing Productivity & Learning (resource added 10/4/23)
+
+Futurepedia: AI Tool Directory Updated Daily (resource added 8/25/23)
+
+Chat GPT Prompting Cheat Sheet (resource added 8/25/23)
+
+Advanced Guide to ChatGPT (notion.site) (resource added 8/25/23)
+Other resources
+
+Article: Universities must transform to ensure no one is left behind in the era of AI (resource added 1/15/24)
+
+Article: Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality (resource added 11/10/23)
+
+Article: Centaurs and Cyborgs on the Jagged Frontier: I think we have an answer on whether AIs will reshape work (resource added 10/4/23)
+
+How to Cite AI (APA) (resource added 8/25/23)
+
+How to Cite AI (MLA) (resource added 8/25/23)
+Adapting Coursework for the AI Age: A Comprehensive Self-Paced Course
+
+In the evolving landscape of higher education, artificial intelligence offers transformative possibilities that require us to approach this new technology with enthusiasm and discernment. The self-paced workshop, “Adapting Coursework for the AI Age,” will answer questions such as: What are the potential benefits of generative AI? What concerns should educators be aware of? How can we ensure AI is used ethically and effectively? How can we leverage existing pedagogy to maximize student success?
+
+The three interactive modules of this workshop will cover the benefits and concerns of AI in the classroom, provide ethical assessment strategies, and share practical strategies to incorporate AI into your course. To enroll in this workshop, email tlpro@cmich.edu for access. (resource added 11/10/23)
+ 
+Artificial Intelligence 101: Self-Paced Workshop
+
+Designed with higher education faculty in mind, this self-paced workshop introduces the fundamental concepts of Artificial Intelligence (AI), making it a straightforward yet enriching journey into the world of modern technology.
+
+The three interactive modules of this self-paced workshop will prepare users for further conversation and exploration of AI by simplifying terminology, getting acquainted with popular tools through hands-on activities, exploring common characteristics of generative AI, and providing a glimpse into the current trends and developments. Participants will reflect on how to successfully utilize AI by fostering an environment where they can visualize the potential implications and benefits of AI integration in higher education.  To enroll in this workshop, email tlpro@cmich.edu for access. (resource added 9/22/23)

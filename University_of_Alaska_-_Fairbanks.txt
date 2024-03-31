@@ -1,0 +1,40 @@
+University of Alaska - Fairbanks official policy on generative AI Artificial Intelligence
+https://ecampus.uaf.edu/students-using-ai/
+Share this:
+This time last year your professors were unaware. Last Spring they grew concerned. This Fall semester, they are flat-out scared. 
+I’m talking about the emergence of widely available artificial intelligence programs, especially ones that can produce well-written text such as ChatGPT. The most challenging feature about these AI tools is that at first glance it is extremely difficult to determine if a chunk of writing has come from you, or an AI. Keep in mind that most of the classes at UAF use essays in some manner, a portion of STEM courses use the essay, and nearly all online classes have some sort of discussion board where paragraphs of writing are the key component. There will be professors that think you will cheat and they won’t be able to figure it out.
+My first bit of advice to you is simple: do not cheat. But since you are taking the time to read a blog post from an instructional designer at UAF’s Center for Teaching and Learning, I have a strong hunch that you’re not the kind of student who cheats anyway. You care about your education. You have a definite goal in mind and your studies at UAF is a stepping stone. You want the most efficient and honorable way through your course load this semester and beyond. So I think you’ll find the rest of this post helpful.
+The ‘rules’ that broadly cover what is acceptable and what isn’t are listed in the University of Alaska Fairbanks Student Code of Conduct. The Code contains a phrase that reads, “…Cheating, Plagiarism, or Other Forms of Academic Dishonesty…” are “prohibited”. What you need to pay attention to are the particulars for each of your courses. Some faculty will encourage or require group work for different parts of the class. Some will require you to do work on your own. One thing that might very well vary from course to course is you will be allowed to paraphrase results you get back from some of the text-generating AIs. Paraphrasing, reorganizing, and synthesizing information is a fundamental part of scholarship. Still, you will find some faculty that prohibit AIs as sources, some that allow it, and others that encourage it.
+If you do end up paraphrasing from an AI source, you will need to make the correct citation. Two of the most common citation formats, APA and MLA, have both demonstrated exactly how to do this. The link to the MLA article below also shows an interaction with ChatGPT and a student researching the themes involved in the green light across the water in The Great Gatsby. It’s a nice quick read.
+Again, you’ll know what to expect in a course from reading the syllabus and asking your professor. Please do have that conversation. If you are ever in doubt about an assignment’s details or the policies for the course, just ask! Your professor is required to tell you their preferred means of communication, usually their UA email or office phone number. 
+One thing that you are perfectly free to do, whether or not your professor allows AI use in course assignments, is leveraging AIs as a study aid. I remember running out of practice problems in certain courses when I was an undergrad. (Way back then, the textbooks did not have online resources like many do now).
+Consider asking ChatGPT to generate various practice questions:
+ 
+ChatGPT can rapidly provide you with endless variations from the list above. You’ll probably run into the term “prompt engineering” at some point. That’s the art of changing the question you ask the AI in relation to the text it provides you. For instance, if you ask an AI to provide you with a list of study questions, it’s going to indicate somehow which answer is correct. If the AI’s answer is in the wrong place, just edit your question (engineer your prompt), and request that the answers be indicated toward the bottom of the response.
+Don’t be afraid to go through multiple rounds of this process until you get something that will help you study.
+One extremely important thing you should know about AIs, at least the way they are now, in Fall 2023, is that they tend to be much better at providing accurate answers for general knowledge, but start to fail when you get more and more specific. The more conceptual and specific a question is, the higher the chance that the AI won’t be able to provide a useful response. So you might find AIs more helpful in introductory courses than you do in 400-level and above courses. 
+If you would like to ever play with a paid, subscription-based version of ChatGPT, you are more than welcome to visit the MIX space at UAF’s Center for Teaching and Learning in Bunnell 131. We already have a few computers set up and during the learning lab’s open hours, you can come and try them out, and bounce some ideas of other learners and perhaps an instructional designer or two.
+UAF Student Code of Conduct
+APA Citation of ChatGPT 
+MLA Citation of Generative AI
+
+Instructional Designer
+Dan LaSota is an instructional designer at UAF's Center for Teaching and Learning. He is also a viola student studying with the UAF Department of Music.                                                                    
+
+
+
+
+
+After a week of eating a lot of cereal and pizza, I decided to give
+Meet Michael, our dedicated colleague spearheading the recruitment efforts and support for high school students
+Now that you’re back from Spring Break, you may find it a little challenging to
+“The way we spend our time defines who we are.” -Jonathan Estrin, film producer The
+Monday-Tuesday: 8 a.m.-5 p.m.Wednesday-Friday: 8 a.m.-7:30 p.m.
+uaf-ecampus@alaska.edu
+907-455-2060 or 800-277-8060
+Physical Address:1790 Tanana LoopBunnell Building, Suite 131
+Mailing Address:PO Box 756700University of Alaska FairbanksFairbanks, AK 99775-6700
+The University of Alaska is accredited by the Northwest Commission on Colleges and Universities. 
+UA is an affirmative action/equal opportunity employer, educational institution and provider and prohibits illegal discrimination against any individual. Learn more about UA’s notice of nondiscrimination. 
+UAF eCampus is committed to providing accessible websites. Learn more about accessibility.
+For questions, comments, or edits regarding this page please let us know.

@@ -1,0 +1,5 @@
+Marywood University official policy on generative AI Artificial Intelligence
+https://www.marywood.edu/places/Marywood%20Pacer%20Nation
+The implementation of Amazon’s cutting-edge Just Walk Out technology is designed to eliminate checkout lines and provide an effortless customer experience. 
+As the first university in Pennsylvania to launch Just Walk Out technology in an on-campus convenience store, Marywood University is taking the lead in enriching the student experience through cutting-edge technology. Just Walk Out technology and Amazon One is made possible by artificial intelligence like computer vision and deep learning techniques, including generative AI, to accurately determine who took what in any retail environment. Amazon built synthetic datasets to mimic millions of realistic shopping scenarios as well as photorealistic synthetic palm images to ensure accuracy in any environment. 
+Learn more

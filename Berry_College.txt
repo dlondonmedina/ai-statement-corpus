@@ -1,0 +1,24 @@
+Berry College official policy on generative AI Artificial Intelligence
+https://libguides.berry.edu/teachingai
+A chatbot released from OpenAI toward the end of last year [2022] that can use artificial intelligence to write responses to a variety of prompts.  Based on the social media and internet discussion, it’s causing faculty to rethink many of their assignments and other ways that they’re assessing student learning going forward. - Dr. Lauren Heller
+ 
+ChatGPT’s answer to the prompt, “Can you explain what ChatGPT is to someone who is unfamiliar with it?”: 
+ 
+“Certainly! ChatGPT is a variant of the GPT (Generative Pre-training Transformer) language model that has been fine-tuned for the task of chat response generation. Like other GPT models, ChatGPT uses a transformer architecture and is trained on a large dataset of human-generated text. It can be used to generate natural language responses to input text in a chatbot-like manner. 
+ 
+One of the key advantages of ChatGPT is that it can generate human-like responses to a wide range of inputs, making it useful for applications such as customer service chatbots and social media bots. It can also be fine-tuned for specific tasks or domains, such as generating responses to questions about a particular topic or providing customer service for a specific company. 
+I hope that helps! Do you have any other questions about ChatGPT or GPT models in general?” 
+ChatGPT’s answer to a writing prompt from the first exam in my [Dr. Lauren Heller] History of Economic Thought course.  Here’s the prompt:  
+ 
+Early strands of economic thinking show up in Antiquity.  But, most comprehensive texts start with the Mercantilists.  Why?  Is this fair?  What can earlier thinkers potentially contribute?  Your response should include a detailed discussion of early economic thinkers, including the Ancient Greeks, Biblical references, and the Scholastics. 
+ 
+…and here’s ChatGPT’s response:   
+“Early strands of economic thinking can be traced back to ancient civilizations such as the Babylonians, Egyptians, and Greeks. The Ancient Greeks, in particular, made significant contributions to economic thought, with philosophers like Aristotle and Plato discussing issues related to wealth, trade, and the division of labor. 
+ 
+Biblical references also contain economic themes, such as the concept of a "just price" in the Old Testament. The Scholastics, a group of medieval scholars who were influenced by the writings of Aristotle, also made contributions to economic thought through their discussions of natural law and the concept of a fair price. 
+ 
+However, the study of economics as a distinct discipline really began to take shape during the mercantilist period in the 16th and 17th centuries. This was a time when trade and commerce were becoming increasingly important, and writers such as Thomas Mun and Adam Smith began to develop more systematic approaches to understanding economic phenomena. 
+ 
+It is not necessarily unfair that the mercantilists are often considered the starting point for comprehensive economic texts, as they marked a significant shift in the way economic ideas were studied and formulated. However, it is important to recognize the contributions of earlier economic thinkers and to understand the context in which they were writing. These early economic thinkers can still provide valuable insights and help to enrich our understanding of the discipline.” 
+Example syllabus blurb (copied directly from Lauren’s syllabus with highlighting added, so just an idea):
+Academic Integrity:  Academic dishonesty is contrary to the spirit of Berry College.  As a matter of ethics and in consideration of all students, academic integrity will be taken extremely seriously in this course.  Unless otherwise specified, all assignment s are to be done independently.  All exams are “closed-book” and are to be taken without assistance of any kind including the use of notes, calculators, or cell phones.  To be clear, students are not permitted to copy answers on homework, Aplia assignments, or any other work completed outside of class unless specifically instructed to do so.  The use of artificial intelligence (i.e. - ChatGPT) or external sites like Chegg is also an explicit example of cheating in this course.  Failure to meet the standards for academic integrity will result in a grade of zero on the assignment and/or a grade of F in the course.  For clarification on what is expected from you as a member of the college community, see: https://www.berry.edu/academics/student-academic-resources/academic-integrity.  

@@ -1,0 +1,17 @@
+University of San Francisco official policy on generative AI Artificial Intelligence
+https://myusf.usfca.edu/usfteach/generative-AI
+Written by Omelia Tennant and Jill Ballard
+July 13, 2023 • 4 minute read
+
+Without a doubt, you’ve heard the term “generative AI”, but what is it exactly?
+Generative artificial intelligence (generative AI, or GenAI) refers to a type of artificial intelligence system that enables users to quickly create new content utilizing a variety of sources, including audio, text, images, videos, codes, and 3D models. Generative AI systems are designed to learn patterns and generate content based on the datasets used in their training. OpenAI’s ChatGPT has become the most popular text-based generative AI tool since its release in 2022.
+The Instructional Design team is excited to share a new series of articles on the implications of GenAI and use of tools such as ChatGPT to support teaching and learning. Bookmark this page as new articles will be added in this section.
+Creating generative AI content is initiated by a user’s prompt (a request), which produces a response. Responses are created in the same form as the request, such as text-to-text, but generative AI systems also have the capability of generating new content in other forms, such as text-to-video. And such responses can be customized. For example, ChatGPT has been developed to generate language responses to match a given context and tone indicated in the prompt, such as producing academic writing. In addition, the application can generate follow-up prompts, produce answers to questions, challenge incorrect assumptions, and even reject inappropriate requests. Although ChatGPT’s ability to quickly create content has an array of benefits, it also presents significant challenges.
+Generative AI has been integrated into many applications and contexts, including music and entertainment, healthcare, travel, arts, and education—and its growth continues. For higher education in particular, instructors and course designers are leveraging generative AI tools like ChatGPT to support the development of course materials and learning activities. Students are also using ChatGPT to support their learning in a variety of ways, such as a tool for brainstorming and real-time writing feedback, but it is also being used for content development, which poses crucial challenges for learning and teaching practices. As a result, many higher ed institutions are determining policies to address its use.
+To learn more about how you can use Generative AI and ChatGPT to support teaching and learning in your courses, look for the following articles in this collection.
+To learn how to use ChatGPT, schedule a training session with Instructional Technologies & Training.
+Whether you have a pedagogical question, have a particular educational technology in mind, or don’t know where to start, we are here to help! Request an Instructional Design consultation.
+GET IN TOUCH!
+Meet the ID Team
+Request a Consultation
+Submit Suggestions

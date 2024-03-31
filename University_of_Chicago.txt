@@ -1,0 +1,19 @@
+University of Chicago official policy on generative AI Artificial Intelligence
+https://its.uchicago.edu/generative-ai-guidance/
+Generative artificial intelligence (AI) tools offer many capabilities and efficiencies that can greatly enhance our work. When using these tools, members of the University community must also consider issues related to information security, privacy, compliance, and academic integrity.  
+Below are some guidelines on using and procuring generative AI tools such as OpenAI’s ChatGPT, Microsoft’s Bing, and Google’s Bard. Please note that these guidelines are not a new University policy, but are extensions of existing University policies. 
+The use of confidential data with publicly available generative AI tools is prohibited without prior security and privacy review. This includes personally identifiable employee data, FERPA-covered student data, HIPAA-covered patient data, and may include research that is not yet publicly available. Some grantors, including the National Institutes of Health, have policies prohibiting the use of generative AI tools in analyzing or reviewing grant applications or proposals. Information shared with publicly available generative AI tools may expose sensitive information to unauthorized parties or violate data use agreements. (Please see Policy 601 for definitions of confidential data and its use for more information.)
+AI-generated content may be misleading or inaccurate. Generative AI technology may create citations to content that does not exist. Responses from generative AI tools may contain content and materials from other authors and may be copyrighted. It is the responsibility of the tool user to review the accuracy and ownership of any AI-generated content.
+For guidance on how generative AI tools intersect with academic honesty, it is recommended that instructors contact the Chicago Center for Teaching and Learning. (See Academic Honesty & Plagiarism in the Student Manual for University policy.)
+Generative AI systems, applications, and software products that process, analyze, or move confidential data require a security review before they are acquired, even if the software is free. This review will help ensure the security and privacy of University data. Please contact IT Services at itrisk@uchicago.edu before acquiring or using any tools, add-ons, or modules that include generative AI technology with University confidential data, even if they are free. For more information, see the Policy on the Use of External Services and the Policy of Procurement and Engagement.  
+Before acquiring or using any generative AI technology tools, add-ons, or modules with University confidential data, please complete the Generative AI Tool Review form. Below are tools that have been vetted by the University.
+On February 20, IT Services will enable new Zoom generative AI features, called Zoom AI Companion. These features include:
+For more information, view the FAQ.
+The University is contracting with Microsoft for GitHub Copilot Business, an AI-powered software coding assistant developed by GitHub, OpenAI, and Microsoft. The University community has expressed interest in AI applications with code generation capabilities and the GitHub Copilot Business agreement offers this service while providing data protection through the University’s Microsoft contract.
+There is a cost per user, and users must be part of an existing enterprise GitHub organization. To request this feature, unit leaders should contact IT Services.
+If you have questions about the guidelines, please contact:
+©2024 The University of Chicago
+All rights reserved
+
+Contact Support: 773.702.5800
+

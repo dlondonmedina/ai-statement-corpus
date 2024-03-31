@@ -1,0 +1,90 @@
+University of Oregon official policy on generative AI Artificial Intelligence
+https://teaching.uoregon.edu/ai
+Course Policy   ·   Data Privacy   ·   Teaching with GenAI   ·   Academic Integrity   ·   Teaching & AI CAIT   ·   Quick Links
+Generative artificial intelligence (GenAI) generates content based on prompts provided by users. The wide availability of GenAI systems and the ease and speed with which they can generate content raises important considerations for teaching and learning in higher ed. This resource provides instructors with suggestions and options for how to address AI use in their courses, plus links to additional resources.  
+​​​​​​
+Because the GenAI field is fast evolving, this resource will be continually updated. We welcome suggestions for additional resources and information.  
+We strongly encourage instructors to have an explicit policy about GenAI in their course syllabus, including any relevant distinctions between GenAI use (as process) and GenAI content (as product).
+We also encourage instructors to reinforce their expectations in assignment instructions and in conversation with students.
+The Teaching and Generative AI resource provides sample course policies that you can apply to your own course.
+See Sample Policies
+We strongly recommend that instructors who ask or encourage students to use any AI system remind students that they should avoid providing any personal or other sensitive data to AI prompts. We also advise that instructors consider making AI use voluntary or, if AI use is part of a required course assignment or activity, include an opt-out alternative for students who do not want to create an account with an AI system or interact with them.  
+Such a recommendation is in alignment with UO’s guidance on external vendor digital tools, for instance use of social media such as blogs as part of course assignments, which must include an option for students to keep their information and identities private.   
+Instructors are experimenting with a variety of ways to include use of GenAI systems in their courses. The Teaching and Generative AI resource provides ideas, including examples from UO instructors, on how to:
+Explore GenAI Teaching Ideas
+The University of Oregon is home to a vibrant and diverse intellectual community. Creating a strong culture of academic integrity at UO is a collective, university-wide project. We are most likely to create a culture of academic integrity when we develop a shared understanding of what it is, how to support it, and what university resources we can draw on together.
+These resources help define and provide suggestions on how to support academic integrity at UO.
+► Academic Integrity at UO
+► Communicating for Academic Integrity
+► Designing Assessments for Academic Integrity
+► Building a Culture of Academic Integrity at UO
+Please note that updates to the Student Conduct Code now require all suspected academic misconduct cases that include a grade penalty be handled by the Office of Student Conduct and Community Standards. In other words, instructors should not impose a grade penalty without a finding from that office. Use SCCS's Reporting Academic Misconduct Form to submit information and documentation about the alleged incident within five business days of discovery.
+Read SCCS Update for Faculty
+Faculty Guide to Addressing Misconduct
+ 
+UO has updated the "Ducks Have Integrity" module that all incoming students take to address AI and to bolster students' confidence in asking individual faculty members specific questions about AI.
+UO is not currently providing a central AI detection tool given their well-reported unreliability, though we continue to track and re-assess what tools might be meaningful to our students and faculty going forward. 
+If you have a question or want to discuss something that's happening in your class, the Office of Student Conduct and Community Standards prioritizes contacts from instructors with questions at conduct@uoregon.edu or 541-346-1140.
+The Teaching and AI Community Accelerating the Impact of Teaching will meet this year to consider the implications of AI for teaching and learning in higher education, and what strategies faculty and departments can adopt to address AI in their programs, curriculum, and courses. Areas of inquiry for the Teaching and AI CAIT group include: 
+Learn more about the CAIT
+Ramón Alvarado, facilitator
+Philosophy, College of Arts and Sciences
+Tom Bivins
+School of Journalism and Communication
+Peg Boulay
+Environmental Studies, College of Arts and Sciences
+Phil Colbert
+Computer Science, College of Arts and Sciences
+Leslie Coonrod
+Graduate Internship Program, Knight Campus
+Donna Davis
+School of Journalism and Communication
+Colin Koopman
+Philosophy, College of Arts and Sciences
+Aniko Drlik-Muehlech
+Planning, Public Policy, and Management, College of Design
+Chiara Gasparini
+History of Art and Architecture, College of Design
+Rebekah Hanley 
+Law School
+Gina Hermann
+Romance Languages, College of Arts and Sciences
+Kate Mondloch
+History of Art and Architecture, College of Design & Clark Honors College
+Lisa Munger
+Clark Honors College
+Bryce Newell
+School of Journalism and Communication
+Ari Purnama
+Cinema Studies, College of Arts and Sciences
+Jennifer Rice
+American English Institute, College of Arts and Sciences
+Janine Sepulveda
+American English Institute, College of Arts and Sciences
+Genifer Snipes
+UO Libraries
+Cengiz Zopluoglu
+UO College of Education
+Jason Schreiner (TEP)
+Chris Edison (UOO)
+Lee Rumbarger (TEP)
+ 
+Learn who to contact or report to with questions and concerns.
+Modules, workshops, and online support to learn more about GenAI.
+Get insight from outside sources to support your teaching with GenAI.
+Printer-friendly version
+This site is a joint resource provided by the Teaching Engagement Program and UO Online. Situated within the Office of the Provost, our units work collaboratively to support the teaching mission of the University of Oregon.
+Contact Us
+UO Online
+Phone: 541-346-1942
+Email: uoonline@uoregon.edu
+Office: PLC 68
+Teaching Engagement Program
+Phone: 541-346-2177
+Email: tep@uoregon.edu
+Office: Straub 410
+
+
+
+
+

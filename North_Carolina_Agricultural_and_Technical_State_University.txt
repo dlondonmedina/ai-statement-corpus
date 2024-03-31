@@ -1,0 +1,28 @@
+North Carolina Agricultural and Technical State University official policy on generative AI Artificial Intelligence
+https://www.ncat.edu/research/centers/cta.php
+The Center for Trustworthy AI (CTA) at North Carolina Agricultural and Technical State University (NC A&T) conducts research to advance trustworthy AI-driven technologies. Our focus at this center is on the safety, security, and reliability of AI-driven technology through inclusive and multidisciplinary research. We strive to promote and attract brilliant minds eager to contribute to the advancement of AI trustworthiness through research.
+The CTA brings together researchers from across the areas of Cyber-Physical Systems, Cyber Autonomy, Cyber Identity, Computer Vision, Machine Learning, Healthcare, Agriculture, Natural Language Processing, and Robotics. CTA will engage faculty, graduate and undergraduate students, and postdoctoral researchers pursuing research on fundamental advances in the above areas. We are also deeply engaged in innovation in the cross-cutting themes of deep learning, adversarial and explainable AI, human-on-the-loop AI, and connecting AI with other scientific disciplines and the humanities.
+This center will collaborate with NC A&T’s other major interdisciplinary centers [Center for Cyber Defense (CCD), National Center of Academic Excellence in Cybersecurity (NCAE)-CAE-R and CAR-CD, and Center of Excellence in Product Design and Advanced Manufacturing (CEPDAM)] to bring complementary expertise to augment AI capabilities.
+CTA’s mission is to develop cutting-edge methods and procedures that will provide solutions using tools and integrated systems to result in safe, reliable, and secure AI-driven technologies. We utilize research expertise in the quest for technological advancements that create resilient AI-driven systems. The CTA commits to participate and be instrumental in the development of AI trustworthiness that fosters ergonomic designs, systems, and security. The CTA’s mission aims to achieve trustworthy AI by instituting hardware and software technologies to ameliorate present restrictions and limitations.
+We, also, provide quality education for the next generation of Trustworthy AI technology leaders through the state-of-the-art learning and professional development.
+The CTA is geared towards equipping scholars to professionally make impactful contributions to the future of AI. CTA initiative is to aspire to innovative, exemplary, fundamental, and enhanced research to curate trustworthy AI.
+Center Director: Kaushik Roy, Computer Science 
+Associate Directors: Sun Yi, Mechanical Engineering
+Daniel Limbrick, Electrical and Computer Engineering
+Carla Coates, Criminal Justice
+Center Members: 
+Jingsheng Xu and Albert Esterline, Computer Science;
+Christopher Doss and John Kelly, Electrical and Computer Engineering;
+Salil Desai and Younho Seong, Industrial and Systems Engineering;
+Carla Coates, Criminal Justice
+Belinda Shipps, Business Information Systems and Analytics;
+Stephanie Teixeira-Poit, Sociology and Social Work;
+Seongtae Kim, Math; 
+Geleana D. Alston, Leadership Studies and Adult Education.
+Postdoc: Dr. Yaa Acquaah and Dr. Selorm Garfo
+Staff: Bianca Govan, Program Manager  
+Center Location: Martin 371
+Contact: Kaushik Roy (kroy@ncat.edu), Bianca Govan (btgovan@ncat.edu)
+This center is funded by DoD.
+©
+                2024 N.C. A&T

@@ -1,0 +1,13 @@
+Wofford College official policy on generative AI Artificial Intelligence
+https://www.wofford.edu/about/ai-working-group
+
+
+
+The following guidelines were developed from and based on a draft provided by the AI Working Group.
+AI detection is imperfect; instructors should use it with caution. The risk of a false positive can create situations where students are wrongly accused of academic dishonesty. Instructors therefore should not rely only on detection software to determine if an assignment was written by AI.
+We offer the following guidance for instructors who suspect that a student improperly used AI to complete an assignment:
+Instructors are generally discouraged from utilizing Generative AI for the evaluation of student work. While the landscape of AI technology is rapidly evolving and becoming more sophisticated, and faculty in various disciplines already employ online tools for the rote grading of certain assignments, the deployment of Generative AI in student assessment raises substantial concerns.
+In light of these considerations, while AI can be a valuable supplementary tool in certain scenarios, its use as a primary method for evaluating student work is not advisable. Faculty are encouraged to continue engaging directly with student submissions to ensure accurate and meaningful assessment.
+Yes, instructors are welcome to integrate AI tools into their courses, but it is vital they understand the broader context and the various issues that come with adopting these technologies. When considering the implementation of AI tools in courses, instructors should take into account the following aspects:
+For more information, please see the following resources:https://teaching.pitt.edu/resources/teaching-with-generative-aihttps://teaching.cornell.edu/generative-artificial-intelligence/ethical-ai-teaching-and-learning
+The use of AI in a course is at the instructor’s discretion and most instructors will include their policy on the syllabus. When in doubt, ask your instructor!

@@ -1,0 +1,261 @@
+Towson University official policy on generative AI Artificial Intelligence
+https://www.towson.edu/magazine/fall-2023/education-4-0.html
+TU faculty and staff share the state of generative artificial intelligence on campus
+                        and how that may evolve.
+The interviews for this article were transcribed by artificial intelligence (AI).
+                              Email autocomplete, customer service chatbots, talk-to-text services, virtual assistants
+                           like Siri and Alexa, autonomous vehicles, entertainment streaming recommendations,
+                           iPhone Face ID, banking fraud detection, personalized ads and navigation apps are
+                           all powered by AI.
+It could be argued artificial intelligence has already taken over.
+Generative AI—systems capable of creating a variety of media in response to queries—has
+                           stepped center stage in the last six months. It is extending humans’ ability to solve
+                           complex problems, automate tasks, streamline workflows and even generate art. In higher
+                           education, AI tools are already used to crunch admissions numbers, resolve accessibility
+                           issues and sift through large amounts of research data to identify patterns and build
+                           models.
+Leaders in every industry are sharply divided about the strength of its potential
+                           and pitfalls. At TU, faculty and staff recognize both and have already begun to prepare
+                           for the next evolution of education by investigating and including AI applications
+                           in their classwork, assignments and professional development.
+That preparation can hardly happen fast enough.
+The origins of deep neural network and artificial intelligence date back to the 1950s
+                           according to Yifan Guo, an assistant professor in computer information and sciences
+                           in TU’s Fisher College of Science and Mathematics. 
+“But later their progress is significantly impeded by the limitations in hardware
+                           capabilities, the scarcity of labeled data sources and the maturation rate of AI algorithms,”
+                           he says. “There wasn’t a series of AI frameworks that could handle all those problems
+                           until 2012 or 2013. Since then, deep learning has grown exponentially.
+The first chatbot was developed in the mid-1960s at MIT but professional skepticism
+                           stalled progress until the 1980s. It wasn’t until the mid-2010s that generative adversarial
+                           networks, a type of neural network that powers generative AI’s production abilities,
+                           were developed. From there, the field exploded.
+These tools used to require specialized technical skill to operate. Now, most iterations
+                           give everyday users a box to type a question or prompt and receive a response formulated
+                           by a large language model—an algorithm that reviews an enormous amount of human-generated
+                           data to predict and produce text. ChatGPT-4, for example, was fed around 570 GB of
+                           data, which equals about 300 billion words from all over the internet.  
+When asked to create a three-sentence introductory paragraph for this story that included
+                           one positive and one negative aspect of AI, ChatGPT produced:
+“Generative Artificial Intelligence, or GAI, has emerged as a revolutionary technology
+                           with both transformative potential and inherent challenges. On the positive side,
+                           GAI offers unparalleled creativity and innovation, empowering machines to produce
+                           art, music, and literature that rival human creations. However, this remarkable capability
+                           also raises concerns about the ethical implications of AI-generated content, as it
+                           becomes increasingly difficult to distinguish between genuine human expression and
+                           machine-generated fabrications, potentially leading to issues of misinformation and
+                           trustworthiness.”
+While somewhat stilted and totally lacking in emotional depth, the above paragraph
+                           is serviceable. So where does that leave colleges and universities, who are in the
+                           business of educating and producing scientists, philosophers and, yes, even writers?
+Anytime you say “Hey Alexa…” or “OK Google…” you’re using generative AI. Students
+                              at Georgia Tech have been saying “Hey Jill…” since fall 2015. 
+The 300 students in a master’s-level AI class posted around 10,000 messages a semester
+                              on the course’s online message board—too many even for the eight human teaching assistants
+                              assigned to the course. The professor found many of the questions were repetitive,
+                              so he and a team built an AI teaching assistant, populating it with tens of thousands
+                              of questions and answers from previous semesters and calling it Jill Watson. It had
+                              a 97% accuracy rate, and most students didn’t realize they were talking to artificial
+                              intelligence, despite the allusion to IBM’s supercomputer Watson. 
+AI’s use in higher education is set to grow by 40% between 2021 and 2027, and the
+                              education market for it is anticipated to reach $80 billion worldwide by 2030. 
+Mairin Barney, assistant director for faculty outreach at TU’s Writing Center, conducted a faculty survey last spring to take members’ pulses on AI. Results from
+                              a small sample size were mixed, but a common fear was students committing academic
+                              integrity violations by using AI. 
+AI’s use in higher education is set to grow by 40% between 2021 and 2027, and the
+                                 education market for it is anticipated to reach $80 billion worldwide by 2030.
+Part of what prompted the survey was faculty members contacting the Writing Center
+                              during fall 2022 with questions: What should I do differently in my spring classes
+                              to account for this? How worried do I need to be? 
+“Our general line of advice is, ‘Don’t freak out. The best way to make sure your students
+                              are doing their own work is to support them in the writing process,’” Barney says.
+                              “[The choice whether to use AI in the classroom] is a very personal decision every
+                              professor has to make for themselves, and the Writing Center can support either of
+                              their choices.” 
+Sam Collins, Jennifer Ballengee and Kelly Elkins are Faculty Academic Center of Excellence at Towson (FACET) fellows who’ve taken on the task of informing colleagues of developments and best
+                              practices for AI in higher ed. The trio are cautious about the idea of a blanket campus
+                              AI policy. 
+“There’s several reasons for that,” Collins says. “One is certainly academic freedom.
+                              We’re all doing different things in different ways, and a blanket approach is not
+                              really going to work for everyone. But No. 2, whatever policy the university makes
+                              in a field undergoing really strong growth is going to have to be flexible. Strong
+                              policies that prohibit the use of AI may not have the intended effect. The more interesting
+                              question for us is how are we going to live with it?” 
+Some TU faculty members are already grappling with that. 
+“I teach business communication: how to appeal to an audience, how to write to an
+                              audience, how to think about the questions they’re going to answer for an audience.
+                              I’ll teach that forever,” says Chris Thacker, a lecturer in the business excellence program in the College of Business and Economics. 
+But he does see generative AI as a potentially valuable reflection tool for students.
+                              He started using it early last spring and has plans to incorporate it this fall. 
+ "One assignment requires students to submit their entry-level resumes to the AI.
+                              The objective is to help them envision their career paths five and then 10 years down
+                              the line," Thacker explains. "We analyze the job opportunities the AI recommends,
+                              which are based on job descriptions in the relevant field. This exercise encourages
+                              students to broaden their perspectives on the field. 
+"In addition to the AI-based career exploration, we also conduct an analytical report
+                              to enhance students’ skills in information evaluation. This semester, the focus is
+                              on real estate. The assignment challenges students to select the ideal home for a
+                              family based on specific criteria and then persuade the family to make the purchase,"
+                              he says. "While students have always enjoyed these types of assignments, the incorporation
+                              of AI adds a new layer. It provides a simulated audience to whom they can pose questions,
+                              allowing them to reflect on both their work and the AI’s responses to improve the
+                              overall quality of their work." 
+Nhung Hendy is another CBE professor who has accepted the growth of AI in higher education.
+                              
+“In all three HR classes I teach, I require reports as the main project,” the management professor says. “In one, students provide written and oral debates. In the other
+                              two, they also run a simulation in which they play the role of an HR director. They
+                              make decisions concerning hiring, performance, benefits and training. I tell them,
+                              ‘You can come up with a strategy for employee retention based on the textbook and
+                              our class discussion, reading the literature or play with ChatGPT and see which one
+                              is more efficient and effective.’” 
+ Liyan Song, professor and director of the educational technology master’s program in TU’s College of Education, takes a similar approach.
+ 
+“One thing I learned working in the field of technology is you can’t tell people whether
+                           they should or should not use technology,” she says. “You have to help them realize
+                           what technology can or cannot do, so they can make their own decisions.”
+“I asked my students to experiment with ChatGPT. They were to ask about one topic
+                           they’re familiar with and one topic they weren’t. We discussed our findings in class.
+                           I felt like it was a meaningful way to help them understand what it can do and the
+                           limitations. I haven’t really used generative AI in a more systematic way in my classes
+                           yet. But it’s something I plan to do.”
+Song’s students are teachers, so she is keenly aware of the challenges and opportunities
+                           inherent in helping them integrate AI into their classrooms when it evolves so frequently.
+“Keeping up with the current trends has always been a challenge,” she says. “Generative
+                           AI is just one of those trends. We need to understand the issues related to it. At
+                           the same time, we need to educate our students about it. When they understand the
+                           issues, they can bring it to their own classrooms to teach to their students.”
+“I see this more as an opportunity than a threat,” Song continues. “It comes with
+                           challenges and risks. We need to learn to make it work for us. That’s the attitude
+                           I encourage.”
+Joyce Garczynski works with many students as assistant university librarian for communication
+                           and digital scholarship at Cook Library.
+“What I’ve seen with the mass comm faculty I’ve worked with is a lot of, ‘Let’s evaluate
+                           the output and see if we can detect some of the biases that go with it. This isn’t
+                           going anywhere, so how can we teach you to be responsible users of it?’” she says.
+                           “There’s a lot of fear with this technology that there’s going to be academic integrity
+                           violations. And when AI doesn’t know, it makes stuff up. I don’t think we’re doing
+                           our students a service if we say, ‘This technology is bad, let’s ignore it.’ We need
+                           to train our students to be responsible users of this technology.”  
+As AI speeds toward its future, questions are being asked about who owns the information
+                           the large language models consume.  
+Mark Burchick has a unique perspective to share as an electronic media and film staff member and an MFA student in the studio art program in the College of Fine Arts and Communication.
+“I’m primarily a filmmaker,” Burchick says. “Once AI image-making came into the conversation,
+                           I became enamored with, ‘What does this allow me to do in my practice?’”
+After some initial excitement, learning how the technologies were created gave him
+                           pause.
+“How many copyrighted materials have been swept into large language models?” Burchick
+                           says. “When we create an AI image, we are seeing as the internet sees. The images
+                           created show the biases of the internet and the data set. If you are not concerned
+                           about these things and you’re using these technologies, you’re doing it wrong. These
+                           are important tools, but they need to be used with those concerns in place because
+                           real lives are being affected by using the technology.”
+“
+                                 If you are not concerned about [internet bias] and you're using these technologies,
+                                 you're doing it wrong.
+                                 ”
+Biased information included in data sets sometimes means asking the same question
+                           two different ways produces two different answers.
+“If you ask for a paragraph about the Baltimore riots, you will get a very different
+                           paragraph than if you ask about the Baltimore uprising,” Garczynski says. “The technology’s
+                           only as good as the data it’s fed. What we see is we live in a biased information
+                           ecosystem. Certain voices have more privilege, and it’s easier for them to create
+                           lots of information. Other voices don’t have that ability to widely circulate their
+                           perspective. And what ends up happening is the base these technologies learn from
+                           ends up being biased from the very beginning, so their output ends up biased as well.”
+“With the information I can access, I can run things 900 to 1,200 times better than
+                           any human.” Actor David Warner uttered that line as Master Control Program in the
+                           1982 movie “TRON.”
+A recent study using U.S. Census data found 60% of workers today are employed in occupations
+                           that did not exist in 1940, implying that more than 85% of employment growth and creation
+                           over the last 80 years has been driven by technology. The labor market seems poised
+                           for another shakeup. A 2022 Future of Jobs Report from the World Economic Forum predicted
+                           85 million jobs would be lost by 2025 but 97 million would be created—a net increase
+                           of 12 million.
+People tend to focus more on the former than the latter. That’s led to a great deal
+                           of fear and uncertainty in the workplace.
+“Workers are afraid computers can do their jobs,” says Hendy, the CBE professor. “People
+                           like routine, but we have to embrace change, especially to make our jobs easier. We
+                           have to recognize the fact AI makes better decisions because of the level of data
+                           it’s analyzed. How can a human compete with a thousand data points as the basis for
+                           a decision? And I’m being very conservative. There are millions of data points that
+                           may be available.”
+Hendy’s advice is simple but not easy: Be brave and try new things, be innovative
+                           and be humble enough to learn the new technology.
+Sasha Pustovit, assistant professor of management in CBE, takes it a step further,
+                           reminding students workplaces will still be populated by people.
+“Generative AI works by learning from the past, but we are always going to have new
+                           problems, and that’s where you need people,” she says. “All the skills humans have
+                           but computers and AI don’t are going to be at a premium. In addition to critical thinking,
+                           it will be emotional intelligence. Empathy is cited by some as the top skill managers
+                           should have. That’s something we should really develop and make our strength.”
+TU’s Career Center has been preparing students for life after graduation for 60 years. Even with the
+                           advent of generative AI, that isn’t going to change.
+“Our career coaches give students a personalized experience,” says Glenda Henkel,
+                           associate director of career education. “So we urge students to make appointments
+                           and really build relationships with them.”  
+Generative AI can help students prepare for their career coach appointments. Prompts
+                           can help them narrow their discussion topics ahead of time by finding possible opportunities
+                           to review: Based on my resume, generate a list of 10 nonprofit agencies in the Towson
+                           area where I might be qualified to do a spring internship in marketing or public relations.
+AI could supplement career coach advice if students do their career research at times,
+                           perhaps 3 a.m., when career coaches aren’t available. Henkel says generative AI could
+                           also aid interview prep outside of coaches’ availability. “Students could write a
+                           prompt such as, ‘I have an accounting internship interview. Here’s the job description.
+                           Generate 10 questions I might anticipate in this interview,’” she says. “It can also
+                           help them with questions that can be hard to research beforehand, such as determining
+                           a company’s culture or diversity.”  
+The Career Center has several platforms students can use to prepare for internships
+                           and their professional lives. One is called Forage. It hosts work simulations from
+                           cutting-edge global Fortune 500 companies. Students can participate in the simulations,
+                           which can take between eight and 20 hours to complete, and if they desire, they can
+                           send their results to personnel at the company where they “worked” for feedback.
+She notes students and recent graduates have been encountering AI in the hiring process
+                           for at least the last year or so, particularly during resume screening.  
+“I’ve talked to a couple of students who’ve encountered it at the first level of interviewing.
+                           It was an AI interview, so they did not interview with a real person,” Henkel says.
+                           “They were given questions and they had to record their answers, which were reviewed
+                           and scored before they were ever put in touch with any human.”
+Henkel and her colleagues have been pursuing professional development to help students
+                           stay ahead of the hiring trends, and they are continuing to brainstorm ways to modify
+                           their services as it is needed. She advises students to keep on an even keel.
+“No matter what anybody feels about technology, be open minded about embracing it
+                           and understanding how it can be used ethically and effectively,” she says. “It’s a
+                           matter of your mindset. AI is in the door whether you want it to be or not, but looking
+                           at it as a helper and not an intruder is important.”  
+How does higher education prepare graduates for what comes next?
+TU’s emphasis on small classes and faculty mentorship has the university well positioned
+                           for the future.  
+“TU needs to continue to do what it does really well, which is have opportunities
+                           for students to interact really closely with faculty in small classroom settings and
+                           through faculty members’ unique approach toward assessing student learning,” says
+                           Elkins, FACET faculty fellow and chemistry professor.
+Thacker agrees.
+“CBE is emphasizing critical thinking, creative problem-solving and programming languages
+                           like Python,” he says. “Students need to excel in these areas, be adaptive and capable
+                           of processing large amounts of information to make informed and timely decisions.” 
+Despite AI’s inherent risks and rewards and its murky future in higher education,
+                           TU faculty and staff are readying themselves to prepare TU graduates for the future.
+“Technologies that give people skill sets they didn’t have before are going to invite
+                           a lot more people into the conversation,” Burchick says. “People who can articulate
+                           their visions in ways they previously couldn’t are going to change our creative landscape
+                           in exciting ways.”
+Whether we develop skill sets through AI or the old-fashioned way, people will still
+                           be at the forefront of the workplace.
+“We still have control,” Pustovit reiterates. “There’s a really great opportunity
+                           for AI to make our work easier so we can focus more on the interpersonal aspects.
+                           This can really benefit workers, but we need to stay proactive and develop the skill
+                           sets we need to take advantage of this AI revolution.”
+Some faculty see potential for change in instruction and assessment methods.
+“Maybe it will get people to rethink their teaching and encourage some more creative
+                           and inclusive modes of assessment, like multimedia assessment, podcast, video or a
+                           mind map,” says Ballengee, FACET fellow and English professor. “There are so many ways that can incorporate what students are hoping
+                           to do in their careers. We can think differently about what’s relevant and valuable
+                           and why we’re teaching what we are.”
+Regardless, the consensus seems to be: It’s here. It’s staying. Let’s find ways to
+                           work with it.
+"The genie is out of the bottle with technology, so it’s essential to equip students
+                           with the skills to adapt," Thacker says. "Innovation has always faced criticism; for
+                           example, the invention of the eraser was once controversial among educators because
+                           of its impact on the act of writing and invention. Yet we adapted. The same will happen
+                           with AI, a powerful tool that presents challenges similar to those we’ve overcome
+                           in the past."  

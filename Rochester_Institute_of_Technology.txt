@@ -1,0 +1,169 @@
+Rochester Institute of Technology official policy on generative AI Artificial Intelligence
+https://www.rit.edu/teaching/generative-ai
+Generative AI has been a commonly discussed topic in academic and business conversations. CTL has a variety of resources and opportunities for faculty to share their experiences and practices with using generative AI in teaching.
+A high-level overview of this category of tools.
+Conversation ideas for talking with students and suggestions for writing your syllabus.
+A high-level overview of some concerns regarding generative AI tools.
+Course design and teaching strategies to help facilitate students generating their own work without AI.
+Ideas for activities that use generative AI and how to frame these types of activities.
+Ideas for using generative AI to help you design and facilitate your course.
+Theoretical frameworks and considerations curated on relevant contexts of writing-intensive courses.
+Coming soon...
+RIT has a variety of opportunities for faculty to continue discussions and sharing of information on strategies for incorporating generative AI uses into your teaching.
+
+
+
+													Spring Semester Teaching Circle: Just a "Better Pencil"? OpenAI, ChatGPT, DALL-E
+											
+
+
+
+
+Facilitated by Lisa Hermsen, Department of English, CLA
+Dennis Baronhow, in A Better Pencil: Readers, Writers, and the Digital Revolution (2009), poses questions about "how we learn to trust a new technology and the new and strange sorts of texts that it produces; how we expand the notion of who can write and who can’t; and how we free our readers and writers while at the same time trying to regulate their activities." The inquiry is as important now, if not more so, as it was over 10 years ago.
+This circle will briefly review the history of OpenAI and follow theories for the future of Generative AI. Avoiding utopian/dystopian views, we will consider other possibilities. Generative AI will continue to be pervasive, almost ubiquitous; it will limp along with diminishing returns; it will collapse under the weight of the infrastructure supporting it. The purpose of the circle is to move from these discussions to think deliberately about how Generative AI is working and will continue to work in our classrooms. Is it possible to disallow or detect? Would version history be useful? How can we engage students with the new complexities of copyright? Might we teach expert prompting? How will students respond to questionable-use ethics? What will this technology do for human expression?
+Participants may take a position, try out an assignment, or experiment with their own writing, and can opt in or out of using OpenAI on their computers (though we will check out Bing and other silent authoring technologies). We will be meeting in Zoom, 12:00-1:00 pm, on the following Mondays: January 29, February 12 and 26, March 18, and April TBD. If you would like to join this circle, email Lisa Hermsen.
+
+
+
+													SAVE THE DATE: May 14-16, 2024 – CTL Summer Institute on Teaching and Learning
+											
+
+
+
+
+The Summer Institute on Teaching & Learning will hold a multi-day event which focuses on RIT's response to AI in higher education, and be co-sponsored between the offices of The Center for Teaching and Learning and the Vice President for Research.
+
+
+
+													Teaching with AI Showcase | February 2024
+											
+
+
+
+
+Leading RIT faculty offered short practical demonstrations on how AI tools have been used to enhance their teaching practices.  This showcase was a great opportunity for RIT faculty to sharpen their skills or learn something new through hands-on demos and live Q&A. 
+Presenters are listed below, along with an introduction video on their demonstration topic.
+This session is intended for RIT faculty, including adjuncts and teaching assistants. Interpreters will be provided.
+View the recording of the event.
+
+
+
+													Generative AI Check-In Session | November 2023 
+											
+
+
+
+
+This was an open discussion on the influence of generative AI on teaching methods, to determine what support faculty need, as well as topics for future programming.
+This session is intended for RIT faculty, including adjuncts and teaching assistants. Participants should request access services if needed.
+
+
+
+													Generative AI Check-In Session  |  October 2023
+											
+
+
+
+
+Join us for an open discussion on the influence of generative AI on teaching methods to determine what support faculty need, as well as topics for future programming. 
+This session is intended for RIT faculty, including adjuncts and teaching assistants. Participants should request access services if needed.
+
+
+
+													Using AI tools for extended cognition in the writing and research process  |  September 2023
+											
+
+
+
+
+In this workshop, participants will experience how artificial intelligence tools can help students, writers, and researchers extend their cognition (Clark & Chalmers, 1998). Through on-screen demonstrations and a series of scaffolded group activities using ChatGPT, teams will partially complete 3 stages of an inquiry-based research process common to assignments in Writing Intensive (WI) courses:
+There will be opportunities for evaluating the benefits and challenges of using AI in research writing, as well as a concluding discussion about the personal, professional, and institutional ethics of AI-assisted writing and research as a scholarly method. Participants should bring their laptops in order to fully participate in the activities. Click here to register for this workshop. 
+Led by Phil Shaw, Senior Lecturer in the University Writing Program, Academic Affairs & Faculty Fellow for Gateway Course Student Success, Center for Teaching and Learning.
+
+
+
+													Fall Symposium: Teaching & Learning in the Era of Generative AI  |  September 2023
+											
+
+
+
+
+They symposium explored a range of opportunities and challenges that generative artificial intelligence presents in higher education. Jeffrey Allan, Director of Nazareth University’s Institute for Responsible Technology delivered a keynote address on How Generative AI Will Transform Teaching, Learning, and Research. Afterwards, attendees participated in collaborative exercises with colleagues discussion the following:
+The results of this work are currently being evaluated and key findings will be released to the RIT Community in the near future.
+
+
+
+													Webinar: Faculty Panel on Generative AI in Education  |  August 2023
+											
+
+
+
+
+Join the Center for Teaching and Learning (CTL) for a faculty panel on the impact of generative artificial intelligence on teaching and learning in higher education. Faculty members from various disciplines will address a range of topics including preparing students for generative AI in the workplace, incorporating generative AI into courses, and the use of generative AI to help accelerate and improve the teaching process.
+Panelists:
+View Event Recording
+(requires RIT Authentication
+
+
+
+													Teaching Circle: Implementing Generative AI in STEM Courses to Enhance Student Learning  |  Fall Semester
+											
+
+
+
+
+Hosted by Amanda Bao, Civil Engineering Technology and Environmental Management and Safety, CET; and co-hosted by Garret Arcoraci, School of Information, GCIS
+Generative AI has been rapidly spread into higher education. While the power of generative AI initially caused some panic about academic integrity, the positive impact of generative AI on STEM fields has received more and more attention. For example, generative AI has been adopted in the construction industry to provide technical project support and best practices, as well as offering job training and education. 
+The rapid growth and implementation of technology and AI in higher education is the trend, and there is no going back. It is important for higher education instructors in the AI era to effectively implement generative AI tools to enhance students’ learning experience. In this teaching circle, participants will share and discuss their experiences and teaching practices with generative AI-powered tools, either success stories or lessons learned. 
+This teaching circle aims to foster discussions and collaborations on generative AI in all of RIT’s STEM fields, explore potential opportunities for grant applications, and summarize effective practices in teaching and learning with generative AI.
+The schedule for this Teaching Circle is listed below. Meetings will take place in-person on campus. 
+If you would like to join this circle, email Amanda Bao to obtain location information.
+
+
+
+													Teaching Circle: How Might Generative AI Change the Marketplace and Therefore Our Teaching of Software Technology?  |  Fall Semester
+											
+
+
+
+
+Led by Keith Weber, Management Information Systems, SCB
+This circle will investigate how our teaching of software tools and methodologies might evolve as generative AI (genAI) is adopted in contemporary organizations. We will consider how genAI might transform the environment for us as teachers, for our students as learners, and for our graduates as workers.
+While we acknowledge the importance of genAI's potential risks, public policy, and ethical implications, this circle will not focus on these issues. Similarly, topics such as plagiarism, exam integrity, or the use of genAI for instruction preparation, delivery, or grading will not be the center of our discussions. These vital subjects are explored in other academic and professional forums and discussing them here would divert our focus. This circle supplements, rather than replaces, those discussions.
+This circle is designed for instructors preparing students for technological roles impacted by genAI, particularly (but not limited to) those involving systems design and development, programming, engineering, math, statistics, analytics, data science, economics, finance, digital marketing, and content creation. We will forecast, discuss, and analyze:
+How our students can better understand genAI and integrate it into their work
+We will meet using Zoom five times during the Fall semester. We will poll participants to determine the most suitable meeting times. Each session will feature a subtopic and begin with a short introduction to seed the discussion. Participants are encouraged, though not required, to provide examples from their own teaching. 
+The schedule for this Teaching Circle is listed below. Meetings will take place on Zoom, and attendance is not required for all meetings. 
+If you would like to join this circle, email Keith Weber to obtain the Zoom meeting link.
+Meet with a CTL Staff member to further discuss generative AI in your teaching practices.
+Meet with a Faculty Fellow to discuss generative AI in your domain.
+A community of faculty and staff critical thinking interest group.
+Join this Slack workspace. It’s open to the entire RIT community.
+RIT is working with various governance groups to update the university's Academic Integrity Policy D08.0.
+Learn more about what RIT is doing with Artificial Intelligence.
+Help us better understand your perception and needs on generative AI. How do you feel about GenAI? How have you used GenAI? What support do you need?
+Address and Phone
+
+Address and Phone
+                                    90 Lomb Memorial Drive
+                                    Wallace Library, Room A650
+                                    Rochester, NY 14623
+                                    Phone: 585-475-2551
+									Email: ctl@rit.edu
+
+Address and Phone
+
+					One Lomb Memorial Drive
+					Rochester, NY 14623
+					585-475-2411
+				
+
+				Copyright © Rochester Institute of Technology. All Rights Reserved.
+Land Acknowledgment.
+				Disclaimer.
+				Copyright Infringement.
+				Privacy Statement.
+				Nondiscrimination.
+				Emergency Information.
+			

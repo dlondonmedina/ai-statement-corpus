@@ -1,0 +1,104 @@
+Florida Institute of Technology official policy on generative AI Artificial Intelligence
+https://www.fit.edu/faculty-profiles/w/white-ryan/
+
+                      Florida Tech’s approach to academics is research-driven, high-tech and hands-on, allowing our students to both gain knowledge and get real experience applying it. Here, you don’t just learn—you do.                      
+
+                      It is through research that faculty members advance their fields, students enhance their learning, and the university creates change for the benefit of our planet and all of its inhabitants.                      
+
+
+                      Ready for the future? Whether you hope to join the Florida Tech family as a freshman, transfer student or graduate student, your journey to Panther-hood starts here.                        
+Apply
+Get Info
+Visit 
+
+
+                      What's it like to live and learn at Florida Tech? The answer differs for every student, but you can count on one thing: The people here are friendly, open-minded and passionate about their work.
+                      
+
+Please reference the Faculty Profile Editing Guide if you have any questions or issues updating your profile. If you receive any error notices please contact webservices@fit.edu.
+
+
+
+            Assistant Professor
+           |
+          College of Engineering and Science - Mathematics and Systems Engineering
+        
+
+
+
+
+
+
+
+
+I regularly teach undergraduate and graduate courses in deep learning, machine learning, and probability, as well as honors calculus courses.
+My academic background is in probability theory, stochastic processes, and the underlying mathematics: in short, the study of randomness.
+I lead the NEural TransmissionS (NETS) Lab. We focus on developing deep learning models, traditional machine learning, and statistical analysis for applications in aerospace, life sciences, and glaciology.
+Outside academia, I have industrial experience in algorithm development, data science, and educational writing as well as current projects with non-profit Engage-AI using machine learning to extract insights for global development data.
+Ph.D. Applied Mathematics - Florida Institute of Technology, 2015Dissertation: Random Walks on Random Lattices and Their Applications to Strategic Network DefenseAdvisor: Dr. J. H. Dshalalow
+M.S. Applied Mathematics - Florida Institute of Technology, 2012
+B.S. Mathematics - Chadron State College, 2008
+Florida Institute of Technology, 2013-present
+Assistant Professor, 2019-present
+Instructor, 2015-2019
+Graduate Student Assistant, 2013-2015
+Engage-AI, Senior Advisor on Data Sciences, Oct 2020 - Present
+Spencer Trask Collaborative Innovations, Intern with VenCorps: Community Powered Capital, Aug 2008 - Nov 2008
+See my Google Scholar profile for an up-to-date list of publications.
+Publications as of Jan 1, 2024:
+ 
+Information Theoretic Learning and Explainable Convolutional Neural Networks. U.S. Army Corps of Engineers. (Role: PI; $49,735, 2023-24)
+Data Engineering and Analysis of Sustainable Development and Labor Trends in Morocco. Engage-AI. (Role: PI; $1200; 2022)
+Object Tracking and Image Segmentation with Low Compute/Energy Budget. NVIDIA Applied Research Accelerator Program. (Role: PI; $7500; 2021-)
+Semantic Segmentation of Glaciers from Satellite Imagery. European Space Agency. (Role: PI; $1424; 2021-23)
+Machine Intelligence System for Autonomous Feature Recognition and Trajectory Planning Around Non-Cooperative Resident Space Objects. US Air Force Research Lab Space Vehicles Directorate. (Role: PI; $489500; 2021-22)
+REU - Statistical Models with Applications to Geoscience (SMAG). National Science Foundation. (Role: faculty mentor; $309436; 2021-23)
+Google Cloud Platform Educational Grant. Google. (Role: PI; $5050; 2020-201)
+2022-23: Honored as top performer in teaching in the Department of Mathematics and Systems Engineering
+2019 Professor of the Year for the College of Science and Engineering by the Florida Tech Student Government Association
+My academic background is in probability theory, stochastic processes, and the underlying mathematics: in short, the study of randomness.
+I lead the NEural TransmissionS (NETS) Lab. We focus on developing deep learning models, traditional machine learning, and statistical analysis.
+In addition to some smaller-scale projects and collaborations, our ongoing projects include:
+Object detection for satellite feature recognition and real-time flightpath planning -- collaboration with Dr. Markus Wilde and the ORION Research Lab.
+Includes developing a novel object tracking algorithm for edge hardware with my PhD student Monty (Nehru) Attzs
+Includes work funded by the U.S. Air Force Research Laboratory
+Computer vision-based 6-DOF pose estimation for rigid bodies--that is, estimating the 3D position and orientation with a team of undergraduate students.
+Includes 3D modeling for synthetic data generation
+Glacier segmentation in multispectral satellite imagery with neural networks with undergraduate students Emily Happy, Anthony Garcia, and Neel Shettigar.
+Includes work for funded by the National Science Foundation
+Development of an app for clinical facial landmark tracking for diagnosing neurological disorders with my MS student William Harrington.
+Probability and Stochastic Analysis: random walks, stochastic processes
+Operational calculus analysis of stochastic models of networks, in queueing, games, and reliability
+Probability flux, density tracking, and related algorithms
+Mathematics of Life Sciences:
+Cell growth models and proliferation of mutations
+Statistical analysis of benthic communities in the Indian River Lagoon
+Detecting DNA promoter sequences
+Monty (Nehru) Attzs -- real-time object detection under heavy computational constraints
+Minh Nguyen -- deep representation learning for electronic health records
+Mackenzie Meni -- explainable AI for computer vision
+Undergraduate Research Students
+Emma Sandidge -- 3D modeling of spacecraft on orbit
+Past Students
+MS Thesis Students
+William Harrington -- clinical facial landmark tracking, data collection with simple smartphone depth cameras, app development
+William Stern -- ML in global development data
+Andrew Ekblad -- satellite feature recognition
+Steven Holmberg, Sam Lovelace, Josseanne Duarte, Dylan Barnes -- space robotics
+Undergraduate Research Students
+Joey Weatherwax, Giulio Martini -- computer vision-based 3D pose estimation 
+Anthony Garcia and Emily Happy -- Semantic Segmentation of Glaciers in Multispectral Satellite Imagery with Deep Neural Networks (2022)
+Alex Bugielski and Nikhil Iyer -- Spacecraft Pose Estimation with Deep Learning (2022)
+Candice Chambers -- Multi-Language Handwriting Recognition with Trees of CNN Ensembles (2021)
+Graham Neutstel -- Last Exits of 2D Random Walks (2021)
+Abulla Al-Nabit and Hanibal Alazar -- An AI-Enhanced Data Platform for Sustainable Global Development (2021)
+Kelly van Woesik -- Tuning Tuna Models with Machine Learning (2021)
+ 
+Slides are available for many of these talks, and more at my website at publications and presentations.
+
+          150 W. University Blvd.
+          Melbourne, FL 32901
+        
+
+(321) 674-8000
+

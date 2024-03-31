@@ -1,0 +1,46 @@
+Washington University in St. Louis official policy on generative AI Artificial Intelligence
+https://it.wustl.edu/ai/
+Information Technology
+Generative AI is a type of artificial intelligence that can learn from and mimic large amounts of data to create content such as text, images, music, videos, code, and more, based on inputs or prompts.
+The university supports and encourages the responsible and secure exploration of AI tools. When using any publicly accessible, non-protected AI tools, it is vitally important that you do not enter any Washington University or secure data, including deidentified healthcare data of any kind, into these platforms.
+Version: OpenAI’s ChatGPT 3.5 Turbo
+Use this tool when you want a secure sandbox where you can use sensitive data and WashU intellectual property. 
+This isolated instance of ChatGPT is compliant for use with sensitive data and WashU intellectual property, including information protected under HIPAA and FERPA. Due to the isolated nature, this tool does not pull in new information from the web and will be approximately six months behind the latest version of the large language model. 
+This tool is available in Beta form in order to provide a secure GPT environment to the WashU community for research, operations and education as quickly as possible. As such, it is not yet mobile friendly and users may experience limited capacity or constraints. We welcome feedback on how we can improve the user experience as we continue to optimize the tool.  
+LLM Version: OpenAI’s ChatGPT 4
+Use this tool with non-sensitive data and when you want to connect to the most current web information.
+As of February 2024, all students, in addition to faculty and staff, now have access to Microsoft Copilot (formerly called Bing Chat Enterprise) at copilot.microsoft.com when logged in to an institutional Microsoft account.  As with any external tool, it is important to understand that personally identifiable, confidential or sensitive information should not be entered into Microsoft Copilot as it does not meet HIPAA, FERPA or similar compliance requirements.  
+Microsoft Copilot for Microsoft 365 
+Microsoft Copilot for Microsoft 365 combines the power of large language models (LLMs) with your organization’s data. It works alongside popular Microsoft 365 apps such as Word, Excel, PowerPoint, Outlook, Teams, and more, providing real-time intelligent assistance, enabling users to enhance their creativity, productivity, and skills. 
+While Microsoft Copilot for Microsoft 365 is not yet available to WashU faculty, staff and students, a small testing group is evaluating the product’s potential utility for those groups.  
+No expansion of the testing group is yet planned but making cutting-edge tools available to you quickly – and ensuring that we can support their secure, responsible and effective use – remains a key mission of both WashU IT and Digital Transformation. 
+WashU facutly, staff and students can access the sandbox using their WUSTL Key.
+It is important to provide faculty, staff and students with swift access to this powerful emergent technology in a secure sandbox environment that protects sensitive data…
+WashU’s instance of ChatGPT uses OpenAI’s ChatGPT Version 3.5 Turbo. Currently, it is not custom-trained on any WashU-specific information or datasets…
+The theory and development of computer systems able to perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.
+– Oxford Languages
+A specialized type of artificial intelligence (AI) that has been trained on vast amounts of text to understand existing content and generate original content.
+– Gartner
+The use and development of computer systems that are able to learn and adapt without following explicit instructions, by using algorithms and statistical models to analyze and draw inferences from patterns in data.
+– Oxford Languages
+Involves the ability to turn text or audio speech into encoded, structured information, based on an appropriate ontology. The structured data may be used simply to classify a document, as in “this report describes a laparoscopic cholecystectomy,” or it may be used to identify findings, procedures, medications, allergies and participants.
+– Gartner.
+It is the user’s responsibility to protect sensitive data and verify content when using generative AI tools.
+Do not enter confidential or protected data or information, including non-public research data, into publicly available or vendor-enabled AI tools.
+Information shared with public AI tools:
+Each individual is responsible for any content that is produced or published containing AI-generated material.
+Review university, school, and department handbooks and policies.
+AI has made it easier for malicious actors to create sophisticated scams at a far greater scale. Continue to follow security best practices and report suspicious messages via the Phish Report button in Outlook or to phishing@wustl.edu.
+The university is working to ensure that tools procured on behalf of WashU have the appropriate privacy and security protections.
+Citation method is dependent on academic field.
+Researchers should check each journal’s specific guidelines and provide proper attribution and transparency in their manuscripts when they use AI in their research (PMID: 36697395). 
+Addressing Artificial Intelligence in 2023
+The DI2 Accelerator, born from Washington University’s Here & Next strategic plan for Digital Transformation, represents a bold vision for success in the new digital economy.
+The Center for Teaching and Learning.
+Resources to further your knowledge on Generative AI.
+If you have AI questions, please contact aiquestions@wustl.edu.
+St. Louis, MO
+314-933-3333
+ithelp@wustl.edu
+Visit our Status Page for the current status of WashU IT services and planned maintenance.
+©2024 Washington University in St. Louis

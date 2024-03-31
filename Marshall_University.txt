@@ -1,0 +1,26 @@
+Marshall University official policy on generative AI Artificial Intelligence
+https://www.marshall.edu/academic-affairs/ai/
+The emergence of generative artificial intelligence (AI) presents several opportunities and challenges to higher education, but its immediate impact on classroom pedagogy cannot be ignored. This document lays out a definition of generative AI, presents an analogy for how to think about its use in student work, and lays out three possible syllabus policy templates that Marshall University professors can use as a starting point (and modify as needed) in their courses.
+Most citation styles, including APA and Chicago, suggest we think about and cite generative AI as personal communication. It is like talking to a friend (note: who may or may not be accurate). In the absence of a clear policy on the use of generative AI, a student should treat it like receiving assistance from another person. It is always best to consult with the professor if there is ambiguity, but the question is this: is the student allowed to consult with another person for this type of help?
+Because generative AI can be used in so many ways in academic work, instructors are encouraged to be explicit about how and when it may be used on assignments in their courses. For information on citing AI, please see  MU Library’s citation website (URL: https://libguides.marshall.edu/plagiarism-AI/cite).
+Here are three generative AI syllabus templates instructors may use as a starting place when drafting a syllabus policy.
+Students are allowed, and even encouraged, to use Generative AI on any assignment in this course with the appropriate citation. Keep in mind that any content produced by generative AI can “hallucinate” (produce false information), so students are responsible for ensuring the accuracy of any AI-generated content. For information on citing AI, please see MU Library’s citation website (URL: https://libguides.marshall.edu/plagiarism-AI/cite). Students should not use generative AI in any way that would violate the Student Code of Conduct (URL: https://www.marshall.edu/student-conduct/files/Studnet-Code-of-Conduct-2022.pdf).
+See individual assignment instructions for more details.
+Metacognitive Reflection. In addition to a proper citation, the student should include the following statement with any assignment where generative AI is used for assistance.
+“I used generative AI [INSERT NAME OF PLATFORM, SUCH AS CHAT GPT] for assistance in the following ways on this assignment: [INSERT WAYS USED, such as brainstorming, citation assistance, grammar and style checking, concept understanding, and research assistance, etc.].”
+Students are allowed, and even encouraged, to use Generative AI in some ways but are prohibited from using it in other ways Keep in mind that any content produced by generative AI can “hallucinate” (produce false information), so students are responsible for ensuring the accuracy of any AI-generated content. For information on citing AI, please see MU Library’s citation website (URL: https://libguides.marshall.edu/plagiarism-AI/cite). Students should not use generative AI in any way that would violate the Student Code of Conduct (URL: https://www.marshall.edu/student-conduct/files/Studnet-Code-of-Conduct-2022.pdf).
+Students are permitted and encouraged to use generative AI in the following ways:
+You may not use generative AI in coursework in the following ways:
+See individual assignment instructions for more details.
+Metacognitive Reflection. In addition to a proper citation, the student should include the following statement with any assignment where generative AI is used for assistance.
+“I used generative AI platform [INSERT NAME OF PLATFORM, SUCH AS CHAT GPT] for assistance in the following ways on this assignment: [INSERT WAYS USED, such as brainstorming, citation assistance, grammar and style checking, concept understanding, and research assistance, etc.].”
+Students are prohibited from using generative AI in any way on any assignment in this course. The use of generative AI in this course will be considered a violation of both Marshall’s Academic Dishonesty Policy (URL: https://www.marshall.edu/academic-affairs/policies/#academicdishonesty) and the Student Code of Conduct (URL: https://www.marshall.edu/student-conduct/files/Studnet-Code-of-Conduct-2022.pdf). [ESTABLISH SANCTION]
+Additional Resources
+
+Center for Teaching and Learning Resources
+Library Citation Page
+Protect Confidential and Sensitive Data
+
+ 
+
+ 

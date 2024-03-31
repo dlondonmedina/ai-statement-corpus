@@ -1,0 +1,87 @@
+University of Texas at San Antonio official policy on generative AI Artificial Intelligence
+https://www.utsa.edu/today/2023/09/story/utsa-uses-artificial-intelligence-as-classroom-tool.html
+SEPTEMBER 6, 2023 — Generative artificial intelligence tools such as OpenAI’s ChatGPT and Google’s Bard have caused entire industries to pivot and consider how the new technology will transform their daily environment. Melissa Vito believes that UTSA, a relatively young institution with a history of innovation, is well-positioned to be a leader during this AI disruption.
+“The higher education space, to its detriment, frequently lags behind the average person in terms of technology adoption and acceptance, whether it has been calculators, computers, mobile devices or Google Search,” said Vito, vice provost of the UTSA Division of Academic Innovation. “At UTSA, we’re doing things differently and creating a unique space in higher education for faculty.”
+To address faculty members’ questions about AI and to pinpoint opportunities to leverage the technology in a way that creates more engaging classrooms, Academic Innovation formed a new faculty community in November 2022, just after the release of GPT-4. Known as the UTSA AI Peer Learning Network, the group is exploring generative AI’s potential and its impact on the academic experience.
+Since its creation, the group has developed a website featuring AI news, resources and best practices, created a faculty course, and hosted forums with nationally renowned guests like Sid Dobrin and Bettyjo Bouchey, subject matter experts who conduct academic research on digital learning and emerging technologies. Its focus has been less about creating rules and policies for the classroom and more about the opportunities AI presents.
+Academic Innovation is observing AI’s impact on instruction today and visualizing students’ needs in a future where AI is likely to infiltrate daily life and the workplace, much like the Internet and smartphones do today.
+The widespread use of generative AI is growing rapidly. ChatGPT became exponentially popular, reaching one million users just five days after its release and 100 million users in two months. Of those who use ChatGPT, nearly 27% of its 1.8 billion users are 18 to 24 years old, a group dwarfed by the 25 to 34-year-olds who make up 34% of its users.
+Educators say discussions about AI need to happen before college. 
+Samantha Sanchez, an academic technology and instructional support teacher at San Antonio’s Northside Independent School District, has been thinking about how AI will change curricula and support for high school students. Sanchez is working toward her master’s degree in learning, design and technology as a student in the UTSA College of Education and Human Development.
+Sanchez says she’s grateful to have access to an instructor who is part of the UTSA AI Peer Learning Network. It’s helped her conceptualize and explore how AI could be used in the classroom. Since tools like Google and GPT-4 can readily generate answers, Sanchez believes instructors must promote critical thinking and digital literacy. She hopes more instructors are prepared for AI in education, as incoming classes of students gain exposure and experience by using the tools.
+“Providing the skills to connect knowledge to action is critical,” she said. “We are making moves to get teachers to focus more on concepts in historical thinking skills because the students have the facts at their fingertips.”
+Getting students to focus on concepts and application is what Ryan McPherson, an AI Peer Learning Network faculty member, has built into his curricula—using AI tools for his projects. As a professor of practice in the UTSA Department of Communication, McPherson has immersed himself in generative AI tools as each subsequent update has been released. He believes that guidance is needed to ensure students gain the critical thinking skills they need to successfully work with AI tools, much like a student uses a calculator as a tool to do higher level thinking in mathematics. 
+“How do we limit but also promote the use of AI in a way that’s responsible and helps us level up our students?” asked McPherson, who believes that AI will significantly influence the communications marketplace and that digital fluency is a critical skill. 
+“I tell students, ‘Yes, you can use AI when it’s explicitly stated, and here’s how I want you to use it.’ Sometimes, my students may be more creative than I am and discover a new use. In those instances, I’ll make a case-by-case decision on whether they can use ChatGPT,” he said. “The AI tool is good at giving you text, but it takes a skilled person entering the right prompt to make it valuable.”
+For example, McPherson had his students generate survey questions using AI in a Spring 2023 course, Persuasion 3243. Then he had them review, edit and align those questions to a specific audience with strategic goals. Students had to use their digital literacy skills to spot biases in the AI and fill in gaps of information not presently available in ChatGPT’s dataset. If students crafted the prompt correctly, ChatGPT often delivered a spot-on recommendation. Students then used the survey questions to inform their assignment, a draft of an integrated marketing communication campaign.
+McPherson has also shared his expertise in a webinar series for Academic Innovation’s Office of Professional and Continuing Education (PaCE). The sessions were held twice in April and focused on how organizations can use AI to advance professional writing. Attendees included professionals in the San Antonio tech, education and public relations sectors.
+As the fall semester progresses, UTSA will continue to adopt and expand the way it uses AI. To leverage this opportunity, Academic Innovation is working with faculty to develop guidelines and gather best practices for using AI in curricula.
+“Here’s what we’ve learned about generative AI so far. It’s going to continue to evolve, and our students are going to have to strengthen their digital literacy skills and develop digital fluency to face that change,” said Vito. “At UTSA, we understand that this isn’t a static tool, and we’re committed to keeping an open mind, a healthy dose of skepticism and innovative imagination about its potential.”
+—
+                                        Brett W. Copeland
+
+UTSA Today is produced by University Communications and Marketing, the official news source of The University of Texas at San Antonio. Send your feedback to news@utsa.edu. Keep up-to-date on UTSA news by visiting UTSA Today. Connect with UTSA online at Facebook, Twitter, Youtube and Instagram.
+
+
+
+
+Learn to use the simple but powerful features of EndNote®, a citation management tool. In this hands-on workshop, participants will learn to setup an EndNote library, save references and PDFs, and automatically create and edit a bibliography.
+
+
+
+
+
+
+
+
+Learn to use Zotero®, a citation manager that can help you store and organize citations you find during your research. Zotero can generate bibliographies in various styles, insert in-text citations and allow you to share sources with collaborators.
+
+
+
+
+
+
+
+
+Our GSAW Research Symposium begins with lunch and a Poster Presentation Competition. Faculty, staff, and graduate students are welcome to attend and review the exceptional research from UTSA's best and brightest.
+
+
+
+
+
+
+
+
+Hear from UTSA doctoral candidate in environmental science, Andre Felton, as he discusses best practices to discuss scholarly research in non-academic settings. Our 2023 Three Minute Thesis (3MT) winners will also share their winning presentations.
+
+
+
+
+Join this fun event if you want resume and interview resources, a job or internship, a snow cone from Kona Ice and to socialize.
+
+
+
+
+In partnership with San Antonio Metro Health, join us for a special lecture series during Public Health week! An esteemed panel will discuss the job market’s impact on public health departments in Texas municipalities.
+
+
+
+
+The Task Force for the Shaping the Future of Artificial Intelligence, Cyber, Computing, and Data Science at UTSA initiative will hold a virtual Campus Forum to discuss their findings in Phase I (data gathering).  UTSA faculty, staff and students will have an opportunity to ask questions and share ideas before the Task Force moves into Phase II.
+  Submit an Event
+Spotlight
+The University of Texas at San Antonio is dedicated to the advancement of knowledge through research and discovery, teaching and learning, community engagement and public service. As an institution of access and excellence, UTSA embraces multicultural traditions and serves as a center for intellectual and creative resources as well as a catalyst for socioeconomic development and the commercialization of intellectual property - for Texas, the nation and the world.
+To be a premier public research university, providing access to educational excellence and preparing citizen leaders for the global environment.
+We encourage an environment of dialogue and discovery, where integrity, excellence, inclusiveness, respect, collaboration and innovation are fostered.
+
+UTSA is a proud 
+							
+							Hispanic Serving Institution (HSI) as designated by the U.S. Department of Education
+						
+						.
+					
+					
+The University of Texas at San Antonio, a Hispanic Serving Institution situated in a global city that has been a crossroads of peoples and cultures for centuries, values diversity and inclusion in all aspects of university life. As an institution expressly founded to advance the education of Mexican Americans and other underserved communities, our university is committed to promoting access for all. UTSA, a premier public research university, fosters academic excellence through a community of dialogue, discovery and innovation that embraces the uniqueness of each voice.
+
+
+

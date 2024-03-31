@@ -1,0 +1,74 @@
+University of Technology Sydney official policy on generative AI Artificial Intelligence
+https://www.uts.edu.au/about/uts-governance/policies/uts-policy/artificial-intelligence-operations-policy
+Purpose | Scope | Principles | Policy statements | Policy owner and contact  | Definitions  | Approval information  | Version history  | References
+1.1 The Artificial Intelligence Operations Policy (the policy) guides the use, procurement, development and management of artificial intelligence (AI) at UTS for the purposes of teaching, learning and operations. 
+2.1 This policy applies to staff and affiliates (hereafter staff) who are responsible for AI at UTS for teaching, learning and operational functions.
+2.2 This policy applies to the:
+2.3 This policy does not apply to research projects and outputs (including university consulting) where relevant approvals and ethics clearances are covered by the Research Policy.
+3.1 AI at UTS may be used for administrative and operational functions, teaching and learning activities and to improve user experiences as part of the delivery of the university’s object and functions (refer University of Technology Sydney Act 1989 (NSW)). 
+3.2 To ensure confidence in UTS processes, and alignment with the UTS 2027 strategy and values, AI must be ethical, reliable, transparent, secure and comply with applicable laws and regulations. 
+3.3 UTS acknowledges that: 
+3.4 Use of AI systems must comply with the Privacy Policy, the Procurement Policy, the Information Security Policy and the Provision and Acceptable Use of Information Technology Resources Policy as appropriate.
+4.1 At UTS, AI may be used to support a number of teaching, learning and operational functions and activities, including but not limited to:
+4.2 All AI systems exist on a spectrum of risk, ranging from low-risk (not automated, often non-operational, does not contain personal or sensitive data and does not have direct impacts on individuals) to high-risk automations (highly autonomous, normally operational AI systems with minimal controls that could impact individual and institutional safety and wellbeing). 
+4.3 Guided by the New South Wales Government’s AI Assurance Framework (the NSW framework) operational and non-operational AI will be assessed for risks and opportunities as outlined in the Artificial Intelligence Operations Procedure (the procedure) and the Risk Management Policy. 
+4.4 UTS will:
+4.5 Business owners must submit proposed AI systems to the Head of Data Analytics and Artificial Intelligence for feedback prior to commencement of any development or procurement activities as outlined in the procedure. 
+4.6 The Artificial Intelligence Operations Board (the board) will develop institutional knowledge and insights about the use, management and control of AI for the purposes of teaching, learning and operations at UTS. 
+4.7 The board’s terms of reference and membership are approved by the Chief Operating Officer (COO) and are available to staff (refer procedure). The board will provide an annual report to the University Leadership Team. 
+4.8 The board is responsible for endorsing the use of AI as part of an identified business activity or solution, in advance of the procurement and/or development of AI systems. Where the board considers a system to be high risk, further advice (internal or external) may be sought before submission to the COO for endorsement.
+4.9 Following the board’s or the COO’s endorsement of an AI system, the final approval for expenditure of funds will apply as follows:
+4.10 AI system owners must work with AI business owners in the ongoing management, governance and monitoring of AI in systems once procured or implemented, including liaising with information system stewards (refer Data Governance Policy and Transparency and reliability) or the Information Technology Unit as appropriate. 
+4.11 UTS follows the NSW Government’s Mandatory Ethical Principles for the Use of AI, summarised as follows:
+4.12 The ethical principles for the use of AI are applied at each phase of the AI system lifecycle. The lifecycle stages include:
+4.13 AI systems must only operate in accordance with their primary purpose or objective as outlined as part of the approval process. Where a change to the primary purpose is needed, this requires a separate risk assessment and endorsement. 
+4.14 Where AI is used by UTS to automate a function, process or decision that may impact staff, students or others, this must be specifically identified in the relevant privacy and/or AI use disclosure notice, which must include a review or enquiry mechanism.
+4.15 Where personal information is captured, used or stored by an AI system the business owner must complete a privacy impact assessment (refer Privacy impact assessments (SharePoint)). This must be approved and managed in line with the requirements of the Privacy Policy and information security classifications.
+4.16 Use of biometric identification must be treated as processing sensitive personal information (refer Privacy Policy). 
+4.17 Data used to develop algorithms or AI systems, and any data generated, shared, managed and/or recorded as part of an AI system’s operation or algorithm, is considered corporate data and must be managed in line with the Data Governance Policy and the Privacy Policy. This requirement applies to the full system lifecycle and to the lifetime of the data (whichever is the longer). 
+4.18 Breaches of this policy or any associated procedures must be reported to the Chief Data Officer (CDO) and managed in line with the Code of Conduct and the relevant enterprise agreement (available at Enterprise agreements) as appropriate. Any data breaches or suspected data breaches will be managed in line with the Privacy Policy.
+4.19 Complaints in relation to the use or outcomes of UTS AI systems will be managed in line with the Staff Complaints Policy or the Student Complaints Policy. 
+5.1 Policy owner: The Chief Data Officer (CDO) is responsible for enforcement and compliance with this policy, ensuring that its principles and statements are observed. The CDO is also responsible for the approval of any associated university level procedure. 
+5.2 Policy contact: The Head of Data Analytics and Artificial Intelligence (Data Analytics and Insights Unit) is responsible for the day-to-day implementation of the policy and acts as a primary point of contact for advice on fulfilling its provisions. The Head of Data Analytics and Artificial Intelligence is responsible for providing guidance and advice on the application of this policy and the procedure and for recommending appropriate training for staff who have responsibility for AI.
+5.3 Others: 
+The Chief Operating Officer (COO) is responsible for the establishment of the Artificial Intelligence Operations Board as outlined in this policy and the procedure. The COO is responsible for endorsing high-risk AI systems prior to normal approval processes in line with this policy.  
+AI system owners and AI business owners are responsible for the approval, management and oversight of AI systems within their remit.
+The following definitions apply for this policy and all associated procedures. These are in addition to the definitions outlined in Schedule 1, Student Rules. Definitions in the singular also include the plural meaning of the word.
+Algorithm means a series of specific directions or instructions built into computer software or systems to solve a defined problem or automate decision-making. Algorithms may use AI to produce improved outcomes. 
+Algorithmic bias means an error or prejudice built into an algorithm (intentionally or unintentionally) that creates outcomes that are unfair, erroneous or favour one group of people over another and may impact an individual’s human rights.
+Artificial intelligence (AI) UTS uses the New South Wales Government’s AI Assurance Framework definition, which states that AI is ‘intelligent technology, programs and the use of advanced computing algorithms that can augment decision-making by identifying meaningful patterns in data’. AI is used to solve problems autonomously, and perform tasks to achieve defined objectives, in some cases without explicit human guidance.
+AI system (also system) means any software system, technology or program at UTS that uses AI as part of its decision-making processes, in part or in whole. AI systems include capabilities, analytics and algorithms on new or existing IT resources. 
+AI system lifecycle means the time from inception through to review and renewal or destruction of an AI system.
+AI system owner means appropriate staff identified as responsible for the technical implementation of the AI system and its review and monitoring as outlined in the approved project. Where there are multiple AI system owners, a primary owner (normally the most senior staff member) must be identified. AI system owners must have a working relationship with any relevant information system steward (refer Data Governance Policy). 
+Business owner (of AI systems) means staff with overall accountability for the AI system. Business owners have responsibility for establishing the business case for the system, implementing the system (including identifying users, user training and risk management), monitoring its activities (including reporting and review, ensuring benefits and outcomes are realised in line with the purpose), AI ethics and providing support to the AI system owner(s). Business owners may be self-identified (during an approval or initial scoping exercise) or appointed in line with their position description. Normally business owners will be a dean, director, senior manager or equivalent.
+Corporate data is defined in the Data Governance Policy.
+Information system steward is defined in the Data Governance Policy. 
+IT resources is defined in the Provision and Acceptable Use of Information Technology Resources Policy.
+Non-operational AI system means AI systems that do not use a live environment for their source data, rather, provide analysis and insight from historical data. While, normally, non-operational AI represents a lower level of risk, the risk level needs to be carefully assessed, particularly where the outputs may be used to influence decision-making or action.
+Operational AI system means to either produce an act or decision, or to prompt a human to act. Normally these systems work in real time using a live environment for their source data. These systems generally present more risks than non-operational AI systems as they tend to have a real-world effect. However, not all operational AI systems are high risk (for example, digital information boards or apps that show the time of arrival of the next bus).
+Personal information (which includes health information for the purposes of this policy) is defined in the Privacy Policy. 
+Research project is defined in the Research Policy. 
+Research outputs is defined in the Research Policy. 
+Artificial Intelligence Operations Procedure
+Code of Conduct
+Data Governance Policy
+Enterprise agreements
+Information Security Policy
+NSW Government Mandatory Ethical Principles for the use of AI and NSW AI Assurance Framework
+Privacy Policy
+Procurement Policy
+Provision and Acceptable Use of Information Technology Resources Policy
+Records Management Policy
+Research Policy 
+Risk Management Policy
+Staff Complaints Policy 
+Student Complaints Policy
+UTS 2027 strategy
+University of Technology Sydney Act 1989 (NSW)
+UTS acknowledges the Gadigal people of the Eora Nation, the Boorooberongal people of the Dharug Nation,
+              the Bidiagal people and the Gamaygal people, upon whose ancestral lands our university stands. We would
+              also like to pay respect to the Elders both past and present, acknowledging them as the traditional
+              custodians of knowledge for these lands.
+Student and public enquiries
+A member of 
+© Copyright UTS - CRICOS Provider No: 00099F - TEQSA Provider ID: PRV12060 - TEQSA Category: Australian University - ABN: 77 257 686 961 - 30 January 2024 03:23 PM. The page is authorised by Director, Governance Support Unit.

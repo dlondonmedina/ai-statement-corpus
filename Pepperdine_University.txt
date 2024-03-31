@@ -1,0 +1,73 @@
+Pepperdine University official policy on generative AI Artificial Intelligence
+https://bschool.pepperdine.edu/teaching-learning/artificial-intelligence/
+How to integrate or limit the use of ChatGPT, Bing AI, Bard and others
+NOTE: The information and examples listed below as resources for faculty to consider
+                  when teaching. It is to the discretion of each instructor how AI will be used within
+                  the course.
+ 
+Generative AI like ChatGPT, BingAI, and Google Bard are AI chatbots built with large
+                  language model (LLM) deep learning neural network architecture. It is pre-trained
+                  on a wide corpus of text data to generate human-like responses to textual prompts.
+                  Since ChatGPT's release in the fall of 2022, continued investments and innovation
+                  in AI has grown tremendously in this space.
+As time is passing by, AI is advancing too and can not only do text, but also image,
+                  voice and video generation.
+When prompted with "How will chatGPT change higher education," ChatGPT generated the
+                  following text:
+Chat GPT has the potential to impact higher education in several ways:
+Accessible Learning: Chat GPT can make education more accessible by providing on-demand,
+                        personalized assistance to students. It can offer explanations, answer questions,
+                        and provide guidance outside of traditional classroom settings. This can be especially
+                        beneficial for students who have different learning styles or who may not have immediate
+                        access to teachers or resources.
+Supplemental Learning: Chat GPT can act as a valuable supplement to traditional educational
+                        materials. It can offer additional explanations, examples, and practice problems to
+                        reinforce concepts taught in class. Students can use it as a tool to deepen their
+                        understanding and address specific areas of difficulty.
+Virtual Tutors and Mentors: Chat GPT can serve as virtual tutors or mentors, offering
+                        personalized guidance to students. It can provide feedback on assignments, suggest
+                        study strategies, and offer career advice. This can enhance the learning experience
+                        by providing individualized support, especially in subjects where one-on-one attention
+                        is limited.
+Language Learning: Chat GPT can assist in language learning by engaging in conversation
+                        and providing real-time feedback. Students can practice their language skills, ask
+                        questions, and receive corrections, helping them improve their proficiency and fluency.
+Research and Information Retrieval: Chat GPT can aid in research and information retrieval
+                        by helping students locate relevant resources, providing summaries of articles, and
+                        offering guidance on the credibility and quality of sources. It can save students
+                        time and assist them in finding the most relevant information for their studies.
+It's important to note that while Chat GPT can be a valuable tool, it should not replace
+                     the role of educators. Human interaction, critical thinking, and hands-on experiences
+                     are essential components of higher education. Chat GPT should be seen as a supportive
+                     tool that complements the learning process rather than a complete substitute for traditional
+                     education. (OpenAI, ChaptGPT, July 2023).
+In practice, Generative AI is being used in a "co-pilot" mode, where humans and machines
+                     work together to produce business value through machines delivering baseline output
+                     and humans improving upon this. Recognizing that working with Generative AI in a "co-pilot"
+                     mode will become a component of future work.
+ 
+ 
+ChatGPT is a powerful tool that can do an array of items, from writing papers to solving
+                  analytical problems.
+Below are some ways on how AI can be an asset in the classroom.
+But like many things, AI has its flaws. AI is still an evolving machine and does not
+                  always produce accurate or reliable information. AI is based upon existing data and
+                  has admitted "to reproduce biases and stereotypes that exist". In addition, AI provides
+                  the same information based upon a model's output, limiting the data provided and creating
+                  an uniform response to a question. This may hinder the students ability to "develop
+                  their own unique perspectives." Please note from a model perspective: Different outputs
+                  can arise from the same inputs due to the architectures of many of these models. It
+                  also can account for user preferences and be adjusted further to produce novel results
+                  (e.g., at the code level, producing more or less creative responses involves adjusting
+                  its "temperature" parameter). It also depends on some other factors like context length
+                  that can be model dependent.
+ 
+ 
+Below are some suggestions in how we reduce the use of AI in the classroom.
+ 
+ 
+ 
+ 
+ 
+310.506.4100
+Copyright © 2024 Pepperdine University

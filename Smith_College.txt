@@ -1,0 +1,293 @@
+Smith College official policy on generative AI Artificial Intelligence
+https://www.smith.edu/academics/statistical-data-sciences
+The Statistical & Data Sciences (SDS) Program links faculty and students from across the college interested in learning things from data. At Smith, students learn statistics by doing—class time emphasizes problem-solving and hands-on contact with data. Many courses employ student-driven projects that allow students to pursue their interest in fields such as economics, psychology, political science, sociology, engineering, biology, environmental science, neuroscience and geology.
+The Statistical & Data Sciences Program hosts regular talks & lectures that are free and open to the public. No prior exposure to statistics is presumed. Stay tuned to our events page for exciting presentations coming up!
+Please see the Western Mass Statistics and Data Science Meetup for additional events.
+In keeping with Smith’s core identity and mission as an in-person, residential college, SDS affirms College policy (as per the Provost and Dean of the College) that students will attend class in person. SDS courses will not provide options for remote attendance. Students who have been determined to require a remote attendance accommodation by the Office of Disability Services will be the only exceptions to this policy. As with any other kind of ADA accommodations, please notify your instructor during the first week of classes to discuss how we can meet your accommodations.
+Ten courses
+Information on the interdepartmental major in mathematical statistics can be found on the Mathematical Sciences page of this catalog.
+Six courses
+The interdepartmental minor in applied statistics offers students a chance to study statistics in the context of a field of application of interest to the student. The minor is designed with enough flexibility to allow a student to choose among many possible fields of application.
+Five courses
+SDS 100  Laboratory: Reproducible Scientific Computing with Data  (1 Credit)
+The practice of data science rests upon computing environments that foster responsible uses of data and reproducible scientific inquiries. This course develops students’ ability to engage in data science work using modern workflows, open-source tools and ethical practices. Students learn how to author a scientific report written in a lightweight markup language (e.g., markdown) that includes code (e.g., R), data, graphics, text and other media. Students also learn to reason about ethical practices in data science. Not open to students who have already completed any of: SDS 192, SDS 201, SDS 220, SDS 290 or SDS 291. Concurrent registration required in any of: SDS 192, SDS 201, SDS 220, SDS 290 or SDS 291. S/U only. Enrollment limited to 30. Students not registered for a corequisite course will be dropped without notification. 
+Fall, Spring
+SDS 109/ CSC 109  Communicating with Data  (4 Credits)
+Offered as SDS 109 and CSC 109. The world is growing increasingly reliant on collecting and analyzing information to help people make decisions. Because of this, the ability to communicate effectively about data is an important component of future job prospects across nearly all disciplines. In this course, students learn the foundations of information visualization and sharpen their skills in communicating using data. Throughout the semester, we explore concepts in decision-making, human perception, color theory and storytelling as they apply to data-driven communication. Whether you’re an aspiring data scientist or you just want to learn new ways of presenting information, this course helps you build a strong foundation in how to talk to people about data. {M}
+Fall, Spring, Alternate Years
+SDS 192  Introduction to Data Science  (4 Credits)
+An introduction to data science using Python, R and SQL. Students learn how to scrape, process and clean data from the web; manipulate data in a variety of formats; contextualize variation in data; construct point and interval estimates using resampling techniques; visualize multidimensional data; design accurate, clear and appropriate data graphics; create data maps and perform basic spatial analysis; and query large relational databases. Corequisite: SDS 100 required for students who have not previously completed SDS 201, SDS 220, SDS 290 or SDS 291. {M}
+Fall, Spring
+SDS 201  Statistical Methods for Undergraduates  (4 Credits)
+(Formerly MTH 201/ PSY 201). An overview of the statistical methods needed for undergraduate research, emphasizing methods for data collection, data description and statistical inference, including an introduction to study design, confidence intervals, testing hypotheses, analysis of variance and regression analysis. Techniques for analyzing both quantitative and categorical data are discussed. Applications are emphasized and students use R for data analysis. Classes meet for lecture/discussion and a required laboratory that emphasizes the analysis of real data. This course satisfies the basic requirement for the psychology major. Students who have taken MTH 111 or equivalent should take SDS 220, which also satisfies the basic requirement. Normally, students receive credit for only one of the following introductory statistics courses: SDS 201, PSY 201, ECO 220, GOV 203, SDS 220 or SOC 204. Corequisite: SDS 100 required for students who have not completed SDS 192, SDS 220, SDS 290 or SDS 291. {M}
+Fall, Spring, Annually
+SDS 220  Introduction to Probability and Statistics  (4 Credits)
+(Formerly MTH 220/SDS 220). An application-oriented introduction to modern statistical inference: study design, descriptive statistics, random variables, probability and sampling distributions, point and interval estimates, hypothesis tests, resampling procedures and multiple regression. A wide variety of applications from the natural and social sciences are used. This course satisfies the basic requirement for biological science, engineering, environmental science, neuroscience and psychology. Normally students receive credit for only one of the following introductory statistics courses: SDS 201, PSY 201, GOV 203, ECO 220, SDS 220 or SOC 204. Exceptions may be allowed in special circumstances with adviser and instructor permission. Corequisite: SDS 100 required for students who have not completed SDS 192, SDS 201, SDS 290 or SDS 291. Prerequisite: MTH 111 or equivalent. Enrollment limited to 40. {M}
+Fall, Spring
+SDS 235/ CSC 235  Visual Analytics  (4 Credits)
+Offered as CSC 235 and SDS 235. Visual analytics techniques can help people to derive insight from massive, dynamic, ambiguous and often conflicting data. During this course, students learn the foundations of the emerging, multidisciplinary field of visual analytics and apply these techniques toward a focused research problem in a domain of personal interest. Students may elect to take this course as a programming intensive course, prerequisite: CSC 212. In this track, students learn to use R, Python and HTML5/JavaScript to develop custom visual analytic tools. Students preferring a non-programming intensive track may elect to use existing visual analytic software, such as Tableau or Plotly. Designations: Theory, Programming. Prerequisite: CSC 120 or equivalent. {M}
+Fall, Spring, Variable
+SDS 236  Data Journalism  (4 Credits)
+Data journalism is the practice of telling stories with data. This course will focus on journalistic practices, interviewing data as a source, and interpreting results in context. We will discuss the importance of audience in a journalistic context, and will focus on statistical ideas of variation and bias. The course will include hands-on work with data, using appropriate computational tools such as R, Python, and data APIs. In addition, we will explore the use of visualization and storytelling tools such as Tableau, plot.ly, and D3. No prior experience with programming or journalism is required. Prerequisites: An introductory statistics course (including SDS 220, SOC 204, GOV 203, ECO 220, PSY 201). Enrollment limited to 20. WI {M}
+Fall, Spring, Variable
+SDS 237  Data Ethnography  (4 Credits)
+This course introduces the theory and practice of data ethnography, demonstrating how qualitative data collection and analysis can be used to study data settings and artifacts. Students will learn techniques in field-note writing, participant observation, in-depth interviewing, documentary analysis and archival research and how they may be used to contextualize the cultural underpinnings of datasets. Students will learn how to visualize datasets in ways that foreground their sociopolitical provenance in R. Students will also learn how ethnographic methods can be leveraged to improve data documentation and communication. The course will introduce debates regarding the politics of technoscientific fieldwork. Recommended prerequisite: SDS 192. Enrollment limited to 40. {S}
+Fall, Spring, Annually
+SDS 261  SQL for Data Science  (1 Credit)
+A continuation of ideas learned in SDS 192, this course develops abilities for using SQL databases within the data science pipeline. The core of the course focuses on the why and the how associated with writing SELECT queries in SQL. Additional topics include subqueries, indexes, keys and regular expressions. Students learn how to run SQL queries from both the RStudio IDE as well as from a relational database management system client like MySQL Workbench or DBeaver. Prerequisite: SDS 192. S/U only. Enrollment limited to 20. (E) 
+Interterm, Variable
+SDS 270  Programming for Data Science in R  (4 Credits)
+This course is not about data analysis—rather, students learn the R programming language at a deep level. Topics may include data structures, control flow, regular expressions, functions, environments, functional programming, object-oriented programming, debugging, testing, version control, documentation, literate programming, code review and package development. The major goal for the course is to contribute to a viable, collaborative, open-source, publishable R package. Prerequisites: SDS 192 and CSC 110, or equivalent. Enrollment limited to 40. {M}
+Fall, Spring, Annually
+SDS 271  Programming for Data Science in Python  (4 Credits)
+This course covers the skills and tools needed to process, analyze, and visualize data in Python and work on collaborative projects. Topics include functional and object oriented programming in Python, data wrangling in Pandas, visualization in Matplotlib in seaborn, as well as creating a reproducible workflow: debugging, testing, and documenting programs and effectively using version control. The major goal for the course is to create a viable, open-source Python package like those in the Python Package Index (PyPI). Prerequisites: SDS 192 and CSC 110. Enrollment limited to 40. (E) {M}
+Fall
+SDS 290  Research Design and Analysis  (4 Credits)
+(Formerly MTH/SDS 290). A survey of statistical methods needed for scientific research, including planning data collection and data analyses that provide evidence about a research hypothesis. The course can include coverage of analyses of variance, interactions, contrasts, multiple comparisons, multiple regression, factor analysis, causal inference for observational and randomized studies and graphical methods for displaying data. Special attention is given to analysis of data from student projects such as theses and special studies. Statistical software is used for data analysis. Prerequisites: One of the following: PSY 201, SDS 201, GOV 203, ECO 220, SDS 220 or a score of 4 or 5 on the AP Statistics examination or the equivalent. Corequisite: SDS 100 required for students who have not completed SDS 192, SDS 201, SDS 220 or SDS 291. Enrollment limited to 40. {M}
+Fall, Spring, Annually
+SDS 291  Multiple Regression  (4 Credits)
+(Formerly MTH 291/ SDS 291). Theory and applications of regression techniques: linear and nonlinear multiple regression models, residual and influence analysis, correlation, covariance analysis, indicator variables and time series analysis. This course includes methods for choosing, fitting, evaluating and comparing statistical models and analyzes data sets taken from the natural, physical and social sciences. Prerequisite: one of the following: SDS 201, PSY 201, GOV 203, SDS 220, ECO 220 or equivalent or a score of 4 or 5 on the AP Statistics examination. Corequisite: SDS 100 required for students who have not completed SDS 192, 201, 220 or 290. Enrollment limited to 40. {M}{N}
+Fall, Spring
+SDS 293  Modeling for Machine Learning  (4 Credits)
+In the era of “big data,” statistical models are becoming increasingly sophisticated. This course begins with linear regression models and introduces students to a variety of techniques for learning from data, as well as principled methods for assessing and comparing models. Topics include bias-variance trade-off, resampling and cross-validation, linear model selection and regularization, classification and regression trees, bagging, boosting, random forests, support vector machines, generalized additive models, principal component analysis, unsupervised learning and k-means clustering. Emphasis is placed on statistical computing in a high-level language (e.g. R or Python). Prerequisites: SDS 291 and MTH 211 (may be concurrent). {M}
+Fall, Spring, Annually
+SDS 300cr  Seminar: Topics in Statistical & Data Sciences Applications- Data Science for Coral Reef Conservation  (4 Credits)
+Students develop the skills and tools needed to process, analyze and visualize data related to large-scale coral reef conservation and management in R. Specifically, students work to collate data from NGOs, governments and academic researchers to assess changes in coral cover and community structure across the Caribbean. Quantifying these changes across spatial scales within the basin is essential in planning and managing the coral reefs of today and those of the future. Students use statistical and meta-analytical approaches to seek patterns in the data and build toward a final synthesis and presentation of these data. Enrollment limited to 12. Juniors and seniors only. Instructor permission required. {M}
+Fall, Spring, Variable
+SDS 300di  Seminar: Topics in Applications-Disability Inclusion and Data Analytics  (4 Credits)
+Students will learn the social model of disability and critical disability theory as well as research design and process, and work on a research project analyzing disability inclusion public data. The statistical methods covered in this course may include logistic regression, multivariate analysis, factor analysis, etc. Students are expected to submit their final projects to a journal, conference or competition by the end of the semester. Prerequisite: SDS 201, SDS 220 or ECO 220. Enrollment limited to 12. Juniors and seniors only. Instructor permission required. {M}
+Fall, Variable
+SDS 300ed  Seminar: Topics in Applications-Statistics in Education  (4 Credits)
+Students will learn educational measurement and assessment and apply this knowledge to a research project analyzing educational data. Discussions will cover sensitivity and specificity, reliability, validity, item response theory, logistic regression and the Rasch model. Students will use this knowledge to evaluate the effectiveness of a new curriculum on the performance of at-risk low-income students. Research will also be conducted on an additional dataset to analyze the relationship between student/family characteristics and educational outcomes. Enrollment limited to 12. Juniors and seniors only. Instructor permission required. {M}
+Fall, Spring, Variable
+SDS 320/ MTH 320  Seminar: Mathematical Statistics  (4 Credits)
+Offered as MTH 320 and SDS 320. An introduction to the mathematical theory of statistics and to the application of that theory to the real world. Discussions include functions of random variables, estimation, likelihood and Bayesian methods, hypothesis testing and linear models. Prerequisites: a course in introductory statistics, MTH 212 and MTH 246, or equivalent. Enrollment limited to 12. Juniors and seniors only. Instructor permission required. {M}
+Spring, Alternate Years
+SDS 338/ GOV 338  Research Seminar in Political Networks  (4 Credits)
+Offered as GOV 338 and SDS 338. How does the behavior of a state, politician, or interest group affect the behavior of others? Does Massachusetts’s decision to legalize recreational marijuana influence Vermont’s marijuana policies? From declarations of war to the decision of who congressmembers will vote with, social scientists are increasingly looking to political networks to recognize the inter-connectedness of the world around us. This course will overview the essentials of social network analysis and how they are applied to give us a better understanding of American politics. Prerequisites: SDS 220 or an equivalent introductory statistics course. Enrollment limited to 12. Juniors and seniors only. Instructor permission required. {S}
+Fall, Spring, Variable
+SDS 364/ PSY 364  Research Seminar: Intergroup Relationships  (4 Credits)
+Offered as PSY 364 and SDS 364. Research on intergroup relationships and an exploration of theoretical and statistical models used to study mixed interpersonal interactions. Example research projects include examining the consequences of sexual objectification for both women and men, empathetic accuracy in interracial interactions and gender inequality in household labor. A variety of skills including, but not limited to, literature review, research design, data collection, measurement evaluation, advanced data analysis and scientific writing will be developed. Prerequisites: PSY 201, SDS 201, SDS 220 or equivalent and PSY 202. Enrollment limited to 12. Juniors and seniors only. Instructor permission required. {M}{N}{S}
+Fall, Spring, Alternate Years
+SDS 390cd  Topics in Statistical and Data Sciences-Categorical Data Analysis  (4 Credits)
+Theory and applications of statistical methods for the analysis of categorical data. The course includes an overview of statistical methods for analyzing discrete data including binary, multinomial and count response variables.  Nominal and ordinal responses will be considered.  Topics may include contingency table and chi-squared analyses, logistic, Poisson and negative-binomial regression models.  R statistical software will be used.  Prerequisites: SDS 291 or SDS 290 or equivalent. 
+Fall, Variable
+SDS 390ef  Topics in Statistical and Data Sciences-Ecological Forecasting  (4 Credits)
+Ecologists are asked to respond to unprecedented environmental challenges. How can they provide the best scientific information about what will happen in the future? The goal of this seminar is to bring together the concepts and tools needed to make ecology a more predictive science. Topics include Bayesian calibration and the complexities of real-world data; uncertainty quantification, partitioning, propagation and analysis; feedback from models to measurements; state-space models and data fusion; iterative forecasting and the forecast cycle; and decision support. A semester-long project will center on data from the Smithsonian Conservation Biology Institute (SCBI) forestry reserve. Prerequisites: SDS 192, SDS 291 and either MTH 112 or (MTH 111 and MTH 153.) (E) 
+Fall, Variable
+SDS 400  Special Studies  (1-4 Credits)
+Admission by permission of the program, normally for juniors and seniors. 
+Fall, Spring
+SDS 410  Seminar: Capstone in Statistical & Data Sciences  (4 Credits)
+This one-semester course leverages students’ previous coursework to address a real-world data analysis problem. Students collaborate in teams on projects sponsored by academia, government or industry. Professional skills developed include: ethics, project management, collaborative software development, documentation and consulting. Regular team meetings, weekly progress reports, interim and final reports, and multiple presentations are required. Open only to Statistical and Data Science majors. Prerequisites: SDS 192, SDS 291 and CSC 111. Enrollment limited to 12. Statistical and Data Science majors only. Juniors and seniors only. {M}
+Fall, Spring
+SDS 430D  Honors Thesis  (4 Credits)
+Fall, Spring, Annually
+BIO 232  Genetics and Evolution  (4 Credits)
+Evolution frames much of biology by providing insights into how and why things change over time. For example, the study of evolution is essential to: understanding transitions in biodiversity across time and space, elucidating patterns of genetic variation within and between populations, and developing both vaccines and treatments for human diseases. Topics in this course include population genetics, molecular evolution, speciation, phylogenetics and macroevolution. Prerequisite: BIO 130 or BIO 132 or equivalent. {N}
+Fall
+BIO 334  Bioinformatics and Comparative Molecular Biology  (3 Credits)
+This course focuses on methods and approaches in the emerging fields of bioinformatics and molecular evolution. Discussions include the quantitative examination of genetic variation, selective and stochastic forces shaping proteins and catalytic RNA data mining, comparative analysis of whole genome data sets, comparative genomics and bioinformatics, and hypothesis testing in computational biology. The course explores the role of bioinformatics and comparative methods in the fields of molecular medicine, drug design and in systematic, conservation and population biology. Corequisite: BIO 335 strongly recommended but not required. Prerequisite: BIO 132, BIO 230, BIO 232, or equivalent. Enrollment limited to 20. {N}
+Spring, Variable
+CSC 235/ SDS 235  Visual Analytics  (4 Credits)
+Offered as CSC 235 and SDS 235. Visual analytics techniques can help people to derive insight from massive, dynamic, ambiguous and often conflicting data. During this course, students learn the foundations of the emerging, multidisciplinary field of visual analytics and apply these techniques toward a focused research problem in a domain of personal interest. Students may elect to take this course as a programming intensive course, prerequisite: CSC 212. In this track, students learn to use R, Python and HTML5/JavaScript to develop custom visual analytic tools. Students preferring a non-programming intensive track may elect to use existing visual analytic software, such as Tableau or Plotly. Designations: Theory, Programming. Prerequisite: CSC 120 or equivalent. {M}
+Fall, Spring, Variable
+CSC 252  Algorithms  (4 Credits)
+Covers algorithm design techniques ("divide-and-conquer," dynamic programming, "greedy" algorithms, etc.), analysis techniques (including big-O notation, recurrence relations), useful data structures (including heaps, search trees, adjacency lists), efficient algorithms for a variety of problems and NP-completeness. Designation: Theory. Prerequisites: CSC 210, MTH 111 and MTH 153. Enrollment limited to 30. {M}
+Fall, Spring, Alternate Years
+CSC 294  Computational Machine Learning  (4 Credits)
+An introduction to machine learning from a programming perspective. Students will develop an understanding of the basic machine learning concepts (including underfitting/overfitting, measures of model complexity, training/test set splitting and cross validation), but with an explicit focus on machine learning systems design (including evaluating algorithmic complexity and development of programming architecture) and on machine learning at scale. Principles of supervised and unsupervised learning will be demonstrated via an array of machine learning methods including decision trees, k-nearest neighbors, ensemble methods and neural-networks/deep-learning as well as dimension reduction, clustering and recommender systems. Students will implement classic machine learning techniques, including gradient descent. Designations: Theory, Programming. Prerequisites: CSC 210, CSC 250 &amp; (MTH 112 or MTH 211), and knowledge of Python. Enrollment limited to 40. {M}
+Fall, Spring, Annually
+CSC 325  Seminar: Responsible Computing  (4 Credits)
+When is disruption good? Who is responsible for ensuring that an innovation has a positive impact? Are these impacts shared equitably? How can bias be eliminated from algorithms, if they exist? What assurances can anyone make about the technology they develop? What are the limitations of professional ethics? This seminar examines the ethical implication (i.e., ethics, justice, political philosophy) of computing and automation. Participants will explore how to design technology responsibly while contributing to progress and growth. Topics include: intellectual property; privacy, security and freedom of information; automation; globalization; access to technology; artificial intelligence; mass society; and emerging issues. Designation: Systems. Prerequisite: CSC 210. Enrollment limited to 12. Juniors and seniors only. Instructor permission required. {S}
+Fall, Spring, Variable
+ECO 220  Introduction to Statistics and Econometrics  (5 Credits)
+Summarizing, interpreting and analyzing empirical data. Attention to descriptive statistics and statistical inference. Topics include elementary sampling, probability, sampling distributions, estimation, hypothesis testing and regression. Assignments include use of statistical software to analyze labor market and other economic data. Prerequisite: ECO 150 or ECO 153. Students are not given credit for both ECO 220 and any of the following courses: GOV 203, PSY 201, SDS 201, SDS 220 or SOC 204. Enrollment limited to 55. {M}{S}
+Fall, Spring, Annually
+ECO 222  Economics of Race, Policy, and Mass Incarceration  (4 Credits)
+The United States has the world’s highest incarceration rate at more than five times the global median. This country is regrettably distinguished by significant racial-ethnic and gender disparities in its carceral population. This course uses the tools of economic analysis to address three main questions: First, how did the United States become the world’s leader in incarceration? Second, what are the economic implications and collateral consequences of racialized mass incarceration? Finally, can economic tools be used to examine the efficacy of criminal justice reform? Prerequisite: ECO 150. {S}
+Fall, Spring, Annually
+ECO 240  Econometrics  (4 Credits)
+This course offers an introduction to the basic principles of econometrics and the methods used to present and analyze economic data. Knowledge of statistical methods is essential for understanding and evaluating critically much of what is written about economics and social policy. The main goal of the course is for you to leave it as an informed and critical consumer of empirical studies and with the foundational skills to conduct your own original empirical research. Prerequisites: ECO 150, ECO 153, MTH 111 and either ECO 220, SDS 220 or SDS 291. {M}{S}
+Fall, Spring, Annually
+ECO 257  Economics, Policy and Data  Analytics  (4 Credits)
+A great deal of empirical analysis is carried out with the aim of understanding the causal effects of interventions – both in policy and economic environments. This course covers the main empirical methods used in economics to evaluate causal effects of policies related to anti-discrimination, education, criminal justice, the labor market and healthcare. Students design and execute studies that can credibly evaluate public policies and economic theories. Students apply these methods by replicating and extending economic and public policy research with the goal of developing the skills needed to fully understand empirical research design. Prerequisites: ECO 220 or SDS 220 or SDS 291, and ECO 250 or ECO 253. Enrollment limited to 30. {S}
+Fall, Annually
+FYS 189  Data and Social Justice  (4 Credits)
+Students examine sociopolitical forces that impact the availability, structure and governance of data regarding various social justice issues. Students learn techniques for presenting data in ways that foreground the contexts of data production and remain accountable to diverse communities. Datasets about health equity, housing justice, environmental justice and carceral justice are studied, analyzed and visualized. Students identify institutions and stakeholders involved in data production, unpack the vested interests animating data semantics, consider what people and problems get erased in data structuring and evaluate ethical tradeoffs that data scientists grapple with as they plan for data presentation. Enrollment limited to 16 first-years. WI {S}
+Fall, Spring, Variable
+GOV 282  Colloquium: The Politics of Data  (4 Credits)
+This course explores the political implications of the Big Data era through a focus on how data has corresponded with power throughout history. Topics include the development of statistics (“science of the state”) for taxation and government census; the parsing of the “deserving” and “undeserving” poor in social welfare programs; surveillance practices for policing and national security; data protection and regulation of online spaces; and the implications of machine learning and artificial intelligence. Special attention will be given to the ways in which new data technologies have driven social change. Prerequisite: one course in quantitative methods, such as GOV 203. {S}
+Fall, Spring, Variable
+GOV 312pb  Seminar: Topics in American Government-Political Behavior in the United States  (4 Credits)
+An examination of selected topics related to American political behavior. Themes include empirical analysis, partisanship, voting behavior and turnout, public opinion and racial attitudes. Student projects involve analysis of survey data. Enrollment limited to 12. Juniors and seniors only. Instructor permission required. {S}
+Fall, Spring, Variable
+GOV 338/ SDS 338  Research Seminar in Political Networks  (4 Credits)
+Offered as GOV 338 and SDS 338. How does the behavior of a state, politician, or interest group affect the behavior of others? Does Massachusetts’s decision to legalize recreational marijuana influence Vermont’s marijuana policies? From declarations of war to the decision of who congressmembers will vote with, social scientists are increasingly looking to political networks to recognize the inter-connectedness of the world around us. This course will overview the essentials of social network analysis and how they are applied to give us a better understanding of American politics. Prerequisites: SDS 220 or an equivalent introductory statistics course. Enrollment limited to 12. Juniors and seniors only. Instructor permission required. {S}
+Fall, Spring, Variable
+MTH 246  Probability  (4 Credits)
+An introduction to probability, including combinatorial probability, random variables, discrete and continuous distributions. Prerequisites: MTH 153 and MTH 212 (may be taken concurrently), or equivalent. {M}
+Fall
+MTH 320/ SDS 320  Seminar: Mathematical Statistics  (4 Credits)
+Offered as MTH 320 and SDS 320. An introduction to the mathematical theory of statistics and to the application of that theory to the real world. Discussions include functions of random variables, estimation, likelihood and Bayesian methods, hypothesis testing and linear models. Prerequisites: a course in introductory statistics, MTH 212 and MTH 246, or equivalent. Enrollment limited to 12. Juniors and seniors only. Instructor permission required. {M}
+Spring, Alternate Years
+MTH 353dl  Seminar: Advanced Topics in Discrete Applied Mathematics-Mathematics of Deep Learning  (4 Credits)
+The course covers topics from different parts of mathematics that play some role in the design of neural networks. The course also looks at some neural networks’ applications and at how mathematics is integrated. Topics will include: What is a neural network, examples and applications; Universal approximation theorems (Cybenko and others); Examples of loss functions; Gradient Descent and Stochastic Gradient descent; Generalization gap, training vs testing data; Quick review of game theory, Nash equilibrium; Generative Adversarial Networks (GAN); Unrolled GANs. Enrollment limited to 12. Juniors and seniors only. Instructor permission required. {M}
+Fall, Spring, Variable
+PSY 201  Statistical Methods for Undergraduate Research  (5 Credits)
+An overview of the statistical methods needed for undergraduate research emphasizing methods for data collection, data description and statistical inference including an introduction to study design, confidence intervals, testing hypotheses, analysis of variance and regression analysis. Techniques for analyzing both quantitative and categorical data are discussed. Applications are emphasized, and students use R and other statistical software for data analysis. Classes meet for lecture/discussion and a required laboratory that emphasizes the analysis of real data. This course satisfies the basis requirement for the psychology major. Students who have taken MTH 111 or the equivalent or who have taken AP STAT should take SDS 220, which also satisfies the major requirement. Enrollment is restricted to psychology majors or permission of instructor. Normally students receive credit for only one of the following introductory statistics courses: PSY 201, ECO 220, GOV 190, SDS 220, SDS 201, SOC 201, EDC 206. {M}
+Fall, Spring
+PSY 358  Research Seminar: Clinical Psychology  (4 Credits)
+An introduction to research methods in clinical psychology and psychopathology. Includes discussion of current research as well as design and execution of original research in selected areas such as anxiety disorders, PTSD and depression. Prerequisite: PSY 100, PSY 201, PSY 202 and a relevant PSY intermediate colloquium course. Enrollment limited to 12. Juniors and seniors only. Instructor permission required. {N}
+Fall, Spring
+PSY 364/ SDS 364  Research Seminar: Intergroup Relationships  (4 Credits)
+Offered as PSY 364 and SDS 364. Research on intergroup relationships and an exploration of theoretical and statistical models used to study mixed interpersonal interactions. Example research projects include examining the consequences of sexual objectification for both women and men, empathetic accuracy in interracial interactions and gender inequality in household labor. A variety of skills including, but not limited to, literature review, research design, data collection, measurement evaluation, advanced data analysis and scientific writing will be developed. Prerequisites: PSY 201, SDS 201, SDS 220 or equivalent and PSY 202. Enrollment limited to 12. Juniors and seniors only. Instructor permission required. {M}{N}{S}
+Fall, Spring, Alternate Years
+PSY 369  Research Seminar in Categorization and Identity  (4 Credits)
+An exploration of methods of inquiry in social psychology with emphasis on experimental approaches to current questions in respect to processes of categorization and social identity and their implications for behavior among groups. Prerequisites: PSY 202 and either PSY 170, PSY 180, PSY 266 or PSY 269. Concurrent enrollment in PSY 270 is encouraged. {N}
+Spring
+PSY 373  Research Seminar in Personality  (4 Credits)
+An introduction to techniques of personality research and their application to the experimental study of personality. Based on discussions of current research, students design and conduct original research either individually or in teams. Prerequisites: PSY 112 and either PSY 270 or 271. Instructor permission required. {N}
+Spring
+It is possible for a Smith student to obtain a master of science in statistics from the University of Massachusetts Amherst in five years (four years at Smith plus one at UMass), through the Fifth Year MS in Statistics Program. Interested students should consult with the director of the program.
+Students interested in pursuing graduate work in statistics or data science should consult with their major adviser to plan an appropriate course of study. In either case, a solid foundation in mathematics (calculus I, II, and III, as well as linear algebra) is essential.
+The ASA maintains several lists of graduate programs in statistics that may help you find options that suit your needs.
+As a newer discipline, programs in data science are still in their infancy. The ASA maintains a list of graduate programs in “Big Data”, although this should not be conflated with data science. A more comprehensive list of data science degree programs is maintained by datascience.community.
+Benjamin Baumer, Shiya Cao, Kaitlyn Cook, Randi Garcia, Albert Y. Kim, Katherine Kinnaird, Scott LaCombe, Lindsay Poirier. 
+If you wish to declare an SDS major or minor and need an advisor, please fill out the SDS major/minor adviser request form.
+Students interested in doctoral programs in Statistics should consider the Major in Mathematical Statistics jointly operated by SDS and MTH.
+Please see the SDS section of the online course catalog for the most recent information.
+A student who wishes to study statistics may place themself according to the following guidelines.
+A student with prior work in calculus or discrete math at college should start with Introduction to Probability & Statistics (SDS 220 or SDS 201, 5 credits). This is the recommended statistics course for biological sciences majors, and satisfies the basis requirement for engineering, environmental science, neuroscience and psychology. This is also the recommended course for a student who took AP statistics but didn't take the exam, or received a grade of 3 or below. ECO 220 is also a course at this general level.
+A student with four years of high school math (but little or no calculus) should select SDS 201 or PSY 201 (Statistical Methods for Undergraduates). SDS 201 also satisfies the basis requirement for psychology. Other introductory courses at this level include GOV 203 and SOC 201.
+A student with less preparation should select SDS 107 (Statistical Thinking) or SDS 109 (Communicating with Data).
+A student who received a score of 4 or 5 on the AP Statistics Exam should take SDS 290 (Research Design and Analysis) or SDS 291 (Regression Analysis).
+Please see the guidelines for Picker Engineering majors.
+This page is intended to help EGR majors and their advisers identify appropriate courses at other universities that will satisfy the statistics requirement for the EGR major. It supplements the memo sent to EGR faculty on February 20, 2017. As noted in that memo, “equivalence of courses taken elsewhere [are] determined by...[a] qualified member of the SDS program.” Herein, we delineate the criteria used to determine equivalence in order to promote transparency and ensure a uniform experience for all.
+The following criteria are used to verify that a course taken to satisfy the statistics requirement for the EGR major (hereafter “COURSE”) is satisfactory:
+Exception: Students who have earned a 4 or 5 on the AP statistics exam can waive these requirements. They can fulfill their statistics requirement by taking any non-introductory course in probability or statistics (e.g., MTH 246, SDS 290, SDS 291, SDS 293, etc.).
+SDS faculty will use the following set of questions to guide their thinking on whether a course meets the above criteria. Normally, a replacement course would satisfy all or nearly all of these questions.
+EGR majors should consult this page first, and then present a syllabus (preferably electronic) to the SDS study abroad adviser. Although SDS 220 is a 5-credit course, the number of credits is not a determining factor.
+For reference only, we provide a list of previously approved courses. Courses change over time and vary by instructor -- students should understand that just because a course was previously approved in the past does not guarantee that it will be approved in the future.
+Lecturer in Statistical & Data Sciences
+
+Lecturer in Statistical & Data Sciences
+
+Professor of Statistical & Data Sciences
+
+Professor of Statistical & Data Sciences
+
+Assistant Professor of Physics and Statistical and Data Sciences
+
+Assistant Professor of Physics and Statistical and Data Sciences
+
+MassMutual Assistant Professor of Statistical and Data Sciences
+
+MassMutual Assistant Professor of Statistical and Data Sciences
+
+Assistant Professor of Statistical & Data Sciences
+
+Assistant Professor of Statistical & Data Sciences
+
+Associate Professor of Psychology and of Statistical & Data Sciences
+
+Associate Professor of Psychology and of Statistical & Data Sciences
+
+Lecturer in Statistical & Data Sciences
+
+Lecturer in Statistical & Data Sciences
+
+Associate Professor of Statistical & Data Sciences
+
+Associate Professor of Statistical & Data Sciences
+
+Clare Boothe Luce Assistant Professor of Computer Science and of Statistical & Data Sciences
+
+Clare Boothe Luce Assistant Professor of Computer Science and of Statistical & Data Sciences
+
+Assistant Professor of Mathematical Science and Statistical & Data Sciences
+
+Assistant Professor of Mathematical Science and Statistical & Data Sciences
+
+Assistant Professor of Government and of Statistical & Data Sciences
+
+Assistant Professor of Government and of Statistical & Data Sciences
+
+Lecturer in Statistical & Data Sciences
+
+Lecturer in Statistical & Data Sciences
+
+Assistant Professor of Statistics & Data Sciences
+
+Assistant Professor of Statistics & Data Sciences
+
+Lecturer in Statistical & Data Sciences
+
+Lecturer in Statistical & Data Sciences
+
+Lecturer in Statistical & Data Sciences
+
+Lecturer in Statistical & Data Sciences
+
+Katherine HalvorsenProfessor Emerita of Mathematics and Statistics
+Nicholas HortonResearch Associate in Statistical & Data Sciences
+Shannon Audley Associate Professor of Education & Child Study 
+R. Jordan Crouser Associate Professor of Computer Science 
+Glenn Ellis Professor of Engineering 
+Howard J. GoldProfessor of Government
+Suzanne Z. GottschangProfessor of Anthropology and of East Asian Studies
+Mary HarringtonTippit Professor in the Life Sciences (Psychology) 
+Caroline MellyAssociate Professor of Anthropology
+Philip K. PeakeProfessor of Psychology 
+Cornelia PearsallProfessor of English Language & Literature
+Marney PrattLaboratory Instructor in Biological Sciences
+Susan SayreAssociate Professor of Economics
+Vis TarazAssistant Professor of Economics
+Terry-Ann CraigieAssociate Professor of Economics 
+Think statistics is just about calculating things? Think again. 
+The fields of statistics and data science are growing exceptionally fast. As technology continues to reshape our world, more and more data are being collected on any number of subjects. There is a growing belief among decision makers that these data can be useful. Yet the process of transforming data into actionable information is challenging.
+To analyze modern streams of data, government agencies, nonprofits (NGOs) and private industries seek data analysts with technical skills (programming ability), the ability to reason quantitatively about data and uncertainty, and strong communication skills (in written, oral and visual forms). People with these skills are in high demand.
+Statisticians use their deep understanding of mathematics and probability theory to reason about variation and uncertainty in data. For example, if a drug was observed to have a positive effect on patient outcomes in a clinical trial, was that effect large enough—given the sample size and assumptions about how the data was collected—to justify concluding that the drug actually worked? Statisticians build, validate and interpret models. They design experiments and collaborate with scientists of all stripes to make precise estimates of unknown quantities.
+Data science is an emerging field that combines elements of mathematics, statistics and computer science to extract meaning from data. Data scientists work with large, complex, messy and live data sources. Often working on questions that are not well-defined, data scientists use their creativity and technical ability to dig deep into "Big Data." They build models, make predictions, and develop static and dynamic ways to visualize data.
+While at Smith, statistics students have created innovative classroom activities, authored honored theses, developed sophisticated statistical software and contributed to the Office of Institutional Research. Graduates have found internships with the National Institutes of Standards and Techonology and the New York Mets, employment with Google, MIT’s Lincoln Laboratory, and MassMutual’s Data Science Development Program. Student have also gone on to graduate school at UC Berkeley, The Harvard School of Public Health, Ohio State University, and the University of Massachusetts.
+The program awards an annual prize to a student majoring in SDS who performed outstanding research during her time at Smith. The faculty meets every spring to review the research projects they have supervised and select the prize recipient, who is then notified at the annual Awards Ceremony the day before Commencement.
+Awardees
+The Five College Statistics prize is awarded to one student at each of the Five Colleges, at their discretion. The award may be presented to a student satisfying any one of the following criteria (based on faculty vote from that institution):
+Awardees
+2019
+2018
+2017
+DataFest is a national undergraduate data analysis competition hosted at UMass each spring, in which students work in teams of up to five to extract insights from a complex, challenging data set over a weekend.
+Recent Winners from Smith
+2023
+2018
+2017
+The class project competition is for undergraduate students who conduct projects as part of an introductory or intermediate level statistics course. Most projects submitted to the USCLAP competition involve analyzing real data using existing statistical techniques. Students may choose any topic on which to conduct a study and students may use existing data or collect their own.
+Recent Winners from Smith
+2017
+2016
+The research project competition is for undergraduate students who conduct research projects coming from activities like summer research projects, senior capstone course research projects, independent research projects (e.g., independent studies), Honor's college research projects, or extension of class research projects. Some submissions to USRESP are applied research projects using existing statistical/analytical techniques to solve real world problems, which others are involve methodological research involving statistical applications or simulation studies evaluating different techniques. Students may collect their own data or use existing data and students can select any topic to study.
+Recent Winners from Smith
+2015
+Mu Sigma Rho is the national statistics honor society, and the Boston Chapter of the ASA oversees nominations from Smith each spring. We also maintain a complete archive of recipients. 
+Recent Smith College inductees include:
+Wright Hall 226
+Smith College
+Northampton, MA 01063
+
+Phone: 
+ 
+  
+	413-585-3520
+	
+Email: 
+ 
+  
+	kdunphy@smith.edu 
+	
+
+Kelley Dunphy 
+Administrative Assistant 
+Randi L. Garcia 
+Chair, Program in Statistical & Data Sciences
+Learn the ins and outs of the new smith.edu

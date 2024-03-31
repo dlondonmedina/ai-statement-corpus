@@ -1,0 +1,15 @@
+University of Louisville official policy on generative AI Artificial Intelligence
+https://library.louisville.edu/kornhauser/generative-ai/limitations
+Large language models (LLMs) cannot "understand" user input; they can only identify linguistic patterns and imitate them.
+By default, language models optimize the next word prediction objective, which is only a proxy for what we want these models to do.
+ChatGPT is fundamentally a text transformer—not an information retrieval system.
+Consequently, LLMs will sometimes output text that appears credible but has no factual basis. In particular, LLMs have a known tendency to cite non-existent sources in convincing APA style. Even when citing real sources, LLMs may paraphrase them inaccurately.
+If a prompt is ambiguously phrased, LLMs may (wrongly) guess user intent rather than asking clarifying questions or admitting that they do not "understand" what is being asked. Indeed, they can be "confidently wrong".3 This is, perhaps, because LLMs are optimized to provide answers satisfying to human users, who are biased in favor of confident responses over doubtful or noncommittal ones.2
+ChatGPT sometimes writes plausible-sounding but incorrect or nonsensical answers. Fixing this issue as challenging as [during reinforcement learning training], there's currently no source of truth.
+As machines, AI systems may give the false impression of being impartial and objective, but they are the products of the data inputs used to train them, which were created by human beings, and the choices of the developers, also human beings. Thus, AI is subject to many of the same biases and errors as humans are.
+Some are concerned that existing datasets underrepresent particular sociodemographic groups1, which, if used as training data, may result in inequitable AI models. It may be possible to counter this issue by use of carefully selected training data.2 Racial and political biases have been observed in the outputs of ChatGPT.3-5
+We conclude that chatbots cannot comply with the Health Insurance Portability and Accountability Act (HIPAA) in any meaningful way despite industry assurances.
+Chatbots (such as ChatGPT) should not be listed as authors because they cannot be responsible for the accuracy, integrity, and originality of the work.
+The general consensus among prominent scientific publishing organizations1-5 is that AI models cannot be credited as authors because they cannot be held accountable for their statements. Human authors alone must accept the responsibility of authorship. Simultaneously, presenting the output of an AI model as one's own work is unethical and compromises the integrity of your research.
+Therefore, if you use these tools in your research:
+  

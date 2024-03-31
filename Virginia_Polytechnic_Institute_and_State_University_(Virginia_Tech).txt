@@ -1,0 +1,16 @@
+Virginia Polytechnic Institute and State University (Virginia Tech) official policy on generative AI Artificial Intelligence
+https://tlos.vt.edu/resources/generative-ai.html
+Last updated: Aug. 21, 2023
+You may be hearing an array of opinions about the implications that generative AI (Gen AI) tools might have for the future of teaching and learning. Any time a new technology like Gen AI emerges and captures the public’s attention, initial reactions tend to be polarized. Some see AI as a threat to higher education, while others view it as a positive force for reshaping the way we teach.
+In the midst of these competing and conflicting perspectives, TLOS recommends a measured approach. We ask faculty to consider the following suggestions as you make decisions about the courses you teach. Because these tools are changing rapidly, we will continually evaluate their use at Virginia Tech and revise our guidance as the situation evolves.
+Generative artificial intelligence (Gen AI) describes several types of AI that are capable of creating new text, images, code, audio, or other types of content. Tools such as ChatGPT have been trained using very large collections of existing media to generate human-like responses to user-authored prompts. For text-based content, these large language models can be used to answer questions, write essays or articles, create lesson plans, and much more. The content creation process is limited by the tool’s training media and the user prompt.
+Gen AI tools are becoming increasingly influential across many industries, making it essential for students to learn how to utilize these tools within their specific fields of study. However, the potential for misuse of Gen AI also raises concerns for evaluating student learning. Interrogating the risks and opportunities of these tools in different types of courses and disciplines (course size, delivery modality, topic, etc.) is key to finding ways to leverage their power while limiting their abuse. 
+The true impact of these technologies remains to be seen. It is not likely to cause the end of higher education, and it is not likely to be the panacea some expect it to be. Deciding how to apply and constrain these tools is likely to be a nuanced issue that will require thoughtful and informed debate.
+In the end, our suggestion is that these tools represent an evolution of existing information technologies and that we should carefully consider how to utilize them to improve our shared experience.
+"While the use of AI tools, including ChatGPT and other AI-powered writing or research assistive technologies, may be tempting, it is important to consider the ethical implications of their use. In this course, students are encouraged to consult with the instructor before using any such tools. If approved, the use of AI tools must be properly cited and acknowledged in all submissions. Failure to follow these guidelines may result in a grade penalty or other disciplinary action as determined by the instructor."
+Faculty can join the conversation by submitting the GenAI community list interest form. List members will receive periodic invitations for meetups, and updates on resources and workshops.
+ 
+Get Directions  
+See All Locations  
+Contact Virginia Tech  
+© 2024 Virginia Polytechnic Institute and State University. All rights reserved.

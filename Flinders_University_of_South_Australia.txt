@@ -1,0 +1,194 @@
+Flinders University of South Australia official policy on generative AI Artificial Intelligence
+https://library.flinders.edu.au/students/ai
+
+Accessing collections
+
+
+Spaces
+
+
+Facilities
+
+
+Finding resources
+
+
+Searching skills
+
+
+Help & support
+
+
+Our services
+
+
+
+
+Get support
+
+
+We help with...
+
+
+Get support
+
+
+Quick links
+
+You have no saved courses.
+Continue to explore your course options.
+
+Your saved courses
+
+
+Learning to use artificial intelligence (AI) tools effectively and appropriately is an essential digital literacy skill for both your studies and future career.
+This information starts you on your journey to learn more about this exciting technology and give you some confidence when exploring these tools.
+
+
+		What is AI?
+		
+
+				
+			
+
+
+
+
+
+
+		Appraising AI tools
+		
+
+				
+			
+
+
+
+
+
+
+		Using AI for study
+		
+
+				
+			
+
+
+
+
+
+
+		Using ChatGPT
+		
+
+
+
+
+
+Artificial intelligence (AI) refers to computer systems that are able to perform tasks that usually require human intelligence. There are different types of AI in use today.
+Artificial narrow intelligence (ANI)
+ANI refers to systems that are programmed to perform a single task, using machine learning techniques such as supervised learning and reinforcement learning.  
+ Examples include image recognition in self-driving cars, recommendation systems when shopping online, or text prediction apps.  
+Artificial general intelligence (AGI)
+AGI is a theoretical type of AI that is able to perform any intellectual task in any situation, much like a human. 
+Machine learning refers to a range of techniques to build systems that have the ability to learn and improve from experience, without being explicitly programmed to do so.  
+Two common examples of machine learning are supervised learning and reinforcement learning.
+Supervised learning
+This is where a program is given data that has been labelled. From this, the program starts to recognise patterns, allowing it to predict or classify new information. Examples include image recognition, where programs are trained to recognise cats.  
+Reinforcement learning
+This involves giving the program feedback each time it performs a task, so that it learns from doing things correctly.  
+Generative AI is a type of artificial narrow intelligence (ANI) where the program creates new content – either text or images – based on the data that is has been trained on.  
+
+A recent example of generative AI is ChatGPT. ChatGPT has been trained on a massive amount of text from digital resources to recognise patterns in words and sentences. It provides responses to prompts by predicting the next likely word in a given context.  
+
+You may also have heard of DALL-E, which was trained on a large set of image and text pairs to create new images based on textual descriptions.
+ 
+ 
+When using any new digital tool or source of information, it is good practice to think critically about why you are using it, how it can help you, and what its limitations are.
+Look for information provided by the developers about the tool you want to use.  
+Look for information about how others have used the tool.  
+A useful expression in computer science is “garbage in, garbage out”. Tools are only as good as the data used. If programs are trained on incomplete, inaccurate or biased data, then the output will also be incomplete, inaccurate or biased. The output is also influenced by the quality, accuracy, and thoroughness of the training that the program receives.  
+Look for information provided by the developers about the tool you want to use.  
+It can take a long time to train AI programs and a long time for new datasets to be incorporated into its training.  
+Does the program indicate when it was last updated and how current its dataset is? Does this impact the relevance of the tool for your requirements?
+As with any digital tool, it is good practice to check any terms of use.  
+Look for the following: 
+Restrictions on use
+Are there limitations on who can use the tool? E.g. persons under 18 years of age.
+Are there limitations on how the outputs can be used? E.g. can it be used for educational purposes, but not commercial? 
+Intellectual property
+Who owns the outputs produced?
+What can you do with the outputs? Can you share it, re-use it, edit it?
+Is there a requirement to provide an acknowledgement when using the output? 
+Privacy and security
+Do you need to provide any personal information to use the tool?
+Where is this information stored? Who has access to it? What can they do with it? 
+As well as the relevance, trustworthiness and use-limits of AI tools, you may be interested to think about some of the social and ethical aspects of AI tools.  
+For example: 
+There are a wide range of ways that AI tools can help you when studying at university – but there are also times when it is not appropriate or acceptable to use such tools.
+You may consider using an AI tool only when it is permitted by your topic coordinator, and with proper acknowledgement of your use of AI.
+You may be instructed or permitted to use AI platforms or tools during your topic or as part of an assessment piece. Read any instructions carefully and only use the tools in the manner prescribed. For example, a topic may permit the use of AI in some, but not all stages of an assessment task. If you are unsure, check with your topic coordinator.
+Where use has been permitted, you must properly acknowledge any use of AI in the development of your assessment and provide an appropriate citation. 
+Generative AI tools such as ChatGPT can be very useful to help you: 
+There are several instances where the use of AI tools may constitute academic misconduct, as per the University’s Student Academic Integrity Policy.  Academic misconduct means a student has not met the expected academic integrity requirements.
+Examples include:
+
+
+		More about academic integrity
+		
+
+
+
+
+
+If you use AI tools in the development of any part of your assessment, it is important to acknowledge them appropriately to avoid instances of academic misconduct.  
+It is recommended that you do the following: 
+The APA 7 and Harvard referencing guides include information on acknowledging use of artificial intelligence. The Student Learning Support Service provides support with referencing and a Learning Advisor can help with specific questions around acknowledging AI.
+The Student Learning Support Service can provide guidance on using
+ and referencing AI tools (where permitted by your topic coordinator).
+For help evaluating AI tools, contact the Library.
+
+
+		Student Learning Support Service
+		
+
+
+
+
+
+
+
+		Contact the Library
+		
+
+
+
+
+
+
+Sturt Rd, Bedford Park
+South Australia 5042
+Ph: 1300 354 633 (Select 3)
+Email: library@flinders.edu.au
+
+
+
+
+Website feedback and requests
+
+Disclaimer
+
+Accessibility
+
+Privacy
+CRICOS Provider: 00114A     TEQSA Provider ID: PRV12097     TEQSA Category: Australian University
+
+
+Flinders University uses cookies to ensure website functionality, personalisation and a variety of purposes as set out in its website privacy statement. This statement explains cookies and their use by Flinders.
+
+
+If you consent to the use of our cookies then please click the button below:
+
+
+If you do not consent to the use of all our cookies then please click the button below. Clicking this button will result in all cookies being rejected except for those that are required for essential functionality on our website.
+

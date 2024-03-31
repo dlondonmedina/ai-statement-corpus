@@ -1,0 +1,7 @@
+Creighton University official policy on generative AI Artificial Intelligence
+https://culibraries.creighton.edu/chatgpt
+ChatGPT is a generative predictive text tool built by the artificial intelligence research company OpenAI (https://openai.com). ChatGPT allows a user to ask a question or describe a prompt and through a conversational interaction, ChatGPT will provide answers to the queries. Because the tool is a Large Language Model (LLM) - meaning it was trained on a large corpus of information - and it's responses are based on it's ability to calculate probabilities, it may put words together that sound like answers, but it DOES make mistakes.
+ 
+If you are looking for information on the use of ChatGPT or AI in your specific subject area, please contact your Liaison/Subject Librarian. This is the list of subject librarians.
+Many entities across Creighton's campus are actively involved in learning about, discussing, and sharing accurate information about the issues surrounding the use of artificial intelligence tools.
+Hat tip/credit for some content on this guide goes to the Syracuse University Libraries. https://researchguides.library.syr.edu/chatgpt

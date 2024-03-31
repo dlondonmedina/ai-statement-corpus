@@ -1,0 +1,22 @@
+Boston University official policy on generative AI Artificial Intelligence
+https://www.bu.edu/cds-faculty/culture-community/gaia-policy/
+
+Students should learn how to use AI text generators and other AI-based assistive resources (collectively, AI tools) to enhance rather than damage their developing abilities as writers, coders, communicators, and thinkers. Instructors should ensure fair grading for both those who do and do not use AI tools. The GAIA policy stresses transparency, fairness, and honoring relevant stakeholders such as students eager to learn and build careers, families who send students to the university, professors who are charged with teaching vital skills, the university that has a responsibility to attest to student competency with diplomas, future employers who invest in student because of their abilities and character, and colleagues who lack privileged access to valuable resources. To that end, the GAIA policy adopts a few commonsense limitations on an otherwise embracing approach to AI tools.
+This GAIA policy derives from a case study conducted by the 47 juniors and seniors enrolled in the inaugural offering of CDS DS-380, “Data, Ethics, and Society" in Spring 2023. 
+Focusing on the use of OpenAI’s ChatGPT in coursework, students were asked to devise a policy for its use in DS-380 that takes full account of the aims of university education and the perspectives of relevant stakeholders, and which can be shared for consideration in other classes. The case study required students to consider a range of topics from skill building to cheating. Each class session revisited the case study until a consensus was achieved. 
+This policy was further discussed and endorsed by the CDS Academic Policy Committee, which recommended it for adoption by CDS, noting that instructors may adjust it as needed in support of the learning outcomes in their courses.
+This policy pertains to the use of tools that may rely on current or future technologies that do not (or make it impossible to) adhere to standards that CDS expects its own students and faculty to uphold with respect to appropriation of others work and proper attribution. The policy should not be construed as endorsing this practice.
+Faculty members in CDS voted unanimously to adopt this policy on March 21, 2023. Read about the policy.
+March 14, 2024
+The BU Center for Computing and Data Sciences has been selected as a finalist in the 2024 Design Excellence Awards by the Ontario Association of Architects, read all about it!
+March 7, 2024
+Leading the Way: In celebration of Women's History Month and International Women's Day, BU Faculty of Computing & Data Sciences (CDS) called on a computational biologist, data scientists, researchers, and innovators to share their professional journey, highlight an empowering experience, and describe ways they pay it forward.
+March 1, 2024
+The Data & Cities event brings together a panel of the City of Boston and state-level officials working at the nexus of data analysis, data governance, and urban policy.
+We’ll keep you updated on the latest news and events happening at Computing & Data Sciences.
+We’ll keep you updated on the latest news and events happening with BU Spark!
+
+665 Comm Ave. Boston MA 02215
+617-353-2154
+Contact Us
+

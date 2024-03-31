@@ -1,0 +1,59 @@
+Edith Cowan University official policy on generative AI Artificial Intelligence
+https://www.ecu.edu.au/centres/centre-for-learning-and-teaching/artificial-intelligence-framework
+ECU offers innovative and practical courses across a variety of disciplines and we have a vibrant research culture. ECU is a leader in developing alternative entry pathways to higher education.
+We have three campuses in Western Australia. Joondalup and Mount Lawley in the Perth metropolitan area and our South West campus in Bunbury, 200km south of the Perth CBD.
+ECU provides a variety of services and facilities that go beyond the classroom, with opportunities for personal development and social interaction for students and staff.
+In Australia
+International
+At ECU we concentrate our research in areas of strength to deliver tangible outcomes.
+There are several ways to get involved with research at ECU.
+ECU has a lively research community that is committed to supporting research students.
+Research Services provides comprehensive support services to researchers.
+We value industry partnerships and offer access to world-class research across our nine ECU Strategic Research Institutes and Centres.
+ECU links our stakeholders to our professional talent pool across a range of disciplines and research topics.
+We collaborate with all types of businesses, including new start-ups, small to medium enterprises, not-for-profits, community organisations, government and large corporates in the resources sector.
+ECU delivers training that can be tailored to industry needs.
+Children's University Edith Cowan aims to inspire students between seven and fourteen to develop confidence and a love of learning through validated activities beyond the school curriculum.
+The Inspiring Minds scholarship program are equity scholarships that give students an opportunity to access an education that may otherwise be out of reach.
+Catch up with fellow graduates at one of our regular alumni events.
+We love to see our graduates back at ECU helping current students achieve their dreams.
+Tell us what you've been up to since you graduated or stay in the alumni loop.
+Take advantage of a range of career development or other alumni benefits.
+ECU framework for the productive and ethical use of artificial intelligence.
+Artificial Intelligence (AI) has the potential to support and enhance the development of human capabilities across all areas of ECU's work, consistent with our purpose to transform lives and enrich society.
+It’s why we have developed this framework.
+The release of ChatGPT-3 in November 2022 marked a tipping point for higher education in our engagement with AI. While AI had already been in various stages of exploration, adoption and use across the sector, the capabilities of Generative AI have prompted institutions to review the extent to which AI more generally has been defined and appropriately accounted for in policies, procedures and practices.
+AI presents enormous opportunities and significant risks to individuals, organisations, and society. ECU recognises this and commits through this framework to engaging both constructively and critically with AI to advance our purpose, strategic vision, and values.
+The purpose of this framework is to empower and enable  staff and students to productively and ethically use AI, in line with ECU’s vision to lead the sector in the educational experience, research with impact, and in positive contributions to industry and communities.
+The framework is designed to support judgements, guide institutional decision making, and as far as practicable, leverage existing policies and processes to identify and manage risk, and enhance human capability.
+It is based on AI research and policy from a range of leading bodies and informed by best practice in the development of effective organisational ethics frameworks.
+Note: The framework was developed by Professor Rowena Harper, Deputy Vice-Chancellor (Education), and Professor Edward Wray-Bliss, The Stan Perron Professorial Chair in Business Ethics, in consultation with the AI Steering Committee and Working Groups.
+For now, there is no agreed definition of Artificial Intelligence. It is an umbrella term, referring to systems with varying degrees of complexity and transparency that are designed to simulate advanced judgement and create different kinds of materials.
+Depending on the definition, AI can range from simple automation to more complex systems that produce ‘predictions, inferences, advice, decisions’, and systems that generate content[1].
+For the purpose of developing this Framework we will adopt a broad definition of AI, enabling all potential uses to be identified so as to test the appropriateness and scope of the framework over time.
+The framework recognises that AI may be embedded in ECU systems, be contained in future updates to existing-use systems and software or underpin new systems that we may consider adopting in the future. It may also be included in open-source systems outside of ECU that are used by students or staff.
+AI is the product of a life-cycle, which may span ‘research, design and development to deployment and use, including maintenance, operation, trade, financing, monitoring and evaluation, validation, end-of-use, disassembly and termination’[2].
+Perhaps the most exciting aspect of this is the potential AI has to support and enhance the development of human capabilities across all areas of ECU's work, consistent with our purpose to transform lives and enrich society.
+This framework therefore recognises that ECU staff and students may be more than merely end-users of existing AI tools. It is anticipated that ECU staff and students will be increasingly involved in all stages of this life-cycle or may be affected by AI at any of these stages.
+The framework therefore aims to address all stages of the life-cycle and the roles of both staff and students within it.
+The framework is comprised of six elements.
+The Ethical Principles empower staff and students to make situated judgements about AI across all levels and areas of the organisation so that we can collectively navigate our ethical engagement with AI. Benchmarking indicates that common ethical principles for the use of AI can align well with ECU’s organisational values. Aligning with these values should give ECU’s AI Ethical Principles greater authenticity for all stakeholders.
+Ethical use is supported by a Guide for reflecting on the potential risks of AI uses. Based on the Ethical Principles and consideration of potential consequences, it enables members of the ECU community to make informed choices about proportional engagement with AI. This approach is informed by the CSIRO’s discussion paper on an Australian AI ethics framework [3] and aligns with ECU’s Integrated Risk Management Framework.
+Over time, this will guide any necessary updates to policy and procedure (e.g. procurement). This will be published prior to the end of 2023.
+Productive use will be primarily supported by practical Guidelines for Responsible Use. They articulate the application of the Ethical Principles to different domains of work, which at this stage are:
+Feedback from the Working Groups established under the AI Steering Committee has been essential to informing the development of the Guidelines, which will be published prior to the end of 2023.
+Existing ECU committees will, over time, take on responsibilities for assessment and/or oversight of higher risk uses of AI. These committees would include but may not be limited to:
+This may be complemented by a reporting process for managing complaints and breaches[4].
+Decisions regarding the adoption of AI, based on the Ethical Principles and Guide for Understanding Risk, will be supported by a community of Advisors. These may be members of the Working Groups, relevant Committee members and/or identified members of staff with accountability in relevant functional areas (e.g. DCS, CLT).
+The guidelines will be supported by a centralised Knowledge Base, which supports education and training for ECU staff in the main forms of Artificial Intelligence in use at ECU. A sector-wide knowledge base may also become available, at least in some domains, to assist the sector in managing what is in the short term a significant reputational risk.
+
+ECU's Framework for the Productive and Ethical Use of Artificial Intelligence has at its core a set of five Ethical Principles. These are designed to empower staff and students to make situated judgements about AI across all levels and areas of the organisation so that we can collectively navigate our ethical engagement with AI.
+Benchmarking indicates that common ethical principles for the use of AI can align well with ECU’s values. Aligning with existing organisational values should give ECU’s AI Ethical Principles greater authenticity for all stakeholders.
+.
+ECU is courageous in its adoption of Artificial Intelligence and in its commitment to subject AI to ethical scrutiny consistent with our values.
+ECU commits to the transparent disclosure of Artificial Intelligence, in pursuit of explainable and/or auditable systems that engender scrutiny and foster trust.
+ECU builds human capacity through its adoption of Artificial Intelligence and ensures human oversight and accountability for its use.
+ECU engages critically with Artificial Intelligence through the use of pluralistic and reliable sources of information, and enhanced data, media and information literacy for staff and students.
+ECU promotes the protection of privacy, intellectual property, equity, diversity and inclusion in our approach to Artificial Intelligence.
+Please leave a comment about your rating so we can better understand how we might improve the page.
+ 

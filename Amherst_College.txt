@@ -1,0 +1,33 @@
+Amherst College official policy on generative AI Artificial Intelligence
+https://libguides.amherst.edu/genAI
+Click on the Mammoth to use our Librarian Chat Service! Or Contact Us to find other ways to get help.
+Chat is currently unavailable. Contact Us for help!
+This guide provides a basic overview of generative AI, including ethical issues and potential costs, in order to help you make informed choices about using AI tools.
+Generative AI refers to AI models that can create new content, such as text, images, code, audio, or video, in response to user prompts. Generative AI uses machine learning techniques to learn the patterns and structures of training data in order to create new outputs with similar characteristics.
+Here's a plain language definition from The New York Times:
+"Generative A.I.: Technology that creates content — including text, images, video and computer code — by identifying patterns in large quantities of training data, and then creating original material that has similar characteristics. Examples include ChatGPT for text and DALL-E and Midjourney for images." (“Artificial Intelligence Glossary: Neural Networks and Other Terms Explained")
+Generative AI models generate content by "statistically analysing the distribution of words, pixels or other elements in the data it has ingested and identifying and repeating common patterns."(1) 
+Compared to other types of AI, generative AI can be understood as AI that "generates," rather than "discriminates." (2)  AI that "discriminates" is used in classification and prediction tasks, like image recognition.
+Generative modeling can be defined as:
+"a branch of machine learning that involves training a model to produce new data that is similar to a given dataset."  (3)
+This presentation by Ellie Pavlick, Brown University Professor and Google AI Researcher, from the MIT GenAI Summit in 2023 provides a brief overview of generative AI, how it works, and opportunities and risks.
+Important to know
+Generative and discriminative AI may also be used in combination, in order to refine and iteratively improve outputs, in an approach called Generative Adversarial Networks (GANs).
+This visual storytelling article by the Financial Times provides a more in-depth exploration of the transformer model, a development key to how large language models function today. 
+Sources
+1. Guidance for generative AI in education and research. UNESCO. 2023
+ 2. What is Gen AI and How is it Impacting Education? A Presentation by Scott Alfeld, Assistant Professor of Computer Science, Amherst College. Sept 13, 2023.  
+3. Foster, David. Generative Deep Learning : Teaching Machines to Paint, Write, Compose, and Play. Second edition., O’Reilly Media, Incorporated, 2023.
+4. Pavlick, Ellie. "Getting on the same page about GenAI." YouTube, MIT AI ML Club, March 13, 2023. https://www.youtube.com/watch?v=f5Cm68GzEDE
+Users provide text or voice prompts to these tools, which are designed to provide fluent, conversational responses. For example: ChatGPT, Google Gemini, Microsoft CoPilot. 
+Users provide descriptions of images or image effects, with options to modify the output in various ways. For example: DALL-E, Midjourney, Stable Diffusion, and Firefly.
+Users can provide specifications to generate code, or review and check code along specific criteria. For example: GitHub Copilot.
+Users can provide prompts to generate videos or create video effects. Users can provide text to render in audio, or apply effects to audio, including rendering in different "voices." 
+These tools are continuing to develop, with new integrations in text-based tools such as voice prompting and text-to-speech and image generation and recognition, providing more modes of input and output. There are also smaller scale models being developed with specialized datasets and uses. 
+Generative AI tools differ in their levels of security, privacy, and accessibility features. Before you start using a tool, make sure you understand its privacy, security, and accessibility levels, along with associated risks. 
+Check Amherst IT's generative AI tool ratings and review the recommendations on that page in order to mitigate risks to yourself and others. 
+A prompt is a starting point or instruction you give to the model to generate specific content. It can be in the form of a statement or a question.  Think of it as a first step to getting where you want to go. 
+Making good prompts
+There are lots of different prompt types you can try, but here are some of the basic elements of a good prompt process: 
+Sometimes, it can be challenging to get a tool to produce exactly the output you want. They are often sensitive to slight wording changes in a prompt (ex: "fair" instead of "just"), and may produce different outputs to the same prompt over time. 
+Important: Generative AI tools may operate in a conversational manner, but they do not "think" in a way a person would. If you ask a GenAI tool to explain itself, it is not actually able to do this! It will provide a plausible output that sounds like a good explanation instead. If you find that your tool is not providing good outputs, it's best to start over with a different prompt strategy.

@@ -1,0 +1,4 @@
+Wentworth Institute of Technology official policy on generative AI Artificial Intelligence
+https://coopsandcareers.wit.edu/classes/grasshopper-generative-design-for-architecture/
+Instructor: Walter Zesk
+Generative design is a set of technologies that give you a computerized copilot for your design process, helping you engage the power of computation and algorithms to create designs. In this course, learn how to use the Grasshopper visual programming plugin with Rhino to create designs that would have been impossible in the past. Instructor Walter Zesk explains how to use physics solvers and evolutionary solvers to set goals and constraints for your designs, as well as how to use computation to meet those goals and work within your constraints. Plus, he covers how to use LunchBoxML to apply machine learning to your projects and unleash the full power of artificial intelligence to create designs.

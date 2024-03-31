@@ -1,0 +1,27 @@
+Stephen F. Austin State University official policy on generative AI Artificial Intelligence
+https://www.sfasu.edu/ctl/resources/chatgpt
+X Can we help you find what you’re looking for?
+ChatGPT is an artificial intelligence program available online. It uses a large amount of written data, known as a large language model, that consists primarily of articles, websites, and academic papers to generate human-like responses to user prompts. Common uses for ChatGPT are applications like chatbots, generated responses to user questions, marketing ideas, and coding or programming debugging, to name a few. In academic settings, ChatGPT can be used to produce convincing student work given its access to data in the large language model.
+Currently, there are two live versions of ChatGPT; ChatGPT-3.5 is free to use but limited in its caliber of responses and the website's availability. ChatGPT-4 was released on March 14, 2023, and is significantly more advanced but currently only available through a subscription to GPT Plus. Though both versions are still limited to producing text responses, ChatGPT-3.5 is only capable of analyzing text, while ChatGPT-4 can analyze images and text. We will provide tools and resources to address ChatGPT-3.5 and ChatGPT-4 throughout the site.
+In academic settings, the addition of image analysis with ChatGPT-4 means that a student could upload a classic piece of art or historical photo and generate an analysis or response to the image.
+ChatGPT is one example of language processing AI that is particularly relevant in academia, but this is not the only place that you might see it. Companies like Google and Microsoft are using generative AI in iterations of browser add-ons to create faster and more responsive search engines. You may encounter AI in your home with assistants like Siri and Alexa, or in academia through tools like search engines or Grammarly.
+Our team is committed to developing and maintaining expertise in all aspects of ChatGPT. We are listening to what other educators and professionals are saying and continuing to build a database of best practices and innovative ideas.  As you find yourself with new questions or concerns, we are here and ready to work through them with you. Give us a call, visit us on the second floor of Steen Library, email us, or schedule a zoom meeting with our team. We’re ready to help!
+As you integrate ChatGPT into your classroom, or find best practices for making assignments “ChatGPT-proof”, we’d love to hear about them! We are continuing to build a database of best practices and innovative ideas, and we want to highlight what you’re doing and share it with your fellow faculty members.
+Brightspace Support Form
+Center for Teaching and Learning
+936.468.1919
+ctl@sfasu.edu
+
+Physical Address:
+Steen Library
+Room 208
+
+Mailing Address:
+PO Box 13038 SFA Station
+Nacogdoches, TX 75962
+Come See Us:
+1936 North St.
+Nacogdoches, Texas
+Call or Contact Us:
+936.468.3401
+Contact Us

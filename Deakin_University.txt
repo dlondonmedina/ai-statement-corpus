@@ -1,0 +1,60 @@
+Deakin University official policy on generative AI Artificial Intelligence
+https://www.deakin.edu.au/research/support-for-researchers/research-integrity/generative-artificial-intelligence-ai
+Thinking about using AI in your research? Read this first
+There is obvious potential for Deakin academics, researchers, students, and professional staff to harness both Deakin’s internally developed, and other commercially available generative AI products, to improve our workflows and enhance and grow our academic research and research outputs.
+This opportunity also comes with evolving risk. Our high standards of research practices, principles, and integrity should never be undermined by using generative AI incorrectly or unethically. As generative AI develops further and best practice for its use evolves, you should continue to refer to this page, as well as other Deakin resources for using generative AI, such as:
+Student guide to using generative AI
+Deakin Library guide for using generative AI
+Living Knowledge Review System
+Generative AI is a type of AI data exchange system that can create new content or data based on analysis of existing data.
+Well-known generative AI applications, such as OpenAI’s ChatGPT or OpenAI based ChatPDF and Microsoft’s Bing search engine, are trained on large amounts of text which the applications use to synthesise into answers and outputs. Other potentially helpful products can be generated using tools such as Elicit and Scite.ai for research, TOME for presentations, or DALL.E for image generation.
+Benefits of generative AI include summarising and synthesising content, enhancing human creativity, improving automation and helping solve complex problems. Challenges and risks include ethical issues, data quality and model robustness.
+Understanding and use of this rapidly developing technology is already becoming mainstream in the community and there is rapid uptake of the technology in all sectors, including within higher education and research institutions globally. Commercial and institution-led AI courses and training workshops to assist researchers are becoming prevalent, including with regard to responsible use and ethical concerns.
+Generative AI tools may improve efficiency and increase productivity by streamlining critical analysis, synthesis, design and writing processes, including preparation of grant, fellowship and project proposals and publications. It may be used in certain scenarios to stimulate critical or creative thinking by providing new insights and perspectives. Under appropriate circumstances, commercially available generative AI tools can also help with analysis of large amounts of non-sensitive data and help to highlight important findings, saving hours of manual data analysis.
+Did you know? Deakin has developed a generative AI-related tool to assist our researchers.  The Living Knowledge Review System is a collaboration between the Centre for Social and Early Emotional Development (SEED), the Applied Artificial Intelligence Institute (A2I2), Deakin Library, and Deakin Corporate Communications that uses AI to enable on-going continuous-learning searches of the global literature to put the most up-to-date evidence in the hands of applied policy and practice end users.
+This section provides you with operating principles and parameters when using commercially developed and hosted (external to Deakin) generative AI tools in your research. It provides:
+Only input data into commercial generative AI tools that would also be appropriate to share with external organisations, companies, and competitors.
+Deakin loses control over any information uploaded to commercial AI interfaces. Although companies may provide options for users to limit the retention and use of this material (such as options for users to opt-out of allowing data inputs to be used for the training model, or commitments to delete data within certain timeframes), there is always a probable risk of reuse of the information you submit.
+Uploading this information may violate ethical principles such as those outlined in the National Statement on Ethical Conduct in Human Research and other regulations. It could pose risks to the participants and society as the generative AI could produce harmful or malicious data or content that could be used for unethical or illegal purposes such as theft, fraud, discrimination and misinformation.
+It is never appropriate to submit the following categories of data into commercial and external generative AI platforms or services:
+Data or information that is commercial-in-confidence, collectively owned as Indigenous Cultural and Intellectual Property, or that is protected by copyright, noting that, aside from scholarly work, Deakin University owns the intellectual property created by staff (and, in some cases, HDR students). Further detail can be found in Deakin’s Intellectual Property Policy.
+Data that is inherently confidential, or which was provided in confidence. This includes: secret and sacred religious or cultural practices; information on the location of vulnerable species; data or information subject to classification regimes and other controls (e.g. national security information, police records or information and primary materials subject to export controls); passwords or any other information which may facilitate inappropriate disclosure of or access to research data or infrastructure; and information provided by a Deakin partner for a research contract, or under a non-disclosure or confidentiality agreement.
+Any data, including de-identified data, that is collected from or about human participants in research, such as surveys, interviews, focus groups, experiments, observations, personal documents or materials, human tissue, or health records.
+This includes things like names, email addresses, personal identification numbers, phone numbers, images, audio recordings, financial information such as bank account details and credit card numbers, login credentials, health and personal information, and other research data.
+Responsible research is underpinned by the principles of honesty, rigour, transparency, fairness, respect, recognition, accountability and promotion. You must be prepared to exercise due diligence and to take ownership of content and research output developed through your use of generative AI models.
+It is incumbent upon all Deakin’s researchers to take reasonable steps to ensure the use of generative AI does not breach any legal or ethical obligations and to exercise the utmost professionalism and academic standards.
+Research integrity breaches are investigated in accordance with Deakin’s Research Integrity Breaches Procedure.
+You are legally and ethically responsible for your use of generative AI and must ensure its use in your research complies with applicable legislation, policies and procedures, and guidelines.
+You must ensure your use of generative AI adheres to Deakin’s Research Conduct Policy and the Australian Code for the Responsible Conduct of Research, 2018 (Code)
+You must be transparent and accountable. You should clearly articulate and acknowledge how AI has been used, including any limitations and acknowledgement of potential biases.
+Generative AI is not a peer review tool. Reviewers must not use generative AI to assess peer review material (e.g. grants, manuscripts, HDR student theses, ethics applications), as this may breach the requirement to maintain the confidentiality of the content. Generative AI tools must not be used to process examiner reports and subsequently write-up reports to the Thesis Examination Committee.
+You should familiarise yourself with scholarly publishers’ policies on the use and acknowledgement of generative AI. The scholarly publishers update their policies regularly so it’s important you routinely check them for recent changes. You can find more detail in Scholarly publishing and generative AI - Your publishing plan - LibGuides at Deakin University.
+Generative models can perpetuate biases present in their design, build and training data. This poses risks regarding authenticity, misinformation, and deep fakes (high quality artificial content that appears to be human generated). Societal bias, structural racism and overt discrimination of underrepresented and marginalised groups can be replicated and amplified when using generative AI models, resulting in continuing disadvantage, stigmatisation, and harm to certain groups.
+When using any generative AI tool or interface, you should always make a conscious effort to identify, critically interrogate, and mitigate these biases. Thoughtfully develop the prompts you submit to generative AI interfaces and carefully assess the unconscious or conscious bias, accuracy, relevance, and veracity of the generative AI system’s outputs.
+There are legitimate and beneficial applications for generative AI in research processes, and researchers can use generative AI tools within the bounds of appropriate operating principles and parameters. This is no different for HDR students undertaking their research.
+HDR students are restricted to using generative AI for thesis preparation for copyediting and proofreading purposes only. You cannot input sensitive and confidential information in breach of Research Conduct Policy and the Australian Code for the Responsible Conduct of Research, 2018 (Code). You are also prohibited from using generative AI to create or manipulate images in your thesis, unless the creation or alteration of images is part of the research methodology and is fully disclosed.
+Deakin’s position is that third party detection software will not be used by staff to detect AI-generated material in students’ assessments. Nonetheless, using generative AI to substantially write or redraft text to be included in a thesis is considered a breach of the Higher Degree by Research Policy, as you are required to declare submitted work as your own.
+HDR students and Supervisors should refer to the Institute for Professional Editors guidelines to understand the confinements of copyediting and proofreading purposes.
+Research IntegrityFor additional support, please email: research-integrity@deakin.edu.au
+ Which best describes you?
+
+You are an Australian domestic student if you are:
+
+an Australian citizen;
+an Australian permanent resident;
+an Australian permanent humanitarian visa holder;
+a New Zealand citizen.
+
+
+
+You are an international student if you are:
+
+a temporary resident (visa status) of Australia;
+a permanent resident (visa status) of New Zealand;
+a resident or citizen of any other country, intending to study on a student visa.
+
+
+
+We acknowledge the Traditional Custodians of the unceded lands and waterways on which Deakin University does business. We pay our deep respect to the Ancestors and Elders of Wadawurrung Country, Eastern Maar Country and Wurundjeri Country where our physical campuses are located. We also acknowledge all First Nations Peoples that make contributions to our learning communities.
+© Copyright Deakin University 2024. Deakin University CRICOS Provider Code: 00113B.
+We use cookies to improve your experience. You consent to the use of our cookies if you proceed. Visit our Privacy policy for more information.

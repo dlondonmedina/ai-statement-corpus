@@ -1,0 +1,54 @@
+Colgate University official policy on generative AI Artificial Intelligence
+https://www.colgate.edu/about/campus-services-and-resources/generative-ai-tools
+This list of generative AI (genAI) tools is intended to raise awareness and share information about some of the most popular tools currently available. We have curated these tools into categories with an eye toward potential use in educational settings. This limited collection is meant to be representative of genAI tools that have certain functionality (e.g., generating text or images, summarizing ideas in a file or article, and analyzing data); while also recognizing that there is overlap among tools and uses. Colleagues in the Learning and Applied Innovation group continue to explore and learn about the possibilities of genAI to support teaching and learning, and are available to consult with faculty members and academic staff about potential educational uses.
+Please note: When using generative AI tools, it is important to avoid entering sensitive information to protect privacy and ensure data security. Please note that these tools have their own terms of service, a mix of free and paid subscription models, and may not ensure the confidentiality of the information shared. Colgate University does not endorse any specific AI tools.
+This category of tools functions as conversational partners that can generate text in response to natural language prompts. Google and Microsoft are also working to integrate genAI with internet search functionality.
+ChatGPT (Chat Generative Pre-trained Transformer)
+ChatGPT is a chatbot developed by OpenAI. It uses Natural Language Processing (NLP) to answer questions, write content, summarize information and more.
+GPT-4
+GPT-4 is the latest version of OpenAI’s language model systems. It is a large multimodal model, accepting text and image inputs and emitting text outputs. There is a subscription-based cost (ChatGPT Plus) associated with the use of GPT-4.
+Gemini
+Gemini is Google’s AI chatbot that uses a combination of machine learning and NLP, it is currently powered by the Gemini Pro model.
+Claude
+Claude is Anthropic's chatbot.  It too uses Natural Language Processing (NLP) to answer prompts and analyze some document types. 
+Copilot with Bing
+Copilot with Bing is Microsoft’s AI chatbot integrated in Bing search, and runs on OpenAI’s GPT-4 model.
+It is important to be aware that detection tools are imperfect - and currently - no software is able to determine AI-generated text with 100% accuracy. Within academic contexts, AI detection tools might be used to identify situations where further inquiry into the use of AI-generated text may be needed. They should not be considered as a definitive measure in situations considering academic dishonesty. (See Thoughts on A.I. Detection Tools)
+This category of genAI tools can assist with research / reading related tasks. These tools can summarize articles, and permit conversational queries within uploaded files.
+Elicit.com
+Analyze research papers using and automate time-consuming research tasks like literature reviews, summarizing papers, and extracting data.
+Consensus
+Consensus is a search engine that uses AI to find insights in research papers.
+Research Rabbit
+Understands what you’re researching and gives you recommendations for related articles, personalized digests, and visualizations of networks of papers and co-authorships.
+Scholarcy
+AI-powered article summarizer.
+Typset.io
+AI-powered tool to help you understand research papers better.
+Julius
+Julius can answer questions about data, perform analysis, and generate visualizations from uploaded files.  It can also provide the needed python code to complete these tasks.
+This category of tools generates and/or edits images from text-based prompts.
+DALL-E 3
+DALL-E 3 is the latest version of OpenAI’s text-to-image system that more accurately adheres to the details of the prompt (for ChatGPT Plus users).
+Ideogram
+Text-to-image generator that excels in text rendering for images.
+Bing Image Creator
+Image Creator uses OpenAI’s DALL·E 3 to generate AI images based on your text.
+Stable Diffusion
+Stable Diffusion is an AI art generator that enables users to create unique imagery from short text descriptions, also known as prompts.
+Adobe Firefly
+Use simple text prompts to create the high quality output images. Make all-new content from reference images.
+This category of tools generates videos from text-based prompts.
+Synthesia
+Synthesia is a tool that allows you to turn text into video with AI generated speakers and voices.
+Gen-1 Runway
+Gen-1 Runway uses images and text prompts to generate videos.
+InVideo
+Generates video, voiceovers, and scripts to help accelerate creative work.
+These tools can be used to generate computer code in a range of programming languages using text-based prompts and descriptions.
+GitHub Copilot
+GitHub Copilot is an AI pair programmer that translates natural human language into programming code.
+CodeWhisperer
+CodeWhisperer is an AI coding companion from Amazon that can generate code suggestions based on your comments and existing code.
+Jupyter AI
+Integrates AI chat into Jupyter Notebooks to assist with writing and proofing code.

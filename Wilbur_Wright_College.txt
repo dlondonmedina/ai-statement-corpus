@@ -1,0 +1,23 @@
+Wilbur Wright College official policy on generative AI Artificial Intelligence
+https://colleges.ccc.edu/event/machine-learning-through-application/
+October 24, 2023
+This course is the first of five classes in the Machine Learning University and introduces core concepts and tools needed to work on any machine learning (ML) problem. In this class, students will gain a practical introduction to the core concepts of ML, along with the ability to apply them to the most common datasets. They will see key ML modeling methods, including regression and tree-based methods. They will also learn how to measure fairness and bias and follow best practices for responsible machine learning/artificial intelligence (AI).
+Course Dates:
+Machine learning is one of the most active areas of growth in modern technology. Thanks to recent advances, it is now easier than ever to build machine learning powered solutions to problems. This course provides a hands-on, application-driven introduction to ML.
+Audience:
+This intermediate course is intended for students who are in a degree program related to computer science, statistics, and data science, or industry professionals interested in professional development and career advancement.
+Recommended Prerequisites:
+Completion of the Python Fundamentals Boot Camp is required prior to this class.
+This course requires an understanding of cloud computing concepts, linear algebra, statistical probability, and coding (Python or equivalent).
+Information Sessions:
+Please use this link to sign up to attend an information session where you will learn more about the class from industry tech leaders: 
+https://forms.office.com/r/pamWHGqjSp
+Cost:
+This course will be paid for through a government-funded grant and will be offered to students at no cost.
+Class runs 10/3 – 12/14.
+Our Colleges
+Follow Us
+Sign Up for More CCC Updates
+Subscribe
+Dial 711 for the Telecommunications Relay Service
+Add an Event

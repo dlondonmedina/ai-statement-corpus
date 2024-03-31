@@ -1,0 +1,17 @@
+University of Louisiana at Lafayette official policy on generative AI Artificial Intelligence
+https://distancelearning.louisiana.edu/teach-online-hybrid/best-practices-online-education/generative-ai
+
+There has been a recent surge in interest regarding Artificial Intelligence (AI) technology, specifically generative AI platforms like ChatGPT, Google Bard, and many others. Generative AI is a type of artificial intelligence that is designed to create new and original content, such as images, videos, music, or text. 
+For example, ChatGPT was employed to assist in the creation of many parts of this resource, outlining basic information on these emerging AI technologies, their impact in the field of education, and some ideas and strategies for how to respond to these new developments. 
+Generative AI works by learning the patterns and characteristics of a given set of data and then using that knowledge to generate new content that is like the original data but with its own unique variations. 
+ChatGPT, for example, is powered by a large language model, which is an artificial intelligence model that is trained on vast amounts of natural language data to learn how to interpret  In its own words, “ChatGPT is an AI-powered chatbot or virtual assistant designed to simulate a conversation with a human being…Its purpose is to provide users with a helpful and engaging conversation experience, like talking to a real human.”
+But chatbots like ChatGPT are only the tip of the iceberg. Generative AI platforms can do many different things, but some of the most common applications include:
+These are just a few of the many things that generative AI platforms can do. As the technology continues to develop, we can expect to see even more innovative and creative applications for generative AI.
+When it comes to using generative AI in your own teaching, the only real limitation is your creativity! Tasks that would take you hours can be done by AI in seconds. There are many ways that you and your students can use generative AI to enhance and improve learning. Visit our page on Generative AI and Assessments page for tips and strategies on how to adopt (or prohibit) AI in your assessments. Here are just a few examples:
+Check out these links to learn more ways generative AI can be used in the classroom.
+Regardless of your stance on when, how, and if generative AI platforms like ChatGPT should be used in the classroom, you might find it helpful to determine when these products are being used by students. Existing plagiarism detection platforms, like Turnitin, as well as new platforms, like GPTZero, are developing new features to detect AI-generated work.
+However, while detection of AI-generated work may be useful, it only serves as a piece of the AI puzzle. AI-detection tools, by their own admission, have significant limitations and can often return misleading or inaccurate results.
+Therefore, it’s important to engage students regarding generative AI and its appropriate or inappropriate use in the classroom. For a more in-depth examination of how to engage with your student regarding AI use/misuse, please visit our page on AI and Academic Integrity. 
+Our office has reviewed several generative AI tools, from chatbots to multimedia generators to teaching aids and more!
+Visit our AI Trending Tech page to see the tools that we think are currently the best of the best.         
+ChatGPT is just the tip of the iceberg when it comes to generative AI. Explore the links below to experience other emerging AI tools!

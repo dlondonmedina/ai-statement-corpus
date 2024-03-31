@@ -1,0 +1,17 @@
+Carnegie Mellon University official policy on generative AI Artificial Intelligence
+https://www.cmu.edu/computing/services/ai/index.html
+Generative Artificial Intelligence (AI) tools enable the quick creation of new content based on the analysis of data and inputs. This technology unlocks possibilities to enhance our written and visual content creation approach.
+As these tools evolve and we experiment with them, it’s important to be aware of the associated data privacy, security, ethical, and legal concerns to use them responsibly.
+Generally, only enter information into Generative AI tools that you would share publicly online. Data classified as private or restricted should not be entered into open or commercial generative AI tools. Become familiar with the Guidelines for Data Classification to ensure the security of university data and the privacy of our students and colleagues.
+Malicious actors are also taking advantage of Generative AI to create more convincing phishing emails and fake video, audio, and graphical representations. Follow the guidance provided by the Information Security Office to identify and report suspicious activity.
+Copyright guidance regarding authorship is still unclear. Adding personal modifications to Generative AI output may increase the likelihood of copyright protection but exercise caution.
+Remember, Generative AI tools create content based on your prompts and what they learn from other inputs.
+Lack of data, poor training, or unclear prompts may result in inaccurate content generation. Always review and fact-check the output of AI tools.
+Companies frequently release new tools, and we'll update this page as we refine our AI services at CMU. If you don't see the tool you want to use, request a software assessment.
+*Available with your Andrew userID and password.
+With the rapid adoption of Generative AI tools across varying industries, guidance for use is evolving just as quickly.  Following is the current guidance for using these tools at Carnegie Mellon to support teaching, learning, research, and the operation of university business.
+Learn more at CMU AI
+Add a syllabus statement articulating what is or is not allowed in your course. Follow the guidance provided by the Eberly Center for Teaching Excellence and Educational Innovation to consider other implications of AI tools for your course design and teaching.
+Remember that CMU's Academic Integrity Policy covers "unauthorized assistance." Ask your instructors to understand what is and is not permitted for each course.
+Understand the current copyright and data privacy guidance and verify the policies of your grant agency or organization.
+Be mindful of the classification of any data you enter into generative AI tools. Visit this page to stay abreast of refinements to guidance as regulations regarding the tools evolves.

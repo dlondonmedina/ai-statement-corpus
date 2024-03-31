@@ -1,0 +1,20 @@
+University of California, Davis official policy on generative AI Artificial Intelligence
+https://iet.ucdavis.edu/news/sensitive-data-and-ai-guidance
+In an email to all UC Davis and UC Davis Health employees and student employees on July 25, 2023, Vice Provost for Information Technology Viji Murali and Chief Information and Digital Health Officer UC Davis Health Ashish Atreja shared the following guidance regarding the use of Artificial Intelligence tools and sensitive UC Davis systems and data. 
+Dear Colleagues (UC Davis Campus and Health Employees, including Student Employees) 
+
+There is a great deal of interest in using OpenAI / ChatGPT and other large language models in the academic, research, clinical, and administrative areas of UC Davis.
+While we share in this enthusiasm, AI solutions are readily available far ahead of usage guidelines. Therefore, until there is more information about AI solutions and their appropriate usage at UC, do not use these technologies with sensitive UC Davis systems and data.
+More specifically, do not provide any text or other inputs to large language models or generative AI that might contain sensitive data, including identified or de-identified student information, personnel data, personnel conduct information, patient data, confidential financial data, confidential research information, or otherwise sensitive university information.
+For reference review OpenAI/ChatGPT’s usage policies: https://openai.com/policies/usage-policies.
+More information will be provided to the UC Davis community as it becomes available and, once we have had an opportunity to collaborate with stakeholders including the Academic Senate.
+Additional information is forthcoming about students use for educational purposes. Meanwhile, if you have any questions about proper use of AI tools:
+For UC Davis Health, please contact the Technology Operations Center or (916) 734-4357. For UC Davis campus, please contact IT Express or (530) 754-4357.
+
+Thank you, 
+Viji Murali 
+Chief Information Officer and Vice Provost for Information Technology
+Ashish Atreja, MD, MPH 
+Chief Information and Digital Health Officer UC Davis Health
+University of California, Davis, One Shields Avenue, Davis, CA 95616 | 530-752-1011
+Copyright © The Regents of the University of California, Davis campus. All rights reserved.

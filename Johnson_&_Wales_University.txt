@@ -1,0 +1,80 @@
+Johnson & Wales University official policy on generative AI Artificial Intelligence
+https://catalog.jwu.edu/handbook/academicpolicies/academicintegrity/
+I. Scope and Application
+A. Johnson & Wales University (“JWU”) is committed to providing an education characterized by academic integrity. The purpose of this Academic Integrity Policy (“Policy”) is to clarify academic integrity expectations that apply to students and define the role each JWU community member plays in maintaining a culture of Academic Integrity (defined below).
+B. This Policy applies to all JWU students and faculty and staff, insofar as faculty and staff are involved with students in matters implicating Academic Integrity.
+C. Definitions
+1. Academic Integrity means the commitment to honest behavior in academic life. 
+2. Cheating means dishonest actions or behaviors that allow a student to gain an unfair advantage in their academic work. Examples of cheating can include, but are not limited to
+a) Using unauthorized information, materials, or study aids, such as a phone, cheat sheet, or generative artificial intelligence (GAI) tools, during an exam or for an assignment without explicit permission by the course instructor.
+b) Attempting to copy or copying from another student’s work without authorization from the faculty.
+c) Submitting someone else’s work as one’s own [including but not limited to by engaging in Plagiarism (defined below)].
+d) Aiding others in cheating, including but not limited to distributing without authorization graded course submissions, assessment questions, or other course materials.  
+3. Plagiarism (including derivations thereon, such as Plagiarizing) means using another’s words/ideas and presenting or attempting to present them as your own (i.e., without appropriate attribution or citation). A student’s intention is not relevant in determining if the specific violation occurred. Examples of plagiarism can include, but are not limited to
+a) Using another student’s work and submitting portions or the entire assignment with your name.
+b) Using generative artificial intelligence (GAI) tools to produce part or all of an assignment unless the use complies with subsection (d).
+c) Reusing your own work from a previous assignment or publication without acknowledging the earlier use and obtaining permission for the reuse from the faculty to whom the reused work is submitted.
+d) Failing to include citations, quotations, or works cited pages when using outside sources, including but not limited to generative artificial intelligence (GAI) tools.
+e) Creating false citations, quotations, or works cited pages that do not correspond to the information you used in your assignment. 
+4. Unauthorized Collaboration means working with another person or multiple people on coursework that will be evaluated without explicit permission from the instructor. Examples of unauthorized collaboration can include, but are not limited to
+a) Working with a study group to complete an individual assignment. 
+b) Sharing your computer code with another student.
+c) Having another person to review your assignment and edit portions of it in their own words.
+d) Using generative artificial intelligence (GAI) tools to create an outline for an assignment, without the explicit permission of the course instructor.
+II. Policy
+A. An Academic Integrity violation is a violation of the JWU Student Code of Conduct, which applies to all Academic Integrity violations. Examples of Academic Integrity violations include, but are not limited to
+1. Cheating 
+2. Plagiarizing
+3. Engaging in Unauthorized Collaboration
+4. Using generative artificial intelligence (GAI) tools in the completion of any course assignments, labs, or exams without explicit permission by the course instructor.
+5. Falsifying in any manner academic or other records, such as recommendation letters, transcripts, or any other documents related to the academic or educational process.
+6. Engaging in other conduct inconsistent with an academic program’s standards of professional conduct and/or ethics or conduct that otherwise improperly distorts the university process.
+B. JWU’s Academic Integrity Pledge
+1. All students agree to JWU’s Academic Integrity Pledge as follows: By enrolling at the university, all students agree to the following pledge: As a student, I commit to practice honest behavior in my academic life (“Academic Integrity”). I pledge to uphold Academic Integrity to its highest standards. I pledge that all work I submit is my own. I commit to seeking out resources when I need assistance. It is my responsibility to review and follow the Academic Integrity Policy, and any other applicable university policies that relate to Academic Integrity, including but not limited to the Student Code of Conduct and the Conduct Review Process. It is also my responsibility to keep abreast of any amendments, which the university may make to any policies at any time.
+C. Responsibilities of JWU Community Members in Maintaining a Culture of Academic Integrity
+1. All members of the JWU community share responsibility in maintaining a culture of Academic Integrity. 
+2. Students. Expectations of students include, but are not limited to:
+a) Understanding and complying with this Policy. 
+b) Obtaining clarification if they do not understand whether certain conduct covered by this Policy is permitted or if they do not understand how to properly credit sources.  Students acknowledge that not knowing is not an excuse for violating this Policy.
+c) Agreeing that by taking courses at JWU, their assignments may be subject to submission to Plagiarism detection software (e.g., Turnitin.com) for textual similarity review and/or for the detection of plagiarism. All submitted assignments will be included as source documents in the plagiarism detection database solely for the purpose of detecting plagiarism or misuse of such assignments. Use of any plagiarism detection software service is subject to the usage policy posted on the software website.
+d) Complying with instructor directives. Notably, individual faculty members may explicitly limit use of otherwise permitted resources or prohibit otherwise permissible conduct. For example, a faculty member may decide that no use of outside resources are permitted in a particular assignment. In that case, a student may not properly use outside resources even if they are properly sourced and cited. 
+III. Procedures
+A. Reporting
+1. Any individual who becomes aware of an alleged violation of this Policy may report the violation to Campus Safety & Security (“CS&S”), any professional staff member of Residential Life, the vice president of student affairs/dean of students, or Community Standards and Conduct.   
+2. A faculty or staff member who suspects a violation of Academic Integrity must refer the matter to Community Standards and Conduct through the online Academic Integrity Referral Form (“Form”). 
+3. When completing the Form, the faculty or staff member should determine a grade sanction, including a failing or reduced grade for the assignment or exam at issue or the course as a whole, redoing the assignment or exam for full or partial credit, a lower final grade, or no grade sanction (“Grade Sanction”). If the proposed Grade Sanction, if upheld, will result in dismissal of the student from the program or the university, the faculty or staff member must obtain approval for the Grade Sanction from the applicable dean. Faculty or staff-determined Grade Sanctions are final except as subject to appeal regarding a finding of responsibility in accordance with the Conduct Review Process. The Grade Sanction will automatically be imposed if the student acknowledges responsibility or is found responsible (subject to input by other appropriate personnel, as noted below) for the alleged violation. The faculty or staff member may also recommend, and/or Community Standards and Conduct may decide to impose additional measures beyond the Grade Sanction, which may include, without limitation, imposing academic conduct warnings or conduct probations; requiring completion of the JWU Academic Integrity online module, reflection assignments, student success meetings, and writing appointments; suspending or dismissing the student from the university; or rescinding the student’s degree, (collectively, “Additional Sanctions”).
+4. If the faculty or staff member would like to resolve the incident informally through a warning letter, as a means to formally document an incident without initiating a formal Conduct Review Process, the faculty or staff member should indicate that on the Form. Cases resolved through warning letters are not subject to sanctioning, including faculty or staff-determined grade sanctioning, and serve as a means to formally document an incident without initiating the formal conduct review process. 
+5. The Form may be submitted any time, including for alleged violations discovered after the completion of the applicable course, degree, lab, practicum, program, etc. 
+6. After submitting the Form, the faculty or staff member should notify the student of the concern and explain to the student that the faculty or staff member has submitted a report of the alleged violation to Community Standards and Conduct for review and potential further action. 
+B. Investigation
+1. Upon receipt of the Form or other report of an alleged violation, Community Standards and Conduct (including, by definition, its designee), may decide to conduct further investigation of the alleged violation. Community Standards and Conduct may appoint an academic liaison to assist throughout the investigatory process (“Investigatory Academic Liaison”) and may request other personnel, including CS&S, to assist in the investigation. 
+C. Resolution Options
+1. The alleged violation will be reviewed by Community Standards and Conduct, and those that warrant action will be referred for an informal warning letter, informal conflict resolution, an educational conversation, or a hearing depending upon the nature of the alleged concern or violation, in each case as described in JWU’s Conduct Review Process. 
+D. Adjudication Process
+1. In the event Community Standards and Conduct refers the alleged violation to a hearing, it will be adjudicated in accordance with JWU’s Conduct Review Process except as otherwise expressly provided herein.  
+2. For purposes of the adjudication process, Community Standards and Conduct will appoint an academic liaison (different from the faculty of staff member who submitted the Form) (“Hearing Academic Liaison”), who will assist in the Conduct Review Process if a hearing is requested.
+3. On review of the Form and on the completion of any additional investigation, the affected student may be offered the opportunity to accept responsibility for the alleged violation and accept (1) the Faculty or staff-determined Grade Sanction and (2) any Additional Sanctions Community Standards and Conduct may propose. If the student acknowledges responsibility for the violation/associated charge but does not agree to the Additional Sanctions, a sanctions-only administrative hearing will proceed, as described in the Conduct Review Process, and the student will not be entitled to an appeal, except as to the Additional Sanctions imposed. Faculty or staff-determined Grade Sanctions are final except as subject to appeal regarding a finding of responsibility in accordance with the Conduct Review Process.
+4. If the affected student chooses to deny responsibility for the violations or if the student fails to respond to the charge letter, the university shall provide the student a hearing. Except as provided in this Policy, the administrative hearing will be administered with Community Standards and Conduct and the Hearing Academic Liaison, as provided in the university’s Conduct Review Process.
+E. Outcome
+1. After conclusion of the hearing, if the affected student is found responsible, the Hearing Officer and Hearing Academic Liaison shall review the Grade Sanction proposed by the reporting faculty or staff member and consider whether to recommend Additional Sanctions as warranted, subject to considering the relevant evidence and any prior Academic Integrity violations. The Hearing Officer and Hearing Academic Liaison will then identify the proposed sanctions, which may include only the Grade Sanction or may include the Grade Sanction and Additional Sanctions.
+2. The Hearing Officer’s and Hearing Academic Liaison’s recommendations regarding sanctions shall be final, and those sanctions shall be imposed on the affected student, subject to the affected student’s right of appeal, as described in the Conduct Review Process.
+3. Community Standards and Conduct, in coordination with the Hearing Academic Liaison, will notify the reporting faculty or staff member in writing of the outcome of the Conduct Review Process after the time for an appeal expires or an appeal is filed and resolved.
+F. Appeal
+1. The provost or the provost’s designee shall hear any appeals from a finding of an Academic Integrity violation, as described in the Conduct Review Process.
+G. Sanctions Approval
+1. Approval of any recommended sanction shall take place upon the conclusion of any appeal, as described in the Conduct Review Process. 
+H. At any time in the Academic Integrity reporting, investigation, resolution, adjudication, or appeal process, the provost, the academic liaisons, Community Standards and Conduct, the campus vice president of student affairs/dean of students, or any other personnel involved in this process may consult with other university personnel as they deem appropriate. 
+I. Sanctions
+1. The types of sanctions the university may impose are described in the Student Code of Conduct. If a student is found responsible or acknowledges responsibility for an Academic Integrity violation, the student will generally receive one or more of the following types of sanctions: 
+a) Status Sanction: Status sanctions are defined to include, but are not limited to, imposing academic conduct warnings or conduct probations, suspending or dismissing the student from the university, or rescinding the student’s degree.
+b) Faculty or Staff-determined Grade Sanctions: Faculty or staff-determined Grade Sanctions include, but are not limited to, a failing or reduced grade for the assignment or exam at issue or the course as a whole, redoing the assignment or exam for full or partial credit, a lower final grade, or no grade sanction. Faculty or staff-determined Grade Sanctions are final except as subject to appeal regarding a finding of responsibility in accordance with the Conduct Review Process.
+c) Educational Sanction: Educational sanctions can include, but are not limited to, requiring completion of the JWU Academic Integrity online module, reflection assignments, student success meetings, and writing appointments. 
+J. Records
+Academic Integrity records are noted in a student’s conduct record. Academic Integrity violations are not noted on a student’s academic transcript. 
+8 Abbott Park Place, Providence, RI 02903
+800-342-5598
+© 2024-25 Johnson & Wales University
+
+Print this page.
+
+The PDF will include all information unique to this page.

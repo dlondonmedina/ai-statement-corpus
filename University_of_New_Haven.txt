@@ -1,0 +1,51 @@
+University of New Haven official policy on generative AI Artificial Intelligence
+https://www.newhaven.edu/engineering/graduate-programs/data-science/index.php
+The campus visit is one of the most important parts of your college selection process.
+Data Science is one of the hottest new fields in technology, driving innovation both at technology leaders such as Google and Facebook, as well as in established markets such as security, healthcare, and energy. Data scientist is one of the hottest new jobs of the last decade, with high demand, high salaries, and high marks for job satisfaction.
+Data Science is an emerging field that combines methods from machine learning, artificial intelligence, and statistics with entirely new technologies for handling vast amounts of complex and quickly-changing data. The job of a data scientist is to apply these methods to gather information and achieve goals that are otherwise impossible for human experts due the large quantities and complexity of the data. 
+In the University of New Haven’s M.S. in data science program, you will develop proficiencies in the key skills expected of leading data scientists, including deep learning and statistical analysis, and the data skills needed to work with unstructured data and Natural Language Processing (NLP).
+Possible roles and applications include:
+
+								  There’s a reason why "data scientist" has been named the country’s top job over and over again. The demand for skilled data scientists is high, salaries are well above average, and job satisfaction tops the charts. There has never been a better time to advance your technical skills and capabilities, strengthen your leadership and communication skills, and emerge as a high-performing data scientist. 
+							  
+
+								  The chart below shows the top five jobs in America, according to Glassdoor, and other jobs in the top 50 related to data science, analytics, and big data
+							  
+Our faculty are leaders and innovators in their fields, bringing both deep professional experience
+and academic rigor to the classroom.
+Get an inside look at what differentiates the University of New Haven and how your experiences as a student will prepare you for success.
+All University of New Haven students have access to the many resources available through the University’s Career Development Center, which has been named one of the best in the nation by The Princeton Review.
+
+From career assessments, networking, and job shadowing to on-campus interviews and salary negotiation, the Career Development Center provides the skills and connections to identify a meaningful career and an opportunity to pursue your passion. 
+
+ 
+
+									The information below is designed to show the many possible careers you could pursue with your major. The research is provided by Encoura, the leading research and advisory firm focused exclusively on higher education. It includes median national salaries and industry growth projections over the next decade. Click here to view the full report.
+								
+Software Developers
+
+										21% Growth 2021-2030
+									
+Data Scientists
+
+										25% Growth 2021-2030
+									
+Statisticians
+
+										26% Growth 2021-2030
+									
+An introduction to machine learning theory, design and implementation. Includes mathematical fundamentals, methods for classification, regression, unsupervised learning, and core concepts from statistical learning theory. Course will emphasize and use Python tools and machine learning application to real datasets.  
+An introduction to the basic ideas and techniques underlying the design of intelligent computer systems. A specific emphasis will be on the statistical and decision theoretic modeling paradigm. 
+This course covers artificial neural networks and modern network architectures with an overview of achievements and open problems in deep learning. Emphasis is placed on hands-on programming using modern frameworks and real data. Topics include convolutional, recurrent, and unsupervised-learning networks.
+An exploration for essential data science skills involved in working with unstructured data, including transforming it into structured data types able to be analyzed, processed, and used for machine learning and information retrieval algorithms. Material focuses on natural language processing and classification techniques used in text mining.  
+Advanced topics in "Big Data" infrastructure and architectures focusing on computing resources and programming environments to support the development of efficiently scalable high-volume distributed machine learning algorithms.  
+The University of New Haven offers a wide variety of in-depth courses that create a transformational educational experience for our students. To view the complete list of courses you'll take while pursuing a M.S. in Data Science, check out the Academic Catalog:
+Data Science, M.S.
+The Charger Blog
+A leading artificial intelligence researcher and expert, Vahid Behzadan, Ph.D., was appointed to the new Connecticut Artificial Intelligence Working Group earlier this year. He’s bringing his own expertise, as well as what he’s discovering in the laboratory at the University, as he endeavors to promote statewide cyber safety.
+An advanced degree from the University of New Haven will help you take your career to the next level. Each program offers convenient scheduling, personalized attention, and state-of-the-art facilities. View Application Requirements
+The University of New Haven Graduate School is an excellent value with reasonable tuition. Of course, you will still have bills to pay and the Financial Aid office can help. Learn More
+Get Information 
+Visit Us
+Apply
+ 

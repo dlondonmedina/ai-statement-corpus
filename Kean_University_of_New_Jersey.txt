@@ -1,0 +1,84 @@
+Kean University of New Jersey official policy on generative AI Artificial Intelligence
+https://www.kean.edu/ai-kean
+As Generative AI technologies rapidly evolve, it is crucial for faculty to be equipped with the necessary tools and knowledge to make choices about guiding students and integrating this powerful technology into their teaching practices. 
+This webpage will be updated as tools and guidelines continue to evolve.
+Kean requires faculty to create a AI policy that discipline and course appropriate. Instructors are urged to make this plain on syllabi and to explain how students should and should not use AI applications in preparing course assignments. Faculty should align their policy to department expectations. 
+Kean University's academic integrity guidelines emphasize the need for students to attribute authorship to others when the work the present is not their own through the use of quotation marks, citations, and oral source attributions, and other means of making clear what is original to the student and what is taken from other sources. Any use of generative AI -- meaning programs such as ChatGPT, GPT 4, DALL-E, Vertex, and many others to come -- is subject to the same citation rules as any ideas, text, speech, or imagery derived from human authors. 
+Instructors are also encouraged to include learning activities that prompt students to critically discuss, analyze and evaluate the opportunities and limitations/pitfalls of using generative AI within the specific field of study covered in the course.
+The below key ideas can be helpful as you develop your classroom Generative AI expectations and instruction: 
+Teach using a draft-writing approach and emphasizing the writing process is best practice. By requiring students to submit their work at various stages of the writing process, faculty can help students to develop their ideas and ensure that student essays are original and well-written. 
+Design assignments that encourage original work, that require critical and creative thinking and goes beyond summarizing information. These kind of assignments minimizes the risk of academic dishonesty. 
+Create instructional activities that guide students guide students to appropriately use AI/ChatGPT tools as a writing aid and NOT as a replacement for original thought and writing.
+Require in class writing assignments (major and smaller assignments)
+Artificial intelligence (AI) generated content is a rapidly evolving and trending topic in higher education. Generative AI, such as ChatGPT and GPT-4, provide human-like responses to user prompts, produce computer code, compose spreadsheet formulas, and more. These products are examples of Large Language Models that are trained on large quantities of unlabeled text and can "memorize" large quantities of facts learned during training.  The pace at which this transformative technology is developing promises opportunities retrospection on the ways we do many things, especially in higher education.
+A group of faculty gathered together in the CTL to share resources and develop recommendations on pedagogical uses of AI, specifically on ChatGPT, as a starting point. This website some of these conversations and perspectives. Click on dropdown arrows to see content.
+During this session, faculty will ...
+AI in our everyday lives: 
+Facial recognition          Maps and Navigation                                  Personalized Shopping
+Food ordering sites       Voice Assistants - Siri/Alexa, etc           Feed Social Media Algorithm (Facebook/Twitter/etc)
+Music streaming             Spell checker
+Other AI Technologies we were once concerned would ruin education:
+ 
+“What Would Plato Say About ChatGPT?”
+Plato mourned the invention of the alphabet... In his “Dialogues,” ... Plato claimed the use of this more modern technology would create “forgetfulness in the learners’ souls, because they will not use their memories,” ... and that those who adopt it would “appear to be omniscient and will generally know nothing,”
+Documents
+YOUR TURN:
+ChatGPT and its Use in Essay Writing Instruction (BRENT A. ANDERS) (excerpts/summary of article)
+How Can the ChatGPT AI Help Instructors Teach Essay Writing? Chat GPT can:
+Generate text on a given topic, providing students with a starting point for their essays and helping them to develop their ideas. For example, if the prompt is “Write an essay about the importance of education,” instructors could have students input the prompt into ChatGPT and generate a few sentences or paragraphs on the topic. The students could then work alone or in collaborative writing group to develop their ideas and outline their essay, using the generated text as a starting point.
+Provide feedback and suggestions for improvement on students’ essays, helping them to expand upon their ideas and improve their writing. Students can input their essay into ChatGPT and ask it to generate suggestions for improvement or additions. They can then make those improvements. 
+Be used to teach students about the conventions of academic writing - use ChatGPT created stories as models for students to analyze and then follow when writing their own essays.
+How can Instructors Prevent Students from Using ChatGPT to Write Essays
+Instructors can educate their students on the importance of writing original essays and the consequences of using AI tools to write their assignments. 
+Requiring students to submit rough drafts or outlines of their essays for review and feedback. By requiring students to submit their work at various stages of the writing process, instructors can help students to develop their ideas and ensure that their essays are original and well-written.
+Practical Responses To ChatGPT - Montclair State University
+ChatGPT is here — what's NYU doing about it? (Feb 2, 2023)
+Coping With ChatGPT | Law, Policy—and IT? - Inside Higher Ed Jan 17, 2023
+You're Not Going to Like How Colleges Respond to ChatGPT (Feb 3, 2023)
+Huang, Kalley. “Alarmed by A.I. Chatbots, Universities Start Revamping How They Teach.” The New York Times, 16 Jan. 2023
+Lesson Plan: Teaching and Learning in the Era of ChatGPT. The New York Times, 25 Jan. 2023
+What do you think Kean’s AI creation tool, such as ChatGPT, policy should look like?
+Where do you think we, as instructors, can grow as a result of this tool?
+In your field, what do you consider appropriate use of AI creation tools, such as ChatGPT?
+Should faculty use software/tool that checks for AI writing in student work? 
+At what point does ChatGPT become a hindrance to teaching and student production of original work?
+What are the areas of concern for you as a teacher?
+What are some practical recommendations for faculty? 
+What is the future of this technology in this field? How is it going to change life of people in the humanities? Medical field? Etc.  And therefore, what does this mean for your teaching?
+If we want a university-wide meeting, what information/doc do we want to have to start the conversation?
+ChatGPT, Artificial Intelligence, and the Future of Writing: How ChatGPT and other AI systems may ruin the ability to write (and think). 
+ChatGPT and other AI-assisted writing software... are surprisingly good.
+From the perspective of writing education, this kind of software is more than a little problematic.
+This software may well reduce writing, communication, and thinking abilities dramatically in future generations
+Why Do A.I. Chatbots Tell Lies and Act Weird? Look in the Mirror. (March 19)
+From CEOs to Coders, Employees Experiment With New AI Programs (March 19)
+Inside the post-ChatGPT scramble to create AI essay detectors (March 19)
+ChatGPT Has Everyone Freaking Out About Cheating. It’s Not the First Time (Chronicles of Higher Education) Surovell (Feb 2023)
+ ChatGPT Is a Blurry JPEG of the Web Chiang  (Feb 2023)
+ Course site for ENG 5085 (at Kean). By Mia Zamora
+Videos
+ChatGPT Romance | South Park 
+https://gptzero.me/ 
+Turnitin.com
+https://gptzero.me/ 
+Turnitin.com
+Below are some sample course specific AI policy statements created by Kean faculty. As you read these policies, please notice the wide range of policy approaches and how they match the discipline and course goals. We provide these examples as "inspiration" for your own policy. Your Kean colleagues who authored these statements encourage you to "borrow" any text that works for you. If you have questions or need help, feel free to reach out to drosen@kean.edu
+Policy in an Education Class
+AI is ubiquitous in today's technology driven society. This class prepares you for teaching with technology in meaningful ways. Therefore, we will intentionally use AI at specific times in the course. There will also be assignments where I ask you to affirm that you did not use AI CTL July 2023 to construct a response. These assignments will be checked using AI writing detection tools like Turnitin and GPTZero. 
+Policy in an Mathematics Class
+You are allowed to use any software to do homework (10% of your grade), including GPT-4/chat GPT, especially to check your work. Critical assessments (such as quizzes and exams) are in-class and students can use their textbook, graphing calculator, and notes (and as many formulas as needed). No mobile phones or web browsing is allowed during in-class assessments, so generative AI cannot be used. 
+Policy in an Humanities Class
+You may use AI programs e.g. ChatGPT to help generate ideas and brainstorm. Think of generative AI as an always-available brainstorming partner. However, you should note that the material generated by these programs may be inaccurate, incomplete, or otherwise problematic. Beware that use may also stifle your own independent thinking and creativity. When/if you use Artificial Intelligence (AI) platforms in your assignments, please write a note to clarify where in your process you used AI and which platform(s) you used. If you include material generated by an AI program, it should be cited like any other reference material. We will discuss this more throughout the semester in class **Please note, you may not submit any work generated by an AI program as your own. Additional information about AI in higher education and this policy can be found at the webpage
+AI Statement for CBPM Courses
+Organizations are leveraging Artificial Intelligence (AI) and appropriate use of AI technology is part of a leading-edge education. AI programs (e.g. ChatGPT/GPT-4/Bard) can be valuable tools for gathering information and generating ideas. However, material generated by AI programs may be inaccurate, incomplete, or otherwise problematic. Your instructor will specifically state when AI programs are allowed for use in assignments, if you are unsure whether you should be using AI, then you should ask your instructor. If allowed by your instructor, inclusion of AI generated material must always be properly cited like any other reference material. Students should never submit AI generated work as their own original work as this would constitute a plagiarism violation as defined by the University Academic Integrity Policy and subject to appropriate sanctions. Instructors may use Canvas Turn-it-in technology to monitor AI content in assignments.
+AI Statement from a Health Class
+Intellectual honesty is vital to an academic community for a my fair evaluation of your work. All your work submitted in this course must be your own, completed in accordance with the University's Academic Regulations. 
+Kean University’s academic integrity guidelines emphasize the need for students to attribute authorship to others when the work they present is not their own thought through the use of quotation marks, citations, and oral source attributions, and other means of making clear what is original to the student and what is taken from other sources. 
+Academic work involves developing essential skills such as critical thinking, problem-solving and effective communication, which cannot be fully developed by relying solely on Artificial Intelligence (AI). Engaging in independent research, reading, writing and discussion with peers and instructors are crucial components of academic work that should not be overlooked or replaced by technology.
+Use of AI tools, including, but not limited to, ChatGPT is permitted in this course for students who wish to use them. HOWEVER, To adhere to the University's scholarly values, students MUST CITE ANY AI-generated material that informed their work (this includes, but not limited to, in-text citations and/or use of quotations and in your reference list). 
+Using an AI tool to generate content WITHOUT PROPER attribution qualifies as academic dishonesty. Additionally, be aware that information derived from these tools is often incomplete or inaccurate. 
+How to cite ChatGPT - American Psychological Association
+Any assignment that is found to have been plagiarized or to have used unauthorized AI tools may receive a zero and/or be reported.
+Students should acknowledge the use of generative AI (other than incidental use) and default to disclosing such assistance when in doubt. 
+Any use of generative AI – meaning programs such as ChatGPT, GPT 4, DALL-E, Vertex and many others to come – is subject to the same citation rules as any ideas, text, speech, or imagery derived from human authors.
+Any student who is unsure of policies regarding generative AI tools are encouraged to ask their instructor for clarification.

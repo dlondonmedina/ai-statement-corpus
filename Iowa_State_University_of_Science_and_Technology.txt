@@ -1,0 +1,34 @@
+Iowa State University of Science and Technology official policy on generative AI Artificial Intelligence
+https://www.celt.iastate.edu/resources/ai-teach-learn/
+The Center for Excellence in Learning and Teaching has developed this resource to provide instructors with recommendations and best practices regarding Artificial Intelligence (AI) in teaching and learning. This resource will remain a work in progress and will be updated as use cases and engagement with AI technology evolve.
+Generative Artificial Intelligence (AI) technologies can create new content, including, but not limited to, text, writing and debugging code, and producing images and videos in response to user prompts. These products represent a major development in natural language processing or the ability of a machine to respond with relative accuracy and fluency. There are limitations with the products, and users cannot rely on them for the complete accuracy of the content. Although many other AI tools are available, ChatGPT is currently garnering attention in higher education and other sectors because it is 1) relatively effective and 2) free or inexpensive (for the time being).
+ 
+Several disruptive technologies have historically impacted education (e.g., calculators, word processing software, the Internet, cell phones, etc.) Artificial intelligence is the next technology progression and will continue to evolve. As a university of science and technology, we develop, use, teach, and research new technology. And because of that, we want students to develop the ability to use technology responsibly and understand its advantages and limitations.
+ 
+This newest advancement in AI has the potential to impact many existing policies and practices at Iowa State and norms and expectations within academia, such as defining co-authorship, citation and contribution practices, plagiarism, and academic integrity. These examples are not an exhaustive list, and other issues will continue to emerge as technologies evolve. Refer to the Dean of Students Office summary of academic misconduct for an overview of the Iowa State University policy, and consider sharing the Iowa State University Academic Integrity Tutorial (ePublication) with your students.
+Interested in exploring more about AI in teaching and learning? Review our AI in Teaching Upcoming Opportunities to discover the “Teaching with AI” Course, Teaching Talks, Funding, and more!
+CELT-Help: To schedule a consultation with our staff about teaching with AI in your course, please email us atcelt-help@iastate.edu.
+Students want to know your expectations for using AI tools in your course. Provide transparent information about your expectations and how these expectations align with course goals and scholarly values.
+Include information in the syllabus and on assignments, particularly if there is variability in when or how much AI use is allowable. As AI tools become increasingly embedded in existing technologies, students may be in situations where it is unclear how the use of the tool relates to your expectations of them. If the students are unsure, instruct them to contact you for clarification. 
+Sample syllabus or assignment language: 
+ 
+*When content-generating AI is not allowed, consult with the Faculty/Staff section of the Know the Code Resources from the Office of Student Conduct.
+To see the range of syllabus statements available by educators in navigating AI-generative tools, consult Lance Eaton, Director of Digital Pedagogy for College Unbound archive of sample AI policies.
+ 
+AI-generative tools have brought to the forefront an examination of why we assign assignments to students. Consider these implications when designing assignments and assessments. 
+Adapt existing assignments to deepen student reflection and have an appropriate depth of complexity and specificity. Consider how assignments that require concrete and factual information (easily obtained by AI-generative tools) might be redesigned to require more abstract and metacognitive thought and reflection on the part of the students. 
+AI-generative tools can help learners generate ideas, identify gaps in thinking, and propose visual elements. These examples provide methods to incorporate AI-generative tools into your course assignments.
+Note: When developing assignments and projects, it is essential to recognize that not all AI tools are designed for universal accessibility, which may limit their use for students.
+If you are interested in experimenting with AI in your course, explore Understanding AI Writing Tools and their Uses for Teaching and Learning at UC Berkeley by Berkeley’s Center for Teaching & Learning.
+Like using Turnitin software to detect plagiarism, there are tools designed to detect AI-generated content. However, there are significant limitations to using these tools, which are both technically and ethically complex. AI detectors are themselves AI tools and may indicate dishonesty when none exists. Further, many tools are more effective when analyzing large pieces of text rather than sentences or paragraphs, producing unacceptable false positives. Due to the unreliability, Open AI, which created Chat GPT, shut down its detector at the beginning of August due to low accuracy rates. 
+Accusations of student use of AI tools, when not allowed, may create an adversarial relationship with students and have other unintended consequences. A blog post by University of Mississippi instructor Marc Watkins shows examples of output from multiple detection tools and their inaccuracy.
+There are ways of identifying misconduct without utilizing AI detectors. These strategies include:
+View Sarah Ruth Jacobs’s Inside Higher Education article for additional ways to make courses resistant to plagiarism.
+Ultimately, as stated by Marc Watkins  “creating a culture of trust” is more important than “a rote and imperfect method of detecting cheating.” Review CELT’s achieving academic integrity page to reduce the risk of academic misconduct. Contact celt@iastate.edu for additional teaching resources or Assistant Dean and Director of Office of Student Conduct Sara Kellogg at skellogg@iastate.edu.
+
+Copyright © 1995-2023
+Iowa State Universityof Science and TechnologyAll rights reserved. 
+Non-discrimination Policy
+Privacy Policy
+Digital Access & Accessibility
+Accessibility Tools

@@ -1,0 +1,47 @@
+University of North Florida official policy on generative AI Artificial Intelligence
+https://www.unf.edu/ofe/ai/
+
+                            Promotion and Tenure
+                        
+
+                            Programs and Initiatives 
+                        
+
+                            Teaching and Learning
+                        
+
+                            Scholarship
+                        
+
+                            Full-Time Faculty
+                        
+The advent of ChatGPT and other forms of Artificial Intelligence appears to have sparked an existential debate within the realm of higher education. What will this tool mean for students, faculty, administrators, and the very future of education?
+The responses to this pivotal question are as diverse as they are intriguing. For some, this tool represents a potential threat to academic integrity and should be banned from learning environments, with firm restrictions implemented to prevent its use. Conversely, others see this technology as the inevitable future of many fields, viewing universities as the ideal places for students to learn how to utilize it for specific purposes. A third group may find themselves in the middle, grappling to fully understand what this tool is and the unique challenges and opportunities it presents.
+This website has been developed with each of these perspectives in mind. We provide resources for those primarily focused on academic integrity and the establishment of clear guidelines; we offer tools for those eager to harness the power and potential of AI in their learning or teaching; we also cater to those simply wishing to expand their understanding of AI and its potential implications for education, aiding in the development of a more informed stance.
+For those newly venturing into the realm of AI and its implications for education, a beneficial first step would be familiarizing themselves with key terms pertinent to this exploration. This list offers a foundational understanding of some of the most significant terms in this emerging landscape, along with examples of their applications.
+ChatGPT-4: A more powerful variant of GPT-3, ChatGPT-4 is used to generate responses and create conversational agents or chatbots that can interact with students for tutoring or customer service purposes.
+Artbreeder: This tool combines images to create new ones and can be helpful in fields like art, graphic design, and visual communications for generating unique visual content.
+Jukin Media: This is a music generation AI useful in music and entertainment education for creating new tunes and understanding music composition./p>
+Tensorflow Playground: A tool to understand and create neural networks. Although not strictly a generative AI, it’s a learning tool that offers hands-on learning about how AI works.
+MuseNet: Developed by OpenAI, MuseNet can generate 4-minute musical compositions with ten different instruments and combine styles from country to Mozart to The Beatles, creating a novel tool for music education.
+WriteWithTransformer: A tool by Hugging Face that can complete texts with the power of AI, offering a practical tool for writing and literature classes to generate ideas.
+Grammarly: While not purely a generative AI, Grammarly utilizes AI to provide writing assistance, from checking grammar and punctuation to suggesting better ways to frame sentences.
+Google’s Bard: Bard is a conversational generative artificial intelligence chatbot developed by Google, based initially on the LaMDA family of large language models and later the PaLM LLM.
+Copy.ai: Copy.ai is an AI-powered tool that helps generate creative content, such as blog posts, marketing copy, and more. It can be helpful in communication, marketing, and business courses, offering students a chance to see how AI can assist in drafting professional content.
+DALL-E: Created by OpenAI, DALL-E generates unique images from textual descriptions, providing a powerful tool for graphic design, art, and visual communication courses.
+DeepArt.io: This tool uses AI to transform photos into works of art, mimicking the styles of famous artists. It can be a valuable tool for art, design, and digital media studies.
+Runway ML: This creative toolkit uses machine learning models to aid in image creation, making it useful in a wide range of disciplines, from design to digital media.
+This Person Does Not Exist: This website uses AI to generate realistic human faces of people who do not exist. It could be useful in digital arts, psychology, and sociology for discussing perception and reality.
+Lobe.ai: This tool makes it easy to create machine learning models for visual recognition tasks, which can benefit computer science, data analysis, and engineering courses.
+Zoom: This popular video conferencing tool uses artificial intelligence to generate live transcripts during meetings with an 85% accuracy.
+ 
+ 
+Office of Faculty Excellence
+1 UNF Drive
+Jacksonville, FL 32246
+ 
+(904) 620-2261
+OFE@unf.edu
+If you are experiencing difficulty accessing information on the site due to a disability, visit our 
+		website accessibility page.
+

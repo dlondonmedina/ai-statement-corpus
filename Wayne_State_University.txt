@@ -1,0 +1,21 @@
+Wayne State University official policy on generative AI Artificial Intelligence
+https://tech.wayne.edu/news/how-to-securely-explore-the-world-of-ai-46180
+By now, most of us have had fun playing with the new artificial intelligence chatbot tool ChatGPT, a large language model developed by OpenAI that can be used to generate text and images. 
+AI has its proper place in higher education, but it also presents challenges—especially to institutions like Wayne State University which own substantial amounts of sensitive data that is desirable to attackers. 
+While supporting the success of Wayne State includes adapting to and integrating advances in IT, it must be done properly to maintain the security of our learning and working environments.  
+Users need to know how to safely use AI to avoid data breaches—and know how to identify and report such attacks. 
+AI is excellent for exploring, learning, and experimenting.  
+“We’re already seeing the benefits of using AI to create or convert code,” said Wayne State Chief Information Security Officer and C&IT Senior Director of Information Security and Compliance. “But this research is in its infancy and vulnerable to exploitation.” 
+AI should only be used to write code that is part of responsibly managed research or reviewed by a human. AI-generated code should never be used with sensitive applications, including the IT systems and services Wayne State students, faculty, and staff use. 
+We also need to be careful with the data we put into AI. These tools use the information users input over time to learn. If we give these tools sensitive information, we risk the possibility of the tool outputting that data in unpredictable ways or to unauthorized users, leading to a data breach. 
+To protect yourself and the Wayne State community, never input sensitive, personal, or proprietary information into AI. 
+AI is not malicious but has the possibility to be misused by someone with malicious intent to perform illegal and unethical actions. 
+By now, ChatGPT has already collected vast amounts of personal information and will only continue to do so. This data can be used by attackers to create malware, phishing emails, scam messages, and social engineering campaigns.  
+It is our responsibility to remain vigilant in recognizing these threats—if it sounds too good to be true, it is. To recognize scams like this, watch for grammar and spelling errors, unrecognized email addresses and identities, unexpected documents, and language that encourages a sense of urgency. Improper use of colloquialisms or slang, and unnecessarily sophisticated or formal language can all be signs of AI-generated scam messaging. 
+Attackers can also target the tool itself by overloading it to make it unavailable to users, manipulating the data in the tool or inserting malicious data to force incorrect responses, or even modeling (copying) the tool to create a similar but malicious one. 
+As AI becomes more accessible, we are all responsible for keeping Wayne State secure. If you are ever concerned that your Wayne State account(s) has been compromised, please reach out to C&IT immediately. 
+AI presents specific concerns for instructors and there are multiple resources available for Wayne State faculty thanks to our university partners. 
+@WayneStateCIT
+313-577-4357  helpdesk@wayne.edu  Monday - Friday  7:30 a.m. - 8 p.m.
+Privacy and University Policies
+Wayne State University © 2018

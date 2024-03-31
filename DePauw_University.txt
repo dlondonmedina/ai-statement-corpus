@@ -1,0 +1,9 @@
+DePauw University official policy on generative AI Artificial Intelligence
+https://libguides.depauw.edu/a_i
+This guide is intended to be a starting point for information on artificial intelligence, machine learning, and ChatGPT.  How can these tools be used in the classroom by students or faculty? 
+ChatGPT: "A large language model tool that uses artificial intelligence (more specifically, natural language processing), to answer user-generated prompts. It was developed by OpenAI using the GPT 3.5 (Generative Pre-Trained Transformer) and is currently available for public use."  (from McGill University Library LibGuide on AI).
+McGill University Library has also provided an AI Key Terms and Definitions list and a Family Tree graphic showing the relationships between different applications and AI.
+Artificial Intelligence is comprised of computing systems that are able to perform human-like processes to achieve specific goals and tasks by using data to learn, adapt, synthesize, and self-correct.
+AI includes:
+By Derek Bruff
+What Is ChatGPT Doing … and Why Does It Work? by Steven Wolfram, February 14, 2023.

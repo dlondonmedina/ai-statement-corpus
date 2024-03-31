@@ -1,0 +1,28 @@
+Walden University official policy on generative AI Artificial Intelligence
+https://academics.waldenu.edu/artificial-intelligence
+Generative artificial intelligence (AI) tools, such as ChatGPT, Bard, Claude, and others, afford new opportunities to stimulate thinking and supplement learning and assessment in higher education. Using AI tools responsibly for academic purposes and in the classroom is an emerging competency for both students and faculty.  
+While we all continue to better understand and evaluate the evolving use of AI-assisted research and writing tools, students and faculty are expected to use them responsibly by ensuring transparency about the use of AI tools in the writing process. Doing so includes citing whole sentences or paragraphs written by an AI-assisted writing tool that are integrated into one's own writing, just as if using content from any other source. Additionally, when citing or quoting the output of an AI tool, students should include the AI tool input/output transcript in an appendix at the end of the paper. More information and examples are included on the Scholarly Research and Writing With AI Tools page. 
+As we work together to use these new innovative tools ethically and responsibly, setting our course for change does come with some challenges, which we will continue to navigate together. Walden students and faculty can expect ongoing support and training on the ethical and appropriate use of AI tools.   
+Because of the rapid and ongoing changes in the AI landscape, this guidance page will be updated as relevant.
+Faculty Module (The Commons)
+Student Module
+Register to view past webinars on demand.
+AI Done Right: Ethical Use of AI in Research and Writing
+Learning to use generative AI tools responsibly and ethically is an important skill. As you develop your AI literacy, please be mindful of some of the known limitations of these tools: 
+Some generative AI tools are trained on content from prior to a certain date in the past (e.g., prior to September 2021). Therefore, content may be outdated or incomplete. It will be important to fact check content to ensure its accuracy, especially if the content will be directly cited or used to inform further analysis in your scholarly work. Use your best judgment on how, if, and when to use these tools. 
+There is bias and lack of diversity in training data. Because AI-assisted writing is machine generated, the system will learn and reproduce any biases that may be inherent in the training content. As such, AI tool outputs may assert biased information as factual. Similarly, if the training data lacked diversity, the output may favor dominant voices. This is one of the key ethical concerns with generative AI tools. 
+ What you get out is only as good as what you put in. The quality of the outputs you receive from a generative AI tool depends on the prompt entered. It will take time to learn and refine how to best provide prompts to get quality outputs. Try different ways of asking the same question to see how the outputs may vary. Give the tool a role or context to improve the output. 
+ As scholars, our contribution in the classroom requires critical thinking, synthesis, and analysis. AI-assisted writing tools do not provide this type of thinking because they are not human.
+Not a substitute for reading an article, book, etc. References to course materials should only be cited if you have read the actual source material.
+In addition to citing the use of AI tools for ideas or writing that is not original to you, Walden also requires that students include an appendix to document any interaction with an AI tool in the development of their work product.
+Citation Guidelines: How and When to Cite
+On April 7, 2023, the American Psychological Association (APA) issued guidance on how to cite ChatGPT. Walden has adopted this method of citation.
+Use of the direct output of a generative AI tool (i.e., quoting excerpts from the tool’s output) in student work should be uncommon. AI tools, like ChatGPT, are not scholarly sources. Think of AI tool outputs as similar to Wikipedia; both are not scholarly sources, and therefore citation from them is not encouraged. However, if you have a reason to cite an AI tool, follow the APA guidelines below. 
+APA provides the following guidance for citing an AI-Assisted Writing tool:
+Author. (Date). Title (Version) [Description]. Source
+Example:
+OpenAI. (2023). ChatGPT (May 24 version) [Large language model]. https://chat.openai.com/chat
+Here are some responsible ways to use generative AI tools for research and writing support: 
+Walden University is a member of Adtalem Global Education, Inc. www.adtalem.com
+Walden University is certified to operate by SCHEV
+© 2024 Walden University LLC. All rights reserved.

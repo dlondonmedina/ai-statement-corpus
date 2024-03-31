@@ -1,0 +1,85 @@
+Brandeis University official policy on generative AI Artificial Intelligence
+https://www.brandeis.edu/teaching/resources/syllabus/ai-statements.html
+We expect that all work students submit for this course will be their own. In instances when collaborative work is assigned, we expect for the assignment to list all team members who participated. We specifically forbid the use of ChatGPT or any other generative artificial intelligence (AI) tools at all stages of the work process, including preliminary ones. Violations of this policy will be considered academic misconduct. We draw your attention to the fact that different classes at Harvard could implement different AI policies, and it is the student’s responsibility to conform to expectations for each course.
+(Source)
+Students are not allowed to use advanced automated tools (artificial intelligence or machine learning tools such as ChatGPT or Dall-E 2) on assignments in this course. Each student is expected to complete each assignment without substantive assistance from others, including automated tools.
+(Kevin R. Guidry)
+(Source)
+Since writing, analytical, and critical thinking skills are part of the learning outcomes of this course, all writing assignments should be prepared by the student. 
+Developing strong competencies in this area will prepare you for a competitive workplace. Therefore, AI-generated submissions are not permitted and will be treated as plagiarism. 
+Ethics still matter and plagiarism is a serious Salem State University offense.
+(Lis Horowitz)
+(Source)
+This course encourages students to explore the use of generative artificial intelligence (GAI) tools such as ChatGPT for all assignments and assessments. Any such use must be appropriately acknowledged and cited. It is each student’s responsibility to assess the validity and applicability of any GAI output that is submitted; you bear the final responsibility. Violations of this policy will be considered academic misconduct. We draw your attention to the fact that different classes at Harvard could implement different AI policies, and it is the student’s responsibility to conform to expectations for each course.
+(Source)
+Students are allowed to use advanced automated tools (artificial intelligence or machine learning tools such as ChatGPT or Dall-E 2) on assignments in this course; no special documentation or citation is required.
+(Kevin R. Guidry)
+(Source)
+Within this class, you are welcome to use foundation models (ChatGPT, GPT, DALL-E, Stable Diffusion, Midjourney, GitHub Copilot, and anything after) in a totally unrestricted fashion, for any purpose, at no penalty. However, you should note that all large language models still have a tendency to make up incorrect facts and fake citations, code generation models have a tendency to produce inaccurate outputs, and image generation models can occasionally come up with highly offensive products. You will be responsible for any inaccurate, biased, offensive, or otherwise unethical content you submit regardless of whether it originally comes from you or a foundation model. If you use a foundation model, its contribution must be acknowledged; you will be penalized for using a foundation model without acknowledgement. Having said all these disclaimers, the use of foundation models is encouraged, as it may make it possible for you to submit assignments with higher quality, in less time.
+The university's policy on plagiarism still applies to any uncited or improperly cited use of work by other human beings, or submission of work by other human beings as your own.
+(Ryan S. Baker)
+(Source)
+Artificial Intelligence Policy: Are all of our classes now AI classes?
+A. I expect you to use AI (e.g., ChatGPT, Dall-e-2) in this class. In fact, some assignments will require it. Learning to use AI is an emerging skill, and I will provide basic tutorials about how to leverage it for our work. However, be aware of the limits of these software systems.
+B. AI is vulnerable to discrimination because it can inadvertently (or intentionally) perpetuate existing biases present in the data it is trained on. For example, if an AI system is trained on data that contains a bias against a certain group of people, the system may make decisions that are unfair or discriminatory towards that group.
+C. There are several reasons why AI systems can perpetuate discrimination:(i) Bias in the training data: If the training data contains biases, the AI system may learn and replicate those biases in its decision-making.(ii) Lack of diversity in the training data: If the training data does not include a diverse range of examples, the AI system may not perform well on diverse inputs, which may lead to discrimination.(iii) Lack of transparency: Some AI systems can be difficult to understand and interpret, making it challenging to detect and correct for biases(iv) Lack of accountability: Without proper oversight and accountability, it can be difficult to identify and address discrimination in AI systems.(v) It is important to keep in mind that these biases can be unconscious, unintended and hard to detect, but they can have serious consequences if they are not addressed.
+D. AI can be a valuable tool for augmenting human decision-making and critical thinking, but it is not a replacement.
+E. AI is a tool, just like a pencil or a computer. However, unlike most tools you need to acknowledge using it. Pay close attention to whatever information you use in your own work that is produced from AI, and explain how/what you used at the end of assignments. My recommendation is to screen shot and save everything (i.e., what prompts you used, what answers were produced, where, why, and how). This is new territory, but basic attribution rules still apply. Cite everything, otherwise you are likely violating academic integrity policies.
+F. If you provide minimum effort prompts, you will get low quality results. You will need to refine your prompts to get better outcomes. This will take time and practice.
+G. Don't trust anything the systems says. Assume it is wrong, unless you already know the answer and can verify with trusted sources. It works best for topics you deeply understand.
+H. Use your best judgement to determine if/where/when to use these tools. They don't always make products easier and/or better.
+I. Large language models and chatbots are "look back" machines. They don't advance knowledge (yet). ChatGPT-3 uses data from 2021 and earlier (a lot has changed since 2021).Note...some of this was written with Ai; OpenAI. (2021). GPT-3 API. Retrieved from https://beta.openai.com/docs/api-reference/introduction
+(Ryan Gagnon)
+(Source)
+I expect you to use AI (ChatGPT and image generation tools, at a minimum), in this class. In fact, some assignments will require it. Learning to use AI is an emerging skill, and I provide tutorials in Canvas about how to use them. I am happy to meet and help with these tools during office hours or after class.
+Be aware of the limits of ChatGPT:
+If you provide minimum effort prompts, you will get low quality results. You will need to refine your prompts in order to get good outcomes. This will take work.
+Don’t trust anything it says. If it gives you a number or fact, assume it is wrong unless you either know the answer or can check in with another source. You will be responsible for any errors or omissions provided by the tool. It works best for topics you understand.
+AI is a tool, but one that you need to acknowledge using. Please include a paragraph at the end of any assignment that uses AI explaining what you used the AI for and what prompts you used to get the results. Failure to do so is in violation of the academic honesty policies.
+Be thoughtful about when this tool is useful. Don’t use it if it isn’t appropriate for the case or circumstance.
+(Ethan Mollick)
+(Source)
+Certain assignments in this course will permit or even encourage the use of generative artificial intelligence (GAI) tools such as ChatGPT. The default is that such use is disallowed unless otherwise stated. Any such use must be appropriately acknowledged and cited. It is each student’s responsibility to assess the validity and applicability of any GAI output that is submitted; you bear the final responsibility. Violations of this policy will be considered academic misconduct. We draw your attention to the fact that different classes at Harvard could implement different AI policies, and it is the student’s responsibility to conform to expectations for each course.
+(Source)
+Large language models, such as ChatGPT (chat.openai.com) are rapidly changing the tools available to people writing code. Given their use out in the world, the view we will take in this class is that it does not make sense to ban the use of such tools in our problem sets or projects. For now, here is my guidance on how these can and should be used in our class: First and foremost, note that output from ChatGPT can often be confidently wrong! Run your code and check any output to make sure that this actually works. Such AI assistants will give you a good first guess, but these are really empowering for users who invest in being able to tell when the output is correct or not.If you use ChatGPT or similar resources, credit it at the top of your problem set as you would a programming partner.Where you use direct language or code from ChatGPT, please cite this as you would information taken from other sources more generally.
+(Andrew Zeitlin, McCourt)
+(Source)
+Part of treating others with respect is giving appropriate credit for ideas and scholarly works (including code). If you consult with other students on an assignment, report this in the work that you turn in. If in your code you use a library or implementation from another source, indicate that as well (minimally by including a URL in a comment). Do not generate new content with prompt-based AI tools like ChatGPT or CodePilot without permission from instructors unless specifically allowed by the assignment. (Using, for example, Grammarly as a language aid is OK.) Instructors reserve the right to request an oral explanation of answers. (Nathan Schneider, Computer Science)
+(Source)
+You may use AI programs e.g. ChatGPT to help generate ideas and brainstorm.  However, you should note that the material generated by these programs may be inaccurate, incomplete, or otherwise problematic.  Beware that use may also stifle your own independent thinking and creativity.
+You may not submit any work generated by an AI program as your own.  If you include material generated by an AI program, it should be cited like any other reference material (with due consideration for the quality of the reference, which may be poor).
+Any plagiarism or other form of cheating will be dealt with severely under relevant Penn policies.
+(Holly Fernandez Lynch)
+(Source)
+Transparency: When/if you use Artificial Intelligence (AI) platforms in your assignments, please write a note to clarify where in your process you used AI and which platform(s) you used. We will discuss this more throughout the semester in class, and you are encouraged to reflect on this in your writing as well. Please note that what the AI writing tools generate is often inaccurate and you may have to exert effort to create something meaningful out of them. I also hope that when the assignment is about reflecting on your own opinion or experience, you will do so.
+(Maha Bali; @Bali_Maha)
+(Source)
+Students are allowed to use advanced automated tools (artificial intelligence or machine learning tools such as ChatGPT or Dall-E 2) on assignments in this course if instructor permission is obtained in advance. Unless given permission to use those tools, each student is expected to complete each assignment without substantive assistance from others, including automated tools.
+(Kevin R. Guidry)
+(Source)
+Students are allowed to use advanced automated tools (artificial intelligence or machine learning tools such as ChatGPT or Dall-E 2) on assignments in this course if that use is properly documented and credited. For example, text generated using ChatGPT-3 should include a citation such as: “Chat-GPT-3. (YYYY, Month DD of query). “Text of your query.” Generated using OpenAI. https://chat.openai.com/” Material generated using other tools should follow a similar citation convention.
+(Kevin R. Guidry)
+(Source)
+Policy on the use of generative artificial intelligence tools:
+Using an AI-content generator such as ChatGPT to complete assignment without proper attribution violates academic integrity. By submitting assignments in this class, you pledge to affirm that they are your own work and you attribute use of any tools and sources.
+Learning to use AI responsibly and ethically is an important skill in today’s society. Be aware of the limits of conversational, generative AI tools such as ChatGPT.
+(Alexa Alice Joubin)
+(Source)
+A Few Words about Generative AI (e.g. ChatGPT)
+Writing is integral to thinking. It is also hard. Natural language processing (NLP) applications like ChatGPT or Sudowrite are useful tools for helping us improve our writing and stimulate our thinking. However, they should never serve as a substitute for either. And, in this course, they cannot.    
+Think of the help you get from NLP apps as a much less sophisticated version of the assistance you can receive (for free!) from a Bentley Writing Center tutor. That person might legitimately ask you a question to jump-start your imagination, steer you away from the passive voice, or identify a poorly organized paragraph, but should never do the writing for you. A major difference here, of course, is that an NLP app is not a person. It’s a machine which is adept at recognizing patterns and reflecting those patterns back at us. It cannot think for itself. And it cannot think for you.  
+With that analogy in mind, you will need to adhere to the following guidelines in our class.  
+Appropriate use of AI when writing essays or discussion board entries:
+Inappropriate use of AI when writing essays or discussion board entries:
+Evidence of inappropriate AI use will be grounds for submission of an Academic Integrity report. Sanctions will range from a zero for the assignment to an F for the course.
+I’m assuming we won’t have a problem in this regard but want to make sure that the expectations are clear so that we can spend the semester learning things together—and not worrying about the origins of your work.
+Be aware that other classes may have different policies and that some may forbid AI use altogether.
+(Chris Beneke)
+(Source)
+We treat AI-based assistance, such as ChatGPT and Github Copilot, the same way we treat collaboration with other people: you are welcome to talk about your ideas and work with other people, both inside and outside the class, as well as with AI-based assistants. However, all work you submit must be your own. You should never include in your assignment anything that was not written directly by you without proper citation (including quotation marks and in-line citation for direct quotes). Including anything you did not write in your assignment without proper citation will be treated as an academic misconduct case.
+If you are unsure where the line is between collaborating with AI and copying from AI, we recommend the following heuristics:
+Deviating from these heuristics does not automatically qualify as academic misconduct; however, following these heuristics essentially guarantees your collaboration will not cross the line into misconduct.
+(David Joyner)
+(Source)
+It is important to remember that chatGPT and other AI tools are not a replacement for your own critical thinking and original ideas. The ultimate goal of this course and any tool used to submit work is to enhance your own learning and understanding, not to undermine it.
+If you have questions about what is permitted, please reach out to me.

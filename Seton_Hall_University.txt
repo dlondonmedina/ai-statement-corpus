@@ -1,0 +1,101 @@
+Seton Hall University official policy on generative AI Artificial Intelligence
+https://www.shu.edu/technology/ai/ai-resources-and-consultations.html
+Javascript must be enabled for the correct page display
+Academics
+Resources
+Quick Links
+Department of Information Technology
+Artificial Intelligence
+The TLTC instructional design team is available to discuss your assignments and course
+                              policies while considering the new developments in AI. Work with your designated instructional
+                              designer to explore instructional options for adapting your course to address the use of AI.
+Request a Consultation
+Kahn, I. (2023, September 23). ChatGPT Glossary: 41 AI Terms that Everyone Should Know. CNET.  
+This is a handy glossary of terms that will come up in conversation about generative
+                              AI. The list includes short definitions for terms such as hallucination, guardrails,
+                              and emergent behavior which can be helpful when decoding unfamiliar terminology in
+                              other articles.  
+UNESCO International Institute for Higher Education in Latin America and the Caribbean.
+                           (2023). ChatGPT and Artificial Intelligence in higher education Quick Start guide.   
+This practical guide from UNESCO provides a getting started guide that includes how
+                           to create an account and use ChatGPT. Further sections provide higher education applications
+                           of the tool including teaching and learning, research, administration, and community
+                           engagement. A section on challenges and ethical implications provides quick takes
+                           on concerns that arise in higher education.  
+Calhoun, V. A. (2023, May 23). The Future of Higher Education – The Rise of AI and ChatGPT on Your Campus. NASPA Student Affairs Administrators in Higher Education.  
+“So, what does AI mean for higher education? The answer remains a bit elusive, but
+                              one thing is certain: ChatGPT is just the beginning. As AI continues to evolve, we
+                              can expect it to shape our lives in unprecedented ways, including how we learn, teach,
+                              and navigate the world.”   
+AIPRM. (2024). AIPRM’s Ultimate Generative AI Glossary.  
+From students to professionals, this resource is designed to empower every reader
+                        with a solid and clear understanding of the critical concepts that drive generative
+                        AI. Use this easy-to-understand glossary to confidently navigate the dynamic world
+                        of generative AI. Think of each term as a tool, helping you build a stronger understanding
+                        and fostering meaningful discussions in this fast-paced field.
+Fyfe, P. (2023). How to cheat on your final paper: Assigning AI for student writing. AI & SOCIETY: Journal of Knowledge, Culture and Communication, 38(4), 1395–1405.
+Fyfe explores the results of a pedagogical experiment in which honors undergraduates
+                           in an interdisciplinary seminar integrated AI content into their writing assignment
+                           without revealing what parts were student generated and which were from the AI source.
+                           This assignment was followed with a “revealed” Appendix version of the assignment.
+                           Students were asked to reflect on ethics, plagiarism, and potential uses for AI assistance
+                           in writing.
+Foltynek, T., Bjelobaba, S., Glendinning, I., Khan, Z. R., Santos, R., Pavletic, P.,
+                              & Kravjar, J. (2023). ENAI Recommendations on the ethical use of Artificial Intelligence in Education. International Journal for Educational Integrity, 19(1), Article 1. 
+The European Network for Academic Integrity provides background and context for academic
+                              integrity. The article shares recommendations on how to bring students into the conversation
+                              about artificial intelligence and its ethical use. Recommendations for educators include
+                              training in AI concepts as well as writing relevant learning outcomes tied to learning
+                              activities and assessments.   
+Kelley, K. J. (2023, January 18). Teaching Actual Student Writing in an AI World. Inside Higher Ed.   
+In this article, Kelley shares ten strategies to “AI proof” assignments. In addition
+                           to standard recommendations of creating a class policy and becoming familiar with
+                           a tool such as ChatGPT, the author provides one paragraph write ups of specific ideas.
+                           The use of in class writing based on the student’s turned in digital assignment, trips
+                           to the library archives, turning in multiple drafts of work, and turning in raw data
+                           to back up work are among the ideas shared in the article.  
+Southworth, J., Migliaccio, K., Glover, J., Glover, J., Reed, D., McCarty, C., Brendemuhl,
+                              J., & Thomas, A. (2023). Developing a model for AI Across the curriculum: Transforming the higher education
+                                 landscape via innovation in AI literacy. Computers and Education: Artificial Intelligence, 4. 
+  Four academic areas (Departments of Geography, Agricultural and Biological Engineering,
+                              College of Liberal Arts and Sciences, and College of Agricultural and Life Sciences)
+                              and four administrative areas (Office of the Provost, Career Connections Center, Florida
+                              Museum of Natural History, UF Information Technology) collaboration on AI Literacy.  
+  Artificial Intelligence (AI) is a ubiquitous concept and tool already found across
+                              society and an integral part of everyday life. As such, basic understanding and knowledge
+                              of AI should be a critical component of student education to foster successful global
+                              citizens. This position paper describes one possible path to address potential gaps
+                              in AI education and integrate AI across the curriculum at a traditional research university.  
+Bains, C. (2023, July 29). AI prompt engineering: Learn how not to ask a chatbot a silly question. The Guardian (London, England). 
+Concise information organized into specific areas:  
+Holt, O. (2023). Brainstorming With AI. TD: Talent Development, 77(7), 24–29.  
+At a high level, ChatGPT is a chatbot interface paired with complex AI algorithms
+                              referred to as a large language model; LLMs are a type of AI designed to understand
+                              and generate human language. Ensure AI Prompts Are Inclusive and Free of Implicit
+                              Biases When working with artificial intelligence systems like ChatGPT, it is crucial
+                              to recognize that they can be biased based on the data they have consumed. Working
+                              with AI as a brainstorming activity To obtain the most accurate response from ChatGPT,
+                              it is essential to comprehend its generation process and tailor the question accordingly
+                              in a process often referred to as prompt engineering. Prompt: Artificial intelligence
+                              has become a ubiquitous technology in daily life.  
+Morales, P. (2023). Write ChatGPT Prompts to Improve Learning - Prompts, tips & templates to improve learning
+                                 outcomes and protect academic integrity. Honorlock.
+While there is concern surrounding the adoption of AI tools, understanding howto leverage AI when creating your test questions and assignments is key toachieving better learning outcomes. But where do you begin? We’ll show you tipsand strategies from Paul Morales, Senior Vice President of Information Security &Technology at Honorlock, that can improve learning outcomes by better assessingknowledge and protecting academic integrity.
+Sweeney, S. (2023). Who wrote this? Essay mills and assessment – Considerations regarding contract cheating
+                              and AI in higher education. International Journal of Management Education, 21(2).
+  The growing incidence of academic dishonesty (AD) involving students using commercial
+                           essay writing services (essay mills) or Artificial Intelligence (AI) risks the credibility
+                           of assessment approaches within higher education (HE) worldwide. Reflecting on experience
+                           from a UK business school, the article explores the potential for novel assessment
+                           design and feedback to reduce the prevalence of AD.  
+New Jersey Unveils AI Policy to Guide Use by State Employees. (2023, November 20).
+                           GovTech. https://www.govtech.com/artificial-intelligence/new-jersey-unveils-ai-policy-to-guide-use-by-state-employees
+Ohio Creates Policy and Council to Govern Statewide AI Use. (2023, December 4). GovTech.
+                           https://www.govtech.com/artificial-intelligence/ohio-creates-policy-and-council-to-govern-statewide-ai-use
+Follow #SetonHall
+ 
+ 
+ 
+ 
+ 
+ 

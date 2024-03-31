@@ -1,0 +1,32 @@
+Brown University official policy on generative AI Artificial Intelligence
+https://www.brown.edu/about/administration/provost/communications/potential-impact-ai-our-academic-mission
+August 31, 2023
+Dear Members of the Brown Community,
+Amid ongoing national conversations across higher education regarding the use of AI tools, I am writing to provide information about University resources related to AI, guidelines for use, and upcoming community discussions. 
+There is no shortage of public analysis regarding the ways in which the use of generative artificial intelligence (AI) tools (such as ChatGPT) – which are open-access tools that can generate realistic text, computer code, and other content in response to prompts from the user – provides both challenges and opportunities in higher education. Accordingly, exploring the use of AI in ways that align with Brown’s values has been a topic of discussion among our senior academic leaders for several months. As we identify the ways in which AI can enhance academic activities for faculty and student success and administrative activities for staff, we must also ensure these tools are understood and used appropriately and ethically. 
+Below is a list of resources where you can find guidance on the following:
+AI Usage Guidance
+There is a diversity of practice among faculty regarding AI, and instructors may choose whether or not to allow the use of AI tools and to what extent. While the University is not prescribing specific AI policies, faculty should offer clear, unambiguous information about what is, and is not, allowed in their courses. The Sheridan Center for Teaching and Learning at Brown provides sample syllabus language as well as other tips for classroom integration. Again, links to these and other resources in this message are provided at the bottom of this email.
+Academic Integrity
+One of the most common concerns about AI is the potential for plagiarism, or students using the system to do work that they then present as something they created without AI assistance. Any unapproved use of AI to complete assignments would be covered by Brown’s Academic Code and Academic Code, Graduate Student Edition.
+Citation and Attribution
+If you choose to use generative AI tools for course assignments, academic work, or other forms of published writing, you should give special attention to how you acknowledge and cite the output of those tools in your work. The Library has compiled general guidelines for citing AI-generated content, as well as more specific guidance from the three major style guides. 
+Protecting Information
+AI tools are often web services that can store, learn from, and possibly re-share the data you share with them. The Office of Information Technology (OIT) provides guidance on how to make sure you are not exposing important or sensitive data to these services.
+AI as a Research Tool
+The rapid emergence of AI technology offers great potential for researchers as they design, conduct, support, and present their research. However, there are also a number of challenges and risks to understand when using these tools in the research domain. OIT's Center for Computation and Visualization has published a reference guide to understanding and using generative AI as a research tool. The guide also includes a helpful glossary of generative AI terms.
+Protecting Intellectual Property
+While AI has great potential for university research, Brown investigators contemplating using generative AI tools in their own research should be cognizant of the various intellectual property issues related to its use. The Office of the Vice President for Research (OVPR) has published Initial Guidance for Researchers, which offers important information for researchers about the intersection of generative AI and intellectual property, as well as considerations around public disclosure and patentability.
+Next Steps
+AI tools will rapidly evolve in the coming months and years, and Brown is well positioned to innovate in this space. Experts from across our campus – from engineering, public health, medicine, the social sciences, the humanities, policy leaders and technologists – have already been incorporating AI into their work. I encourage all of you to experiment with AI to find ways it could be helpful to your academic experience. 
+Beginning in the fall, the Data Science Institute will partner with the Office of the Provost for “Conversations on AI and our data-driven society,” a series of monthly campus-wide discussions about the impact of AI on how we live, work, and educate the next generation The Library has also planned weekly discussions and working groups to address various issues surrounding AI from different perspectives. 
+I look forward to continued discussions with academic leadership as we monitor the evolution of these tools and discover innovative applications to improve learning outcomes and inform research directions. Please feel free to send additional comments, questions, or concerns to [email protected].
+Sincerely, 
+ 
+Frank Doyle
+Provost
+Providence, Rhode Island 02912, USA
+Phone: 401-863-1000
+Maps & Directions / Contact Us  / Accessibility
+© 2024 Brown University
+Connect: Social@Brown

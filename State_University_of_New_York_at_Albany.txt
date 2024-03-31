@@ -1,0 +1,39 @@
+State University of New York at Albany official policy on generative AI Artificial Intelligence
+https://www.albany.edu/ai-plus
+AI Plus is UAlbany’s holistic approach to integrating teaching and learning about AI throughout our academic and research programs to ensure every graduate is prepared to live and work in a world radically changed by technology in the coming decades.  
+AI Plus is not a program within the University. It is an institution-wide recognition of the centrality of AI to the future of knowledge creation, scientific discovery, creative expression and workforce development — a future UAlbany is determined to lead.
+To realize this vision, we also are dramatically expanding our supercomputing capacity through collaborations with IBM and NVIDIA to ensure our faculty, staff and students have access to some of the most innovative and powerful hardware available.
+ 
+From art to semiconductor design and from social welfare to philosophy, UAlbany is ensuring every interested student in every major has access to coursework that provides both a foundational and discipline-specific understanding of artificial intelligence. Central to this effort is the largest cluster hire of faculty in UAlbany history: we’re recruiting 27 of the brightest minds to teach about AI in their disciplines across every UAlbany school and college.
+The AI Plus Research Institute is the hub that will connect researchers working in artificial intelligence across the University and beyond it. Each of the 27 new faculty hires will be affiliated with the Institute, as will the many existing faculty already using AI technology in their work. The Institute’s mission is to cultivate interdisciplinary research collaborations that will open new avenues of discovery, maximize extramural research funding, seed industry partnerships, and create high-impact undergraduate and graduate research opportunities for students focused on artificial intelligence and its many applications.
+Supported by a $75 million investment from New York State, UAlbany is significantly expanding the artificial intelligence supercomputing resources available in New York. A new research collaboration between UAlbany and IBM on the Center for Emerging Artificial Intelligence Systems resulted in UAlbany being the first university in the world to host an IBM Artificial Intelligence Unit computing cluster designed specifically for AI inferencing. Simultaneously, UAlbany is building another supercomputing cluster powered by advanced NVIDIA DGX hardware that will give our students, faculty and staff access to some of the fastest and most powerful computers available.
+Novel microelectronics hardware and new approaches to computing architectures are critical for AI applications, which require energy efficiency and computation density. 
+College of Nanotechnology, Science, and Engineering (CNSE) researchers are using advanced nanofabrication processes to build nanoscale memory devices capable of mimicking the human brain’s synaptic functions and demonstrating efficient in-memory computation — the first steps towards hardware acceleration for AI applications.  
+Our AI hardware engineering work has many real-world applications, including chip design and development, machine learning, neuromorphic computing and chip-based hardware accelerators.  
+Support for these activities comes from a variety of funding sources, including major investments from the Air Force Research Laboratory, National Science Foundation and the SUNY-IBM AI Research Alliance.  
+We are also a key partner in the American Semiconductor Innovation Coalition (ASIC), which is dedicated to bringing the best research and development to the National Semiconductor Technology Center and the National Advanced Packaging Manufacturing Program. 
+UAlbany, with its advanced Mesonet, is a world leader in atmospheric science and climate research.
+Our researchers have been awarded $2.4 million as a partner in the NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography (AI2ES), led by the University of Oklahoma, to develop AI-based technologies that will be used to better monitor and predict winter weather. AI2ES was one of the first seven NSF National AI Institutes launched in 2020. 
+Through a partnership with IBM, UAlbany's climate and weather experts are working to improve weather-based decision-making for New Yorkers. They are focused on the impact of weather and climate changes on transportation, renewable energy generation and sea level.
+These projects focus on harmful algal bloom (HAB) detection and prediction in lakes and reservoirs; winter road weather maintenance and operations; impacts of severe flooding events, including improving advanced warning; Numerical Weather Prediction (NWP) collaboration utilizing NYS Mesonet data and IBM forecasting models and methods; and renewable energy (solar and wind) generation forecasting.
+UAlbany is leading innovative research and collaborating with other universities to explore how using artificial intelligence can improve crisis decision-making to save lives and property. AI can be deployed to manage a host of issues, including critical infrastructure disruptions, natural disasters and public health crises.  
+UAlbany's state-of-the-art ETEC complex, with its unique situation room, can replicate emergency operations scenarios. The facility allows for testing, simulating and validating first responder mobilization and end-user interactions with decision support systems.  
+Human capacity for information processing in crises and emergency management will be substantially enhanced through artificial intelligence, large-data science and information communication technology.    
+AI-augmented crisis decision-making can improve outcomes nationwide and beyond, protecting lives, property and trust in public institutions. 
+Intelligent security and privacy analysis are critical to thwarting social engineering attacks.
+UAlbany researchers are using automated techniques to assess the security and privacy behavior of applications. AI is essential for analyzing the enormous body of communications data and recognizing ominous patterns to protect against impending threats to cyber and national security.
+Our researchers are developing investigative tools that detect attacks, engage perpetrators in real-time conversation and disrupt nefarious plans.
+Artificial intelligence and simulation — including agent-based modeling, system dynamics modeling and social network analysis — provide important insights into the complex interrelationships that drive population-level outcomes.
+Traditionally applied to infectious disease modeling, UAlbany researchers are applying these algorithms to other problems, such as violence, mental health and chronic disease. 
+Our researchers have also developed robust and efficient machine learning algorithms for application domains, including the prediction of tumor growth and robotic surgery, allowing surgeons to complete precision procedures that would not be possible by hand. 
+Artificial intelligence has tremendous potential to increase efficiency and assist humans in all aspects of their lives. But before it becomes widely accepted, AI's structural and design features need to be deemed trustworthy.
+UAlbany’s philosophy, psychology and mathematics experts are investigating human functions in moral contexts to determine the trustworthiness of artificial agents. 
+Researchers received $100K in funding from the SUNY-IBM AI Collaborative Research Alliance to develop the foundations of a trustworthiness assessment framework for AI-driven systems. The projects seek to establish artificial intelligence that intrinsically realizes human values with implementations that empower people, rather than manipulate them. 
+
+facebook
+twitter
+instagram
+youtube
+linkedin
+Tiktok
+

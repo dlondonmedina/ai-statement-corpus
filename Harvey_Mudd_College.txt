@@ -1,0 +1,216 @@
+Harvey Mudd College official policy on generative AI Artificial Intelligence
+https://www.hmc.edu/academics/faculty/
+Harvey Mudd College faculty have a wide range of research interests.
+Stuart Mudd Professor of BiologyChair of the Department of BiologyPhD, University of Washington
+Physiological, evolutionary and behavioral ecology of lizards; mathematical models in ecology and evolution; statistical estimation of physiological performance.
+Professor of BiologyPhD, University of California, Berkeley
+Neural control and mechanics of locomotion.
+Professor of BiologyPhD, California Institute of Technology
+Molecular evolution of noncoding DNA.
+Associate Professor of BiologyPhD, University of Washington
+How social insects, such as bees and ants, coordinate group behaviors.
+Professor of Chemistry and BiologyPhD, Harvard University
+The biochemistry of protein:nucleic acid interactions in the context of DNA repair and the innate immune response to HIV infection.
+Associate Professor of BiologyPhD, Harvard University
+Molecular and cellular biology with an emphasis on aging and longevity determination.
+Vivian and D. Kenneth Baker Professor in the Life SciencesPhD, University of Washington
+Molecular systematics of Octocorallia; life history evolution in colonial marine invertebrates.
+Associate Professor of BiologyPhD, University of California, Berkeley
+African trypanosomes, the parasites transmitted through tsetse flies that cause sleeping sickness (African trypanosomiasis).
+Professor of BiologyPhD, The State University of New York, Stony Brook
+Function and evolution of bacterial regulatory networks.
+Assistant Professor of ChemistryPhD, Columbia University
+Organic chemistry, polymer chemistry, and chemical biology.
+Seeley Wintersmith Mudd Professor of Chemistry and BiologyChair, Department of ChemistryPhD, Harvard University
+The biochemistry of protein:nucleic acid interactions in the context of DNA repair and the innate immune response to HIV infection.
+Professor of ChemistryHixon Professor of Climate StudiesPhD, Scripps Institution of Oceanography
+Characterization of light-absorbing compounds in atmospheric aerosol.
+Assistant Professor of ChemistryPhD, Purdue University
+Broadband microwave spectroscopy to study molecular interactions.
+Professor of ChemistryPhD, Massachusetts Institute of Technology
+Design of ligands for the synthesis of chiral transition metal complexes; enantioselective catalysis.
+Assistant Professor of Climate and ChemistryPhD, University of Toronto
+Atmospheric chemistry.
+R. Michael Shanahan Professor of ChemistryAssociate Dean of the FacultyPhD, University of Wisconsin-Madison
+Synthesis and spectroscopic characterization of bio-inspired transition metal complexes.
+John Stauffer Professor of ChemistryPhD, University of Wisconsin-Madison
+Solar energy conversion, study of energy and electron transfer in self-assembled systems; electronic materials; monolayer chemistry at surfaces; analytical chemistry.
+Professor of ChemistryPhD, The Scripps Research Institute
+Biomimetic cyclizations, natural product synthesis, green chemistry.
+Assistant Professor of ChemistryPhD, California Institute of Technology
+Theoretical and computational chemistry for liquids, solutions, and soft-matter systems
+Associate Professor of Computer SciencePhD, University of California, Santa Barbara
+Software verification and formal methods for security.
+Csilla and Walt Foley Endowed Professor in Computer ScienceAssociate Professor of Computer Science Chair, Department of Computer SciencePhD, University of Michigan
+Artificial intelligence, automated planning and scheduling, human-robot teamwork and user experience design.
+Associate Professor of Computer ScienceClinic Curricular DirectorPhD, Stanford University
+Computer graphics, human gaze response.
+Leonhard-Johnson-Rae Professor of Computer ScienceClinic Recruiting DirectorPhD, Yale University
+Real-time computer vision, vision-based autonomous robotics and mapping; and the development of low-cost robots for research and education.
+Maria M. Klawe Professor of Climate and Computer SciencePhD, Carnegie Mellon University
+Human-Computer Interaction and Accessibility
+Associate Professor of Computer ScienceAssociate Chair, Department of Computer SciencePhD, University of Washington
+Natural language processing.
+Associate Professor of Computer SciencePhD, Carnegie Mellon University
+The intersection of computer science, algorithmic search and mathematics.
+Professor of Computer SciencePhD, Simon Fraser University
+Functional programming languages and parallelism.
+Assistant Professor of Computer SciencePhD, UCLA Henry Samueli School of Engineering and Applied Science 
+Machine learning.
+Assistant Professor of Computer SciencePhD, Cornell University
+Designing easy-to-use tools for large-scale corpus text mining, with a focus on distributional semantic models.
+Professor of Computer SciencePhD, Carnegie Mellon University
+Type theory, programming language semantics, object calculi and compilers, concurrency.
+Associate Professor of Computer SciencePhD, University of Michigan
+Applications of machine learning to artificial intelligence, creation of artificial autonomous agents that can act flexibly and competently in unknown environments.
+Associate Professor of Computer ScienceUniversity of California, Berkeley
+Database systems, human computation.
+Professor of Computer ScienceCore Curriculum DirectorPhD, University of Texas at Austin
+Programming languages.
+Assistant Professor of Computer SciencePhD, York University
+Computer vision. 
+Associate Professor of Computer SciencePhD, Massachusetts Institute of Technology
+Computational biology.
+Assistant Professor of EngineeringPhD from the University of Southern California
+
+Professor of EngineeringPhD, Stanford University
+Deformation mechanisms in polycrystalline metals, computational mechanics and plant biomechanics.
+Assistant Professor of EngineeringPhD, Stanford University
+Optical technologies to probe and measure brain activity, mind/body/machine interfaces (MBMI) to improve and expand human cognition.
+Professor of Engineering and C.F. Braun & Company FellowPhD, University of Michigan
+Effects of parameter uncertainties on the dynamics of structures; model updating; imposing nodes for arbitrarily supported elastic structures during harmonic excitations; frequency analysis of combined dynamical systems; vibration of beams carrying spring-mass-damper systems; vibration suppression using oscillators.
+Associate Professor of Engineering Associate Department ChairPhD, University of California, Berkeley
+Synthesis and applications of nanomaterials.
+Assistant Professor of EngineeringPhD, University of Chicago
+Designing bio-inspired sensing materials to detect emerging contaminants in water
+Clinical Professor of EngineeringPhD, California Institute of Technology
+
+Harvey S. Mudd Professor of Engineering DesignPhD, Stanford University
+Digital systems, integrated circuit design and microprocessors.
+Assistant Professor of EngineeringPhD, University of California, Berkeley
+Integrated energy storage and conversion systems, grid electrification, building decarbonization.
+Fletcher Jones Professor of Engineering DesignPhD, Boston University
+Friction, wear and lubrication in mechanical and biological systems, design education.
+James Howard Kindelberger Professor in EngineeringChair, Department of EngineeringPhD, University of Minnesota
+The effects of hydration and mechanical stretching on transport of drugs and toxins across human skin; Design and modeling of nanocomposite gas separation membranes; Engineering education.
+Clinical Professor of EngineeringDirector, Rick and Susan Sontag Center for Collaborative Creativity (The Hive)B.S., Mathematics, Swarthmore College
+Design thinking, human centered design, creativity, innovation.
+Associate Professor of EngineeringPhD, Massachusetts Institute of Technology
+Biological and bio-inspired fluid dynamics and imaging techniques for fluid flow measurement.
+Professor of EngineeringPhD, University of Michigan 
+Intersection of human factors, operations management and production. Improving learning systems that account for individual differences in skill levels, learning, forgetting, temporal motivation, cognition, personality and modes of communication.
+Assistant Professor of EngineeringB.S., Harvey Mudd College; PhD, Cornell University
+Materials engineering, vibrations, dynamics, crystal and electronic structure; combining group theory with atomistic simulations (such as density functional theory) to understand and enhance useful materials properties.
+Iris & Howard Critchell Assistant Professor of EngineeringDirector, Engineering ClinicB.S., Harvey Mudd College; PhD, Cornell University
+Microfluidics and nanofluidics.
+Associate Professor of EngineeringPhD, University of California, Berkeley
+Circuit design, MEMS.
+Professor of EngineeringUnion Oil Company Engineering Design FellowPhD, Massachusetts Institute of Technology
+Materials processing (especially containerless), process control, optical diagnostics and heat transfer (especially radiant).
+Clinical Professor of EngineeringAssociate Director, Rick and Susan Sontag Center for Creative Collaboration (The Hive)
+
+Associate Professor of EngineeringPhD, University of California, Berkeley
+The intersection of signal processing, machine learning and music.
+Professor of EngineeringPhD, Princeton University
+Optical communications, optical packet switching networks, QoS in optical networks.
+Walter and Leonore Annenberg Chair in LeadershipVienna University of Technology
+Leadership, communication skills, emotional intelligence, team building.
+Louisa and Robert Miller Professor in the HumanitiesProfessor of MusicDMA, University of Southern California
+Music composition, computer music, tuning systems, abstract animation, gamelan and other world music.
+Alexander and Adelaide Hixon Professor of HumanitiesProfessor of Comparative LiteraturePhD, New York University
+Contemporary writers and filmmakers from Africa and Latin America. Teaches on cultural and race studies, cinema and postcolonial literatures.
+Associate Professor of MusicDirector of the Claremont Concert Orchestra, Scripps College (Joint Music Program)DMA, Northwestern University
+Conducting symphonic and operatic repertoire; research on alternative modes of orchestral training and music as an interdisciplinary art form.
+Associate Professor of Literature and Avery FellowPhD, Claremont Graduate University
+Early modern English literature; Shakespeare; postcolonial theory; East-West encounter.
+Professor of Anthropology and Science, Technology, and SocietyAssociate Dean for Academic AffairsPhD, University of Utrecht, Netherlands
+Social studies of science; cultural anthropology; technologyand culture; video game culture; practices of knowledge-making; collaboration and management in big science.
+Willard W. Keith Jr. Fellow in the HumanitiesAssociate Professor of Religious StudiesPhD, Columbia University
+Religion and science; intersections between social-change activism and religion; American religious history; and church and state.
+Professor of ArtMichael G. and C. Jane Wilson Chair in Arts and HumanitiesMFA, University of Illinois at Chicago
+Interdisciplinary arts.
+Assistant Professor of Asian American StudiesPhD, University of California, Los Angeles
+Pacific Islander history, Asian American history, labor, militarization, race, settler colonialism.
+Assistant Professor of PsychologyPhD, University of Virginia
+Social psychology of social movements, racism, capitalism and wealth inequality.
+Professor of LiteraturePhD, Claremont Graduate School
+Nineteenth-century American literature; history of the book; Shakespeare.
+Associate Professor of the History of SciencePhD, University of Toronto
+History of physics; history of medicine; gender and science; disciplinary cultures in science.
+Associate Professor of MusicDirector of Choirs, Scripps College (Joint Music Program)DMA, Yale University
+Conductor of the Claremont Concert Choir and the Claremont Chamber Choir; professional vocal soloist and conductor; research on performance practices of renaissance and early Baroque music, 19th century nationalism in music and contemporary Scandinavian choral repertoire.
+Assistant Professor of EconomicsPhD, Oregon State University
+Environmental economics; microeconomic theory.
+Professor of Media StudiesMFA, University of California, San Diego
+Contemporary art, media studies (especially film studies), cultural studies, science studies, video and new media production and installation.
+Associate Professor of Creative WritingMFA, Syracuse University
+Creative writing; The novel as print technology.
+Associate Professor of Cultural GeographyPhD, University of Toronto
+Geographies of citizenship; feminist, critical race and queer theories; affect.
+Malcolm Lewis Chair of Sustainability and SocietyProfessor of Political Science and Environmental PolicyPhD, University of California, Santa Cruz
+Comparative and international environmental politics; environmental governance in developing countries; biodiversity; research methods.
+Willard W. Keith, Jr. Fellow in the HumanitiesProfessor of PhilosophyChair, Humanities, Social Sciences, and the ArtsPhD, University of Michigan
+History of ethics; moral and political philosophy.
+Smallwood Family Professor of MathematicsPhD, Johns Hopkins University
+Combinatorics, game theory, and number theory, with particular emphasis on combinatorial proofs and Fibonacci numbers.
+Professor of MathematicsPhD, Trinity College, Cambridge University
+Fluid Mechanics including thin films, free surface problems, modelling of intermolecular forces, microfluidics and generation of micron-sized aerosols, mixing and advection/diffusion processes; material science, in particular continuum modelling and surface diffusion; mathematical methods, in particular dynamical systems, pattern formation self-similarity and scaling phenomena, and asymptotic methods.
+Robert and Barbara McAlister Professor of MathematicsPhD, University of Cincinnati
+Existence, multiplicity and bifurcation of solutions to nonlinear partial differential equations, general applied mathematics.
+Norman F. Sprague Jr., Professor of Life SciencesProfessor of MathematicsPhD, University of California, Los Angeles
+Cancer immunology modeling, mathematical biology, optimal control, parallel computing, numerical analysis, computational fluid dynamics, numerical linear algebra.
+Robert and Barbara McAlister Professor of MathematicsM.A., PhD, University of Pennsylvania
+Differential geometry and topology; geometrical modeling and design, applications to math-biology, applications to industrial mathematics (optimal control, encryption and color scheme).
+Assistant Professor of MathematicsPhD, University of California, Davis
+Mathematical data science, optimization, applied convex geometry.
+Kenneth and Diana Jonsson Professor of MathematicsChair, Department of MathematicsPhD, University of Utah
+Partial differential equations, dynamical systems, pattern formation, mathematical biology.
+Professor of MathematicsPhD, University of British Columbia
+Geometry and algebraic geometry. Including quantum geometry, Gromov-Witten theory and related subjects.
+Associate Professor of MathematicsPhD, University of Utah
+Commutative algebra, homological algebra and representation theory.
+Professor of MathematicsPhD, Massachusetts Institute of Technology
+Operations research techniques applied to problems in homeland security; other public sector applications of mathematical modeling.
+Joseph B. Platt Chair in Effective TeachingProfessor of MathematicsPhD, University of California, Davis
+Algebraic methods in graph theory and discrete/combinatorial optimization.
+Professor of MathematicsPhD, Dartmouth College
+Graph theory, voting theory, representation theory, computational noncommutative harmonic analysis.
+Benediktsson-Karwa Chair in MathematicsPhD, Harvard University
+Geometric and topological combinatorics, fair division problems in game theory and mathematical economics.
+Associate Professor of MathematicsDirector, Mathematics ClinicPhD, Rice University
+Statistical techniques applied to problems in the environment, dynamic space – time modeling, nonstationary covariance estimation, change-of-support problem.
+ McGregor-Girand Chair in STEM Equity Innovation and Research and Professor of MathematicsCore Curriculum Director and Associate Dean for Special ProjectsB.S., Harvey Mudd College; PhD, University of Washington
+Partial differential equations and asymptotics, mathematics education.
+Barbara Stokes Dewey Assistant Professor of MathematicsPhD, University of Utah
+Applied mathematics, mathematical modeling, complex systems, nonlinear dynamics, network theory, social systems, mathematical biology.
+Associate Professor of PhysicsPhD, Stanford University
+Condensed matter physics.
+Vice President and R. Michael Shanahan Dean of the FacultyProfessor of PhysicsPhD, University of California, Berkeley
+High intensity laser physics and fluid dynamics.
+Professor of PhysicsPhD, University of Southern California
+Magnetic thin films.
+Associate Professor of PhysicsPhD, Harvard University
+Astrophysics, with a focus on observations and theoretical modeling of young stellar clusters.
+Associate Professor of PhysicsPhD, Harvard University
+Experimental cosmology.
+Associate Professor of PhysicsPhD, Cornell University
+Soft condensed matter.
+Associate Professor of PhysicsPhD, McMaster UniversityKeck 1237
+Soft condensed matter.
+Bruce and Susan Worster Professor of PhysicsChair, Department of PhysicsPhD, California Institute of Technology
+Atomic and optical physics, including quantum optics; observational study of ultra-high energy cosmic rays.
+Professor of PhysicsDirector, Physics ClinicPhD, Harvard University
+Nonlinear optics and semiconductor physics, including surface and buried interface effects, metal surfaces and nanoparticles; magneto-optics; plasmonics and solar energy conversion.
+Burton Bettingen Professor of PhysicsPhD, University of Chicago
+Theoretical physics, including string theory and cosmology.
+Associate Professor of PhysicsPhD, Harvard University
+Particle physics.
+Assistant Professor of PhyiscsPhD, Cornell University
+Astrophysics
+301 Platt Blvd., Claremont, CA 91711909.621.8000 | info@hmc.edu
+
+			Your support helps educate compassionate leaders in STEM. Give now »
+
+
+			The official store for Harvey Mudd College apparel and merchandise Shop HMC »
+

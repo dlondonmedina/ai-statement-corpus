@@ -1,0 +1,50 @@
+Pace University official policy on generative AI Artificial Intelligence
+https://www.pace.edu/its/its-service-areas/ai
+At Pace, we believe that generative artificial intelligence acts as an amplifier of human creativity.
+As AI continues to revolutionize various industries, it is essential for Pace University to embrace this technology responsibly and ethically. AI has tremendous potential to enhance teaching, learning, and administrative processes in higher education. To ensure that AI is harnessed for the betterment of our community, we present five essential recommendations:
+Prioritize the inclusion of AI ethics courses within the curriculum to educate students, faculty, and staff about the ethical implications of AI. Encourage open discussions about responsible AI practices to foster a shared understanding of the potential challenges and benefits of AI in higher education.
+When utilizing AI algorithms or systems for decision-making, it is vital to prioritize transparency and explainability. Faculty and staff should strive to use AI models that can provide clear explanations for their outcomes, enabling users to understand how decisions are reached. In addition, any use of AI tools by any member of the Pace community for any purpose should be properly labeled and identified.
+Awareness of bias in AI is crucial in maintaining fairness and inclusivity. Faculty and staff involved in AI projects must actively work to identify and address biases in datasets and algorithms. Regular audits and reviews of AI systems should be conducted to minimize potential discriminatory outcomes.
+Use AI as a tool to augment and enhance the learning experience rather than replacing human instructors and support staff. AI can provide personalized learning paths, identify areas of improvement, and assist with administrative tasks. However, it should never replace the essential human connection and expertise that educators bring to the learning process. The future of education, like many other sectors of society, will involve the development of a human/AI hybrid approach. Our study of the subject leads us to believe that in most cases the hybrid approach will involve roughly 75% AI to 25% human effort.
+Invest in ongoing training and professional development for faculty and staff to understand the benefits and limitations of AI technology. Equip them with the necessary skills to effectively integrate AI tools into their teaching methods and administrative tasks. Training should also emphasize the responsible use of AI and the ethical implications associated with its deployment.
+ITS is working to ensure that tools procured on behalf of Pace and used in the Pace Community have the appropriate privacy and security protections. If you have procured or are considering procuring generative AI tools, or have questions, please contact ITS.
+Pace University supports responsible experimentation with generative AI tools, but there are important considerations to keep in mind when using these tools, including information security and data privacy, compliance, copyright, and academic integrity.
+Generative Artificial Intelligence (AI) is a term for technologies that can create content—including text, images, and computer code—by recognizing patterns in a data set on which it has been trained, and generating new material.
+Chatting with Text-based AI/Chatbots
+Let's talk about these nifty tools designed to chat with you in plain old text. They're like little digital buddies that understand what you're saying and chat back with human-like responses. You can use them to create text, write code, translate languages, get creative, and even have a good old chat like you're talking to a person. Don't forget, you can try out our very own AI-driven chatbot, Tbone, to get help with any questions about Pace you may have.
+Who's in the Chat Game?
+Crafting the Perfect Prompt: Prompt Engineering
+Alright, let's talk about prompt engineering - it's like the secret sauce that makes text-based AI really shine. When you feed these clever algorithms a well-crafted prompt, they can work wonders. It's all about giving them the right hints to get the results you want. For instance, if you're using an AI like ChatGPT and you want to generate a creative story, your prompt might be something like, "Write me a thrilling sci-fi adventure on a distant planet." Or, if you're using DALL-E to create unique images, you could say, "Generate an image of a serene forest with vibrant, otherworldly colors." The key is to be clear and specific in your prompt, and you'll be amazed at what these AIs can do. If you need a little help getting started check out Learn Prompting for some great tips!
+Playing with Image-based AI
+You don't need to be a pro designer to make cool visuals; you can just describe what you want in plain language, and the AI will make it happen.
+Generative AI Images
+Generative AI is pretty fascinating stuff. It's like this type of artificial intelligence that learns from tons of data and then does all sorts of cool stuff like creating text, images, music, videos, code, and more, just by giving it a nudge with some inputs or prompts.
+Now, here's the deal at Pace: we're all for letting you play around with Generative AI, but there are some important things you've gotta keep in mind when using these tools. We're talking about stuff like keeping your information safe and sound, staying on the right side of the law, and being an all-around good digital citizen.
+So, first things first, let's talk about data security. If you've got any super-secret data, like the classified stuff (they call it Level 2 and above, which includes things like top-secret research data, finance numbers, HR records, student secrets, and medical info), don't go tossing that into any Generative AI tools that are just hanging out on the internet for everyone to see. Your data deserves some privacy, right? So, be careful with what you share, especially if it's classified.
+Now, if you absolutely gotta use Generative AI for some top-secret stuff, you better make sure it's been given the green light by Pace's Information Security team. They're the folks who know the deal about keeping data safe, so trust their judgment.
+Next up, what you create with AI could be a bit funky sometimes. I'm talking about content that's not quite right, might lead people down the wrong path, or is just plain made up (they call it "hallucinations"). Also, you've gotta be careful with using stuff that's got copyrights on it. So, whatever you put out into the world, you're responsible for it, like the boss of your own content.
+And, speaking of being responsible, remember to stick to your school's policies and rules. The big shots at the university are still figuring things out when it comes to Generative AI, so keep an eye on what your school's handbooks and policies say. If you're a teacher, make sure your students know what's what when it comes to using this AI stuff in class or for schoolwork. And students, don't be shy about asking your teachers for the lowdown on these policies.
+Lastly, there's a bit of a shady side to all this AI magic. Some folks are using it to send sneaky phishing emails, or they're creating these "deepfakes," which are videos or audio that can make it seem like someone's saying or doing stuff they never did. It's a bit creepy, right? So, keep your guard up and be careful when you're dealing with online stuff, especially if it seems fishy.
+That's the scoop on Generative AI at Pace. It's pretty amazing tech, but it's got its quirks and rules you've gotta follow to keep things running smoothly and safely.
+Pace is all about getting your creative juices flowing with Generative AI tools. This is where the fun stuff happens, and we're here to give you the lowdown. But remember, this isn't the be-all and end-all guide to AI; it's more like a friendly chat to get you started.
+Before You Dive In
+Let's kick things off by reminding you to check out the University's guidelines for playing around with Generative AI. These guidelines cover things like using top-secret data with tools that are out there in the open, following your school's rules for using AI, and making sure the AI-generated stuff you put out there is top-notch.
+Next, you've gotta be aware of AI's quirks. These clever little algorithms can sometimes goof up big time. They might serve up content that's not quite on the money, might steer you in the wrong direction, or could even create stuff that's completely made up (yeah, they call it "hallucinations"). So, don't be too trusting, always double-check the accuracy of what these AI gizmos are cooking up.
+Oh, and copyright stuff - that's a big deal. These AI-generated creations can sometimes include things that belong to someone else. You don't want to step on anyone's toes, right? So, make sure you're not putting out anything that's a no-no when it comes to copyright. And please, don't go asking AI to plagiarize stuff – that's a big nono.
+Access Cutting-Edge AI Courses with your Pace Credentials
+Every Pace users has access to Linked in Learning with thousands of courses on almost any topic imaginable. Learning about Generative AI is no exception - this section has tons of videos and courses that can take you from AI beginner to AI expert. To access Linked In Learning and dig into the courses follow these instructions:
+Pace's Library experts created some helpful guides to get your started
+Free AI Courses for everyone:
+Time to Get Creative
+Now, let's talk about the cool stuff you can do with Generative AI:
+Content Creation
+Coding and Debugging
+Search and Data Wrangling
+Productivity and Accessibility
+So, that's the scoop on Generative AI and all the cool things you can do with it. It's like having a creative sidekick, but remember, it's not infallible. So, use it wisely and have fun experimenting!
+This article was written with the help of ChatGPT 3.5.
+Student Accounts: (877) 672-1830
+General: (866) 722-3338
+Admission: (800) 874-PACE
+Copyright © 2023 Pace University
+Privacy Policy

@@ -1,0 +1,17 @@
+University of Iowa official policy on generative AI Artificial Intelligence
+https://its.uiowa.edu/ai
+Generative artificial intelligence (generative AI or GenAI) is a type of artificial intelligence that can generate text, images, and other media using generative models. Generative AI models identify the patterns and structures within existing data to generate new content. See below for a brief three-step process of how generative AI works, as well as links to more information about generative AI.
+As we continue to explore AI, generative AI in particular, we’re open to learning more about how you are using AI. Faculty and staff can email their AI experiences, questions, and suggestions to ai-feedback@uiowa.edu.
+
+
+ 
+
+
+Receptive Field by Daniel Miller
+Review general info and risk levels
+Read policy info about data
+Learn about benefits and limitations
+See what's available
+Find more resources
+Information Technology Services (ITS)
+2800 University Capitol CentreIowa City, IA 52242

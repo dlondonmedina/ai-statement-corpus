@@ -1,0 +1,15 @@
+University of Wisconsin - Madison official policy on generative AI Artificial Intelligence
+https://it.wisc.edu/generative-ai-uw-madison-use-policies/
+Version 2, published January 2, 2024
+This page outlines existing policies governing what you may and may not do when using generative artificial intelligence (AI) tools and services. These policies safeguard institutional data, which everyone in the university is legally and ethically obligated to protect. All university faculty, staff, students and affiliates must follow these policies.
+Entering data into most non-enterprise generative AI tools or services is like posting that data on a public website. By design, these AI tools collect and store data from users as part of their learning process. Any data you enter into such a tool could become part of its training data, which it may then share with other users outside the university. For this reason, university faculty, staff, students and affiliates may enter institutional data into generative AI tools or services only when:
+As with everything you do at the university, you must follow UW–‍Madison, UW System Administration (UWSA) and UW System Board of Regents policies when using generative AI tools and services. Read on for more about those policies and tips for using AI safely.
+Here are some examples of generative AI use that are not allowed under UW–‍Madison, UWSA and board of regents policies:
+This information includes, but is not limited to:
+In addition to violating UW policies, many of the above uses also violate generative AI providers’ policies and terms.
+Any member of the UW–‍Madison community who learns of a potential breach of data protection or confidentiality—including through the use of generative AI—must report the incident.
+For uses of generative AI that are not prohibited, UW–‍Madison faculty, staff, students and affiliates can help protect themselves and others by choosing tools and services that exhibit the National Institute of Standards and Technology’s (NIST’s) characteristics of trustworthy AI.
+Questions about classifying data? Contact the relevant data steward.
+General questions about AI use and policies? Contact Heather Johnston, IT policy writer & analyst, Office of Cybersecurity.
+© 2024 Board of Regents of the University of Wisconsin System
+Website created by DoIT Communications in WordPress as a child theme of the UW Theme | Privacy notice

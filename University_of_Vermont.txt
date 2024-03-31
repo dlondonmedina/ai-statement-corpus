@@ -1,0 +1,17 @@
+University of Vermont official policy on generative AI Artificial Intelligence
+https://www.uvm.edu/wid/artificial-intelligence
+
+Jump to navigation
+
+Please turn on Javascript for added functionality
+The roll out of the chatbot ChatGPT has raised many questions about writing and ethics. Chat GPT can generate and revise text on a wide array of content, as well as solve math problems or write code.  NYT writer Kevin Roose (new tab) calls it “ominously good” at producing the sort of work school often requires. At UVM, reactions have varied.  Some colleagues worry that technology like ChatGPT will enable students to skip learning opportunities, while others see possibilities for using Chat GPT to level the playing field with its valuable explanations. Some of us have started using AI technology in our work; others are developing policies around it. At WID, we are committed to continuing these conversations as we learn from and with each other.
+Example Syllabi Statements
+AI and writing have a long history.  Grammar checkers, like Grammarly, and summarizers, like those built into Microsoft Word, already offer students automated assistance with their work. Sociologist Tressie Cottam McMillam (new tab) reminds us that new technologies frequently have a “hype cycle” in which new developments promote promise and fear.  Eventually, we adapt, and react, finding ways to adjust our human activities in a new technological context.  Math and language instructors have a lot to teach writing teachers about how their pedagogy has adapted to calculating and translation tools: rather than letting fear creep into our teaching, we can invite this technological moment to clarify our pedagogical aims and our communication with students.
+For instructors considering how ChatGPT might affect their courses, the most relevant piece of UVM’s Code of Academic Integrity (new tab) is that instructors need to clearly and intentially communicate their expectations to students. Indeed, the Code acknowledges that the implementation of its principles may vary from course to course, and instructors must be clear about what they expect about the use of AI as well as other components of assignment substance and writing processes. Key ways to help students understand your expectations:
+Depending on the ways you see Chat GPT intersecting with your course and assignments, you will have decisions to make about changes or additions to your assignments and policies.  Let your own basic philosophies guide you. In particular:
+No AI tool is perfect, and there are technological limits to what ChatGPT and similar tools can accomplish.  The Center for Student Conduct notes:
+In addition to personal contact information, ChatGPT’s Privacy Policy acknowledges it collects usage data such as IP address, time of use, and type of device, and explicitly states that OpenAI could provide user data to third parties.
+Events Calendar
+Looking for a teaching-writing resource that isn't here?  Have a question and can't find what you need?  Contact wid@uvm.edu - we are happy to help!
+Join Our Mailing List!
+Contact Us

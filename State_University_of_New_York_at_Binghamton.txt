@@ -1,0 +1,44 @@
+State University of New York at Binghamton official policy on generative AI Artificial Intelligence
+https://www.binghamton.edu/clt/resources/chat-gpt-info.html
+For information on using AI resources in Zoom (AI Companion), see below.
+The dawn of next-generation generative Artificial Intelligence (AI) technologies is
+                  reshaping the educational landscape, offering numerous prospects and considerations
+                  for our teaching approaches and student interactions. As we explore these new technologies,
+                  we at Binghamton University remain committed in our dedication to working collaboratively
+                  with faculty to support student learning and success.
+ChatGPT is part of a growing array of generative AI platforms that have captured academic
+                  and media interest. This AI platform leverages predictive algorithms to generate or
+                  enhance a diverse range of written materials, from research essays and computer scripts
+                  to imaginative poetry and comprehensive reports.  While the results can be useful,
+                  it's essential to recognize potential problems they pose to learning and teaching
+                  and to thoughtfully approach their use (or prohibition of their use) in our teaching. 
+For clarity, within this FAQ, "ChatGPT" signifies the freely accessible online chat
+                  platform underpinned by OpenAI's GPT architecture. We'd like to emphasize that ChatGPT
+                  represents just a fragment of the broader spectrum of emerging generative AI tools.
+August 2023: Below please find a list of suggested syllabus statements that can provide
+                  guidance for language concerning the use or restrictions of AI technology in the course.
+AI resources in Zoom (AI Companion)December 5, 2023
+Meeting summary with AI Companion:
+https://support.zoom.us/hc/en-us/articles/15088797434893-Enabling-Zoom-IQ-Meeting-Summary
+AI Companion Questions:
+https://support.zoom.us/hc/en-us/articles/17396873863309
+Should I use one of the ChatGPT detection tools such as GPTZero?August 15, 2023
+The University discourages the use of AI-detection software programs on student work.
+                  Such software programs have been found to be unreliable and to incorrectly flag instances
+                  of AI use in human-written content. Sharing your students’ work with these software
+                  programs without their permission also raises a range of privacy and ethical concerns. 
+                  Instructors are encouraged to continue to use their traditional methods for detection
+                  of potential academic misconduct, including meeting with a student to discuss their
+                  assignment in person.
+Please note: The University no longer has access to the AI Writing Detection Indicator
+                     that was accessible through Turnitin on Brightspace. This was part of a pilot for
+                     the Spring 2023 semester only.
+Using ChatGPT in your course.August 9, 2023
+If you decide to use ChatGPT or other AI systems in your courses, please consider
+                  the following:
+Link for ideas on using ChatGPT in your classroom:
+https://teaching.utoronto.ca/resources/generative-artificial-intelligence-in-the-classroom/
+Special thanks to the University of Toronto for allowing us to modify their content
+                  on ChatGPT:
+https://www.viceprovostundergrad.utoronto.ca/strategic-priorities/digital-learning/special-initiative-artificial-intelligence/
+Last Updated: 12/5/23

@@ -1,0 +1,79 @@
+Tennessee Technological University official policy on generative AI Artificial Intelligence
+https://www.tntech.edu/news/releases/24-25/tech-professor-leads-artificial-intelligence-and-security-research.php
+Resources
+IT Help Desk
+Tech Connect
+Advisement
+All Resources
+Services
+Health Services
+Counseling Center
+University Police
+Pay Online
+Resources
+Human Resources
+IT Help Desk
+Policy Central
+All Resources
+Services
+University Police
+Institutional Research
+Business Office
+Auxiliary Services
+Crawford Alumni Center
+Alumni Events
+The Alumnus Newsletter
+Update Your Information
+Giving To Tennessee Tech
+True To Tech
+TN Tech Alumni Association
+TN Tech Foundation
+a
+a
+a
+a
+a
+a
+a
+a
+News
+Dr. Maanak Gupta 
+The phrase ‘generative artificial intelligence (AI)’ may conjure scenes from the Terminator
+                                 movies in many people’s imaginations, but Tennessee Tech University’s Maanak Gupta
+                                 knows that potential cyber threats can be mined with the growing use of generative
+                                 AI tools like ChatGPT. “Several instances recently have demonstrated the use of GenAI tools in both the defensive
+                                 and offensive side of cybersecurity, and focusing on the social, ethical and privacy
+                                 implications this technology possesses,” he said.The assistant professor of computer science, along with a dedicated team of students,
+                                 is spearheading innovative research in the field of AI by using early detection and
+                                 adaptive response strategies to fortify systems and networks against cyber threats.“Malware is designed to be evasive and go undetected,” Gupta said. “We are working
+                                 on early detection methods to stay ahead of cyber criminals who are developing malware
+                                 that can fool AI by bypassing trained models.”Gupta’s research has received grants from federal agencies including the National
+                                 Science Foundation, Department of Defense and National Security Agency.The focus of his work lies in leveraging AI in a proactive approach to detect malware
+                                 and ransomware in a timely manner, preventing potential damage to critical systems,
+                                 networks and infrastructure. Recognizing the challenges posed by adversarial cybersecurity,
+                                 Gupta emphasizes the importance of understanding attackers’ tactics to develop effective
+                                 countermeasures.“You have to think like an attacker to beat an attacker. That’s why the initial goal
+                                 of this research is to outsmart adversarial systems by training AI to detect new variations
+                                 of malware and ransomware,” he said.The research also focuses on using AI to modify malware in ways to prevent it from
+                                 yielding adversarial results its cyber criminal creators intend.While the buzz around AI technology, such as ChatGPT, continues to grow with varied
+                                 uses, Gupta expresses concern about the potential misuse of AI by cybercriminals.“With minimal knowledge, cybercriminals can leverage AI to create malicious code,
+                                 which could pose a significant threat to cybersecurity,” he said.The area of critical infrastructure examined most closely by Gupta’s research is in
+                                 agricultural settings. With the increasing integration of sensors in computerized
+                                 farming systems, such as timed irrigation delivery, there is a growing risk of cyber
+                                 threats to the world’s food supply. Gupta’s team is developing AI-based intrusion detection systems to swiftly identify
+                                 and mitigate cyberattacks on agricultural technologies.“Agriculture is a technologically advanced field, but farmers may lack a background
+                                 in data and security. We aim to bridge this gap by enhancing the cybersecurity of
+                                 interconnected agricultural systems,” he said.Gupta teaches a course at Tech about AI for cybersecurity and actively shares his
+                                 knowledge through lectures, workshops and research findings. He collaborates with
+                                 researchers in the United States and other countries, emphasizing the ethical use
+                                 of AI.“The ethical use of AI is crucial as the technology evolves. While we are in the early
+                                 phases of AI adoption, it’s never too early to start thinking about ethical considerations,”
+                                 he said. 
+Return to News Room
+Express Resources
+© 2024, Tennessee Tech University
+Tennessee Tech does not condone and will not tolerate discrimination against any individual on the basis of race, religion, color, creed, sex, age, national origin, genetic information, disability, veteran status, and any other basis protected by federal and state civil rights law. Inquiries regarding the nondiscrimination policies should be directed to equity@tntech.edu.
+
+
+Quick Links
+Resources

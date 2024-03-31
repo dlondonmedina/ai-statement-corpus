@@ -1,0 +1,47 @@
+Columbia University official policy on generative AI Artificial Intelligence
+https://provost.columbia.edu/content/office-senior-vice-provost/ai-policy
+Please note that this policy is a “work in progress” as the technology, the law and the Columbia community usage evolves.
+PURPOSE
+Columbia University is dedicated to advancing knowledge and learning, and embraces generative AI tools. The landscape of Generative AI is rapidly changing, and will change the way we teach, learn, and work. We encourage you to explore and experiment with these tools. The Office of the Provost has convened a working group of faculty and senior administrators from various parts of the University to develop policies and guidelines around the responsible use of these Generative AI tools (the ”AI Team”).
+We ask that you review this guidance on the responsible use of generative AI in your work and study at Columbia University. Based on our collective experience with Generative AI use at the University, we anticipate that this guidance will evolve and be updated regularly.
+Generative AI (or “AI”) tools such as OpenAI’s ChatGPT, Google’s Bard, Stability AI’s Stable Diffusion, and others, have captured the public’s imagination as these tools become widely available for everyday use. Generative AI tools have the capacity to expedite existing processes and make possible new ones. These tools also have the potential to foster student learning and advance many aspects of research and health care delivery. While the University supports the responsible use of AI, these novel tools have notable limitations and present new risks that must be taken into consideration when using these technologies.
+Two key attributes of these tools are the risk that an input could potentially become public, and the risk that the output may be biased, misleading, or inaccurate. There are risks related to information security, data privacy, copyright, and academic integrity and bias, for example:
+
+In this initial policy, Columbia University requires that any use of Generative AI be in a manner reflective of its inherent limitations and to avoid these limitations and other emerging risks to the University, its faculty, researchers, students and staff and other stakeholders. Because AI is a rapidly evolving technology, the University will continue to monitor developments and will consider responses from the University community. This initial policy contains overarching guidelines that apply to all in the Columbia community while pursuing their Columbia activities.  After these general requirements, the policy includes specific guidelines related to instruction (for both faculty and students) and research.
+ 
+SCOPE
+This Generative AI policy (“Policy”) governs the use of Generative AI tools by staff, faculty, students, and researchers (the “Columbia community”) in the performance of their functions for or on behalf of Columbia. Because this Policy may be updated from time to time, Columbia community members are encouraged to regularly review the most recent version of this Policy. Constructive comments from Columbia community members may be submitted here: [email protected]
+ 
+DEFINITIONS
+ 
+POLICY
+Columbia expects all Columbia community members to follow these guidelines when using Generative AI tools for teaching and learning, research, and work-related functions: 
+ 
+UNIVERSITY APPROVED APPLICATIONS, EXEMPTIONS, AND EXCEPTIONS
+The AI Team will publish a list of specific applications that have been vetted by CUIT and Procurement and deemed fully or partially acceptable under this Policy. The list of these vetted Generative AI tools and the scope of the approval will be posted on the Office of the Provost website.  Columbia community members are expected to use any approved Generative AI tools in accordance with the scope of this policy.
+The AI Team may provide additional approval for AI tools where appropriate and for compelling business cases. Please contact [email protected] to raise requests for exceptions to this policy.
+ 
+GENERATIVE AI AND ACADEMIC INTEGRITY  
+At Columbia University, it is our shared responsibility to promote intellectual honesty and scholarly integrity, which could be undermined with the utilization of AI-generated content being passed off as one's own work.
+Particular considerations apply to use of AI by instructors and students. To ensure academic integrity, please refer to this guidance below.
+For Students
+The following guidance is shared to help support students in navigating the appropriate use of AI in their classes.
+For Instructors
+The following guidance is shared to help support faculty in navigating the appropriate use of AI in the classroom.
+
+The University offers many support resources regarding academic integrity, for both instructors and students. You can find an overview of academic integrity resources–including considerations for AI tools–in the Promoting Academic Integrity resource, co-created and adapted from the faculty booklet Promoting Academic Integrity & Preventing Academic Dishonesty: Best Practices at Columbia University.
+ 
+GENERATIVE AI AND RESEARCH
+The policies above apply to all Columbia research activity. In addition, the following considerations and policies also extend to all research activity using AI:
+Finally, all University research is subject to the University’s research integrity policies, such as the Institutional Policy on Misconduct in Research and the Policy on Financial Conflicts of Interest and Research.  More information about these policies is available on the Office of Research Compliance and Training website.
+ 
+RELATED UNIVERSITY POLICIES
+When using Generative AI tools, Columbia community members should always keep in mind the usual rules and policies concerning privacy, honor code, academic integrity, research conduct, information security and other such rules. Some of these applicable policies are as follows:
+ 
+RELATED UNIVERSITY RESOURCES
+ 
+QUESTIONS
+If you have questions or concerns about this Policy or need guidance regarding your use of Generative AI tools please contact [email protected].
+ 
+APPENDIX
+The Provost’s Working Group on Generative AI is tasked by Interim Provost Dennis Mitchell to develop guidelines on the use (and procurement) of generative artificial intelligence tools (e.g. ChatGPT and Google Bard) by Columbia students, faculty, researchers and staff. More information about the Provost's Working Group, including a list of members, can be found here.

@@ -1,0 +1,30 @@
+Hofstra University official policy on generative AI Artificial Intelligence
+https://www.hofstra.edu/provost/resources-generative-ai.html
+EdTech
+This website offers faculty resources and recommendations to address the use of generative AI tools in your course(s), in addition to language for you to consider adding your syllabus.
+Generative AI refers to artificial intelligence or machine learning tools such as ChatGPT or Dall-E 2 that can create sophisticated novel text, images, poems, and other types of writing samples by drawing on massive amounts of data. The responses that are generated sound natural as though they were written by a human, however, responses often include inaccuracies.
+Your expectations should be clearly communicated with your students. In general, the use of generative artificial intelligence tools must be consistent with the instructor’s stated course policy. For more details, including one approach for inclusion in syllabi, see Academic Integrity for Syllabi.
+Generative AI is generally accessed from a website, allowing the user to request the generation of text or imagery on a variety of topics or parameters. The more advanced sites allow users to specify formatting and length, and produce detailed responses with proper sourcing.
+These responses are generally unique with each request, meaning the exact phrasing or details will change with each request and over time as the site updates its code.
+Some sites, like Caktus.ai, offer paid services to generate academic works and others allow users to paraphrase text, creating additional challenges for text-based detection.
+As technology improves, the ability to discern machine-generated text from human-generated text will diminish and will therefore require a different approach to address in academia.
+Below are some suggestions from Hofstra faculty you may want to consider incorporating into the design of your assessments.
+Real-Life Experiences and Making Connections
+Annotated Works
+Creative Submissions
+Peer Discussion
+Reflect on the Process of Learning and Critical Thinking
+Have a suggestion or tip to add? Click the button below to share it with us.
+Submit a Teaching Tip 
+Guided by Suzanne Pike, Associate Provost for Academic Affairs and the Administrative Chair of Hofstra's Honor Board, this online workshop reviews the teaching approaches and digital tools you can use to promote academic honesty in your courses.
+View Module
+Recording of the event from Wednesday, February 22, 2023 featuring panelists Chris Eliot, Associate Professor of Philosophy, Vimala Pasupathi, Associate Professor of English, and Krishnan Pillaipakkamnatt, Professor of Computer Science.
+View Recording
+Recording of the event from Wednesday, April 26, 2023 featuring panelists Joseph Bartolotta, Associate Professor, Writing Studies and Composition, Russel Chun, Associate Profssor, Journalism, Media Studies, & Public Relations, Lincoln Anniballi, Student Government Association, Political Science Major, and Lila Campbell, Student Government Association, Psychology Major.
+View Recording
+Hempstead, N.Y. 11549-1000
+(516) 463-6600View Hofstra Campus MapTake a Virtual Tour
+Hofstra University is an EO/AA/ADA educator and employer and does not discriminate on the basis of race, color, national and ethnic origin, or religion, sex, sexual orientation, gender identity or expression, age, physical or mental disability, marital or veteran status in administration of its educational policies, admissions policies, scholarship and loan programs, and athletic and other school-administered programs. Hofstra University admits students of any race, color, national, and ethnic origin to all the rights, privileges, programs and activities generally accorded or made available to its students.
+Hofstra University Policies | Privacy | GDPR
+ 
+© Hofstra University. All Rights Reserved.

@@ -1,0 +1,9 @@
+California State University, Long Beach official policy on generative AI Artificial Intelligence
+https://www.csulb.edu/information-technology/ai-technology
+1250 BELLFLOWER BOULEVARD
+LONG BEACH, CALIFORNIA 90840562.985.4111
+California State University Long Beach (CSULB) supports the responsible and ethical use of artificial intelligence (AI) technologies for enhancing teaching, learning, research, and campus services.
+Artificial Intelligence (AI), has been around since the 1960s when the first neural network was developed. Since then, AI has been used in various software and industries like virtual assistants (Siri and Alexa), stock trading, content creation tools (Microsoft Office and Google Suite), and video games. Within the past few years, a new form of AI, known as generative AI, has been released and is rapidly expanding into many facets of the workplace and education.
+Generative AI (GAI) is characterized by its ability to autonomously produce new and original text, images, music, or other data based on patterns learned from data accessed on the internet. When given a "prompt," GAI identifies patterns and produces content by combining existing knowledge and rules. By carefully crafting and continuously adjusting prompts, users can influence the AI’s creativity and specificity to better suit their needs. The field of Prompt Engineering is likely to expand over the next few years, to serve the new demand for AI applications in business and other sectors.
+1250 BELLFLOWER BOULEVARD
+LONG BEACH, CALIFORNIA 90840562.985.4111

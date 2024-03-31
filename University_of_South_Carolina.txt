@@ -1,0 +1,210 @@
+University of South Carolina official policy on generative AI Artificial Intelligence
+https://sc.edu/about/offices_and_divisions/cte/teaching_resources/chatgpt/index.php
+In November 2022, OpenAI released ChatGPT (Chat Generative Pre-Trained Transformer),
+                                    which prompted conversations among educators about its potential to impact the higher
+                                    education landscape. This resource page was developed to help faculty learn about
+                                    ChatGPT and its implications for teaching and learning. The information and recommendations
+                                    on this page will be updated as more is learned about this technology.
+ChatGPT is a generative artificial intelligence (AI) chatbot that uses machine learning
+                                          models to produce human-like text in response to a question, prompt, or instructions.
+                                          It was trained on large amounts of text data and can generate natural language text
+                                          in response to user prompts given to it. ChatGPT is optimized for generating responses
+                                          in the form of conversations.  
+ChatGPT was trained in writing using content that already exists on the Internet up
+                                          to the year 2021. It generates responses to questions and prompts by predicting the
+                                          next words or phrases that are most likely to follow based on the context of the conversation.
+                                          Users type a question or prompt in the text box and then ChatGPT produces a response.
+                                          Users can continue the conversation by typing follow-up questions or prompts. ChatGPT
+                                          remembers what was previously discussed and produces more text. It recognizes, summarizes,
+                                          and predicts text based on its giant data sets.
+If you ask a question, ChatGPT will answer it. This is like giving a command to Google.
+                                       Google produces sources for you to extract the information yourself while ChatGPT
+                                       produces a written-out answer. Unlike a Google search, ChatGPT can conversationally generate full paragraphs of text.
+ChatGPT can easily write content based on a prompt. For example, you can ask it to
+                                       generate a piece of text, like writing a poem. The prompt can include what length
+                                       and writing style for the piece. Also, you can ask for sources to be cited and even
+                                       specify that you want only ‘real sources’ but be aware that these will not always
+                                       be accurate.
+You can provide ChatGPT with pieces of text and ask the chatbot to summarize, paraphrase,
+                                       translate, remove spelling mistakes, give feedback on them, and so on.
+If asked to perform multiple tasks at once, ChatGPT struggles to prioritize them,
+                                       which might lead to a decrease in effectiveness and accuracy. It performs best when
+                                       given a single task or objective to focus on.
+ChatGPT might produce references that do not correspond to the text created. It might
+                                       give fake citations that mix real publications from multiple sources.
+The current version of ChatGPT was trained using data from up to the year 2021. This
+                                       means that the chatbot cannot interpret more recent data.
+ChatGPT might sometimes generate nonsensical or inaccurate responses to certain questions
+                                       or situations. It cannot detect subtle emotional cures or respond appropriately to
+                                       complex emotional situations.
+Responses may not be entirely accurate in terms of context or relevance, providing
+                                       incorrect, oversimplified, unsophisticated, biased, inappropriate, or irrelevant content.
+The trained data may contain biases or prejudges. ChatGPT may sometimes generate responses
+                                       that are unintentionally biased or discriminatory.
+ChatGPT cannot access all the knowledge that humans possess. It may not be able to
+                                       answer questions about very specific or niche topics. Also, it may not be aware of
+                                       recent developments or changes in certain fields.
+In addition to content errors, ChatGPT makes computational and logic errors. ChatGPT
+                                       is a language model and not a calculator.  Text is generated in response to mathematical questions with a random number as the
+                                       outcome, which may not be correct.
+The quality of the content generated by ChatGPT and other AI writing tools depends
+                                          on the training data and specific prompts provided to the model. There is a risk that
+                                          the generated content may contain errors or omissions or lack high quality.
+There is a risk that using ChatGPT or other AI generative models to generate content
+                                          may be perceived as plagiarism. It is important to properly cite any materials used
+                                          to indicate which parts of the content were generated by a machine.
+Models like ChatGPT are only as good as the data they are trained on. There is a risk
+                                          that these models could be biased if they are trained on biased data. Take steps to
+                                          mitigate it.
+Generated content may result in a lack of originality because AI generative models
+                                          are not capable of coming up with new ideas or insights on their own. Content is generated
+                                          based on the data it was trained on. 
+As people use AI generative, they help train it. Privacy concerns are applicable as
+                                          with other places online that require getting an account and sharing information.
+                                          By using ChatGPT, users consent to having potentially personal data stored and sold
+                                          by OpenAI.
+Get familiar with ChatGPT. Instructors and students need to learn how to effectively
+                                          use ChatGPT in the teaching and learning process. Doing so includes training on how
+                                          to use the system, how to formulate effective questions, and how to interpret responses.
+Before using ChatGPT, it is important to clearly define the learning outcomes, assessments,
+                                          instructional content, and activities for the course. This will help ensure that ChatGPT
+                                          is used in a way that is aligned with the overall learning outcomes for the course.
+Communicate to students what ChatGPT is and its limitations. ChatGPT is not perfect
+                                          and may make mistakes or provide incomplete information. It is important to be clear
+                                          with students about its limitations.
+Students may need guidance on how to use ChatGPT effectively, including how to phrase
+                                          questions, how to interpret responses, and how to evaluate the quality of the information
+                                          provided. It may be helpful to provide examples of effective and ineffective uses
+                                          of ChatGPT.
+ChatGPT can be used in conjunction with other instructional technologies, such as
+                                          recorded video lectures and interactive simulations. This can help create a more engaging
+                                          and interactive learning experience for students.
+Incorporate ChatGPT as part of a larger instructional strategy: ChatGPT can be a valuable tool to support learning, users should not rely on it as
+                                          the sole means of instruction. It is important to integrate ChatGPT into a broader
+                                          instructional strategy that includes other forms of teaching practices, learning activities,
+                                          and assessments.
+It is important to continuously evaluate and refine ChatGPT use to ensure that it
+                                          is meeting the learning objectives and to identify areas for improvement. This can
+                                          involve analyzing student performance data and soliciting feedback from students and
+                                          other instructors.
+Emphasize the importance of academic integrity: Foster a culture of academic integrity by encouraging students to take responsibility
+                                          for their own academic work, promoting honesty and integrity, and discouraging cheating
+                                          and plagiarism.
+Monitor student use of ChatGPT: To ensure that ChatGPT is being used effectively, encourage students to monitor their
+                                          use of the tool. Identify any issues or concerns. This can be done through periodic
+                                          check-ins, analyzing chat logs, or asking students to reflect on their own use of
+                                          ChatGPT.
+Monitor and evaluate ChatGPT performance: Instructors should regularly monitor and evaluate the accuracy and effectiveness of
+                                          ChatGPT in responding to student’s questions and concerns. This will help ensure that
+                                          ChatGPT is providing accurate and helpful responses to students.
+Authentic assessment: Use authentic assessments that reflect real-world scenarios and require students
+                                       to demonstrate their skills and knowledge in practical applications. For example,
+                                       you could ask students to design and carry out a scientific experiment or analyze
+                                       a real-world case study.
+Higher-order thinking: Design assessments that require higher-order thinking skills, such as critical thinking,
+                                       problem-solving, and creativity. These types of assessments are less likely to be
+                                       replicated by ChatGPT and require students to apply their knowledge and skills in
+                                       novel ways.
+Collaborative learning: Design assessments that require collaboration between students. ChatGPT may be able
+                                       to assist with individual tasks, but it cannot replace the benefits of working in
+                                       teams and engaging in collaborative learning. For example, you could ask students
+                                       to work together on a group project or participate in a debate or discussion.
+Feedback: Provide timely and constructive feedback to students on their performance. This can
+                                       help students identify areas of strength and weakness and improve their learning outcomes.
+                                       ChatGPT can provide automated feedback, but it cannot replace the value of personalized
+                                       feedback from a human.
+By using multiple assessments (i.e., traditional tests, essays, projects, presentations,
+                                       and performance-based assessments), instructors can ensure that students are evaluated
+                                       on a range of skills and knowledge, making it more difficult for ChatGPT to replicate
+                                       the assessments.
+Instructors should educate students on the importance of academic honesty and integrity.
+                                          They should explain to students that using AI-powered tools like ChatGPT is not a
+                                          substitute for their own critical thinking and analysis, and that they must ensure
+                                          that their work is original and properly cited.
+Instructors should provide students with clear instructions on how to use ChatGPT
+                                          in their assignments. This includes guidelines on how to cite the tool as a source
+                                          and how to integrate its output into their work.
+Instructors should encourage students to think critically when using ChatGPT. They
+                                          should explain that the tool is only as good as the input it receives, and that students
+                                          must carefully evaluate the relevance and accuracy of the tool's output.
+Instructors should monitor students' use of ChatGPT to ensure that they are using
+                                          the tool ethically and responsibly. They should look for signs of plagiarism or other
+                                          forms of academic misconduct.
+Instructors should use multiple assessment methods to evaluate students' work. This
+                                          can help reduce the temptation for students to rely solely on ChatGPT to complete
+                                          their assignments.
+Instructors should provide feedback on student work that highlights areas where they
+                                          can improve their use of ChatGPT. This can include suggestions for how to better integrate
+                                          the tool's output into their work or how to improve the relevance and accuracy of
+                                          the tool's output.
+Research Tool: ChatGPT can be used as a research tool to help students explore different topics
+                                          and find answers to their questions. Instructors can encourage students to use ChatGPT
+                                          to research topics related to their coursework or assignments and provide guidance
+                                          on how to use the tool effectively.
+Writing Assistance: ChatGPT can be used as a writing assistant to help students generate ideas and improve
+                                          their writing skills. Instructors can encourage students to use ChatGPT to generate
+                                          topic ideas, brainstorm content, and get feedback on their writing.
+Language Practice: ChatGPT can be used as a language practice tool to help students improve their language
+                                          skills. Instructors can encourage students to practice their writing or speaking skills
+                                          by engaging in conversations with ChatGPT in the target language.
+Interactive Learning: ChatGPT can be used as an interactive learning tool to engage students in interactive
+                                          and personalized learning experiences. Instructors can design interactive learning
+                                          activities using ChatGPT, such as quizzes, games, or simulations.
+Customized Content: ChatGPT can be used to create customized content tailored to individual student needs.
+                                          Instructors can use ChatGPT to generate personalized study materials for students,
+                                          such as summaries of course content, flashcards, or study guides.
+Research Assignment: In this assignment, students are required to use ChatGPT to research a topic related
+                                          to their coursework or assignment. Students will be required to submit a written report
+                                          on their findings, including a summary of the information they found, the sources
+                                          they used, and their evaluation of the quality and reliability of the information.
+                                          Grading criteria could include the quality of the report, the relevance and accuracy
+                                          of the information found, and the evaluation of the sources used.
+Writing Activity: In this activity, students will use ChatGPT to generate ideas and improve their writing
+                                          skills. Students will be given a writing prompt, and they will use ChatGPT to generate
+                                          ideas and structure their writing. They will then write a draft of their essay, using
+                                          the ideas and structure provided by ChatGPT. Grading criteria could include the coherence
+                                          and organization of the essay, the quality of the ideas generated, and the relevance
+                                          of the content to the writing prompt.
+Language Practice: In this activity, students will practice their language skills by engaging in a conversation
+                                          with ChatGPT in the target language. Students will be required to submit a transcript
+                                          of their conversation, along with a reflection on their language proficiency and areas
+                                          for improvement. Grading criteria could include the accuracy and fluency of the student's
+                                          language use, the complexity of the conversation, and the reflection on their language
+                                          skills.
+Interactive Learning: In this activity, students will engage in an interactive learning experience using
+                                          ChatGPT. Students will be given a set of questions related to the course content,
+                                          and they will use ChatGPT to find the answers. They will then submit their answers
+                                          along with a reflection on their learning experience. Grading criteria could include
+                                          the accuracy of the answers, the quality of the reflection, and the engagement and
+                                          participation in the activity.
+Customized Content: In this assignment, students will use ChatGPT to generate customized study materials
+                                          tailored to their individual needs. Students will identify areas where they need additional
+                                          support or clarification, and they will use ChatGPT to generate study materials such
+                                          as summaries, flashcards, or study guides. They will then use these materials to prepare
+                                          for an exam or assignment. Grading criteria could include the quality and relevance
+                                          of the study materials, the effectiveness of the materials in helping the student
+                                          prepare, and the reflection on their learning experience.
+Carvalho, L., Martinez-Maldonado, R., Tsai, Y.-S., Markauskaite, L., & De Laat, M.
+                                    (2022). How can we design for learning in an AI world? Computers and Education: Artificial Intelligence, 3. 
+Chavez, M. R., Butler, T. S., Rekawek, P., Heo, H., & Kinzler, W. L. (2023). ChatGPT
+                                    (Generative Pre-trained Transformer): Why we should embrace this technology. American Journal of Obstetrics and Gynecology. 
+Choi, E. P. H., Lee, J. J., Ho, M-H., Kwok, J. Y. Y., & Lok, K. Y. W. (2023). Chatting
+                                       or cheating? The impact of ChatGPT and other artificial intelligence language models on nurse education.
+                                          Nurse Education Today, 125. 
+Eke, D. O. (2023). ChatGPT and the rise of generative AI: Threat to academic integrity? Journal of Responsible Technology, 13. 
+Iskender, A. (2023). Holy or Unholy? Interview with Open AI’s ChatGPT. European Journal of Tourism Research, 34, 1–11. 
+Mollick, E. R., & Mollick, L. (2022). New modes of learning enabled by AI Chatbots: Three methods and assignments (2022). SSRN Electronic Journal. 
+OpenAI. (2022, September 2). About OpenAI. OpenAI. Retrieved January 24, 2023.
+Pavlik, J. V. (2023). Collaborating with ChatGPT: Considering the implications of Generative Artificial
+                                       Intelligence for Journalism and Media Education. Journalism & Mass Communication Educator, 78(1), 84–93. 
+Perkins, M. (2023). Academic Integrity considerations of AI large language models in the post-pandemic
+                                          era: ChatGPT and beyond. Journal of University Teaching & Learning Practice, 20(2), 1–24. 
+Tlili, A., Shehata, B., Adarkwah, M. A., Bozkurt, A., Hickey, D. T., Huang, R., &
+                                    Agyemang, B. (2023). What if the devil is my guardian angel: ChatGPT as a case study of using chatbots
+                                       in education. Smart Learning Environments, 10(1), 1–24.
+Artificial Intelligence is an evolving technology that is being used in a variety
+                                       of ways across numerous disciplines and industries. There are countless uses for artificial
+                                       intelligence and as our community becomes more familiar with this technology, the
+                                       office of Student Conduct and Academic Integrity seeks to help educate Gamecocks on
+                                       how artificial intelligence impacts our standards of Academic Integrity as defined
+                                       by the Honor Code. The office has developed Frequently Asked Questions to help provide faculty with some guidelines on the use of AI in their courses.

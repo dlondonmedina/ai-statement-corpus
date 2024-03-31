@@ -1,0 +1,25 @@
+Arkansas State University official policy on generative AI Artificial Intelligence
+https://libguides.astate.edu/plagiarism/ai
+Research Guides
+LibGuides
+If you use AI-generated works in your papers or research, you need to acknowledge and most likely need to cite it! 
+Check out our AI Citation Guide!
+If you remember from the first tab, plagiarism is the stealing of someone else's work without crediting the source. While you may not be technically stealing content itself, reusing AI generated works without crediting or noting that it's AI still meets this definition of plagiarism. 
+ChatGPT
+DALL-E
+Bard
+Bing Chat
+HuggingChat
+Perplexity AI
+YouChat
+We use artificial intelligence everyday, often without knowing it. Artificial intelligence (AI) is computer programming and learning that simulates human intelligence and learning. Google, Siri, search engines, self-driving cars, automated stocks, and virtual assistants are examples of AI. 
+Recently, a new form of AI, called generative AI, has been developed. Generative AI can take raw data and make something new out of it. The most famous examples of generative AI are ChatGPT for text-based applications and Dall-E for image-based applications. When used as a tool, AI can be amazing. Students can use it to come up with paper topics, highlight relevant content, test their critical thinking skills, and help make existing content more accessible for those with disabilities. The key is making sure you're using AI as a tool and not reusing AI-generated work for your assignments. 
+While generative AI programs are incredibly innovative, they also come with some serious concerns. We'll only cover two here.
+
+You may be wondering why plagiarism is a problem if generative AI is supposed to be reshaping scraped text and images into something new. The problem is that it's easy to purposefully or accidentally prompt these programs into reusing other people's works, including creating art in another person's copyrighted style or pulling large blocks of text from copyrighted sources, such as entire pages of books. This means that the "generative" and "new" works that these AI programs create may actually be someone else's work. In addition, even when AI generative works don't directly plagiarize, they often reuse ideas and steal core concepts from copyrighted works without crediting the original creators. This is still considered plagiarism. 
+
+In December 2023, The New York Times filed a lawsuit again ChatGPT parent company, OpenAI. Included in the lawsuit are 100 examples of ChatGPT "generating" responses nearly identical to New York Times articles. In the example below, the red text (approximately 97% of both articles) is text that ChatGPT created that directly matches an article in The New York Times.
+
+
+In January 2024, Gary Marcus and Reid Southen demonstrated multiple instances of generative AI programs creating images that include, or are extremely similar, to copyrighted characters. For example, the prompt "yellow 3d cartoon character with goggles and overalls" in Midjourney created these Minion-like characters:
+

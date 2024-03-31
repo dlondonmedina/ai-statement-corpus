@@ -1,0 +1,132 @@
+Lehigh Univervsity official policy on generative AI Artificial Intelligence
+https://www2.lehigh.edu/news/harnessing-generative-ai
+
+Learn LU Facts
+Find Maps
+View Events
+
+Browse Undergrad
+Majors
+
+Browse Grad
+Programs
+
+Read Research Review
+
+Learn about Mountaintop
+
+Apply
+
+Visit
+
+Request Info
+
+Get Involved
+
+Browse
+Housing
+
+View Safety Info
+
+Watch Live
+
+Buy Tickets
+
+Browse Store
+
+Make a Gift
+This illustration was generated using DALL-E2, an AI system that can create realistic images and art from a description in natural language.
+What does generative artificial intelligence mean for higher education? Promising or problematic?
+Christina Tatu
+In his office in Lehigh’s Alumni Memorial Building, Provost Nathan Urban displays this canvas: a man sporting a gray crew cut, dark business suit and dangling blue tie sitting atop a mythical creature that’s a cross between a dragon and a hawk. The two soar over green treetops, the distant mountains visible in the background.
+The bold brush strokes that look like thick paint are reminiscent of Van Gogh, but no painter created this image.
+The canvas was made by DALL-E 2, a deep learning model developed by OpenAI, an American artificial intelligence company, to generate digital images from descriptions called “prompts.”
+It was a gift from Chris Kauzmann, interim director of Lehigh Ventures Lab, who asked the generative artificial intelligence (AI) platform to create an image of “a university provost riding a mountain hawk in the style of Vincent Van Gogh.”
+The picture serves as a visual aid for Urban, demonstrating the capabilities of generative AI—and its drawbacks. DALL-E created a fictional mountain hawk that Urban says he would have never imagined, but its depiction of a provost is “not surprisingly, a white man in a suit and tie” rather than someone of another gender or race.
+Provost Nathan Urban holds a canvas created by DALL-E 2 that he displays in his office.
+“I think that provides a concrete example of some of the concerns about bias intrinsic to generative AI,” he says.
+Still, Urban doesn’t believe the Lehigh community can ignore the technology or pretend that it won’t have an impact on students as they carve their futures. He predicts the tools will improve, increase in their usage to the point that they will be ubiquitous and set a new baseline for competence—and present challenges by introducing bias into the work generated. 
+“I think we need to recognize and actively engage as a campus, especially with our students, in the ways in which these tools will shape the future,” he told faculty and staff at a symposium on teaching and learning at Lehigh earlier this year.
+Promising yet problematic, generative AI can create new content such as text, images, audio and video but is limited to the data sets it has access to. It lacks the ability to come up with novel ideas or recognize abstract concepts like irony—something that currently only humans can do. It can refine ideas, aid in creating new ones, save time on repetitive tasks such as writing emails and test student knowledge by getting them to think critically about the responses it generates.
+As generative AI becomes more widespread, its use is potentially disruptive to higher education and is causing universities such as Lehigh to consider how the technology fits into the classroom, to what degree it should be used by faculty and students and how to harness its benefits for students as they prepare to enter a workforce where generative AI will likely be commonplace.
+I would say, up until very recently, writing and creation of images have been tasks where humans were completely untouchable.
+Provost Nathan Urban
+A neuroscientist, Urban has always been interested in how the brain does what it does, especially in domains where computers don’t do it very well.
+“I would say, up until very recently, writing and creation of images have been tasks where humans were completely untouchable,” Urban says. The gap between what humans and computers could produce was so large, it was almost laughable, he says, but that gap is quickly closing with recent developments in generative AI.
+“What does that mean for education?” Urban asks. “How does that change what we should be expecting of students, and how does that change what students should be expecting from the university in terms of the kind of skills and knowledge they should be gaining during their university career?"
+One of the most well-known generative AI platforms is ChatGPT, a language model-based chatbot released by OpenAI on Nov. 30, 2022. It enables users to ask questions and assists with tasks such as composing emails, essays and code.
+ChatGPT is powered by a large language model, or LLM. Such technology depends on text mining and web scraping to build a collection of data. An LLM learns through sophisticated algorithms created by computer scientists that are applied to training data sets created by humans, who identify output that is more or less useful, according to Lehigh’s Center for Innovation in Teaching and Learning (CITL). 
+ChatGPT’s output isn’t always pulled from reliable sources, however. At the time this article was written, ChatGPT’s database of information didn’t go beyond September 2021.
+Vice Provost of Library & Technology Services, Greg Reihman.
+“It can only produce results based on things it already knows, so you get replication of bias concerns, unauthorized use of sources,” says Greg Reihman, vice provost of Lehigh’s Library & Technology Services, who studied ChatGPT in his Philosophy and Technology class. “Also, everything in these data sets is anonymous … You couldn’t trace an AI-generated sentence back to where it came from.”
+For some users, this raises ethical concerns about asking students to use the technology. Other faculty adopt a more experimental approach and use it to test their knowledge about an area of expertise by identifying the inaccuracies generated by ChatGPT.
+“It’s another tool that’s in front of us, and like it or not, it’s going to shape our lives. Our students are going to look to us for guidance in whether and how to use it,” Reihman says.
+In the spring 2023 semester, he tasked his students with researching ChatGPT and compiling a list of articles about it. Reihman put the same assignment into ChatGPT, and it generated an annotated bibliography of journals that didn’t exist.
+He compares the new technology to Wikipedia, which, Reihman says, caused a panic in higher education when it was released in 2001. Anyone can amend an article on Wikipedia, opening the door to potential inaccuracies, but it’s also a useful first step when researching something new.
+It’s another tool that’s in front of us, and like it or not, it’s going to shape our lives. Our students are going to look to us for guidance in whether and how to use it.
+Greg Reihman
+Reihman says his students were surprised that most articles they found about generative AI in education pertained to academic integrity and cheating. He says the assumption it would be used for cheating was off-putting to the students who felt the tool should be used to enhance teaching and learning.
+Students have always had the ability to cheat, Reihman says, adding that textbook answers are often available online for anyone who wants to look for them. One student told Reihman, “We are here because we didn’t do that.”
+Over the summer, CITL put out a list of guidelines for faculty on how to incorporate the technology into their classes and led a hands-on workshop for faculty who wanted guidance in using these tools. CITL Director Peggy Kane and LTS Digital Scholarship Specialist Justin Greenlee took the lead in curating ideas for creative uses of AI-powered tools in teaching. The guidelines encourage faculty to set aside time early in their courses to talk about AI’s place in the classroom.
+Peggy Kane, director of the Center for Innovation in Teaching and Learning and Justin Greenlee, digital scholarship specialist.
+Earlier in the year, Urban put out a call to faculty to submit a video or podcast that addressed generative AI in education with the chance to receive a grant intended to cover the cost of travel to a meeting or conference focused on educational innovation or education technology.
+Winners Lyam Gabel, assistant professor of theater (specializing in acting and directing) and Will Lowry, associate professor of theater (focusing on design) designed a first-year seminar called “Can AI Make Art?” that explores generative AI and its use in creative work like theater.
+Gabel also has used ChatGPT to assist with playwriting in his classes, and Lowry has used Midjourney, a program that generates images from natural language prompts, to accelerate the design process.
+“Students sometimes have trouble with the blank page of paper,” Lowry says. “AI helps you get past the blank piece of paper, the blank canvas, the blank sheet of music. It’s really scary to get past that first word, note or stroke. Once you put it down, you have something to build upon.”
+Lowry and Gabel, who are two of 16 CITL Faculty Fellows, hope the class teaches students how to harness generative AI and inspires them to continue learning about it as it develops, including its impact.
+“Generative AI can be a really useful tool for learning about a topic, but you don’t want it writing a paper for you when that’s supposed to be your point of view and understanding of it,” Lowry says.
+Students in Lyam Gabel and Will Lowry's first-year seminar work on a project using generative AI.
+Students in Lyam Gabel and Will Lowry's first-year seminar present a project that includes AI-generated imagery projected on a screen behind them.
+Students in Lyam Gabel and Will Lowry's first-year seminar present a project that includes AI-generated imagery projected on a screen behind them.
+Students in Lyam Gabel and Will Lowry's first-year seminar present a project that includes AI-generated imagery projected on a screen behind them.
+In his classes, Lowry uses the technology for research, asking it to generate images based on feelings and metaphor or to show how the light looks at a particular time of day. The images can then be combined to make a new, original design.
+Gabel said it’s difficult to get ChatGPT to write a play that’s compelling. It prefers certain names and types of endings, but he still encourages his students to explore the technology. He had one student who used ChatGPT to co-write a play and cited it as a source.
+“I don’t think we have an option about ‘if’ we want to interface with generative AI in the future,” Gabel says. “It’s not about if, it’s about how.”
+Jeremy Littau, an associate professor with the Department of Journalism and Communication, is teaching an Eckardt Scholars class for first-year students in the 2023 fall semester titled “Digital Identity in an AI World.” The class explores how students construct their lives both online and offline and now co-exist with generative AI.
+ChatGPT, particularly, demands a lot of the user, he says. “My ability to ask questions and ask follow-up questions is the thing that makes or breaks the experience,” he says.
+For example, Littau asked ChatGPT to write his wife a Valentine’s Day card, which he said “turned out really flowery and dull.”
+Jeremy Littau, associate professor of journalism and communication.
+He made the card more personalized by asking it to incorporate Star Wars.
+“The follow-up question was really the driver of what I got … The initial responses should provide you with directions on where to go next. You can’t stop at the first answer,” Littau says.
+He believes fears about ChatGPT’s use in education are overblown because it doesn’t produce quality work on its own. Students need to be knowledgeable to make sure it’s returning an accurate answer, and they need to keep refining their questions to yield better answers, he says.
+“They have to know what questions to ask,” Littau says. “It’s a process that resembles journalism, which is all about knowing which questions to ask and how to follow up."
+They have to know what questions to ask. It’s a process that resembles journalism, which is all about knowing which questions to ask and how to follow up.
+Jeremy Littau
+Suzanne Edwards, an associate professor of English and faculty member in women’s gender and sexuality studies at Lehigh, has been co-teaching the course “Algorithms and Social Justice” with Larry Snyder, the Harvey E. Wagner Endowed Chair of Industrial and Systems Engineering and the Deputy Provost for Faculty Affairs at Lehigh.
+In the fall 2022 semester, their students read “Algorithms of Oppression,” by Safiya Noble, about how search engines reinforce negative stereotypes with technologies like autofill. In another activity, students experimented with GPT3, the precursor to ChatGPT. They found that, when prompted with a short, neutral phrase, such as “Black women” or “Asian men,” GPT3 returned racist, sexist and otherwise toxic responses, Edwards says.
+“I have to tell you, the experiment was so shocking we had to abandon it because it was so disturbing,” Edwards says. 
+OpenAI, the makers of ChatGPT, have since updated the program, but Edwards said it still returns biased and sometimes racist results.
+Suzanne Edwards, associate professor of English.
+“The biased content is still there, just in a less obvious way, which in some respects is more dangerous,” she says. 
+OpenAI feeds a huge amount of websites and text from the internet into ChatGPT and then uses prediction algorithms to determine how words appear in relation to one another, Edwards explains. The problem is ChatGPT relies on the internet, “and we all know the internet is a cesspool where people share the worst content.That is not being filtered out of the model,” she says. 
+The latest version of ChatGPT can have various biases in its outputs, and while there has been progress, there’s still more to do, OpenAI says on its website. “We aim to make AI systems we build have reasonable default behaviors that reflect a wide swathe of users’ values, allow those systems to be customized within broad bounds and get public input on what those bounds should be.” 
+Edwards is also troubled that ChatGPT doesn’t provide a bibliography of sources, and she says she has caught the bot making up information. In one class, she asked it to tell her about a title she made up and attributed to author Gloria Naylor—“I’m Out of Coffee and I Really Need Some.” ChatGPT made up an entire narrative about the false story as if it were true.
+It’s less useful for students than Wikipedia. If you’re giving an assignment in your class that a student can turn in an AI-generated response and pass, it’s not a good assignment. I’m not saying it won’t ever be a good tool, maybe it will be, but it’s only ever going to be a tool that requires verification.
+Suzanne Edwards
+For now, Edwards doesn’t see ChatGPT serving a purpose in her classes, and she believes its impact on education could be overstated. 
+“It’s less useful for students than Wikipedia. If you’re giving an assignment in your class that a student can turn in an AI-generated response and pass, it’s not a good assignment,” she says. “I’m not saying it won’t ever be a good tool, maybe it will be, but it’s only ever going to be a tool that requires verification.” 
+At a CITL workshop over the summer on generative AI, faculty shared what they see as the benefits and drawbacks of the technology, particularly ChatGPT. The technology is good at summarizing articles, can troubleshoot code, can help students who are not native English speakers polish their prose and can help students outline their thoughts before writing a paper. 
+A concern was that ChatGPT could make it harder to assess the quality of students’ work. At least one professor plans to emphasize in-person writing to better appraise students’ writing skills and make sure they aren’t relying on generative AI.
+Reihman encourages faculty to address generative AI whether they plan to use it in their class or not. 
+“If you don’t say anything about ChatGPT, you’re leaving an open question in your students’ minds,” he said. “If you want to raise the topic with your students, it’s best to think about whether you want to allow it in your class and, if so, how.” 
+Urban says he doesn’t foresee a blanket policy on generative AI at Lehigh. Faculty are free to conduct their classes how they see fit, he says, and doesn’t want to restrict what they might want to do with the technology.
+“I think we, as a university, are looking to embrace it and use it to enhance the kind of education we provide without ignoring some of the risks and intrinsic biases, without ignoring the fact that it may make it more difficult to assess students in some cases,” Urban says. “I would say we are even excited about the ways in which it can be used and the opportunity to teach students how to use it both effectively and ethically."
+Christina Tatu
+Meet the entrepreneurs whose ideas could change the way people date, bank, protect their dogs from ticks, and more.
+Antigoni Papadimitriou, a teaching assistant professor in the College of Business, and the Lehigh Valley Social Impact Fellowship propel creative entrepreneurship forward.
+Eleven Lehigh students participated in the innovative Maker Bootcamp, part of the AccelerateX winter program.
+Director, Editorial Services
+For inquiries, visit the media page or contact:
+Amy White
+(610) 758-6656
+abw210@lehigh.edu
+301 Broadway, 4th Floor - Suite 400
+Bethlehem, PA 18015
+U.S.A.
+P: (610) 758-4487
+Fax: (610) 758-5566
+communications@lehigh.edu
+GO: The Campaign for Future MakersBe part of the most ambitious fundraising and engagement effort in Lehigh's history. Visit the campaign website now >
+27 Memorial Drive West, Bethlehem, PA 18015 USA
+Phone: (610) 758-3000
+© 2024 All Rights Reserved

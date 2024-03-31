@@ -1,0 +1,27 @@
+Queensland University of Technology official policy on generative AI Artificial Intelligence
+https://libguides.library.qut.edu.au/c.php?g=958007&p=7004472
+QUT has a policy regarding Academic Integrity (Manual of Policies and Procedures (MOPP) at MOPP C/5.3 Academic Integrity) and guidelines on HiQ online: Academic integrity and plagiarism - Student - QUT Portal
+Please refer to the Digital Workplace page on Artificial Intelligence and Assessment on why to use AI, embedding AI literacies, the requirements to communicate expectations to students, the GenAI tools for use in learning and teaching at QUT, designing assessment incorporating GenAI and mitigating its use in assessment design. 
+Research Students: QUT offers training and workshops for research students about the responsible use of AI in research writing. You can access the module at any time and move through it at your own pace. Responsible use of AI in Research Writing - Research students - QUT Portal
+GenAI tools work by giving the program a prompt, or instructions, to follow. A good prompt generates basic text that needs tweaking; a great prompt is specific and useful to the user. Great prompts have some or all of the following elements: 
+Try the following two prompts in MS Copilot and see the difference: 
+There are many different generative AI tools available, with more being developed every day. HiQ Virtual and the Digital Workplace offer a list of QUT-endorsed tools with AI functionality. 
+Other tools may require accounts and/or paid subscriptions to access. Always read the team and conditions as well as the privacy statement before use to ensure you are aware of how your information may be used. 
+Considerations include copyright and intellectual property and data security and accessibility. 
+Warning: Using non-endorsed AI tools can expose the university’s data or personal information to the public. So, always use approved technologies to help keep our staff and student information safe.
+Due to data security, intellectual property and privacy concerns, staff must not require students to use GenAI for learning and assessment outside of those tools provided by QUT. Staff also should not upload student work to any external system.
+ChatGPT (Chat Generative Pre-trained Transformer) is a GenAI chatbot that has been developed by OpenAI. It is an example of a Large Language Model (LLM) that uses Natural Language Processing (NLP) to generate content in a conversational tone. 
+Microsoft Copilot is an AI-powered digital assistant that aims to provide personalized assistance to users. It incorporates ChatGPT with the MS Office environment and is available to QUT staff and students. 
+Possible uses of these tools:
+Limitations: 
+Stable Diffusion is an AI art generator that enables users to create unique imagery from short text descriptions, also known as prompts.
+DALL·E 2 is an AI system that enables users to create images and art from a text description in natural language.
+Possible uses: 
+Limitations: 
+Elicit is an AI research assistant that uses machine learning to help automate parts of the research workflow. It can find relevant papers without perfect keyword matches, and summarise and extract key information from the papers.
+Scite is a platform that helps researchers discover and evaluate scientific articles using Smart Citations. Smart Citations show the context and the classification of how a publication has been cited by other publications, whether it provides supporting or contrasting evidence for the cited claim.
+Enago Read and genei can summarise PDFs and web pages and extract keywords. 
+Possible uses:
+Limitations:
+ Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Australia License.
+QUT acknowledges the Traditional Owners of the lands where QUT now stands.

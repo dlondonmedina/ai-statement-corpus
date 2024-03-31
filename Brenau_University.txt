@@ -1,0 +1,11 @@
+Brenau University official policy on generative AI Artificial Intelligence
+https://libguides.brenau.edu/chatgpt
+ChatGPT (Generative Pre-trained Transformer) was developed by OpenAI.
+Filled with information, it is designed to answer questions and prompts by generating human-like responses. It is able to generate responses in multiple languages, provide information, and engage in conversations with the user. Though certainly not infallible, it is making a name for itself in education for its usefulness to teachers and students. 
+UPDATE! ChatGPT3 is now ChatGPT4
+Learn more about ChatGPT4 and demo the system here.
+                                    
+Here are some examples of classroom policies on the use of AI. 
+Classroom Policies for AI Generative Tools
+Proposal of Usage Guidelines for AI Generative Tools at CU
+Did you know Turnitin is developing an AI detector? It predicts the overall percentage that an assignment was AI generated. Instructors can use this tool to make decisions surrounding academic integrity and fairness to students. Look at this sneak peek of the detection capability.

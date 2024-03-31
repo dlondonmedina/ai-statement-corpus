@@ -1,0 +1,162 @@
+East Tennessee State University official policy on generative AI Artificial Intelligence
+https://www.etsu.edu/teaching/teaching_toolkits_1/chatgpt_toolkit.php
+ 
+Advice and Strategies for Artificial Intelligence
+
+ 
+Approach and Attitudes
+
+ 
+
+    About ChatGPT/AI
+
+    Generative AI, such as ChatGPT*, is here to stay; we cannot put that toothpaste back into the tube.
+
+    Further, AI detection tools are fairly inaccurate and, on their own, may not hold up to a charge against a student for lack of academic integrity.
+
+    Therefore, most advice in the field now is to accept that ChatGPT/AI will be used by students - and we can use it, too, as a tool for learning in our classrooms. Consider: How can AI help us achieve our learning goals for our students in new and possibly better ways?
+
+     
+
+    *ChatGPT or any other specific application may go away, but generative AI probably will not be going anywhere soon.
+    About Students
+
+    Consider that most students are here to learn and wish to do so. Encourage and focus on this attitude, rather than on assumptions that all will cheat.
+
+    Including frequent discussions about the goals of learning, as well as how AI can boost or hinder those goals (depending on how it is used), can encourage students to complete assignments with their learning gains in mind.
+    About AI and Equity
+
+    Some students form study groups to learn together. However, others lack peer connection for various reasons, often related to challenges inherent for particular student groups (such as first-generation students).
+
+    Using ChatGPT or other generative AI can be, for some students, akin to working with a peer. In fact, AI comes with many of the same constraints that working with a peer does: It can be inaccurate about some information, yet supportive with other information.
+
+    Encouraging students to use ChatGPT in responsible ways can give more isolated students a consultation approach that helps equalize their opportunities as compared with students who have strong peer connections.
+    About Our Instruction
+
+    Steipe (2023) asks us to consider: If an algorithm can pass our assessments, what learning value have we been providing?
+
+    It may be time to re-examine our course design and question whether we are asking our students to think enough  in critical and complex ways.
+
+    In particular, examine your assignments for their purpose toward learning goals. If it feels like busywork, students may be apt to use AI as their illicit assistant. If your assignment was purposefully designed to help students reach a course learning objective, but you fear they see it as busywork, be very explicit in explaining how the assignment connects to the course. In fact, this is always good practice, whether you believe the purpose is clear or not! Learn more about Transparency in Learning and Teaching.
+
+ 
+Circumventing AI
+
+Please note that strategies to circumvent AI take advantage of current weaknesses in AI technology. This means these strategies may need to be updated or adapted as AI evolves.
+
+Get a downloadable document of these suggestions here.
+
+    Use Experiences
+
+    For writing assignments, ask students to relate course content to their own personal experiences.
+
+    A note of warning: ChatGPT is capable of writing about generic student experiences (e.g., those of a teenager) if it is included in the prompt. There are a few ways to circumnavigate this capability:
+        Ask students to first write about and submit just their experience, to be later used in a more complex written assignment. It is less likely that students will AI-generate a simple narrative of an event about themselves (something most students like to talk about).
+
+     
+         
+        Provide the experience in your class. In class or online, provide students with a semi-structured experience that contains some unique characteristics, such as an unexpected twist. For a written assignment, ask students to relate some of the more nuanced aspects of the experience to your course content. One excellent method is to incorporate Community-Engaged Learning (CEL) into your course design; watch our website for developing support materials about this teaching strategy.
+    Go Deeper with the Task
+
+    Currently, AI is incapable of nuanced critique or logic. While this may change, right now, most AI-generated content will not do a good job of teasing out complex arguments and supporting them.
+
+    To that end, examine your written assignments and see if what you are asking is more basic or complex. A basic assignment might ask for a summary of a reading, or analysis of a well-known work in your field. ChatGPT can easily write to these types of assignment prompts.
+
+    Instead, consider requiring students to compare two works, particularly works that may on the surface seem unrelated, but that might have connections at a more sophisticated level. ChatGPT is unlikely to find these connections.
+
+    Even better: Online or in class, first ask students to discuss, in small groups, their ideas about how these two works (or concepts, etc.) are related. The discussion around these ideas may animate your class, ensure everyone is hearing about the possibilities, and providing enough scaffolding so that students feel more confident they can approach the writing process successfully.
+    Work in Stages
+
+    For larger written assignments, and particularly those that may require deeper critical thinking skills such as those above, consider breaking down the assignment into stages or drafts, so that you can provide guidance and feedback.
+
+    Why this helps:
+        Students feel more supported and less at risk of failure when they can submit lower-stakes drafts, and when they receive guidance through feedback. Thus, they are less likely to use other sources to represent as their own work. See here for ways to more efficiently provide feedback.
+
+     
+        When work is submitted in drafts, it is less likely to be revised using another round of AI (even if the original draft was).
+    Require Sources
+
+    Currently, AI is not terrific at accurate citations. Furthermore, it is likely unable to pull supporting quotations. Consider asking students to cite not just the source but the page number and paragraph (for paraphrased ideas) or to add in supporting quotes from the source (textbook, article, story, poem) as part of the analysis.
+
+    This does not guarantee a student will not begin with AI to generate a draft. However, because the student must go back and find the supporting information from the source, and sprinkle in supporting quotations, there is a good likelihood that a lot of learning will occur during this process - perhaps unbeknownst to the student!
+    Go Old School
+
+    One way to ensure students truly know the material you would like them to absorb, analyze, and digest is to have them actively use that material in class:
+        Ask students to bring notes and be prepared for a targeted discussion. Consider using the "chalk talk" method, wherein students in small groups write their points on a large piece of newsprint or wall post-it note, either in silent discussion or while talking about the topic. Having each student choose their own colored marker (write their names in their color on a corner of the paper) gives a sense of accountability, as you can check who contributed what points.
+
+    Online, ask students for an ongoing discussion, using sources with citations and possibly some direct quotes to support their points. Require students to interact with one another: A true back-and-forth discussion is harder to generate with AI.
+
+     
+        Have students do a writing task in class. If you need students to summarize and fear they might ChatGPT the response, consider asking them to write about it during class. Pen and paper is one method; monitored typing can be another. Please be mindful of student equity per their access to technology.
+
+     
+        Require group or individual oral reporting. When students have to present their understandings orally, they must know and understand their material, whether the report was generated by AI or not. For online oral recordings, require that students not read a report, but rather speak to notes. (It's usually easy to tell when they are just reading.)
+    Consider Alternative Grading
+
+    Students are more likely to cheat when they believe their grade is on the line. (Here, we are including under "cheating" the illicit use of AI content generation and representing this as one's own work.)
+
+    When assignments are high stakes, with no grace for failure or poor performance, students will decide the risk of getting caught is worth the gain of succeeding on the assignment or in the class.
+
+    Alternative grading practices, such as Specifications Grading, Standards-Based Grading, or Ungrading, are ways to structure flexibility into your class and help students focus on the learning (rather than the grade). Typically, these approaches build in opportunities for revision, late work submissions (which could be another reason students use ChatGPT: to meet a deadline), and student choice. Watch for upcoming Toolkits about these approaches!
+
+Using AI as a Teaching Tool
+Create a First Draft
+As a first draft for a paper or other writing assignment, use ChatGPT to create the opening draft. There
+are several variants you might use for this approach:
+• Generate the opening draft together in class. Ask students for good ChatGPT prompts.
+Whatever is generated is what must be used to build on by all in the class (individually or in
+groups). Can they finish the activity or assignment during the rest of class - adding details,
+making corrections, including information missed in the prompt, etc.?
+• Ask students to generate their own draft and submit that as the first phase of the project.
+Consider asking them to include 5 things they intend to address or change from that draft to
+their next version.
+• Ask students to each generate a draft or outline and bring it to class. As a class activity, have
+students review drafts in small groups and pick the best one to start with. Then, of those, have
+the class review and vote for the best opening draft. This process requires knowledge of the
+topic to be able to evaluate options for the best draft, so it becomes a great collaborative
+learning experience. Students then use this draft to build upon for their own individual
+submissions; the draft's essential elements should still be evident in the final product - but it
+should also include meaningful adaptations and additions.
+• Have students use AI as an initial researcher for a topic, to provide starting information. (Have
+them submit what AI generated.) Then, have students follow up this information with other
+sources, being sure to verify the information generated as well as including citations that
+support the claims of the original draft.
+Teach Analytic Skills
+AI can be used to teach both your content and good analytic skills simultaneously.
+• As the instructor, ask ChatGPT to create text on a topic. Hand this text out in class (or share on
+Zoom/D2L) and ask students to critique the generated information. They could do this through
+critically annotating the information or cross-checking the information for accuracy using
+reliable sources.
+• Create generated text about a course topic from 2 or more AI generators (or using 2 different
+prompts in a single AI generator). Provide these to students - ideally in small groups - and ask
+them to compare the generated texts and evaluate them on qualities you think are important
+to check, such as accuracy, style, audience, voice, etc.
+• For artistic writing, ask AI to generate a work in the style of a particular author or writing
+approach. Have students then evaluate what was generated for accuracy of style, how it reflects
+(or not) the writer, and so forth.
+This might also be done for writing about a course topic from a particular theoretical
+perspective.
+• As an exploratory activity, ask students to evaluate the usefulness of AI for particular
+aspects of your course's discipline: For example, can it assist with efficiency for
+translation, first drafts, particular voice? This can become a topic of investigation itself
+in your class.
+Similarly, have students each bring an AI-generated essay to class; in groups, compare
+the essays and evaluate them for accuracy, logic, etc.
+Teach AI Critical Literacy
+Like us, students are new to AI and its potential uses and abuses. It can be helpful to integrate some
+instruction about AI literacy into our courses so that students are exposed to the strengths and
+weaknesses of this technology.
+Some things to ensure students know about AI:
+• What AI is: It is a statistical predictor, with no understanding or intent behind what it generates.
+It is simply predicting the next best set of words based on algorithms.
+• AI can make mistakes. It can sound confident about what it claims, but be completely in error.
+• AI is not human.
+• AI contains fabrications, misrepresentations, fallacies, and stereotypes. It is only as good as
+the information pool it is drawing from.
+• The current "confabulation rate" of AI is approximately 10%.
+AI literacy skills to teach:
+• How to generate and then critique outputs. It's good to practice this with students
+during class time, or in an online exercise.
+• How to identify failures of logic, accuracy, bias, and consistency.
+• How to cite the use of AI output and to treat that output as content developed by a 3rd
+party.

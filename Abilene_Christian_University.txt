@@ -1,0 +1,45 @@
+Abilene Christian University official policy on generative AI Artificial Intelligence
+https://guides.acu.edu/c.php?g=1316157&p=9677751
+In March 2023, MLA provided guidance for citing responses from ChatGPT or output from another generative AI tool.
+"Examples of harm reduction initiatives" prompt. ChatGPT, 23 Mar. version, OpenAI, 4 Mar. 2023, chat.openai.com/chat.
+("Examples of harm reduction")
+If you create a shareable link to the chat transcript, include that instead of the tool's URL.
+MLA also recommends acknowledging when you used the tool in a note or your text as well as verifying any sources or citations the tool supplies.
+The APA Style team is working on creating official guidelines. In the meantime, they have provided interim guidelines.
+If you have saved and/or shared the chat transcript, follow APA guidelines for citing computer software. It may be worthwhile to include the chat's transcript as an appendix to your project. Use the company as the author, not the tool's name. Include a brief description of the chat indicating the prompts in square brackets.
+Author. (Date of chat). [Description of chat and prompt]. URL
+OpenAI. (2023, Feb. 17). [ChatGPT response to a prompt about examples of harm reduction initiatives]. https://chat.openai.com/
+(OpenAI, 2023)
+If you have not saved the chat transcript or cannot share or retrieve it, follow APA guidelines for citing personal communication. In this case, only include an in-text citation and do not include an entry in the references list.
+(Author, personal communication, date of chat)
+(OpenAI, personal communication, February 17, 2023)
+Conversations with students reveal that they are uncertain about what levels of AI use are appropriate.  AI is so new that our campus definitions of plagiarism and cheating may not be clear.
+Best practice is to define what is acceptable and not acceptable in your class.  Be transparent upfront.
+Download this graphic for your syllabus or for more extended conversation in class.
+ 
+Your policy should include these considerations:
+ 
+From Why All Our Classes Suddenly Became AI Classes:  Strategies for Teaching and Learning in a ChatGPT World by Ethan Mollick and Lilach Mollick, Harvard University.
+ 
+Example 1: AI Required
+I expect you to use AI (e.g., ChatGPT and image generation tools) in this class. In fact, some assignments will require it. Learning to use AI is an emerging skill and I provide tutorials on how to use them. I am happy to meet and help you with these tools during office hours or after class.
+Be aware of the limits of ChatGPT, such as the following:
+If you provide minimum-effort prompts, you will get low-quality results. You will need to refine your prompts in order to get good outcomes. This will take work.
+Don’t trust anything it says. If it gives you a number or fact, assume it is wrong unless you either know the answer or can check with another source. You will be responsible for any errors or omissions provided by the tool. It works best for topics you understand.
+AI is a tool, but one that you need to acknowledge using. Please include a paragraph at the end of any assignment that uses AI explaining what you used the AI for and what prompts you used to get the results. Failure to do so is in violation of academic honesty policies.
+Be thoughtful about when this tool is useful. Don’t use it if it isn’t appropriate for the case or circumstance.
+ 
+From Why All Our Classes Suddenly Became AI Classes: Strategies for Teaching and Learning in a ChatGPT World by Ethan Mollick and Lilach Mollick, Harvard University.
+Example 2:  AI Prohibited
+From an English Writing Intensive course
+
+"A Note on AI: Any work written, developed, created, or inspired by artificial intelligence (AI) is considered plagiarism and will not be tolerated. While the ever-changing (and exciting!) new developments with AI will find their place in our workforces and personal lives, in the realm of education and learning, this kind of technology does not belong. This is because the use of AI robs us all of the opportunity to learn from our experiences and from each other, to play with our creative freedoms, to problem-solve, and to contribute our ideas in authentic ways. In a nutshell, college is a place for learning, and this class is specifically a space for learning how to improve our writing. AI simply cannot do that learning for us."
+ 
+"Note that this instructor has set the expectation that any use on graded work/ work for credit will be considered a violation of the academic misconduct policy. This would be an appropriate statement for a class in which the course outcomes have been compromised by use of the technology (as one would imagine would happen in a writing course). "
+ 
+From:  What should a syllabus statement on AI look like?, Colorado State University
+Example 3:  AI Use-With-Permission
+
+Generally speaking, you are not authorized to use artificial intelligence engines, software, or artwork generating programs (or similar) to produce work for this class EXCEPT on assignments that I have identified and for which you will have received significant guidance on appropriate use of such technologies. I will provide more information about the specific assignment when the time is appropriate in the course. You may not, however, construe this limited use as permission to use these technologies in any other facet of this course.
+ 
+From:  What should a syllabus statement on AI look like?, Colorado State University

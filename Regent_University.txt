@@ -1,0 +1,64 @@
+Regent University official policy on generative AI Artificial Intelligence
+https://libguides.regent.edu/AI
+artificial intelligence, n.
+The capacity of computers or other machines to exhibit or simulate intelligent behaviour; the field of study concerned with this. Abbreviated AI.
+“Artificial Intelligence.” Artificial-Intelligence Noun - Definition, Pictures, Pronunciation and Usage Notes | Oxford Advanced Learner’s Dictionary at OxfordLearnersDictionaries.Com, www.oxfordlearnersdictionaries.com/definition/english/artificial-intelligence. Accessed 6 Sept. 2023. 
+Artificial intelligence (AI), the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings. The term is frequently applied to the project of developing systems endowed with the intellectual processes characteristic of humans, such as the ability to reason, discover meaning, generalize, or learn from past experience.
+ 
+Since the development of the digital computer in the 1940s, it has been demonstrated that computers can be programmed to carry out very complex tasks—such as discovering proofs for mathematical theorems or playing chess—with great proficiency. Still, despite continuing advances in computer processing speed and memory capacity, there are as yet no programs that can match full human flexibility over wider domains or in tasks requiring much everyday knowledge.
+ 
+On the other hand, some programs have attained the performance levels of human experts and professionals in performing certain specific tasks, so that artificial intelligence in this limited sense is found in applications as diverse as medical diagnosis, computer search engines, voice or handwriting recognition, and chatbots. Artificial intelligence (AI) is the ability of a computer or a robot controlled by a computer to do tasks that are usually done by humans because they require human intelligence and discernment. Although there are no AIs that can perform the wide variety of tasks an ordinary human can do, some AIs can match humans in specific tasks.
+Copeland, B.J.. "Artificial intelligence". Encyclopedia Britannica, 5 Sep. 2023, https://www.britannica.com/technology/artificial-intelligence. Accessed  6 September 2023.
+Types of artificial intelligence
+Artificial intelligence can be organized in several ways, depending on stages of development or actions being performed. 
+ 
+For instance, four stages of AI development are commonly recognized.
+1. Reactive machines: Limited AI that only reacts to different kinds of stimuli based on preprogrammed rules. Does not use memory and thus cannot learn with new data. IBM’s Deep Blue that beat chess champion Garry Kasparov in 1997 was an example of a reactive machine.
+2. Limited memory: Most modern AI is considered to be limited memory. It can use memory to improve over time by being trained with new data, typically through an artificial neural network or other training model. Deep learning, a subset of machine learning, is considered limited memory artificial intelligence.
+3. Theory of mind: Theory of mind AI does not currently exist, but research is ongoing into its possibilities. It describes AI that can emulate the human mind and has decision-making capabilities equal to that of a human, including recognizing and remembering emotions and reacting in social situations as a human would. 
+4. Self-aware: A step above theory of mind AI, self-aware AI describes a mythical machine that is aware of its own existence and has the intellectual and emotional capabilities of a human. Like theory of mind AI, self-aware AI does not currently exist.
+ 
+A more useful way of broadly categorizing types of artificial intelligence is by what the machine can do. All of what we currently call artificial intelligence is considered artificial “narrow” intelligence, in that it can perform only narrow sets of actions based on its programming and training. For instance, an AI algorithm that is used for object classification won’t be able to perform natural language processing. Google Search is a form of narrow AI, as is predictive analytics, or virtual assistants.
+ 
+What Is Artificial Intelligence (AI)? |  Google Cloud. https://cloud.google.com/learn/what-is-artificial-intelligence#section-3.
+Recent advances in generative AI have created a necessary conversation about citation and ownership of information. This conversation is continuing to develop. However, Regent University states that when generated content from AI/artificial intelligence is allowed in submitted work, it must be cited, otherwise, use is considered academic dishonesty.
+APA Style recognizes the complications created by algorithm-based generative programs: 
+"If you’ve used ChatGPT or other AI tools in your research, describe how you used the tool in your Method section or in a comparable section of your paper. For literature reviews or other types of essays or response or reaction papers, you might describe how you used the tool in your introduction. In your text, provide the prompt you used and then any portion of the relevant text that was generated in response."
+ 
+"Unfortunately, the results of a ChatGPT “chat” are not retrievable by other readers, and although nonretrievable data or quotations in APA Style papers are usually cited as personal communications, with ChatGPT-generated text there is no person communicating. Quoting ChatGPT’s text from a chat session is therefore more like sharing an algorithm’s output; thus, credit the author of the algorithm with a reference list entry and the corresponding in-text citation."
+ 
+Example:
+When prompted with “Is the left brain right brain divide real or a metaphor?” the ChatGPT-generated text indicated that although the two brain hemispheres are somewhat specialized, “the notation that people can be characterized as ‘left-brained’ or ‘right-brained’ is considered to be an oversimplification and a popular myth” (OpenAI, 2023).
+Reference
+OpenAI. (2023). ChatGPT (Mar 14 version) [Large language model]. https://chat.openai.com/chat
+ 
+Another option is:
+"You may also put the full text of long responses from ChatGPT in an appendix of your paper or in online supplemental materials, so readers have access to the exact text that was generated. It is particularly important to document the exact text created because ChatGPT will generate a unique response in each chat session, even if given the same prompt. If you create appendices or supplemental materials, remember that each should be called out at least once in the body of your APA Style paper."
+ 
+Example:
+When given a follow-up prompt of “What is a more accurate representation?” the ChatGPT-generated text indicated that “different brain regions work together to support various cognitive processes” and “the functional specialization of different regions can change in response to experience and environmental factors” (OpenAI, 2023; see Appendix A for the full transcript).
+Reference
+OpenAI. (2023). ChatGPT (Mar 14 version) [Large language model]. https://chat.openai.com/chat
+https://apastyle.apa.org/blog/how-to-cite-chatgpt
+ 
+According to the MLA Cite Center,
+https://style.mla.org/citing-generative-ai/
+ 
+Chicago Manual of Style, when posed with the question, "How do you recommend citing content developed or generated by artificial intelligence, such as ChatGPT? Many scholarly publishers are requiring its identification though also requiring human authors to take responsibility for it and will not permit the AI to have “authorship.”
+Provided the following answer:
+"You do need to credit ChatGPT and similar tools whenever you use the text that they generate in your own work. But for most types of writing, you can simply acknowledge the AI tool in your text (e.g., “The following recipe for pizza dough was generated by ChatGPT”).
+ 
+If you need a more formal citation—for example, for a student paper or for a research article—a numbered footnote or endnote might look like this:"
+1. Text generated by ChatGPT, OpenAI, March 7, 2023, https://chat.openai.com/chat.
+"ChatGPT stands in as 'author' of the content, and OpenAI (the company that developed ChatGPT) is the publisher or sponsor, followed by the date the text was generated. After that, the URL tells us where the ChatGPT tool may be found, but because readers can’t necessarily get to the cited content (see below), that URL isn’t an essential element of the citation.
+ 
+If the prompt hasn’t been included in the text, it can be included in the note:"
+1. ChatGPT, response to “Explain how to make pizza dough from common household ingredients,” OpenAI, March 7, 2023.
+ 
+"If you’ve edited the AI-generated text, you should say so in the text or at the end of the note (e.g., “edited for style and content”). But you don’t need to say, for example, that you’ve applied smart quotes or adjusted the font; changes like those can be imposed silently (see CMOS 13.7 and 13.8).
+If you’re using author-date instead of notes, any information not in the text would be placed in a parenthetical text reference. For example, '(ChatGPT, March 7, 2023)'.”
+ 
+"But don’t cite ChatGPT in a bibliography or reference list unless you provide a publicly available link (e.g., via a browser extension like ShareGPT or A.I. Archives). Though OpenAI assigns unique URLs to conversations generated from your prompts, those can’t be used by others to access the same content (they require your login credentials), making a ChatGPT conversation like an email, phone, or text conversation—or any other type of personal communication (see CMOS 14.214 and 15.53)."
+ 
+"To sum things up, you must credit ChatGPT when you reproduce its words within your own work, but unless you include a publicly available URL, that information should be put in the text or in a note—not in a bibliography or reference list. Other AI-generated text can be cited similarly. Check back with us for updates on this evolving topic."
+https://www.chicagomanualofstyle.org/qanda/data/faq/topics/Documentation/faq0422.html

@@ -1,0 +1,70 @@
+The College of New Jersey official policy on generative AI Artificial Intelligence
+https://cetl.tcnj.edu/artificial-intelligence/
+Apply     Visit     Give     |     Alumni     Parents     Offices     TCNJ Today     Three Bar Menu
+The following guide is meant to serve as a starting point for those who wish to gain a basic understanding of AI in the context of teaching and learning. Whether you embrace AI tools or limit their use, having a foundational knowledge can help you make informed decisions in the classroom with regard to the use of text and image generating chatbots. Additional resources will be added as new content becomes available.
+According to Educause (2022), Artificial Intelligence refers to machines that perform tasks typically considered to require human thought and decision making. Chatbots are a form of AI that utilize a set of algorithms to create text, images, code, audio, and video content. Generative AI tools such as ChatGPT radically challenge our previous notions about content authoring and creation. 
+As explained by the Yale Poorvu Center for Teaching and Learning, users engage in text-based conversations with AI chatbots by submitting prompts in natural language. In response, chatbots offer responses based on access to large datasets. Users can add follow-up prompts to fine tune results and incorporate additional ideas. Because chatbots are trained to predict word associations, they present probable answers to queries. In some instances, the answers are wrong or fictional. (For example, ChatGPT could create sources that don’t exist.) The answers could also be accurate and helpful. As we move forward with AI tools, knowing how to assess the value of a generated response—and how to provide attribution to AI sources—are important literacy skills.
+When used in the wrong way, AI tools can threaten academic integrity and result in academic dishonesty. As noted on TCNJ’s Academic Integrity webpage, “Teachers, advisors, and classmates must be able to trust that the ideas students express, the data they present, and the work they submit are their own. Misrepresenting another’s work as one’s own prevents an opportunity to learn and violates this trust. The right of ownership to academic work is as important as the right of ownership over personal possessions.” Faculty may wish to explore assignments and assessments that deter AI use (for an example, this video from Vanderbilt University’s Center for Teaching and Learning offers some ideas on how instructors might alter writing assignments.) In addition, expectations on usage of AI tools should be clearly communicated to students.
+The syllabus is a logical place for initially addressing AI use and establishing boundaries in your own class. If you do not wish your students to use any AI tools in your course, consider a statement that clearly prohibits use. For example, Yale University offers this simple sentence: “Collaboration with ChatGPT or other AI composition software is not permitted in this course.”
+If you plan to allow AI tools for certain tasks and not others, clarify those situations. Temple University offers examples of syllabus language for acceptable/unacceptable use of AI. Be sure to encourage students to ask for clarification if they are unsure about what might be acceptable. In cases where you are allowing AI use, consider reviewing different style guides for proper attribution with your students:
+APA
+MLA
+Chicago 
+After you understand AI tools and decide on what you will and will not permit in your classroom, we encourage you to give consideration to some of the ways AI might be useful to growing student success and improving learning. AI can be used as a supportive tool to provide personalized learning and develop critical thinking skills. For a thoughtful examination on this topic, please visit MIT’s Teaching + Learning Lab Blog Series, Teaching & Learning with ChatGPT: Opportunity or Quagmire? 
+AI is impacting all parts of our lives, and guiding students to understand and use AI tools will prepare them to participate in charting the path forward for their personal and professional futures. 
+ 
+Center for Excellence in
+Teaching and Learning
+The College of New Jersey
+2000 Pennington Rd.
+Ewing, NJ 08628
+Contact CETL
+
+
+Copyright ©2023   Contact   Careers at TCNJ   Accessibility   Consumer Info   Privacy      2000 Pennington Road Ewing, NJ 08628-0718
+            
+View Full Site
+
+
+Search
+
+
+
+
+
+
+
+
+TCNJ Today ||  Parents ||  Alumni
+
+
+
+TCNJ Home
+
+About
+
+Academics
+
+Admissions
+
+Athletics
+
+Campus Life
+
+Library
+
+A-Z | Directory | Map | Offices
+
+Facebook   Twitter   LinkedIn   Instagram   YouTube
+
+
+TCNJ Today ||  Parents ||  Alumni
+TCNJ Home
+About
+Academics
+Admissions
+Athletics
+Campus Life
+Library
+A-Z | Directory | Map | Offices
+Facebook   Twitter   LinkedIn   Instagram   YouTube

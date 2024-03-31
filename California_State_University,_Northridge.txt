@@ -1,0 +1,28 @@
+California State University, Northridge official policy on generative AI Artificial Intelligence
+https://www.csun.edu/it/artificial-intelligence-ai
+Artificial Intelligence (AI) is a rapidly growing field that is changing the way we live, work and learn. The impact of AI is already being felt across a wide range of industries, and it is becoming increasingly important for educators and students to have a basic understanding of these tools. It is also important to stay informed about the latest developments in AI and how they can be applied to your research and teaching. With the wide range of AI tools available, there are many opportunities to explore and create new applications in this exciting field.
+Artificial Intelligence (AI) is a branch of computer science that deals with the creation of machines that can perform tasks that normally require human intelligence. AI has the ability to analyze and process vast amounts of data, and automate tasks that were previously performed by humans.
+With the currently available tools, you can use AI to create digital artwork, write text, edit and improve audio, find topic-based articles for research, and more.
+CSUN is happy to announce a collaborative effort to provide guidance to faculty as it pertains to academic integrity and artificial intelligence. A collaboration of colleagues from multiple offices generated an FAQ guiding document to support deans, chairs, and faculty with the new technology and the challenges it presents in the classroom.
+The FAQ contains guidance on the following topics:
+In addition, please feel free to access Faculty Development’s Teaching Toolkit on Canvas, where you can find suggestions for syllabus language related to Artificial Intelligence.  That document can be found here: https://canvas.csun.edu/courses/93131/pages/academic-integrity-section-overview.
+From data analysis to Natural Language Processing (NPL), there is a wide range of AI tools that can help automate tasks, uncover new insights, and make more informed decisions. Some of the most innovative and exciting AI tools available today include ChatGPT, Chat BA, Elicit.org, and ExplainPaper. There is also a site that helps you find the right AI tool for you.
+ChatGPT: ChatGPT is an advanced conversational AI tool developed by OpenAI. This tool can generate natural language responses to text inputs, making it possible to create virtual assistants, chatbots, and other conversational interfaces. To sign up, watch the Sign Up for a ChatGPT Account video.
+Chat BA: An AI-powered virtual assistant that can be used to make slide decks.
+Elicit.org: This paid tool can be used for evaluating academic references such as authors, titles, abstracts, and citation data. Elicit currently works best for answering questions with empirical research (e.g. randomized controlled trials). These tend to be questions in biomedicine, social science, and economics. Questions like "What are the effects of ____ on ____?" tend to work best.
+This list of articles from Educause, The Chronicle of Higher Education, and others further define and discuss AI in Higher Education.
+This collection of recorded workshops give an overview of generative AI in higher education, as well as tools and resources for how to approach AI in the classroom.
+The Classroom Policies for AI Generative Tools was created to facilitate the sharing of policies developed by other educators world-wide for navigating AI-generative tools like ChatGPT, MidJourney, Dall-E, and more, in order to assist fellow instructors in developing their own policies.
+Faculty Development has included AI-related resources to their Teaching Toolkit in the Academic Integrity section:
+As with any online service, there are privacy concerns to consider when signing up for any AI tool. It's important to carefully review the terms of service and privacy policy of any AI tool you are considering using to ensure that you are comfortable with the data collection and usage practices.
+Faculty Technology Center(818) 677-3443
+IT Help Center(818) 677-1400
+Universal Design Center(818) 677-5898
+Classroom Support(818) 677-1500
+
+
+
+
+
+
+

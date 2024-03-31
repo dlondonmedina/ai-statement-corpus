@@ -1,0 +1,36 @@
+Georgia Southern University official policy on generative AI Artificial Intelligence
+https://academics.georgiasouthern.edu/ai-is-here-now-what/
+The world of higher education is rapidly changing, and the rise of artificial intelligence (AI) is a key factor in this transformation. While some may view AI as a threat to traditional teaching methods, it’s important to recognize the many benefits it brings to the table. From personalized learning experiences to streamlined administrative tasks, AI can revolutionize the approach to education.
+But it’s not exactly new.
+“The beginnings can be traced back to a research paper published in 1943 with a logical calculus paper setting the groundwork for neural networks, which is what powers many modern AI systems,” said Hayden Wimmer, Ph.D., associate professor of Information Technology of Georgia Southern University. “Alan Turing published the idea of a Turing Test in 1950 and the first neural network computer was released in 1950.”
+AI has revolutionized the way people learn and teach through the years, with programs like Grammarly. With the introduction of the latest batch of AI like ChatGPT, higher education institutions can now provide personalized and adaptive learning experiences to their students. However, the integration of AI into higher education can be a challenging task. Institutions need to identify the right AI strategies that fit their educational goals and align with their values. By embracing the power of AI, higher education institutions can unlock new opportunities that will benefit both students and faculty. 
+Associate Professor Robert Terry, Ph.D. of the Georgia Southern Department of English has identified the pros of AI and has begun implementing AI into his curriculum. 
+“Because professional organizations are already using generative AI for a variety of tasks, I believe it’s important that we incorporate it as well into what we’re guiding our students through,” he said. “Although this summer was my first attempt, I designed three new assignments that brought AI into our writing process, all of which provided students with a sense of how to use the tools for textual analysis, for analyzing their own experiences and using basic persona prompting to simulate rhetorical situations.”
+Like Terry, many faculty in higher education institutions across the country are discovering the power of AI and its ability to assist in personalized learning, grading and feedback and even providing insights into student behaviors and engagement. It is important to leverage AI in higher education to improve learning outcomes and enhance the overall learning experience for students. AI requires a thoughtful approach to implementation and consideration of its limitations, which is the goal of Georgia Southern – to bring faculty together and strategize how AI can be best used on campus among everyone as a collective whole.
+At the same time, it’s crucial that institutions approach AI with caution and foresight. It’s important to ensure that these technologies are used ethically and in a way that supports both students and educators.
+“Faculty go through three stages when first introduced to AI: Reaction, Adaptation and Integration. We are seeing that most faculty are having what we call an initial reactive phase,” said Beth Howells, Ph.D., interim Department Chair of the Department of English. “This is when faculty immediately try to find ways to restrict or regulate the use of AI. Next is adaptation where you have those who are trying to figure out how they can adapt to this process. For example, how do we adjust our assignments? Do we regress to oral exams? Do we move to in-class writing? How do we adapt? Last is integration, which is when faculty integrate AI into their classes, much like (Terry) is doing.”
+This was something that Wimmer agreed with, but he explained that it’s not a doom and gloom scenario.
+“Some faculty have explicitly forbid the use of ChatGPT while others have embraced it and taught students how to use it to improve their work. Some faculty require paper written exams and homework again, submission of written outlines, or even a verbal part of the assignment to test knowledge,” Wimmer said. “As this is a new phenomenon, we are still learning how to best cope with a technology that has changed the educational landscape. There have always been websites where students can pay for copies of old exams or to get homework answers. On a bit of karma, since ChatGPT has become available the share prices of these companies have plummeted as they try to figure out how to keep their business model viable when ChatGPT can replace much of their demand at a lower price.”
+With AI, students can receive instant feedback on their work, access customized learning resources, and receive personalized support throughout their academic journey. Faculty members can leverage AI to optimize their teaching methods, streamline administrative tasks, and improve student outcomes. As AI continues to reshape the education landscape, it’s time for higher education institutions to embrace this technology and unlock its full potential.
+AI’s regulation remains a challenging area. One suggestion is to establish universally-accepted standards for training and testing AI algorithms and a form of warranty to ensure their safety and reliability. Although there are many pieces to the AI puzzle that may still be missing for higher education, overall, AI has the potential to revolutionize how we think and allow educators to customize coaching to the individual needs of each student by increasing student engagement and motivation and support collaborative learning.
+With the right approach, AI can help create a more inclusive, accessible, and effective educational experience for all.
+Last updated: 8/1/2023
+Office of the Provost
+Georgia Southern University
+912-478-5258
+provost@georgiasouthern.edu
+Office of the Provost • PO Box 8022, Statesboro, GA 30460 • 912-478-5258
+Statesboro Campus
+1332 Southern Drive
+Statesboro, GA 30458
+			912-478-4636
+Armstrong Campus
+11935 Abercorn Street
+Savannah, GA 31419
+			912-478-4636
+Liberty Campus
+175 West Memorial Drive
+Hinesville, GA 31313
+			912-877-1906
+Accreditation / Sitemap / Privacy / Ethics Hotline / Open Records / Campus Security Report / Human Trafficking Notice / Equal Opportunity & Title IX / University System of Georgia
+Copyright © 2024 · All rights reserved

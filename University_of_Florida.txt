@@ -1,0 +1,41 @@
+University of Florida official policy on generative AI Artificial Intelligence
+https://ai.ufl.edu/
+ 
+In setting the standard for an AI university, the University of Florida is preparing AI-capable students in every discipline for the 21st century workforce while fueling life-changing discoveries by research faculty in every college. This work, guided by a strong foundation in ethics, is driving the creation of a diversified, technology-driven, high-wage economy in Florida and strengthening the country's competitiveness in a global market.
+Learn more in the Building an AI University Booklet.
+Undergraduate Certificate in AI AI Courses Professional Development
+ 
+The University of Florida’s AI initiative will make UF a national leader in AI and have far-reaching impacts for the university and its students and faculty. Equally important, it will play a crucial role in educating and preparing the workforce for the fourth digital revolution to benefit our nation's economy, international ties, security, and to ensure the ethical use of artificial intelligence. 
+From the development and training of an AI-enabled workforce to the application of AI against a wide array of pressing challenges, UF will serve a critical role in advancing and protecting the state we call home. AI will play a critical role in the transformation of Florida's economy into a diversified, technology-drive, high-wage economy. Strong AI infrastructure makes UF one of the best places in the country for researchers to conduct studies that will benefit citizens of our state and the nation.  
+UF's AI infrastructure is one of the strongest in the country. We are home to HiPerGator,  the fastest supercomputer in higher education, along with 300 faculty members who are teaching Ai courses or using AI in their research. At the heart of AI research and teaching is UF's commitment to ethical AI to ensure that this technology benefits all humankind. We are providing upskilling to the existing workforce through professional development, educating K-12 students in AI fundaments, as well as college and university students on our campus and other campuses in the application of AI in their chosen discipline. 
+UF is committed to educating our students for the jobs of today and tomorrow. We are one of the first universities in the country to infuse AI courses across the curriculum. Here, AI is for everyone because AI is being used in all disciplines. We offer more than 200 AI courses and several undergraduate AI certificates. An AI Pathways Career Coach in our nationally ranked Career Connections Center can assist students with finding internships and jobs that will reward their AI knowledge. We also fund AI scholars annually who are working with an AI mentor in research. 
+Building future economic growth
+Emerging as a national leader in AI development and application 
+Creating opportunities for our students
+Artificial intelligence is transforming the way UF researchers across all disciplines can make discoveries to benefit the citizens of this state and the nation. Our current stories are below.  
+
+ 
+UF neuroscientist uses AI to map learning, decision-making, to discover how brains work
+Neuroscientist Ryoma Hattori, Ph.D., has joined The Herbert Wertheim UF Scripps Institute for Biomedical Innovation & Technology, focusing on the complexities of reinforcement learning and decision-making processes in the brain, which could impact psychiatric and autism spectrum disorders treatment.
+Nancy Ruzychi's summer science camps continue to empower young scientists
+Nancy Ruzycki's Goldberg Gator Engineering Explorers Summer Program, initiated in 2022 with support from a significant donation and a State grant, has successfully empowered young scientists and teachers through hands-on AI and engineering education. 
+University of Florida to strengthen its sports program through AI-Powered Athletics
+The University of Florida launches a groundbreaking AI-Powered Athletics project within the UF & Sport Collaborative, funded by a $2.5 million initiative to enhance sports performance and healthcare through advanced data analytics and wearable technology, aiming to benefit student-athletes and advance interdisciplinary research.
+UF Health project seeks to help mothers in need
+The University of Florida Health's new project aims to reduce pregnancy health risks by using a patient dashboard to identify and address social determinants like housing, food insecurity, and stress early, connecting mothers with needed resources to improve outcomes.
+
+At UF, human connections power artificial intelligence
+The University of Florida is harnessing artificial intelligence to bridge and redefine interdisciplinary scholarship across the humanities and social sciences, fostering innovative collaborations that span multiple disciplines.
+Can we create the molecules of life? 
+University of Florida researchers demonstrated through HiPerGator supercomputer simulations that life's essential molecules can naturally form, advancing our understanding of the origins of life.
+Colleges are using AI to prepare hospitality workers of the future
+Rachel J.C. Fu's new book emphasizes the growing importance of AI in the hospitality industry, predicting a shift towards technology-driven jobs and enhancing guest experiences through AI applications, from operational tasks to personalized learning and customer service in education and industry practices.
+Should you use AI to write work emails?
+New research from the University of Florida finds that AI-generated business email communications are effective and help professionals convey professionalism and confidence in their communications.
+AI News Archive
+The University of Florida's AI Minute helps us understand artificial intelligence and what it means for society today and in the future. These one-minute broadcasts of AI news are sponsored by the AI2 Center and air on WUFT-89.1 FM.
+Listen to Broadcasts
+ 
+The centerpiece of UF's AI initiative is the most powerful university-owned supercomputer in the U.S., which was made possible by the generosity of NVIDIA and NVIDIA co-founder and UF alumnus Chris Malachowsky. NVIDIA is the world leader in the development of processors that were originally designed for displaying realistic graphics. These processors are called GPU for graphics processor units. It was then found that these GPUs are also great for advanced scientific simulation and more recently that they are even better at performing the computing for AI tools and algorithms. 
+Learn more about our partnership >
+University of FloridaGainesville, FL 32611UF Operator: (352) 392-3261Website text-only version

@@ -1,0 +1,55 @@
+California State University, Chico official policy on generative AI Artificial Intelligence
+https://www.csuchico.edu/fdev/ai.shtml
+
+                                                                            MLIB 458
+                                                                530-898-3094fdev@csuchico.edu
+Regular Hours
+                                                                            8:00 a.m. – 5:00 p.m.
+                                                                
+                                                                                Monday – Friday
+                                                                    
+Mailing Address
+                                                                            Faculty Development
+                                                                
+                                                                                400 West First Street
+                                                                
+                                                                                Chico, CA 95929–0026
+                                                                    
+Meriam Library(opens in new window)
+Faculty Affairs and Success (FAAF)(opens in new window)
+Accessible Technology Services (TEIN)(opens in new window)
+Academic Technology (ATEC)(opens in new window)
+Tuesday Tips Archive
+Asynchronous AI Retrofit Course now AvailableEnroll in this asynchronous Canvas course(opens in new window) for a step-by-step guide to course revision in the world of Generative Artificial Intelligence. The world has changed, and this will help you change with it.
+Faculty have had a wide variety of reactions to artificial intelligence (AI) programs that generate language, solve problems, create images, and write code. There is no one-size-fits-all policy for the campus, and we will provide resources to help faculty explore some of these new possibilities. 
+Things to keep in mind
+Sample syllabi language
+CSU Chancellor's Office: Introduction to Artificial Intelligence (AI) Tools for Teaching and Learning
+As part of the CSU's commitment to foster faculty professional growth in innovative teaching and learning, Innovative Teaching & Future Faculty Development and Academic Technology Services in the Chancellor's Office are partnering to offer the Introduction to Artificial Intelligence (AI) Tools for Teaching and Learning over the next few semesters.
+Introduction to Artificial Intelligence tools where guided experimentation empowers participants to understand some of the basics of AI functionality, including its workings and methods for detecting its usage. Learn basic AI terminology, engage in hands-on exploration of AI Tools, learn strategies for detecting AI-generated content, and techniques to address potential misuse of AI tools by students and participants will apply the knowledge gained to develop a personalized AI use policy for their course.
+The course is designed by Laura Otero, Online Education Coordinator in the Center for Academic Technologies (CAT) at CSU Monterey Bay and was originally offered in Summer 2023 to over 100 faculty at CSU Monterey Bay. In Fall 2023, it was offered across the CSU to 150 faculty, instructional designers, faculty developers, and academic technologists. 
+View(opens in new window) the Syllabus.
+Register(opens in new window) to enroll in the course.
+View a playlist(opens in new window) of the FDEV AI workshops.
+____________________________________________________________________
+3/8/2024 - Getting Started with AI
+Facilitated by Dr. Brett Christie and Zach Justus.
+Are you intrigued by the use of Artificial Intelligence (AI)? This workshop is specifically designed to be accessible to folks with no AI experience and will introduce how to get started.
+Dr. Brett Christie has served as Vice President for Educational Innovation and Inclusivity at Alchemy(opens in new window) since 2020, a leading ed-tech innovations company that empowers instructors to effectively combine the science and magic of teaching. Brett's career in higher education spans over three decades including 25 years in the California State University system, where he played a significant role in student equity and success initiatives at both campus and system levels. His experience includes over 15 years of teaching in Educational Technology, Teacher Education, UDL/Accessibility, and K-12 partnerships. More recently, he has turned to GenerativeAI and the potential to create greater access to effective and personalized learning experiences.
+Video Recording(opens in new window) | Slides (Google Slide) 
+____________________________________________________________________
+3/12/2024 - Using AI Tools
+Facilitated by faculty and TLP staff.
+This workshop showcases short lightning-round presentations on how to improve your teaching and office workflows using AI tools.
+Recordings:
+Tools and Resources:
+CSU Learn: Managing The Responsible Use Of AI(opens in new window)
+As more and more workforces try to leverage the power of artificial intelligence (AI), it is crucial for organizations to establish clear communication and strategic planning when integrating AI into daily work. In this scenario, you are the IT director discussing the potential use of AI with one of the team managers within the company. Your company has approved the use of AI for improving productivity and efficiency, but you need to ensure that privacy and security guidelines are being followed. Exploring ways in which teams can use AI in a responsible manner that is in accordance with company policies is an important step when embracing any new technology.
+CSU's Got Talent Webcast Recording(opens in new window) - February 13, 2024AI Tools, Ethics & Challenges: How I Leverage Technology to Boost ProductivityWith special guest Dr. Janette de la Rosa Ducut
+Short on time? Wearing multiple hats? Artificial Intelligence is here to help you do things faster. Join CSU’s Got Talent as Dr. Janette de la Rosa Ducut demonstrates several free tools that can do the work for you. You’ll learn AI prompts to help write, code, solve problems, translate into different languages and more, while carefully considering the ethical and security challenges of AI, and what it means for our students and future workforce.
+Provost & Vice President for Academic Affairs
+Kendall Hall, Room 106530-898-6101academicaffairs@csuchico.eduwww.csuchico.edu/vpaa
+Division of Academic Affairs
+We acknowledge and are mindful that Chico State stands on lands that were originally occupied by the first people of this area, Mechoopda, and we recognize their distinctive spiritual relationship with this land, the flora, the fauna, and the waters that run through campus. We are humbled that our campus resides upon sacred lands that since time immemorial have sustained the Mechoopda people and continue to do so today.
+California State University, Chico400 West First StreetChico, CA 95929
+Copyright © 2024 All Rights Reserved

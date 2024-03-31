@@ -1,0 +1,43 @@
+California State University, Sacramento official policy on generative AI Artificial Intelligence
+https://www.csus.edu/news/newsroom/stories/2023/12/ai-in-education.html
+Based on real user feedback and statistics, csus.edu no longer supports Microsoft’s Internet Explorer browser. Please upgrade your browser to improve your experience.
+Skip to Main Content
+By Daniel Wilson
+December 14, 2023
+President Luke Wood announced today that Sacramento State intends to become a leader in advancing the use and ethical application of artificial intelligence (AI). He said to attain that goal, the University is launching the National Institution on Artificial Intelligence in Society (NIAIS).
+Wood said that Dr. Alexander “Sasha” Sidorkin will serve as the University’s AI “czar” as chief artificial intelligence officer. Sidorkin will lead NIAIS in its mission at the University and reaching out to schools, colleges, and universities across the nation.
+Ramp-up work for Sacramento State’s enhanced focus on AI already has begun, and the University is conducting a cluster-hiring of computer scientists in the areas of AI and quantum computing.
+“Sacramento State is the one and only public university in the capital of the state with the fifth-largest economy in the world, and we are acting like it,” Wood said.
+The NIAIS will be the first of its kind in the California State University system and one of the first organized efforts among colleges and universities nationwide to advance the technology’s ethical, equitable, and accessible uses in education.
+“Artificial intelligence technology will transform every part of our society, so it’s paramount that we’re considering its implications,” Wood said. “Every futuristic movie – like ‘The Terminator’ and ‘The Matrix' – focuses on what happens when AI goes bad. The only way to ensure the fast-developing technology is properly harnessed for good is to be hands-on in the building of new policy, curriculum, and ethically incorporating AI into the classroom.
+“Where other universities are shying away, we are embracing the future so that we can have better control of our destiny.”
+Sidorkin will lead the University’s integration of AI into the teaching and learning, advising, business practices, and support services for students. The institute will use the power of AI to train Sacramento State students on how to use generative AI and the ethical application of these tools.
+The NIAIS will encourage reimagining coursework utilizing AI to boost the success of underserved students and establish programs to share resources, ethical guidelines, and research on AI with other educators in K-12 and higher education.
+The University is focused on graduating students who can advance the development of AI, and is completing the hiring of seven new faculty members in the Department of Computer Science with a focus on faculty who have expertise in AI and quantum computing.
+“We have a strong team of educators, and our focus on teaching equips us well to explore AI's role in enhancing student achievement and equity,” Sidorkin said, adding that Wood’s goal is to boost Sac State's standing as an innovative institution that adapts to change and meets state needs.
+“If we don’t teach our students to use AI for good, society will train the masses to use it for bad. We must be proactive and intentional about using AI to solve humanity’s problems, not to exacerbate them,” said Wood. “Our alumni have asked for us to lean in on AI, and that’s what we are doing.”
+Sidorkin’s interest in chatbots began shortly after their public release in late 2022. Generative AI tools such as ChatGPT can use data input to create new content. Sidorkin uses the technology for everything from completing daily tasks to editing his writing. Next year, he will share his knowledge in a new book, Embracing Chatbots in Higher Education: The Use of Artificial Intelligence in Teaching, Administration, and Scholarship.
+“I am thankful for the chance to contribute to the University in this role, and we are committed to involving all University divisions in integrating new technology for our students' advantage,” Sidorkin said. “I anticipate collaborating with various allies both within and outside the campus.”
+Ahead of the AI institute's launch, Sidorkin is researching how to effectively implement AI into coursework.
+“Artificial intelligence is a new technology, and of course, when we think about using it in higher education teaching, we don't have enough of a research base,” Sidorkin said. “The only way it could be built is by some sort of collective effort. We’re working to think through possible problems and find the best solutions.”
+For Sidorkin’s “Writing Assignment with AI” (WAWA) project, about 15 faculty members from various departments are developing assignments using AI and will assign them to students in the spring.
+Students will learn to use chatbots by inputting and refining various prompts and assessing the output via written response. WAWA faculty will then assess the work to determine if students’ written essays show the same command of the subject matter.
+That scrutiny is necessary because chatbots can produce essays that are indistinguishable from student work, making traditional essays no longer viable, Sidorkin said.
+Chia-Jung Chung, a Teaching Credentials professor and WAWA project participant, recently assigned a similar exercise to 223 of her teacher candidates, many of whom had never used chatbots.
+“They found the outcome (the chatbot’s output) was much better than they expected,” Chung said.
+Several others are exploring AI at Sacramento State, each recently offering workshops on using the technology. The Center for Teaching and Learning and Communication Studies Professor Diego Bonilla are among them.
+Bonilla, who recently led a faculty learning course in partnership with the Center on Race, Immigration and Social Justice, said it is relatively simple to address the more obvious issues with AI – its effect on the workforce, its implications on education, and issues like plagiarism – but that some concerns are not being widely discussed.
+“There are many invisible parts that nobody is addressing, and they are just as damaging, but they're invisible,” he said. “For example, the biases that AI brings are very real.”
+Because AI is pulling from existing information and content, it can easily exacerbate racism, ethical matters, and more, he said.
+“It contains all the biases against women, biases against minorities, all sorts of biases that have existed throughout history – all of that is being spilled out again.”
+President Biden recently signed an executive order meant to address AI concerns such as privacy, security, and other key issues. Meanwhile, challenges and opportunities around AI are global, and the emphasis should be on finding solutions algorithmically by continuing innovation, said Computer Science Professor Haiquan “Victor” Chen.
+“AI is undoubtedly changing and going to change every aspect of our society, including education, so we should bravely face, study, and solve the problems, rather than shying away from them,” he said. “You can't solve a problem without fully understanding where the problem comes from, which is partly why we are updating our curriculum extensively to make sure our graduates are career-ready in the era of AI.”
+Ultimately, Sidorkin said, acceptance of all technology must start somewhere.
+“I think we have an ethical obligation to teach students how to use the tool,” Sidorkin said. “That makes them more competitive in the workplace.”
+Wood said the NIAIS will position the University as an AI education leader while preparing students to make an impact beyond the classroom.
+“Our students and faculty should be on the cutting edge of technology that is having a tremendous impact and will continue to affect their lives,” Wood said. “Our commitment to this initiative will help ensure that and will ensure that some of the country’s best minds will be part of us fulfilling that commitment.”
+ Share This Story
+Related Topics:
+Daniel Wilson joined the Sac State communications team in 2022 as a writer and editor. He previously worked at the Sacramento Bee as an audience engagement producer and reporter. He graduated from Sac State with a bachelor’s degree in Journalism in 2018. He plays video games, watches pro wrestling, and loves spending time with his wife and cat.
+Contact University Communications(916) 217-8366communications@csus.edu
+Get the Sac State story right in your inbox by subscribing to our newsletter, The Sacramento State Leader

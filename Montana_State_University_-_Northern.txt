@@ -1,0 +1,567 @@
+Montana State University - Northern official policy on generative AI Artificial Intelligence
+https://www.msun.edu/otle/techsnacks.aspx
+
+
+
+
+
+
+ Site Menu expand
+ 
+Tech Snacks are short, focused professional development sessions covering instructional
+                                    technology, pedagogical techniques, online learning, and more—delivered in 30-minute chunks. You can download PDF handouts from past Tech Snacks
+                                    sessions below.
+Feb. 16, 2024 — A month into the semester, it can feel like you've really hit your
+                                    groove — or like you need to find some new strategies to maintain student attention
+                                    and your own motivation. This week, we discussed a foundational but often-overlooked
+                                    classroom strategy ("anticipatory sets") as well as one strategy for improving the
+                                    authenticity and depth of discussions (the Real Talk method). 
+Click here for a PDF of this handout.
+Feb. 9, 2024 — How can we sustain interest in Northern's programs and continue attracting
+                                    students? This week, we invited MSUN's Director of Recruiting, Jessica Fagerbakke,
+                                    and the recruiting specialists to Tech Snacks as requested by faculty to discuss collaboration
+                                    ideas and strategies for recruiting moving forward. 
+Click here for a PDF of this handout.
+Jan. 26, 2024 — One of the current, most talked about trends in higher education is
+                                    the exploration of generative AI and how it can be useful for students and instructors
+                                    in the classroom. This week, we discussed two new AI-based Tech Tools that faculty
+                                    might find useful for their teaching practices: Educaplay and Diffit. 
+Click here for a PDF of this handout.
+Jan. 19, 2024 — This week, OTLE hosted the new Vande Bogart Library Director, Sarah
+                                    Velk, as well as Scott Guyant (Library Tech II). They provided an overview of what
+                                    the library has to offer and spent some time collecting ideas about how the library
+                                    can help faculty in their teaching, research, and service endeavors. 
+Click here for a PDF of this handout. 
+Jan. 12, 2024 —This week, OTLE was asked by faculty to host a "check-in" to chat about the start
+                                 of the semester. OTLE also inquired with faculty about Tech Snacks topics they'd like
+                                 to see for the upcoming semester.
+There was no handout this week. 
+Dec. 8, 2023 — This week, we wrapped up the semester by checking in with faculty and
+                                    discussing some updates on the MUS LMS Transition to Canvas. We brainstormed some
+                                    timeline ideas and training opportunities with faculty so we can better serve them
+                                    during the transition.
+There was no handout this week. 
+Dec. 1, 2023 — This week, OTLE was joined by the co-chairs of the Gen Ed Committee,
+                                    Dr. Gwen Hart and Dr. Kasthuri Udayakumar, as they shared the findings from last year's
+                                    Gen Ed Assessment Cycle. They also covered the submission process for this year's
+                                    cycle.
+There was no handout this week. 
+Nov. 17, 2023 — By faculty request, we invited Institutional Research Director Jay
+                                    Howland to join us for a day of Tech Snacks sessions about MSUN institutional data,
+                                    Montana University System data, and how to navigate the various dashboards to get
+                                    some of your questions answered. 
+Click here for a PDF of this handout.
+Nov. 3, 2023 — For Tech Snacks this week, we shared a session from the most recent
+                                    Accessibility Summer Camp (ASC) Conference. Accessibility in education is a critical and ever-present issue, and the ASC is
+                                    a great resource that we'd like to introduce. 
+Click here to access the recordings of this year's ASC sessions.
+Oct. 27, 2023 — Dr. Grant Olson lead a workshop exploring how performance techniques
+                                    (including aspects of the Alexander Technique) can be used to help instructors assess,
+                                    evaluate, and modify their physical presence for effective teaching practice. We took
+                                    a look at how posture and nonverbal gestures affect vocal stability and classroom
+                                    engagement. 
+There was no handout this week.
+Oct. 20, 2023 — Once per semester, OTLE likes to provide a synopsis of what's going
+                                    on in the SoTL (Scholarship of Teaching and Learning) world. We discussed some interesting
+                                    themes we saw in SoTL studies and then did a quick review of three articles that may
+                                    have useful perspectives and strategies for your own teaching. Some of the key themes
+                                    include: aligning student and instructor views of learning environments; the impact
+                                    of note-taking on learning; and managing digital distraction in the classroom. 
+Click here for a PDF of this handout.
+Oct. 13, 2023 — As a part of MSUN's Microsoft Office365 license, all students, faculty,
+                                    and staff have access to the Microsoft Suite, which includes a wide variety of apps
+                                    that you can use both on and off campus. Some of these tools can be used to enhance
+                                    your teaching and streamline your interactions with students, while others can simply
+                                    make your life a little easier, especially when it comes to collaboration. This week,
+                                    we dove into Whiteboards, Bookings, Scheduling Poll in the Outlook Calendar, some
+                                    obscure Outlook settings, PowerAutomate, and more.
+Click here for a PDF of this handout.
+Oct. 6, 2023 — This week, OTLE wanted to hear from faculty about the upcoming transition
+                                    away from Brightspace to a new LMS called Canvas. This transition is slated to take
+                                    place by/before Summer Semester 2025, but we will likely have the option to switch
+                                    sooner. What timeline would you prefer (sooner or later)? What kinds of support will
+                                    you need? 
+There was no handout this week.
+Sep. 29, 2023 — Due to requests for support with Program Assessment plans/reports
+                                    (due Sep. 30), we used Tech Snacks this week to host Program Assessment workshops
+                                    in OTLE's new Faculty Training Center in Cowan Hall 103. 
+There was no handout this week. 
+Sep. 22, 2023 — In collaboration with the Little River Institute (LRI), OTLE hosted
+                                    a guest speaker, Dwayne Lasas, who is an indigenous language revival expert and native
+                                    speaker of the Cree language. Dwayne Lasas (White Buffalo Man) uses music, math, and
+                                    Indigenous traditions to develop language recovery programs. In this seminar, he shared
+                                    his teaching philosophy and explored the impact of culturally relevant learning. 
+There was no handout this week. 
+Sep. 15, 2023 — This week, OTLE ran a two-part session. First, we provided information
+                                    about the Regular & Substantive Interaction (RSI) guidelines for online instruction
+                                    that have recently been adopted by the Federal Department of Education and our NWCCU
+                                    accreditors. Next, we discussed the Online Learning Consortium (OLC), that offers
+                                    workshops on dozens of topics related to course design. OTLE received a Perkins grant
+                                    award that will cover OLC workshop fees while also providing faculty a stipend for
+                                    completing the workshop. 
+Click here for a PDF of the RSI handout.
+Click here for more information about registering for an OLC workshop through OTLE.
+Sep. 8, 2023 — Previously, OTLE hosted a Tech Snacks session on ChatGPT and DALL-E,
+                                    where we gave an overview of what these generative artificial intelligence (AI) tools
+                                    are capable of and the basics of how they can be used. Recently, many conversations
+                                    between OTLE and faculty have revolved around generative AI and its use in the classroom.
+                                    Due to popular demand, this week we discussed how faculty can both address and use
+                                    generative AI with students in their courses. Good or bad, AI is here to stay. Should
+                                    it be banned from the classroom or given full reign? Can we find a productive middle
+                                    ground?
+Click here for a PDF of this handout.
+Sep. 1, 2023 — The first six weeks of the academic year present a pivotal opportunity
+                                    for fostering a sense of community and belonging among students on campus. With that
+                                    in mind, the MSUN Student Engagement Committee has worked to develop an intentional
+                                    set of experiences that can help students connect with values that are important to
+                                    our institution. This week, OTLE discussed the "First Six Weeks" program that includes
+                                    many daily events and activities, each of which is aligned with a designated theme
+                                    for that week. OTLE was joined by members of the MSUN Student Engagement Committee
+                                    to help facilitate this discussion.
+Click here for a PDF of this handout.
+Aug. 25, 2023 — This week, OTLE was asked by faculty to host a "check-in" to chat
+                                    about the start of the semester. OTLE also inquired with faculty about Tech Snacks
+                                    topics they'd like to see for the upcoming semester.
+There was no handout this week. 
+Apr. 21, 2023 — This week, OTLE provided a course checklist for those who want to
+                                 start working on their Brightspace course shells for the summer and/or fall semesters.
+                                 We addressed some frequently asked questions about Incompletes, importing course content,
+                                 editing dates, and organizing your courses.
+Click here for a PDF of this handout.
+Apr. 14, 2023 — Once per semester OTLE likes to provide a synopsis of what's going
+                                    on in the SoTL (Scholarship of Teaching and Learning) world. We discussed some interesting
+                                    themes we're seeing in SoTL journal articles, and then did a quick review of three
+                                    articles that may have useful perspectives and strategies for your own teaching. 
+Click here for a PDF of this handout.
+Mar. 31, 2023 — As part of OTLE's self-assessment process, each year we ask students
+                                    to complete a Brightspace experience survey with questions about their Brightspace
+                                    training, Brightspace habits, Brightspace learning experiences, and overall Brightspace
+                                    satisfaction. This year, 107 students participated in this survey: 10 high school
+                                    students, 25 freshmen, 22 sophomores, 19 juniors, 24 seniors, and 6 others. We integrated
+                                    some new questions this year, and we had some interesting findings. 
+Click here for a PDF of this handout.
+Mar. 24, 2023 — Often when introducing a new concept (e.g., "Impressionism") it's
+                                    tempting to name the concept, explain it, give it a few examples, and then move on,
+                                    hoping the students have internalized the meaning. The "concept attainment" technique
+                                    is an inductive teaching method that reverses this process, requiring students to
+                                    use logic and contrast to identify the concept themselves. We also revisited the topic
+                                    of formative assessment in connection to concept attainment. 
+Click here for a PDF of this handout.
+Feb. 24, 2023 — Do you struggle to keep students on pace with your course and with
+                                    each other? Do you worry about students who seem to get further and further behind
+                                    as the semester moves along? Mastery-based instruction might be for you. This is an
+                                    instructional approach in which students are required to demonstrate a certain threshold
+                                    of competence with a task or concept before moving on (often at their own pace). OTLE
+                                    was joined by Design Drafting / Manufacturing faculty Aaron Riggin so that he could
+                                    demonstrate how he has implemented mastery learning principles into his courses, as
+                                    well as what he has learned from this approach. 
+Click here for a PDF of this handout.
+Feb. 17, 2023 — Fear and excitement about generative AI technologies such as ChatGPT
+                                    (text generation) and DALL-E (image generation) have hit the headlines hard in recent
+                                    months. What is generative AI, and what are the implications for you and your students? 
+Click here for a PDF of this handout.
+Feb. 10, 2023 — Over 100 high school students participate in the dual enrollment program
+                                    at MSU-Northern. There are different forms of dual enrollment, and lots of potential
+                                    benefits to the student, your program, and to MSU-Northern. This week, OTLE was joined
+                                    by Kaci Nicholson, Student Records Coordinator and Evaluator, who also coordinates
+                                    Dual Enrollment. 
+Click here for a PDF of this handout.
+Feb. 3, 2023 — Grading can be an overwhelming task for faculty and a mystifying process
+                                    for students. How do you maintain objectivity, clearly articulate criteria, and provide
+                                    feedback in a timely manner? Rubrics can save time, prevent unintentional bias, and
+                                    give students clear guidelines for how they're being assessed. 
+Click here for a PDF of this handout.
+Jan. 20, 2023 — Instructors often spend a lot of time tracking down students throughout
+                                    the semester for various reasons, including student inactivity in a course and low
+                                    grades. Intelligent Agents and Awards are both automated tools in Brightspace that
+                                    instructors can use to reach out to students who may need it for multiple reasons,
+                                    including login activity, test scores, and overall participation within a course.
+Click here for a PDF of this handout.
+Jan. 13, 2023 — To kick off the new semester, OTLE discussed strategies for optimizing
+                                    Brightspace with faculty. We also discussed upcoming OTLE events and inquired about
+                                    possible Tech Snacks topics for the upcoming semester. 
+Click here for a PDF of this handout.
+Dec. 2, 2022 — This week, OTLE provided a course checklist for those who want to start
+                                    working on their Brightspace course shells before the start of the new semester. We
+                                    addressed some frequently asked questions about Incompletes, importing course content,
+                                    editing dates, and organizing your courses.
+Click here for a PDF of this handout.
+Nov. 18, 2022 — The MSUN library recently purchased a subscription to Kanopy, a streaming
+                                    service that provides faculty, staff, and students access to 10,000+ movies, documentaries,
+                                    foreign films, classic cinema pieces, independent films, and educational videos. OTLE
+                                    was joined by MSUN Library Director, Patricia Dubosky, for a demonstration of this
+                                    platform and a discussion about how it can be used in your courses. 
+Click here for a PDF of this handout.
+Nov. 4, 2022 — The Video Note Tool is a convenient feature that allows students and
+                                    instructors to record and embed videos directly in Brightspace for announcements,
+                                    content, discussions, assignments, and feedback. Brightspace provides auto-captioning
+                                    for all videos recorded directly through the Video Note tool. For this presentation,
+                                    OTLE was joined by Education faculty member Dr. Amy Smith, who demonstrated how she
+                                    has been using this tool with much success in her online and hybrid courses.
+Click here for a PDF of this handout.
+Oct. 28, 2022 — In lieu of Tech Snacks this week, OTLE hosted streaming sessions to
+                                    watch recordings from the most recent Accessibility Summer Camp (ASC) Conference. Accessibility in education is a critical and ever-present issue, and the ASC is a
+                                    great resource that we'd like to introduce. 
+Click here to access all of the ASC 2022 recordings. 
+Oct. 21, 2022 — Have you ever wondered whether online courses are as effective as
+                                    face-to-face courses, or which modality students prefer? Do you know what percentage
+                                    of courses at MSUN are taught online or what proportion of our students are enrolled
+                                    only online? Are you curious about the number of Montana residents who are enrolled
+                                    in online programs at out-of-state institutions each year? It's hard to grasp the
+                                    exact role and potential of online learning at this moment in history, but data might
+                                    be able to help us get a clearer picture of trends.
+Click here for a PDF of this handout. 
+Oct. 14, 2022 — Have you ever had a parent call you to inquire about their child's
+                                    grades in your class? Have you ever seen a "confidential" flag in DegreeWorks and
+                                    wondered what exactly it meant? OTLE was joined by the Registrar, Alisha Schroeder,
+                                    to address some common FERPA scenarios and discuss other registrar-related questions. 
+Click here for a PDF of this handout.
+Oct. 7, 2022 — OTLE has a wide variety of "gadgets" available for faculty to check
+                                    out for various teaching purposes—from GoPro cameras to graphic tablets. We'll introduce
+                                    the equipment we have available and show some examples of how they have been used
+                                    in the past to create different learning experiences. 
+Click here for a PDF of this handout.
+Sept. 30, 2022 — Every semester, students are asked to fill out course evaluation
+                                    surveys administered by the Provost's office. But what if you have a low student response
+                                    rate or the survey questions are too generic to yield helpful input for your course?
+                                    We presented some tools, strategies, and questions you can use to gather course feedback
+                                    from students. 
+Click here for a PDF of this handout.
+Sept. 23, 2022 — Research shows that when more than one sense is accessed during a
+                                    learning experience, individuals learn better, even at a very young age. When we engage
+                                    students in multisensory learning, we're not only increasing their opportunities to
+                                    learn effectively — we're also facilitating the development of their foundational
+                                    sensory systems. 
+Click here for a PDF of this handout.
+Sept. 16, 2022 — MSU-Northern's faculty CBA states that three peer evaluations are
+                                    required for "(1) probationary faculty in each probationary year after their first (1st) year;
+                                          (2) all faculty when applying for promotion or tenure; (3) all post-tenure reviews
+                                          in accordance with 7.7" (CBA Article 7.4). But what does an effective peer review look like? What can you do to ensure an effective
+                                    peer review process and letter, both as the reviewer and the reviewee?
+Click here for a PDF of this handout.
+Sept. 9, 2022 — To kick off the new semester, OTLE presented an overview of our activities
+                                    for the semester and asked for topic suggestions for future workshops and Tech Snacks.
+                                    The lineup includes: weekly Tech Snacks sessions, Faculty Learning Community meetups
+                                    with 1st and 2nd year faculty, the Brown Bag Lecture Series, the return of our faculty
+                                    reading group, and more!
+Click here for a PDF of this handout.
+Apr. 29, 2022 — This week, OTLE provided a course checklist for those who want to
+                                    start working on their Brightspace course shells before the start of the new semesters.
+                                    We addressed some frequently asked questions about Incompletes, importing course content,
+                                    editing dates, and organizing your courses. 
+Click here for a PDF of this handout.
+Apr. 22, 2022 — The Brightspace Pulse app is a mobile app that is available for both
+                                    Android and Apple devices. During Brightspace orientation sessions, OTLE strongly
+                                    encourages students to sign up for Brightspace notifications—either through text messages,
+                                    emails, or the Pulse app. In our annual Brightspace survey, 67% of students who took
+                                    the survey found the app helpful or very helpful. But what does it do (and not do)?
+                                    What do students see? 
+Click here for a PDF of this handout.
+Apr. 1, 2022 — As we approach the tail end of the Spring 2022 semester, OTLE has some
+                                    general updates to share with faculty. We have results from our annual student Brightspace
+                                    experience survey, some new Brightspace features to brief you on, and a quick overview
+                                    of the new Brightspace-Banner integration system (IPSIS) and how it will affect faculty. 
+Click here for a PDF of this handout.
+Mar. 25, 2022 — In the world of teaching, it's important to recognize that there are
+                                    gaps between what we think we're teaching and what is actually being learned in the classroom. The continuous monitoring of these gaps, with the intent of closing
+                                    them, is referred to as "formative assessment" (or sometimes less formally, "checking
+                                    for understanding"). Even small formative assessment strategies can make a big difference
+                                    in student learning.
+Click here for a PDF of this handout.
+Mar. 11, 2022 — MSU-Northern's motto is "Education that Works." Career perspectives
+                                    and skill development are central to our institutional mission. Faculty can do a lot
+                                    to open up students' exposure to career options and opportunities, but they can't
+                                    do it all. This is where the MSUN Career Center comes in. From providing resume-building
+                                    support, to organizing career fairs, to managing the co-op internship process, the
+                                    Career Center does a lot to make sure that students can pursue their career goals.
+                                    Lisa Moisey and Jen Henderson from the Career Center joined us to discuss what they
+                                    do and how they can help you support our students. 
+Click here for a PDF of this handout.
+Feb. 25, 2022 — Teaching is a profession with a high learning curve. As instructors,
+                                    we learn every day — through our own experimentation, from our students, and from
+                                    our fellow teachers. This week, we outlined the professional development funding process
+                                    at MSUN and some key PD opportunities and resources that MSUN faculty can use to grow
+                                    into their roles as instructors. 
+Click here for a PDF of this handout.
+Feb. 18, 2022 — Last week, we discussed some common barriers students face when purchasing
+                                    textbooks and course materials. The increasingly high cost of publisher textbooks
+                                    is an obvious and large barrier. Open Educational Resources (OERs) and Open Textbooks
+                                    can help bring down the cost of new textbooks while still providing students with
+                                    robust academic materials. But where do you find them and how do you gauge their quality? 
+Click here for a PDF of this handout.
+Feb. 11, 2022 — The textbook adoption deadline for next semester comes up quickly
+                                    and always seems to catch instructors off guard. What aspects of textbook selection
+                                    should you start considering now and keep thinking about as you plan for future semesters?
+                                    Sue Solomon, the Bookstore Manager at MSUN, joined us to talk about the textbook adoption
+                                    process, things to consider when selecting textbooks, and common barriers our students
+                                    face. 
+Click here for a PDF of this handout.
+Feb. 4, 2022 — Accessibility resource services and student accommodations can feel
+                                    like a bit of a black box to instructors. How do students ask for an accommodation?
+                                    Who decides if an accommodation is reasonable? What services are available to help,
+                                    and what is the instructor's responsibility in all this? Johnna Antonich, the Accessibility
+                                    Resource Coordinator at MSUN, joined us to talk about the process and to discuss some
+                                    common barriers for students with disabilities. 
+Click here for a PDF of this handout.
+Jan. 28, 2022 — Do you ever feel like you're just marching through the textbook without
+                                    a great sense of what students are and aren't understanding? Are there times when
+                                    you feel more like an activity designer or entertainer than a teacher? Backward Design
+                                    -- based on Wiggins and McTighe's often-cited work Understanding by Design -- is a curriculum building concept that can guide you through some of these common
+                                    pitfalls and dilemmas. 
+Click here for a PDF of this handout.
+Jan. 21, 2022 — Each year, OTLE conducts a Brightspace experience survey, and one
+                                    of the common themes that students mention is the Brightspace gradebook. Students
+                                    consider gradebook organization one of the most important aspects of their Brightspace
+                                    experience. This week, OTLE sat down with faculty to answer questions and provide
+                                    a list of gradebook tips for keeping the gradebook in tip-top shape.
+Click here for a PDF of this handout. 
+Dec. 3, 2021 — This week, OTLE provided a course checklist for those who want to get
+                                    their Brightspace course shells in order before the holidays. We addressed some frequently
+                                    asked questions about Incompletes, importing course content, editing dates, and organizing
+                                    your courses. 
+Click here for a PDF of this handout. 
+Nov. 19, 2021 — Once per semester OTLE provides a synopsis of what's going on in the
+                                    SoTL (Scholarship of Teaching and Learning) world. This time around, we discussed
+                                    some interesting themes we're seeing in SoTL journal articles and reviewed three articles
+                                    that may have useful tools and strategies for your own teaching.
+Click here for a PDF of this handout. 
+Nov. 5, 2021 — We all have our own habits and pet peeves when it comes to slideshow
+                                    presentations. Preferences aside, it's important to remember that the features we
+                                    decide to use (or not use) have accessibility implications for students with disabilities.
+                                    OTLE has some basic recommendations to help you make your slideshows more accessible
+                                    for everyone. 
+Click here for a PDF of this handout.
+Oct. 29, 2021 — As academic advising season approaches, it's important to know a bit
+                                    about how the federal financial aid system for higher education works. There are a
+                                    number of financial aid implications to consider as students register for classes.
+                                    Cindy Small, the Director of MSUN's Financial Aid Office, joined us for an overview
+                                    and a chance for faculty to ask questions.
+Click here for a PDF of this handout.
+Oct. 22, 2021 — This semester (and previous semesters) has been challenging for students,
+                                    faculty and staff for many reasons. This week, we had an open discussion and presentation
+                                    about mental health and burnout with Amber Spring, our Student Health Counselor on
+                                    campus and Kalin Amende, a faculty member from the Counselor Education Graduate Program.
+There was no handout this week.
+Oct. 15, 2021 — This week, OTLE hosted a mid-semester check-in with faculty to discuss
+                                    any questions or concerns they had regarding Brightspace and e-learning in general. 
+There was no handout this week. 
+Oct. 8, 2021 — The Quiz tool is one of the most useful tools in Brightspace, but there
+                                    are some obscure settings, options, and quirks that you may not be aware of that can
+                                    help you develop quizzes that best suit your needs.
+Click here for a PDF of this handout. 
+Oct. 1, 2021 — This semester, OTLE's Faculty Reading Group is reading Understanding by Design by Grant Wiggins and Jay McTighe. An important question that this framework poses
+                                    is: What does it mean to "understand" something? "The Six Facets of Understanding"
+                                    give us categories that help make it easier to recognize student understanding. Each
+                                    facet helps enforce the idea that students must use their knowledge to perform effectively
+                                    in order to prove their understanding of something. 
+Click here for a PDF of this handout. 
+Sept. 24, 2021 — As of April 2022, the MSU campuses will no longer have access to
+                                    Box, our current cloud-based file-sharing program. Instead, you are encouraged to
+                                    use OneDrive, which is available through Microsoft Office 365. All students, faculty
+                                    and staff have free access to Office 365.
+Click here for a PDF of this handout. 
+Sept. 17, 2021 — Today's traditional-aged college students range from ages 18-23,
+                                    and they fit into a generational cohort many are calling "Generation Z." Studies have
+                                    found some interesting trends that set Gen Z apart from previous generations. The
+                                    purpose of this discussion is not to group students together under their generational
+                                    stereotypes, but to present some general ideas and realities that many Gen Z students
+                                    face. These realities have implications for students' learning styles and the ways
+                                    in which we might teach them and communicate with them. 
+Click here for a PDF of this handout.
+Sept. 10, 2021 — Accessibility and universal design are growing concerns in higher
+                                    education, and they can seem overwhelming for instructors. The easiest way to tackle
+                                    accessibility is to start with small, actionable changes. To help you out, OTLE has
+                                    designed an accessibility series that we'll return to several times throughout the
+                                    year. Each time we'll address a discrete set of topics and provide a step-by-step
+                                    checklist to support you. 
+Click here for a PDF of this handout.
+Sept. 3, 2021 — This week in Tech Snacks, we had a variety of Brightspace updates
+                                    to show and some announcements about activities that OTLE is planning for the upcoming
+                                    semester. We also had a check-in with faculty to find out what you all would like
+                                    to see this semester! 
+There was no handout this week.  
+Apr. 23, 2021 — Marianne Hoppe from ITS joined us for a brief update on some technology
+                                    changes on campus, as well as some important security reminders and a short Q&A.
+Click here for a PDF of this handout. 
+Apr. 16, 2021 — Teaching in Summer 2021? This week in Tech Snacks, we provided a checklist
+                                    for faculty who are preparing for summer courses and we addressed some frequently
+                                    asked questions about importing course content, editing dates, and organizing your
+                                    courses. 
+Click here for a PDF of this handout.
+Mar. 26, 2021 — Once per semester OTLE provides a synopsis of the SoTL (Scholarship
+                                    of Teaching and Learning) world. This time around we presented some interesting themes
+                                    we are seeing in SoTL journal articles and gave a quick review of three articles that
+                                    may have useful insights and tools for your own teaching practice. 
+Click here for a PDF of this handout. 
+Mar. 22, 2021 — Have you ever seen a beautifully designed slideshow or poster and
+                                    thought to yourself, "Wow, I wish I had the talent and time to make something like
+                                    that!"? These days, visual design matters a lot, and many of us feel woefully behind
+                                    the curve. Luckily, there's an online program that was created precisely for those
+                                    of us who don't have the money or mental bandwidth to invest in complicated graphic
+                                    design software. 
+Click here for a PDF of this handout.
+Mar. 12, 2021 — As part of OTLE's self-assessment process, each year we ask students
+                                    to complete a Brightspace experience survey about their device usage, Brightspace
+                                    habits, and open-ended questions about their experiences as Brightspace users. This
+                                    year we had 78 responses!
+Click here for a PDF of this handout.
+Feb. 26, 2021 — Tests and papers are common ways to evaluate learning, but they don't
+                                    always capture what students know and they don't usually motivate students to show you what they have learned, through their own eyes. However, the practice of building
+                                    opportunity for student choice into your assignments can address some of these problems.
+                                    This week, we showed a brief presentation by MSUN English faculty member Valerie Guyant
+                                    about how she has built student choice into her assessments, and how that has generated
+                                    a lot of high-quality student work. 
+Click here for a PDF of this handout.
+Feb. 19, 2021 — Have you ever wondered how to optimize your search with the MSUN Library
+                                    databases? Are you interested in accessing your Montana Library2Go or Interlibrary
+                                    Loan account? This week in Tech Snacks, we set up a Q&A with our MSUN Instruction/Reference
+                                    Librarian, Belinda Potter, to help you address questions like these. See the following
+                                    YouTube videos for a deeper dive into your Library resources.
+How to Find a Physical Book in the Library
+Searching Opposing Viewpoints
+How to Use the Library Databases
+Locating and Using Credo Reference (Database of Encyclopedias)
+Feb. 5, 2021 — Lately, we've seen a lot of media coverage on a company named Chegg,
+                                    the "$12 Billion Company [...] Getting Rich Off Students Cheating Their Way Through Covid." Originally, Chegg was most broadly known as a digital and physical textbook rental
+                                    platform for students. However, it has also developed an online tutoring division
+                                    called Chegg Study, which gives students access to homework help and archives of assignment
+                                    solutions. While these services may seem harmless at first glance, some of them have
+                                    opened the door for wide-scale cheating across college campuses.
+Click here for a PDF of this handout.
+Jan. 29, 2021 — This week, we took a deep dive into the two main video conferencing
+                                    tools used at Northern: Webex and Zoom. OTLE has also recently added a Webex Integration
+                                    with Brightspace that can make scheduling class meetings much easier.
+Click here for a PDF of the Webex handout.
+Click here for a PDF of the Zoom handout. 
+Nov. 13, 2020 — Nearly every time we ask faculty if there's anything we can help with,
+                              we hear some iteration of: "I'd love a checklist because I feel like I'm forgetting
+                              everything right now." In that spirit, we have come up with a checklist that outlines
+                              the steps for rolling over Brightspace course shells and making sure everything is
+                              updated in your spring courses.Click here for a PDF of this handout.
+Nov. 6, 2020 — Have you ever had a student who struggled to stay focused when reading?
+                              Or perhaps a student who struggled to process reading assignments but easily remembered
+                              every word you said in lecture? The docReader tool is designed to help students with
+                              barriers like these by integrating a number of accessibility and study-aid features
+                              into Brightspace. Watch this video demonstration.Click here for a PDF of this handout.
+Oct. 30, 2020 — “Zoom Fatigue” is real, and we’re all feeling it! Getting remote students engaged
+                                 on the other side of a Zoom or Webex screen can be a challenge, especially this far
+                                 into the semester. Is there anything we can do to increase remote students’ interest
+                                 and attention? Click here for a PDF of this handout.
+Oct. 23, 2020 — In lieu of Tech Snacks this week, OTLE facilitated a Faculty Advisor
+                              Training workshop. Please consult the Faculty Advisor Resources page.
+Oct. 9, 2020 — Grading can be an overwhelming task for faculty and a mystifying process
+                              for students. How do you maintain objectivity, clearly articulate criteria, and provide
+                              feedback in a timely manner? Brightspace rubrics can save time, avoid unintentional
+                              bias, and give students clear guidelines for how they’re being assessed.Click here for a PDF of this handout.
+Oct. 2, 2020 — The web presence of academic programs is important now more than ever, as fewer face-to-face
+                              recruitment events and campus tours are happening due to Covid-19. What can you do
+                              to make your program webpage attractive to prospective students?Click here for a PDF of this handout.
+Sept. 25, 2020 — Covid-19 has forced us to embrace more flexibility in the classroom, often in terms
+                                 of pacing. In some cases, students face circumstances that are slowing their progress
+                                 in class. In others, they’re asking to work ahead in anticipation of future obstacles.
+                                 But how do you manage a class where students are working on different topics at different
+                                 times?Click here for a PDF copy of this handout.
+Sept. 18, 2020 — Brightspace’s Assignment tool upgrade has been released! At this
+                              time, users can choose whether to opt in or not. This is a work in progress for Brightspace
+                              but there are some nice features that will make creating new Assignments easier and
+                              more streamlined.Click here for a PDF copy of this handout.
+Sept. 11, 2020 —Have you ever had a parent call you to inquire about their child's grades in your
+                                 class? Have you ever seen a "confidential" flag in DegreeWorks and wondered what exactly
+                                 it meant? The Registrar addresses some common FERPA scenarios and discusses other
+                                 registrar-related questions you're wondering about.Click here for a PDF copy of this handout.
+Sept. 4, 2020 — MSU-Northern recently got an institutional license to Zoom: How does it measure
+                                 up to Webex? Which videoconferencing service best fits your needs? Click here for a PDF copy of this handout.
+March 6, 2020 — Curiosity is the desire for new knowledge, information, experiences, or stimulation
+                                 to resolve gaps in our understanding or to experience the unknown. When genuine curiosity
+                                 is triggered in students, they’re motivated to fill in their knowledge gap. So how
+                                 do we generate curiosity in the classroom? What activities or prompts can get students
+                                 excited about their knowledge gaps?Click here for a PDF copy of this handout.
+February 21, 2020 — With more than a third of the semester behind us already, it’s critical to ensure
+                                    that struggling students get the feedback and support that they may need. Early feedback
+                                    and intervention strategies play a critical role in students’ academic success and
+                                    retention.Click here for a PDF copy of this handout.
+February 14, 2020 — Service is an important part of the promotion and tenure process, but where do you
+                                 even start? What committees exist, and what are their functions? How can you get involved,
+                                 and what can committees accomplish?Click here for a PDF copy of this handout.
+February 7, 2020 — TurnItIn is a powerful tool in Brightspace for detecting plagiarism, checking citations,
+                              and identifying sources. But are you using it correctly and to its full potential? Click here for a PDF copy of this handout.
+January 31, 2020 — Accessibility resource services and student accommodations can feel like a bit of
+                              a black box to instructors. How do students ask for an accommodation? Who decides
+                              if an accommodation is reasonable? What services are available to help, and what is
+                              the instructor’s responsibility in all this? Johnna Antonich, the new Accessibility
+                              Resource Coordinator at Northern explains the process.Click here for a PDF copy of this handout.
+January 24, 2020 — In the Office of Teaching & Learning Excellence, we try not to buy into technology
+                              hype without clear use cases and learning objectives. So far this year we’ve been
+                              playing with a few new tools that we think have a lot of potential for student engagement,
+                              both in and out of the classroom.Click here for a PDF copy of this handout.
+November 22, 2019 — Burnout can happen in any occupation, but is most common among social workers, medical
+                              professionals, law enforcement officers... and educators. Burnout has both personal
+                              and structural factors. This is not a problem we can solve with 15 minutes and a handout,
+                              and it’s not something that can be fixed without institutional action. Let's start
+                              the conversation!
+Nov. 15, 2019 — Military veteran students face a lot of extra hurdles and challenges that the rest
+                              of us may not even be aware of. Josh Gomez from Veterans Services addresses what faculty
+                              and staff can do to help veterans succeed at MSU-Northern.Click here for a PDF copy of this handout.
+Nov. 1, 2019 — Effective classroom management isn’t something that just happens naturally! It requires
+                              the intentional use of non-verbal communication, instructor personality, classroom
+                              policy, and many other subtle factors. We discuss some specific behaviors and habits
+                              that can help.Click here for a PDF copy of this handout.
+Oct. 25, 2019 — Smartphones can be powerful productivity tools, and usage among college students
+                                 is approaching100%. But they can also be major distractions if used inappropriately. How can we
+                                 use smartphones inside — and outside — the classroom in ways that enhance learning?Click here for a PDF copy of this handout.
+Oct. 11, 2019 — Student advising is critical to student success, but it’s not easy. We discuss the
+                              advising process and offer a handy reference checklist that covers some of the trickier
+                              aspects of advising.Click here for a link to the current version of this handout.
+Sept. 27, 2019 — According to survey data of tens of thousands of college students, about 68% of undergrads
+                                 and 43% of graduate students admit to cheating on a test or assignment. And cheating doesn’t come out of the blue — In a similar survey, 95% of High School students admitted
+                                 to cheating. How can instructors catch or prevent cheating? More importantly, how can we cultivate a culture of academic integrity in our own
+                                 classrooms?Click here for a PDF copy of this handout.
+Sept. 20, 2019 — PowerPoint and Google Slides are pretty ubiquitous when it comes to structuring a
+                                    lecture or presentation. But are you making the most of your presentation? Are your
+                                    students retaining information and engaging with the content as well as they could
+                                    be? Click here for a PDF copy of this handout.
+Apr. 12, 2019 — The idea of gamification — using game elements to enhance student
+                              motivation and learning — has been heavily discussed and explored over the last decade.
+                              But gamification is just one category within a broader field of teaching practices
+                              that integrate games and play, called (among other terms) Ludic Pedagogy. Click here for a PDF copy of this handout.
+Mar. 29, 2019 — Learning experiences outside the traditional classroom setting can
+                              have a number of positive impacts on students’ learning. “High-impact practices” (HIPs)
+                              like cooperative education, undergraduate research, and global learning can help increase
+                              academic engagement and performance, promote a sharper sense of purpose and connectedness,
+                              and develop 21st century skills and perspectives among students. Click here for a PDF copy of this handout.
+Mar. 1, 2019 — As part of OTLE’s self-assessment process, each year we ask students
+                              to complete a Brightspace experience survey about their device usage, Brightspace
+                              habits, overall Brightspace satisfaction, and open-ended questions about how they’d
+                              like to see Brightspace improved. Here’s some of what we found this year. Click here for a PDF copy of this handout.
+Feb. 22, 2019 — Learning technology apps, tools, and websites are constantly being
+                              created, updated, closed down, sold off, or bought out. There are some great learning
+                              tools available online, but it can be hard to wade through all the confusion to find
+                              technology that actually solves a problem. FlipGrid, Webjets, and YoTeach are three
+                              promising new tools. Click here for a PDF copy of this handout.
+Feb. 15, 2019 — Monitoring and guiding student activity in Brightspace is a daunting
+                              task, but there are tools that can help! Release Conditions and Intelligent Agents
+                              can automate some of those tasks and provide timely feedback to encourage and motivate
+                              students. Click here for a PDF copy of this handout.
+Feb 8, 2019 — Brightspace has multiple analytic tools available to instructors. Knowing
+                              how to access this information — and what to do with it — can help you improve your
+                              course design, pinpoint trouble areas, identify at-risk students, identify and deter
+                              cheating, and more! Click here for a PDF copy of this handout.
+Feb. 1, 2019 — Around 70 high school students take college courses at MSU-Northern
+                              for college credit each semester. There are multiple forms of dual enrollment, and
+                              lots of potential benefits to the student, your program, and to MSU-Northern. Click here for a PDF copy of this handout.
+Jan. 25, 2019 — Most everyone uses PowerPoint to create a lecture or presentation,
+                              but maintaining student engagement can be challenging. Are there ways to enhance the
+                              effectiveness and interactivity of PowerPoint presentations? What if we want to turn
+                              off the projector and try some “unplugged” activities? Click here for a PDF copy of this handout.
+Jan. 18, 2019 — Assessment and grading can be an overwhelming task for faculty, and
+                              a mystifying process to students. How do you maintain objectivity, clearly articulate
+                              grading criteria, and provide feedback in a timely manner? Grading rubrics can save
+                              time, avoid unintentional bias, and give students clear guidelines for how they’re
+                              being assessed. Click here for a PDF copy of this handout.
+ 
+MSU-Northern Office Hours:
+8:00am-5:00pm, 
+		Monday-Friday
+ 
+Office of Teaching and Learning Excellence
+MSU-NorthernP.O. Box 7751Havre, MT 59501-7751Cowan Hall 104406.265.3767406.265.3701brightspace@msun.edu

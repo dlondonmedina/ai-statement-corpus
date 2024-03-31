@@ -1,0 +1,37 @@
+University of Rhode Island official policy on generative AI Artificial Intelligence
+https://web.uri.edu/atl/teaching-with-chatgpt-other-ai/
+Artificial Intelligence has been with us and will continue to transform the way we work, think, interact, and educate. Open AI’s ChatGPT is only one of hundreds of AI-powered software programs in use, across dozens of sectors. AI can do many things and cannot do several things. Humans still matter. So does critical thinking and social connection. 
+This selection of resources introduces you to ChatGPT and its utility. It is not meant to be exhaustive. An area providing ‘deeper dive’ resources is included. The rate of change in this area is moving very quickly. We will only periodically update this webpage, so please be mindful of publication dates of articles. Furthermore, some of these resources are live, collaborative documents that may be updated more regularly.
+How can I use ChatGPT in my teaching?
+YouTube video from Dr. Luke Hobson on 15 ways to use ChatGPT as an instructional designer, instructor, and teacher (Pub. date: 2/23/23)
+Google doc addressing many aspects of teaching with ChatGPT, from syllabus language, to assignments, to policy ideas
+URI Professor, Dr. Stephen Atlas’s book on leveraging generative AI (and ChatGPT) in education and the workplace (Pub. date: Jan 2023)
+'An educator who tested the new GPT-4 before its release offers advice for faculty members on how to respond.' (Pub. date: 3/23/23)
+Dr. Stan Skrabut’s book on using ChatGPT. Only accessible using URI credentials. (Pub. date: 2023)
+Crowdsourced Google doc on classroom policies for AI use
+What is ChatGPT?
+Learn about, access, and try out ChatGPT directly from its maker, OpenAI
+ A comprehensive introduction to ChatGPT, its uses, ethical considerations, and AI’s future impact (Pub. date: 9/1/23)
+First of a fantastic and informative video series on Generative AI for instructors and students, hosted by Ethan Mollick and team from the Wharton School at the University of Pennsylvania. (Pub. date: 7/31/23)
+How are students using ChatGPT and what could I do?
+Inside Higher Ed article providing instructors 5 touchpoints to offer students for consideration in using AI for their work (Pub. 9/6/23)
+
+Broader ways to think about plagiarism in the era of generative AI and ChatGPT (Pub. date: 1/20/23)
+OpenAI’s detector, but only reliable after about 50 submissions
+GPTZero turns the very technologies used to build ChatGPT around — to detect AI, but it’s not 100% accurate
+Inside Higher Ed summary article on a study conducted with dozens of students to learn how they were using AI tools. (Pub. 9/7/23) 
+
+Chronicle article that provides examples of student engagement in AI research and policy-making (Pub. date 3/30/23)
+What are additional applications of ChatGPT and what other AI Tools are available?
+'Ways ChatGPT can help streamline your workflow and increase efficiency' (Pub. date: 4/4/23)
+Elicit, another generative AI tool, is a GPT-3 powered research assistant that helps you classify datasets, brainstorm research questions, and search through publications (Pub. date: 3/9/22)
+What other AI tools are out there? Check out this extensive website dedicated to collecting a lengthy, and searchable, list of AI Tools, including ChatGPT
+I want to dig deeper.
+NYT article on interesting uses for generative AI. (Pub. date: 4/14/23)
+Metasite on AI in Higher Education (Pub. date: 1/14/23)
+Collection of resource articles and discussion in a ‘problem presented/response provided structure’. Running list of useful articles as they publish is included at the bottom.
+Listing of generative AI Tools & Related Resources
+Article from Bill Gates on his thoughts on AI and how it can advance different sectors of society (Pub. date: 3/21/23)
+Zotero Resource List/Bibliography on ChatGPT
+Copyright © 2024 University of Rhode Island | University of Rhode Island, Kingston, RI 02881, USA | 1.401.874.1000
+URI is an equal opportunity employer committed to the principles of affirmative action.

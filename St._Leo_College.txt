@@ -1,0 +1,62 @@
+St. Leo College official policy on generative AI Artificial Intelligence
+https://faculty.saintleo.edu/teaching/artificial-intelligence/
+ChatGPT, Google Bard, and other Large Language Models are forms of artificial intelligence that are trained to use natural language in response to human-generated prompts. It can produce essays, articles, blog posts, lists, poems, songs, literary analyses, computations, arguments, and more.  And given the same prompt multiple times, it produces unique output each time. We asked ChatGPT to tell us “What is ChatGPT?” Here is its answer: 
+ChatGPT is a large language model developed by OpenAI that is trained to generate human-like text. It can be used to generate responses to prompts in a conversational context. It is based on the GPT (Generative Pre-trained Transformer) architecture, which is a type of neural network that is trained on a large dataset of text to learn patterns in language and generate new text that is similar to the input it has been trained on. . . . ChatGPT is often used in applications such as chatbots, virtual assistants, customer support systems, and more, where generating natural-sounding text in response to user inputs is essential. It has been released in various versions, with improvements in both the underlying architecture and the fine-tuning process, making it progressively more capable of understanding and generating coherent and contextually relevant text. 
+What Kinds of Tasks Can AI Perform? 
+Text generation: large language models can generate written content, such as articles, abstracts, and summaries (freeing up researchers or students to focus on other aspects of their research or academic tasks).
+Text classification: AI can classify text into various categories, such as sentiment analysis, topic classification, and intent detection.
+Text Summarization: AI can generate a summary of a given text, reducing the text to its most important points. 
+Proofreading and Editing: AI can provide feedback on pre-existing text and provide suggestions for improving writing.
+Translation: AI can translate text from one language to another, helping to make information accessible to a wider audience.
+Questioning: AI can create questions for quizzes, tests, or interviews.
+Brainstorming: AI can assist in generating ideas for projects, creative endeavors, or problem-solving.
+Coding: AI can write computer code and provide programming-related advice.
+Tutoring: AI can explain concepts from various subjects, answer questions, provide examples, and help users understand new information.
+Lesson planning: AI can write objectives, suggest assessments, create outlines of lesson plans, provide ideas for active learning strategies, or make suggestions to enhance lessons.  
+Mathematical computation: AI can do college-level math (and show the work).
+Event Planning: It can assist in planning events, suggesting ideas, creating to-do lists, suggesting menus, and more.
+Conversation History: AI appears to engage in dialogue with users. Chat histories can be saved. 
+Learning: AI learns with every user’s prompt and interaction.  
+It is not hyperbole to say that this tool has the potential to transform how we teach and learn. Some academics argue that with OpenAI, the College Essay Is Dead. Others offer ideas for How ChatGPT Could Transform Higher Education. Many suggest the best way to address AI is to Put Learning at the Center, Change the Way You Teach, or incorporate AI into your classes and Use ChatGPT to its Full Potential. 
+Some think we should focus on banning, detecting, and punishing, but these strategies may be short-lived and perhaps short-sighted.  Campus network bans will not work for cell phones or home computers.  Detection will be difficult to prove beyond a shadow of a doubt because the same prompt yields a different response each time, and AI is constantly learning. Other AI companies will have varying levels of commitment to being detectable (i.e., digital watermarking).  Companies whose primary goal is to make money may focus on preventing detection, so they are valuable to those seeking to avoid detection.  As of today, copyright laws only pertain to human ownership over intellectual property. 
+What Are the Current Limitations of Large Language Models?  
+AI is not always factually accurate: Despite being trained on a large corpus of text, it may still make errors or provide false information. 
+AI has limited knowledge of the world and current events: AI has limitations in understanding real-world complexities and nuances. Bing AI and Google’s Bard are connected to the internet, so they are better able to address current events. 
+Bias: Any machine learning model trained on a dataset can unfortunately reflect the biases present in the data on which it was trained. 
+AI has limited emotional intelligence. It can generate text that emulates emotions, but it doesn’t have the ability to understand or experience emotions itself. 
+Currently, AI lacks creative problem-solving skills. It can provide information and answer questions, but it may not be able to help students develop critical thinking or problem-solving skills. 
+All of this prompts some very important questions and opportunities for dialogue. Universities, and especially professors, are asking some of the following questions: 
+What role will AI play in higher education in the next 3-5 years?  
+Can AI enhance student learning experiences?  
+How will AI impact the teaching of writing and the use of writing as an assessment tool?  
+How will AI impact critical thinking?  
+If AI becomes a standard practice/tool in most industries, how can we prepare our students? 
+What ethical considerations need to be taken into account when incorporating AI into university classes?  
+What Can Professors Do?
+Discuss with your students why academic integrity matters and how that applies to our core values of Integrity and Respect. Review the university policies regarding academic integrity and how that applies to Artificial Intelligence in your class.
+Include a specific statement in your syllabus about what use of AI is acceptable in your class and what is not.  Here are the recommended syllabus and honor code statements regarding the use of Artificial Intelligence (AI).
+Create assignments that do not easily lend themselves to the use of AI. 
+Focus on real-world application of content. 
+Require inclusion of class content, specific resources, lectures. 
+Require application of current events to content. 
+Include student application of personal experience or knowledge to course content. 
+Use more collaborative learning experiences. 
+Assess process as well as outcome. If assigning traditional papers, chunk the assignment so students must turn in certain parts of it along the way (resources, outline, drafts, etc.). Have them write a reflective piece as part of the paper, explaining their research process. 
+Add a reflective component as part of the assignment, in which students discuss their research process. 
+Require uploading of all references. 
+Substitute traditional papers with projects, blogs, podcasts, multimedia projects, simulations, debates, graphical representations, or student-created videos. 
+Incorporate AI tools into your teaching. 
+Generate Test /quiz questions or answer options. 
+Have students run their writing through an AI tool for feedback. 
+Analyze AI output for content accuracy and writing strengths. 
+Use AI such as Khanmigo for student support, coaching, or tutoring. 
+Use AI tools for brainstorming. 
+Include AI responses as a third step in Think-Pair-Share.  After pairs discuss a topic, have them prompt an AI tool about the same topic and compare answers before reporting out. 
+Provide multiple examples or models (generated by an AI tool) for a content area concept. 
+Use AI to break down large complex issues; have students use critical thinking to develop possible solutions. 
+Model industry tasks/standards and have students engage in real-world use of AI. 
+Explore with your students the ethical uses of AI and potential negative impacts in discipline-specific contexts. 
+Collaborate with colleagues and explore new ways to effectively use AI in teaching and learning.  
+33701 State Road 52Saint Leo, FL 33574-6665ctle@saintleo.edu
+ 
+              

@@ -1,0 +1,63 @@
+San Francisco State University official policy on generative AI Artificial Intelligence
+https://ceetl.sfsu.edu/teaching-generative-ai
+The Generative AI landscape is under constant flux due to technological developments and mass public adoption, including in higher education. In Spring 2023, CEETL curated a list of resources and offered a Webinar on ChatGPT, which you can explore below. Since then, ChatGPT has added faster, customizable paid models, plug-ins, and image capabilities through Dall-E3 (see ChatGPT-Release Notes). Additionally, a host of generative AI tools, from image generators to coding assistants to other chatbots, have arisen (Le Cunff, 2023), and several campus educational technologies like Canvas and Microsoft are adding AI features.
+To keep astride this rapidly changing landscape, CEETL has worked with campus partners to understand the impact of Generative AI on teaching and learning and to identify AI-informed teaching practices. Two such efforts include the development of a campus webpage on AI in partnership with Academic Technology at ai.sfsu.edu as well as an AI Guidance document authored by CEETL Faculty Fellow Dr. Jennifer Trainor and CEETL Teaching & Learning Specialist Dr. Jessica Adams-Grigorieff.
+ 
+ 
+ 
+
+Please join us as we discuss ways to navigate the challenges of academic integrity in this moment of AI, including assignment redesign and syllabus policy creation.
+
+
+Please join us as we discuss ways to navigate the challenges of academic integrity in this moment of AI, including assignment redesign and syllabus policy creation.
+
+Join us for a discussion of Critical AI in the classroom. We'll overview some of the ethical and social justice limitations of AI-powered writing tools, and share teaching strategies for helping students develop critical AI literacy. 
+
+
+Join us for a discussion of Critical AI in the classroom. We'll overview some of the ethical and social justice limitations of AI-powered writing tools, and share teaching strategies for helping students develop critical AI literacy. 
+
+On Zoom, 9am-12noon
+We are looking for panelists to share how they have addressed emerging AI technologies in their classrooms. If interested, please email ceetl@sfsu.edu with a 200 word proposal by April 5 or sooner.
+ 
+
+
+On Zoom, 9am-12noon
+We are looking for panelists to share how they have addressed emerging AI technologies in their classrooms. If interested, please email ceetl@sfsu.edu with a 200 word proposal by April 5 or sooner.
+ 
+In an effort to our campus community in the sense-making around AI, CEETL in collaboration with AT has created a webpage (https://ai.sfsu.edu) dedicated to highlighting and promoting campus activities with AI. We are encouraging faculty to share how they use AI in the classroom and are compiling a crowdsourced slide deck on SF State teaching practices with AI, whether that is teaching about AI, using AI with your students, or deterring use. You can join the conversation by filling out a slide template and sending it to ceetl@sfsu.edu.
+ 
+In the Fall 2023, CEETL, in partnership with Academic Technology and Dr. Jennifer Trainor in the English Department, hosted 3 conversations with staff and faculty about AI. These events were discussion-based and exploratory, intended to uncover the range of views and approaches to Generative AI at SF State. Topics included concerns around AI detection tools, AI-proofing strategies for assignments, professional uses of AI for faculty, and a demonstration and conversation with SF State students about how they use AI tools. You can view the slides and recordings from each of these events at the following links. CEETL will continue to partner with Academic Technology and faculty colleagues to gather resources for AI-led teaching, learning, and scholarship.
+ 
+ 
+
+Access to Slides 
+
+
+Access to Slides 
+
+Access to Slides 
+
+
+Access to Slides 
+
+Access to Slides 
+
+
+Access to Slides 
+ 
+What is ChatGPT?
+ChatGPT is an A.I. chatbot that can explain ideas and concepts using simple sentences and generate convincing, though often oversimplified, written text. ChatGPT can write college-level essays, working computer code and even jokes. You can create an account here, to try it yourself and see what it does for your discipline. 
+What about detection tools?
+It’s too soon to tell if detection tools will be successful at determining what is and isn’t A.I. generated writing. 
+Companies like Turnitin are working to address the detection of AI writing (click here for Turnitin’s summary of how they’re addressing Chat GPT). However, other tools are being created just as rapidly to defeat detection; for example, this “paraphrasing” tool.
+Here are some things GPT can write/create:
+See what it does for your discipline by trying it yourself:
+It’s too soon to conclude on detection tools:
+Turnitin detection can be defeated by a “paraphrasing” AI tool (Quillbot) that has GPT technology
+Alarmed by A.I. Chatbots, Universities Start Revamping How They Teach | NYTimes
+A College Kid Built an App That Sniffs Out Text Penned by AI | The Daily Beast
+What might ChatGPT mean for higher education?
+Create prompts that are narrow and focused on specific course content and rely on the resources you use in the course or ask students to apply course reading/content to their own lives.
+Use course design practices that promote academic integrity (and make cheating feel less necessary) such as instilling self-efficacy, focusing on learning over performance and lowering the stakes of assignments. 
+If we operate from an assumption of trust, we can help guide students through AI literacy and ethical ways of using it. Students might be interested in these conversations, like faculty, they are also wrestling with this.  There are students who genuinely want to work on their writing but also experience difficulties with time. They've been through a pandemic, through trauma and stress, and learning loss, and some might be thinking about how to use AI to fill in those gaps and are looking for guidance. This is a good time to use conversation as a way to build critical thinking skills and clarify misunderstandings about what plagiarism is (the gray area).
+Try not to be fearful and conduct all graded assignments in class or under proctored conditions disconnected from the internet because a lot of students, for various reasons, would feel challenged by being put in that high-pressure situation. This practice is not inclusive and very disruptive for students and our own pedagogies because it sends the message that if students can't perform on the spot, they will be getting assistance from AI.

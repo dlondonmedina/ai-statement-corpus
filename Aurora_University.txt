@@ -1,0 +1,30 @@
+Aurora University official policy on generative AI Artificial Intelligence
+https://libguides.aurora.edu/c.php?g=1294235&p=9542862
+Tools are available to identify whether a text was written by a human. These are imperfect but quickly improving.
+Please see the tab about detecting text written by an AI for more.
+There are new articles and updates about this topic every day. You can find the most current resources or explore what else has been said by searching.
+For newly developing topics like this, Google Scholar is a great tool because it can also find pre-print articles.
+Try searching across all library materials in Spartan Search, the blue box on the library home page. Note that newspaper articles that are otherwise behind paywalls can be found in library databases.
+When searching, try the following terms. 
+Community-built bibliographies about ChatGPT are another resource.
+
+Taking credit for work from ChatGPT is dishonest. Depending on how ChatGPT is used, a student could violate academic integrity expectations. The Academic Integrity Policy states, "Aurora University expects students to do their own academic work."
+Read the full Academic Integrity Policy at the link below.
+Learn more about plagiarism in this guide:
+If your instructor's course policies allow the use of generative AI, it is important to cite that work as coming from an outside source. 
+There are different opinions on best practices for citing work. Linked below are articles with authoritative guidance, which will vary depending on the citation style.
+More articles will continue to be released on this topic. Find tips for searching for more on the left of this page.
+In the News
+
+Analysis and Recommendations for Academia
+Research on ChatGPT in Academia
+ChatGPT for (Finance) research: The Bananarama Conjecture | Finance Research Letters
+We show, based on ratings by finance journal reviewers of generated output, that the recently released AI chatbot ChatGPT can significantly assist with finance research. In principle, these results should be generalisable across research domains. There are clear advantages for idea generation and data identification. The technology, however, is weaker on literature synthesis and developing appropriate testing frameworks. Importantly, we further demonstrate that the extent of private data and researcher domain expertise input, are key factors in determining the quality of output. We conclude by considering the implications, particularly the ethical implications, which arise from this new technology.
+OpenAI ChatGPT Generated Results: Similarity Index of Artificial Intelligence-Based Contents | pre-print
+A recently developed artificial intelligence (AI) model to execute high-level cognitive tasks known as ChatGPT has been popular over the last months in the academic community. The feature raises questions regarding how ChatGPT may be used for academic dishonesty for students who generate essays and topics. The study discovered that ChatGPT poses a potential risk to the integrity of essay submissions, particularly in higher education settings where such requirements are standard. This study will check the similarity index of ChatGPT-generated results using Ouriginal by Turnitin and running in a paraphrasing tool. Research paper titles published by Pangasinan State University authors will be used in the chat session using ChatGPT. Results show that the generated results' similarity index passed the institution's required similarity index, which might threaten academic integrity. The institution may update its assessment methodology to avoid using such a model for cheating.
+ChatGPT: The End of Online Exam Integrity? | pre-print
+This study evaluated the ability of ChatGPT, a recently developed artificial intelligence (AI) agent, to perform high-level cognitive tasks and produce text that is indistinguishable from human-generated text. This capacity raises concerns about the potential use of ChatGPT as a tool for academic misconduct in online exams. The study found that ChatGPT is capable of exhibiting critical thinking skills and generating highly realistic text with minimal input, making it a potential threat to the integrity of online exams, particularly in tertiary education settings where such exams are becoming more prevalent. Returning to invigilated and oral exams could form part of the solution, while using advanced proctoring techniques and AI-text output detectors may be effective in addressing this issue, they are not likely to be foolproof solutions. Further research is needed to fully understand the implications of large language models like ChatGPT and to devise strategies for combating the risk of cheating using these tools. It is crucial for educators and institutions to be aware of the possibility of ChatGPT being used for cheating and to investigate measures to address it in order to maintain the fairness and validity of online exams for all students.
+ 
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+Suggested Attribution: ChatGPT, AI, and Implications for Higher Education © 2023 by Evangeline Reid, Jake Bailey, and Aurora University is licensed under CC BY-NC-SA 4.0 

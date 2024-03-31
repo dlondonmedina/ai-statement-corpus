@@ -1,0 +1,12 @@
+Cleveland State University official policy on generative AI Artificial Intelligence
+https://www.csuohio.edu/techhub/artificial-intelligence
+
+Artificial Intelligence (AI) is both a catch phrase and a catch-all for several different applications that can mimic human intelligence, and includes everything from technology that can replicate human touch to the more ubiquitous application of ChatGPT, which enables users to submit questions or prompts and receive a response. 
+At the TECH Hub, we are keen to support faculty affiliates and others in understanding AI, its impacts on our work and society and how to leverage it for increased effectiveness and impact. 
+There are many upcoming opportunities—at CSU and beyond—to learn about, engage with and help shape policies around the use of this disruptive technology and how to harness it for good. We hope you will take advantage of these great resources! Check back frequently for updates!
+11/9/2023 | AI Literacy Session 1. Remote, 11:30 a.m. - 12:20 p.m., Presenter: Chris Rennison, Registration.
+This workshop is designed for educators aiming to leverage basic AI tools like BARD, ChatGPT, etc. for enriched learning experiences. This hands-on session will guide you through real-world applications of generative AI, such as automated content creation and personalized learning pathways. Learn to incorporate these powerful tools into your teaching methods to engage students and enhance educational outcomes. No technical background is required; this workshop is all about practical, easy-to-implement strategies for modern educators. (Will also be repeated on December 7, 2023; register here.)
+11/20/2023 | AI Literacy Session 2. Remote, 1:00 p.m. - 2:00 p.m., Presenter: Chris Rennison, Registration. 
+Based upon the Student Use Cases for AI: An Inspiring Minds Series by Ethan and Lilach Mollick, this workshop is designed for instructors who wish to learn how to craft effective prompts to better leverage generative AI for teaching and learning. This one-hour session will provide practical examples of effective prompts along with hands-on activities that will allow instructors to experiment with creating their own prompts. No prior AI knowledge required—just bring your curiosity and enthusiasm!  
+Finally, the TECH Hub will host another AI information sharing session on Thursday, November 16, from 11:30 a.m. to 12:30 p.m. in Parker Hannifin Hall Room 103. (Lunch will be provided.) Your input will help us shape additional TECH Hub AI programming for the spring. Please register here by 11/9.
+ 

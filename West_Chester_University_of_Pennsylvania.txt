@@ -1,0 +1,138 @@
+West Chester University of Pennsylvania official policy on generative AI Artificial Intelligence
+https://www.wcupa.edu/tlc/ai-resources.aspx
+Address: Anderson Hall 1st Floor 725 S Church St West Chester, PA 19383
+Phone: 610-436-2948 Fax: 610-436-2189 Email: DistanceEd@wcupa.edu
+Distance Education Support Phone: 610-436-3373 Email: DistanceEd@wcupa.edu
+This page will explore the topic of generative AI, including its impact on the classroom
+                                 as well as potential instructional uses for generative AI tools. 
+We recognize that there are different approaches to teaching across disciplines and
+                                 do not assume that all faculty will incorporate generative AI or do it the same way.
+                                 Whatever way you may choose to engage (or not) with generative AI in your courses,
+                                 it is important to do so thoughtfully and strategically. We hope this page will be
+                                 helpful in this regard. The toolkit includes a wide range of approaches and strategies
+                                 for you to consider incorporating into your courses. It is not meant to be a ‘how-to’
+                                 guide for integrating generative AI but more of a resource to help you think through
+                                 and decide what options are best suited for your teaching context. We encourage you
+                                 to think about your teaching approach and context as you review the strategies shared
+                                 in this document.
+If you would like to discuss strategies for your specific context, please reach out
+                                 to your Instructional Designer or drop into the TLC Drop-In Hours. If you would like to share your experiences with AI, please complete the Experiences with Generative AI Survey.
+Generative artificial intelligence (“AI”) tools use machine learning models to create
+                                 new, human-realistic content in response to a prompt. The tools are readily available
+                                 to students, and just as previous educational technologies have done, AI tools are
+                                 changing educational, learning, and knowledge practices. Given a carefully worded
+                                 prompt, these tools can compare texts, mimic critical thinking, and generate content
+                                 that reads like a personal narrative (Mills, 2023). It is no wonder that academics are spending so much time thinking and discussing
+                                 the implications of generative AI to teaching and learning.
+Much of the concern around ChatGPT, Bing AI, Google Bard, and other generative AI
+                                 tools has centered around the challenge of students using them to write and submit
+                                 their assignments. How will we be able to assess student work to support their learning
+                                 if they are not submitting work that they are producing themselves? How do we teach
+                                 students core skills like critical thinking and communication with generative AI tools
+                                 so easily accessible? These are some of the questions that faculty in the US and beyond
+                                 have been pondering. One of our responsibilities is to teach students how to engage
+                                 with these tools in responsible and ethical ways while also being critical of the
+                                 ways these tools influence our world.
+As you consider your approach, we urge you to remember that we are preparing students
+                                 for a world that already has generative AI. Students may already be using generative
+                                 AI tools in a variety of ways that supports their learning, such as:
+The Teaching and Learning Center has identified four levels of use for your consideration.
+                                 You might consider including a statement on your syllabus that communicates to students
+                                 your approach to engaging in the course. If you would like help with drafting such
+                                 a statement, please reach out to your Instructional Designer or reach out to the Teaching & Learing Center for assistance.
+Feedback Provider: Students load their work into the AI tool and ask for feedback. This can be a guided
+                                             exercise for students or one they do independently. Instructors can also submit student
+                                             work to an AI tool for initial feedback ideas as part of the assessment process. (Source:
+                                             Brent Anders, 2023; DitchthatTextbook) 
+Enhance “Think, Pair, Share”: After asking students to pair and share their initial thoughts on a question, have
+                                             them submit their idea to or ask the question of an A.I. tool. Then students review
+                                             the response together to see how it compares to what they originally generated before
+                                             sharing with the class. (Source: Sarah Dillard) 
+Grade the AI: Students take an AI created item and provide a grade with feedback on how well the
+                                             AI generated product meets a set of criteria. (Source: Matt Miller, DitchthatTextbook)
+Outwrite the AI / Anticipate the AI: Provide students with a prompt and ask them to write a better response than the one
+                                             generated by the AI tool. Share the AI generated response and ask students to articulate
+                                             how their writing was better. Alternatively, ask students to anticipate how the AI
+                                             will respond to a given prompt. (Inspired by Karen Costa) 
+Example Generator: Use the AI to provide an unlimited number of concept or application examples. Students
+                                             can then “compare across different contexts, explain the core of a concept, and point
+                                             out inconsistencies and missing information in the way the AI applies concepts to
+                                             new situations.” (Mollick & Mollick, 2022) 
+Debate the Bot / Hold a Conversation: Utilize the AI tool as one side in a debate and have students take the other side.
+                                             This can be done both individually or as a whole class. Alternatively, students can
+                                             engage in a conversation with the AI tool on a specific topic.  (Source: Matt Miller) 
+Personalize Learning Plans: Students ask the AI tool to create a learning plan specific to their needs and conditions.
+                                             Alternatively, students could also request study materials from an AI tool.
+Align Assessments to Course Goals: AI tools may expose assessments that are misaligned to learning goals or lack relevance
+                                             to students. As you review your assessments, be sure you can articulate how the assessment
+                                             provides evidence in support of the student learning goal and be able to articulate
+                                             a clear rationale for why or how the assessment is going to benefit a student.
+Personalize Writing Prompts: Ask students to make connections between or apply their own personal knowledge and
+                                             experiences to course concepts and topics. (Source: Practical Responses to ChatGPT) 
+Use Genre-Based Assignments: Engage students’ motivation and curiosity with genre-based assignments that inspire
+                                             creativity and reflection, for example artist statements, public service announcements,
+                                             or turning-point essays. (Source: How to Create Compelling Writing Assignments in a ChatGPT Age)
+Cite Specific Material or New Information: Ask students to reference or connect their work to current events or conversations
+                                             in the discipline or use specific references from course materials like notes, readings,
+                                             or other information sources that are not available on the free internet. Currently,
+                                             ChatGPT only uses information through 2021. (Source: Artificial Intelligence Writing)    
+Ask for Creative Outputs: Incorporate visual or auditory components in the assessment. For example, items like
+                                             infographics, memes, presentations, graphs, charts, diagrams, drawing, podcasts, audio
+                                             responses, or videos.
+Use a Flipped Class Approach: Students engage with course content outside of class and then apply that information
+                                             in class. For example, ask students to write a brief response to questions you might
+                                             have asked for homework in class and then engage in peer review of their writing.
+Assign a Handwritten Exercise: While this has drawbacks (namely difficult to read handwriting and paper management),
+                                             asking students to write out information by hand may help them better remember the
+                                             content.   
+Check Your Writing Prompts: Load your assessment prompts into an artificial intelligence tool and assess the
+                                             output. If the AI response would earn an adequate score, adjust your prompt.  
+Try Social Annotation Options: As a replacement for short writing prompts related to readings, ask students to use
+                                             social annotation tools to engage with a text alongside their peers. You can use WCU-provided
+                                             VoiceThread, Google Docs, or Microsoft Word via OneDrive to conduct this type of activity. 
+Fully Incorporate AI into a Writing Assignment: Allow AI writing tool assistance for an assignment. Ask students to submit prompt(s)
+                                             used, original AI tool output, and a document with tracked changes showing how the
+                                             student added depth, clarified misinformation, added alternative perspectives, and
+                                             any other improvements. (Source: Brent Anders)
+Turnitin is a text-matching software available through WCU’s learning management system
+                                       (D2L) that offers tools to support academic integrity.  When an instructor enables
+                                       Turnitin in a D2L course, student assignments are submitted to Turnitin which then
+                                       matches text within the assignment to existing text in a database of previously submitted
+                                       papers, internet sources, journal, and other publications. Turnitin generates a ‘Similarity Report’ that provides a summary of text that has matched with another source. All submitted
+                                       assignments are added to Turnitin’s global database for text-matching with future
+                                       submissions. It is important to note that Turnitin only checks for text similarity,
+                                       and not for all forms of plagiarism. As Turnitin explains, it is more accurate to
+                                       think of their tool as a ‘text-matching’ or ‘similarity-checking’ tool rather than a ‘plagiarism-checking’
+                                          tool. Text is flagged by the tool when it matches against other text in their database.
+Turnitin recently rolled out an ‘AI Detector’ tool to help faculty identify instances
+                                 of academic dishonesty where students submit AI-generated material for course assignments.
+                                 The ‘AI Detector’ tool tries to match submitted text against AI-generated text. Details
+                                 on how Turnitin’s AI Writing Detection works are provided on the company's FAQs. The challenge is that it is difficult for this or any tool to reliably detect AI-generated
+                                 text because AI language models are designed to mimic human-generated text.   There has been considerable concern expressed by faculty and institutions in the US
+                                 and beyond about the potential impact of the AI Detector tool on courses, student
+                                 learning, and the academic environment. Some institutions have made the decision to
+                                 opt out of the tool because of these concerns. Here are a few examples: 
+It is apparent from these examples that there are serious legal and academic ramifications
+                                 associated with using Turnitin AI Writing Detector. It is risky to use the AI Detector
+                                 Similarity Report as the sole basis for determining that a student has violated academic
+                                 integrity because it is not wholly reliable.  
+The AI Writing Detection tool is currently enabled at WCU.  The Teaching and Learning
+                                 Center (TLC) and Information Systems &Technology (IS&T) urge faculty who may choose
+                                 to use this tool to do so with caution. Consider the following recommendations for
+                                 using the tool ethically and responsibly: 
+Check our Events Calendar for upcoming workshops and events to get involved with conversations about generative
+                                 AI already happening at WCU, or fill out the Experiences with Generative AI Survey to start another!
+During the Fall 2023 semester, the Teaching and Learning Center conducted a webinar
+                                 series on Teaching with AI.
+What is an LLM, and how does it work?
+Collection of assignments engaging with text generation by WAC Clearinghouse
+Advice document prepared by digital rhetoric professor Edward Schiappa and digital
+                                          media professor Nick Montfort for their colleagues at MIT , which identifies some key issues for thinking about generative AI in the classroom
+Siva Vaidhyanathan’s op ed about using ChatGPT as a “teachable moment”
+John Warner’s “How About We Put Teaching at the Center”, another piece that succinctly explains a philosophy for approaching AI tools
+For those interested in a more scholarly approach that delves into the larger questions
+                                       of meaning, N. Katherine Hayles's “Inside the Mind of an AI: Materiality and the Crisis of Representation” is very good
+Hayles's writing also complements pieces like Bender’s “Stochastic Parrot” essay quite nicely
+Another resource of interest to those wrestling with the larger questions of meaning
+                                       and AI text is the “Again Theory” forum Matthew Kirschenbaum organized for Critical Inquiry
+For even more resources, check Prof. Famiglietti's Zotero library

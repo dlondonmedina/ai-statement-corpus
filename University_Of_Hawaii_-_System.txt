@@ -1,0 +1,13 @@
+University Of Hawaii - System official policy on generative AI Artificial Intelligence
+https://manoa.hawaii.edu/ovpae/guidance-on-ai/
+Generative Artificial Intelligence (AI) holds promise in improving higher education, offering both opportunities and challenges for universities. AI-powered tools can provide new learning modes, personalize learning experiences, and enable students to receive tailored support and feedback. Additionally, AI can streamline administrative tasks, enhancing efficiency and potentially reducing operational costs. However, the integration of AI also raises important questions about data privacy, ethics, algorithmic bias, and the need for faculty and staff preparation. Balancing AI’s potential and addressing these challenges is important, as the advent of these tools is already reshaping aspects of higher education.
+The UHM student code of conduct (IV.B.1.a) addresses “Cheating, plagiarism, or other forms of academic dishonesty.” It gives the instructor authority over defining unauthorized assistance, authorized sources, and specifically prohibited behavior in classes. For this reason, instructors are strongly encouraged to:
+Syllabi and class discussions should make instructor expectations clear with respect to use of AI tools. UHOIC maintains sample statements for adaptation in a syllabus or specific assignments.
+The widespread availability of AI tools creates both challenges and opportunities for instructors. Similar to the reframing required at the onset of digital calculators (at least for math and science instruction) and internet search engines, assignments and assessments may need redesign to achieve our learning objectives.
+Some useful redesign strategies are: 
+(Khan Academy’s, AI for Education)
+Additional strategies include: 
+(UH Recommendations on Assessment)
+Many resources can be found in this annotated listing maintained by UHOIC, which includes sections on Accessibility, Assessment, References, Copyright, Educational Considerations, Ethics, Pedagogy, Classroom Policies, Prompting, Tools, and Supplemental Resources.
+Experts agree that generative AI tools are here to stay. Teaching and learning about AI is one piece of a need to assist students in learning appropriate 21st century digital skills. Like other new technologies, there are challenges and concerns that come along. Faculty and students are encouraged to experiment with AI tools while staying within legal and ethical parameters to the best of their ability. Proliferation of AI-integrated tools is predicted, and university personnel should be aware of policies and procedures that relate to the adoption of new technologies, including:
+Photo by Hitesh Choudhary on Unsplash

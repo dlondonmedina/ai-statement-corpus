@@ -1,0 +1,69 @@
+Carleton College official policy on generative AI Artificial Intelligence
+https://www.carleton.edu/writing/resources-for-faculty/working-with-ai/ai-course-policies/
+Key Ideas
+
+    Start with a working knowledge of what current AI tools can do.
+    Seriously consider what writing tasks you want students to do themselves and what tasks students could reasonably do with AI tools.
+    Set clear guidelines for your students and explain the rationale behind them. Why would certain uses of AI undermine the value of your course or your assignments for them? Focus on learning and intellectual growth, not transgressions and punishments.
+    Maintain an open dialogue with your students, by expressing trust in their desire to learn and encouraging them to come to you with questions about AI tools and how to use them in your course.
+
+This guide will help you consider how to create guidelines around the use of AI writing technologies in your classes. 
+
+Additional Resources:
+
+    Slide deck from our Summer 2023 workshop on writing AI course policies
+    Sample policies (of varying quality) from faculty across the country [external link].
+    Sample policies from your colleagues at Carleton [requires a Carleton login]. 
+
+1. Know what the technology can do
+
+The core technology around AI is developing rapidly, as is the number and variety of tools using that technology. It’s not necessary or practical for most instructors to keep track of everything AI can do and all of the ways it can affect your students’ work, but it is worth paying attention to major trends and developments and to have at least some sense of the most common ways students are using AI in their writing.
+
+The guide gives a pretty good overview of the major AI tools, how they work, and what they can do.  We’ll try to keep this link updated at least semi-regularly as new tools become available, and you can always contact Academic Technology if the information here seems out of date or if you have questions about how AI works in practice.
+2. Consider the ways you do and don’t want students to use AI in your class
+
+As you familiarize yourself with the technology and start thinking about how it applies to your courses and assignments, consider how students might use AI tools in their writing for you and what you would consider legitimate or illegitimate uses of these tools.  As you do, keep in mind that, at this point, nearly everyone uses some form of AI when they write (spell checks, grammar checks, and predictive text are technically AI tools, after all).  So while it may be tempting to simply tell students “don’t use AI in your writing, period,” that’s not a practical — or even particularly desirable — solution.
+
+Furthermore, it’s worth considering that the newest AI tools are extremely versatile and can help students in many ways beyond simply writing their essays for them.  Depending on the kinds of intellectual work you want students to do in your class, you may find that some applications of AI can actually help them focus on the most important aspects of your assignments by making the ancillary tasks that some students struggle with (grammar, citations, proofreading, etc.) easier to manage.  Of course, you may also decide that you want students to work on these skills through your assignments or that those tasks are a fundamental part of the intellectual work at hand; those decisions are ultimately up to you.
+
+To guide your thinking, consider just four ways that students have reported using AI in their writing:
+
+    Using tools like ChatGPT to generate outlines, or even whole essays, which the student then fills out or revises, adding ideas or evidence as they deem it necessary
+    Using tools like ChatGPT to generate portions of an essay, while they write the rest. This might include “boilerplate” paragraphs like summaries of texts or sections that (to the student’s mind, at least) contain purely factual or contextual information
+    Using AI tools to revise and/or proofread their drafts, either to eliminate grammar mistakes or to put their writing into a more appropriate voice (more academic, more formal, more American, etc.)
+    Using tools like ChatGPT to “brainstorm” by feeding all or part of the writing prompt into the AI to help them consider possible topics or ways to focus their writing, even if they never intend to use any of the actual text it generates
+
+It’s easy to imagine courses and assignments in which any of these methods would be inappropriate, but it’s also fairly easy to imagine assignments where it would be reasonable to allow, or even to explicitly require, students to use some or all of these techniques.  Again, the decision will ultimately be yours, and should depend on the kinds of learning and intellectual work you most want students to perform through your assignments.
+3. Set clear guidelines
+
+View specific examples of AI course policies (all of which were, to the best of our knowledge, written by real, human Carleton faculty).
+
+Once you have a sense of where you wish to set the boundaries for AI in your class, it’s time to craft a policy that articulates these boundaries to your students.  This usually begins (but ideally does not end) with a statement on your course syllabus.
+
+As a general rule, the best syllabus statements are clear, concise, and explanatory rather than punitive (i.e. they explain the reasoning behind the rule rather than dwelling on the consequences for not following it).  The overall goal should be to help students understand the kinds of work they’ll do in your class, rather than to simply give them a list of “do’s” and “do-not’s.”
+
+That advice really applies to any policy on your syllabus, though.  In the case of AI specifically, a complete policy would address:
+
+    How are students permitted to use AI in your class?
+    What uses of AI are explicitly forbidden in your class?
+    If any use of AI is allowed, how do you want students to document, cite, or otherwise disclose the ways they use AI to complete assignments?
+    Will the rules around AI vary from one assignment to the next? (If so, keep in mind that you’ll also need to write clear AI policies for any assignment that deviates from the general course policy)?
+    What is the overall rationale behind this policy? How does it fit in with the overall goals of the course and the kinds of intellectual work you want your students to do?
+
+It’s okay to be a bit general when you frame these ideas in the course syllabus, particularly if the boundaries around AI use might vary a bit from one assignment to the next. Thus, you don’t need to address every possible tool, use, or contingency that might come up over the course of a term. The main goal here is to articulate your thinking around AI, so students have a clear framework to guide them.
+
+Finally, regardless of the policies you set or how you explain them on paper, be prepared to spend some time discussing them in class. This doesn’t necessarily need to happen on the very first day of your course, but you should certainly address it by the time students begin their first major writing assignment. Again, the goal here is not simply to reiterate your policies to the students who don’t read the syllabus closely, but to explain the logic behind your policies and give students a chance to respond and ask questions about them. To that end…
+4. Maintain a dialogue with your students
+
+At this point, it’s worth addressing the elephant in the room: the current generation of AI tools are sophisticated enough that students’ use of them can be difficult, if not impossible, to detect. Thus, while you may find it pedagogically necessary to forbid students from using AI in certain ways, those prohibitions may also be unenforceable in practice. Furthermore, as these tools become more advanced and as our students become more sophisticated users of them, they will consistently find new ways to use AI that go around, beyond, and outside our stated policies.
+
+This doesn’t mean that, as instructors, we should simply throw up our hands in defeat, but it does mean that we will increasingly need to trust our students to follow our policies voluntarily. The best way to build that trust is to create as open a dialogue as possible with your students about the ways that AI tools can benefit or hinder their learning in your class. Ideally, you want to create an atmosphere where students feel comfortable coming to you with questions about the use of AI in your course assignments and discussing ways to use the technology you hadn’t considered. Honestly, this kind of dialogue was a valuable pedagogical practice before AI, but this issue underscores the importance of trust and dialogue to building productive learning communities in our classrooms.  
+
+For your part, take the time to explain the rationale behind your policies to your students. In particular, you should try to address the following questions:
+
+    What role do the writing assignments serve in your course? What knowledge will students gain through them and/or what skills will they practice?
+    What uses of AI tools will (and possibly won’t) work against the purposes of these assignments? How would using AI to generate text or perfect their grammar diminish students’ learning or undermine the benefits of completing the assignments without these tools?
+    What limitations of AI tools should they be aware of if they’re considering using them (legitimately or not)?  How might the quality of the writing these tools produce or the reliability of information they synthesize create problems for users?
+    What should students do if they’re unsure about a particular use of AI in your class? When and how should they ask you about it?
+
+For the students’ part, encourage them to ask questions, especially about applications of AI tools that aren’t explicitly covered by your policies, and think through the answers to those questions together. The multitudinous applications of AI in academic writing are uncharted territory for all of us, and the more willing you are to navigate that territory alongside your students, the more likely they are to trust your guidance and invest in the learning experience of your course.

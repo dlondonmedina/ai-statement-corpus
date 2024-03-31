@@ -1,0 +1,28 @@
+Colorado School of Mines official policy on generative AI Artificial Intelligence
+https://www.mines.edu/academic-affairs/genai/
+
+Overview
+
+Generative Artificial Intelligence (genAI) tools, including large language models like ChatGPT and text-to-image tools like Midjourney, are driving an ongoing conversation about their academic uses. The Office of the Provost encourages the entire University community to explore the uses and impacts of GenAI technologies, whether through critical discussions or creative applications.
+
+GenAI tools represent an addition to the learning process that can be deployed in a number of innovative ways to advance learning outcomes. Faculty are invited to make thoughtful use of genAI tools in their teaching. Used properly, genAI tools can enhance the design of lessons, assignments, and assessments. AI and digital literacies are fundamental skills that students will need in their respective fields and as public citizens and consumers for the rest of their lives. There are many productive ways in which they might use them as students, consistent with stated course policies and outcomes. 
+
+While the intent of this resource is not to prescribe universal policies of when to allow or disallow generative AI, the text below provides some guidelines for the use of genAI in connection with academic work at the University.
+
+TEACHing Responsible Use of GenAI
+As genAI tools develop, it will be important for students and faculty to continue to build their relationships with each other and with technology. Faculty are encouraged to use a proactive, holistic approach in using genAI that disincentivizes cheating and unethical use of genAI by employing the “TEACH” acronym: Building TRUST and community with students, interrogating the ETHICS of genAI, ensuring equitable ACCESS to genAI, explicitly COMMUNICATING expectations and relevance of course tasks, and (re)designing assignments to center the HUMAN in learning by tapping into student motivation, iteration, agency, lived experience, and creativity. 
+TRUST
+
+Students and faculty are encouraged to work together to determine how genAI will be used transparently in their coursework, and should learn from each other on how both students and instructors are using genAI in and out of the classroom.
+ETHICS
+
+GenAI tools are being developed at an incredible pace. Though promising, genAI tools may be inaccurate, inefficient, or biased. GenAI outputs may come from questionable sources: a network of unknown and known genAI tools, sources that limit or remove human credit, sources that limit or remove pay to humans, etc. It is critical to interrogate both genAI inputs and outputs so as to comply with ethical and legal standards.
+ACCESS
+
+Mines is committed to supporting an accessible digital environment for all members of our community. Faculty should proactively investigate how their incorporation of genAI tools might unintentionally build barriers to student learning. When bringing genAI tools into the classroom, faculty should provide equitable access and ensure that they are offering accessible avenues for diverse learners. Financial considerations should be made as not all genAI models are free, and the most updated versions of genAI tools usually come at a cost. Additionally, instructors should build a shared literacy around selected genAI tools by assessing and/or teaching students how to use a tool before significant use is expected. 
+
+COMMUNICATION
+Faculty are expected to state explicitly and affirmatively their expectations regarding student use of genAI tools. Instructors should specify in writing the permitted and prohibited uses of genAI tools in their courses, and should seek to clarify any expectations if they differ from one assessment to another. For additional support, see this faculty guide for clarifying resource use on individual assignments. 
+
+HUMAN
+All Mines community members play a role in adding heart to genAI use. Humans will always have unique lived experience and agency to make their own decisions on how to use, implement, and apply genAI tools in the classroom. It is recommended to center student iteration and growth, and to help students develop critical and metacognitive thinking skills to identify where genAI complements, supplants, or fails to replace human contributions. Faculty and students are expected to be creative in their ethical use of genAI tools in ways that center human experience and evaluation.

@@ -1,0 +1,44 @@
+Alfred University official policy on generative AI Artificial Intelligence
+https://my.alfred.edu/teaching-learning-center/artificial-intelligence.cfm
+Artificial intelligence (AI) has existed for decades.  AI replicates human intelligence by leveraging computers and machines to complete problem-solving and decision-making tasks.  While AI is not a new concept, the field of higher education has had to adapt to the proliferation of generative AI tools, such as Chat GPT.
+Since the introduction of Open AI’s ChatGPT in the fall of 2022, many possibilities and challenges have arisen in higher education, concerning the use of Artificial Intelligence (AI). The goals of this guide are to:
+What is Chat GPT and How Does it Work?
+Chat GPT, created by Open AI, is a chat bot that users can engage with conversationally. Users can ask for information, writing, or for help with a specific task (Harvard Online, 2023). It relies on large amounts of data and computing techniques which predict how to put words together in way that mimics human speech (Sundar, 2023). It is important to understand that generative AI systems like ChatGPT do not perform actual thinking like humans do.
+Artificial Intelligence leverages computers and machines to attempt to mimic the problem-solving and decision-making capabilities of the human mind (IBM).
+A procedure that produces that answer to a question or the solution to a problem (Brittanica).
+A type of AI that can generate text, images, or other information based on the data it was trained on (Martineau, 2023).
+In regards to AI, a hallucination refers to computer-generated information that is not factual. Generative AI works by responding to patterns, thereby producing results that may not be accurate (Mair, 2023).
+The information or request provided to an AI to let it know what the user is looking for. A question posed to ChatGPT, for example (Martineau, 2023).
+A large language model is an algorithm that can recognize, summarize, translate, predict and generate text and other content types based on knowledge provided by large datasets (Lee, 2023).
+Brittanica. https://www.britannica.com/science/algorithm.
+IBM. https://www.ibm.com/topics/artificial-intelligence
+Lee, Angie. (2023, January 26) What Are Large Language Models and Why Are They Important? NVIDIA Blog. https://blogs.nvidia.com/blog/2023/01/26/what-are-large-language-models-used-for/.
+Martineau, K. (2023, February 15) What is Prompt Tuning? IBM. https://research.ibm.com/blog/what-is-ai-prompt-tuning
+Martineau, K. (2023, June 30) IBM. https://research.ibm.com/blog/what-is-generative-AI
+The following recorded webinars contain guidance on how to navigate the integration of artificial intelligence in higher education.
+How Should Academics Respond to Emerging AI Technology? Future Trends Forum, Bryan Alexander
+Open Source AI for Higher Education Future Trends Forum, Bryan Alexander
+AI in Higher Ed: Opportunities and Threats, Online Learning Consortium
+The best way to gain a deeper understanding of generative AI tools it to try them out. 
+Chat GPT – Free, account required
+Perplexity – No account required; provides sources for responses
+Claude - Free option, account required
+Almanack - Free option, account required; designed to help educators create lessons and resources
+The article How to Use Chat GPT to Save Time includes suggestions for how instructors may use generative AI to assist with routine tasks.
+After you decide what level of AI use will be permitted in your courses, those expectations will need to be communicated with your students so they are aware of their responsibilities.  One way to communicate those expectations is with a syllabus statement.
+A syllabus statement on the permitted level of generative AI use can help students have a clear understanding of the instructor’s requirements.  When creating a syllabus statement, please consider including the following information:
+For additional guidance on AI syllabus statements, please the chapter of the SUNY FACT2 Guide to Optimizing AI in Higher Education entitled Setting Expectations in Your Classes.
+MLA
+APA
+Chicago
+ 
+Chat GPT is Going to Change Education, Not Destroy It - W.D. Heaven, MIT Technology Review
+The Benefits and Limitations of Generative AI - Harvard Online
+If You Still Aren't Sure What Chat GPT is, This is Your Guide to the Viral Chatbot That Everyone is Talking About - S. Sundar, Business Insider
+Artificial Intelligence and the Future of Teaching and Learning: Insights and Recommendations - US Department of Education Office of Educational Technology
+The Timeline of Artificial Intelligence - From the 1940s - N. Singh, verloop.io
+In May of 2023, The SUNY Faculty Advisory Council on Teaching & Technology (FACT2) created a task group to investigate how AI could be optimized for teaching & learning in higher education. The resulting report discusses the benefits and challenges associated with AU, and serves as a guide for faculty and educational technologists as they learn more about AI, and consider its potential uses. As the task group continues its work into 2024 and beyond, the report will be updated and new knowledge and resources will be shared.
+FACT2 Guide to Optimizing AI in Higher Education (PDF) 
+FACT2 Guide to Optimizing AI in Higher Education (SUNY Pressbook)
+Manager of Instructional Technology & Virtual Education Support
+Copyright  ©  2024 Alfred University

@@ -1,0 +1,306 @@
+University of Michigan - Dearborn official policy on generative AI Artificial Intelligence
+https://catalog.umd.umich.edu/graduate/coursesaz/cis/
+CIS 505     Algorithm Analysis and Design     3 Credit Hours
+
+ This course investigates how to design efficient algorithms. Topics covered include: asymptotic analysis, average-case and worst-case analysis, recurrence analysis, amortized analysis, classical algorithms, computational complexity analysis, NP-completeness, and approximation algorithms. In addition, the course investigates approaches to algorithm design including: greedy algorithms, divide and conquer, dynamic programming, randomization, and branch and bound.
+Prerequisite(s):  CIS 350 or CIS 3501 or IMSE 350 or (ECE 370 and MATH 276) or (ECE 370 and ECE 276)
+ Restriction(s):  Can enroll if Class is GraduateCan enroll if Level is Rackham or  or DoctorateCan enroll if College is Engineering and Computer Science
+CIS 510     Computer Interfacing     3 Credit Hours
+
+This course covers fundamentals of computer interfacing to the external world through the following: parallel and serial interfaces, timers, interrupts, Uart, and Duart. Programming aspects will be emphasized. Knowledge of an assembly language required. (YR).
+Prerequisite(s):  CIS 310
+CIS 511     Introduction to Natural Language Processing     3 Credit Hours
+
+This course provides an introduction to the theory and practice of natural language processing (NLP), as well as the approaches that allow understanding, generating, and analyzing natural language. The course will introduce both knowledge-based and statistical approaches to NLP, illustrate the use of NLP techniques and tools in a variety of application areas, and provide insight into many open research problems.
+ Restriction(s):  Can enroll if Level is Rackham or Graduate or Doctorate or Can enroll if Major is Software Engineering, Data Science, , Computer & Information Science
+CIS 515     Computer Graphics     3 Credit Hours
+
+Basic geometrical concepts, graphics primitives, two-dimensional transformations, segmented files, windowing and clipping, camera models, and 3-D viewing transformations.
+ Restriction(s):  Can enroll if Class is GraduateCan enroll if Level is Rackham or DoctorateCan enroll if Degree is Master of Sci in Engineering, Doctorate in Science, Master of ScienceCan enroll if College is Engineering and Computer ScienceCan enroll if Major is Software Engineering, Data Science, Computer & Information Science, Computer Engineering
+CIS 525     Web Technology     3 Credit Hours
+
+This course deals with the study of the technologies used to design and implement multimedia web sites. Topics include web servers, HTML, CGI, scripting languages, Java applets, back-end database connectivity, web security, multimedia, XML, web services, .NET, semantic web.
+ Restriction(s):  Cannot enroll if Class is Can enroll if Level is Rackham or Graduate or Doctorate or Can enroll if Major is Software Engineering, Info Systems and Technology, , Computer & Information Science
+CIS 527     Computer Networks     3 Credit Hours
+
+ To study the technical and management aspects of computer networks and distributed systems. Topics include: communication hardware, communication protocols, network architectures, local area networks, distributed database systems. Case studies and research project will be assigned for additional insight.
+ Restriction(s):  Can enroll if Level is Doctorate or Rackham or GraduateCan enroll if College is Engineering and Computer ScienceCan enroll if Major is Software Engineering, Computer Engineering, Info Systems and Technology, , Computer & Information Science
+CIS 534     Semantic Web     3 Credit Hours
+
+The aim of this course is to investigate the fundamental concepts, techniques, and technologies for enabling the envisioned semantic Web.  The topics to be covered include ontologies, domain modeling, logic, reasoning and inference techniques, semantic Web services, and ontology interoperation/mappings.  We will review major semantic web research projects, as well as current technologies for enabling the semantic web.
+ Restriction(s):  Can enroll if Level is Doctorate or Rackham or Graduate or Can enroll if College is Engineering and Computer ScienceCan enroll if Major is Software Engineering, Data Science, Info Systems and Technology, , Computer & Information Science
+CIS 535     Wireless Technologies and Pervasive Computing     3 Credit Hours
+
+This course covers contemporary technologies for programmable mobile and wireless intelligent hand-held devices. Students will get an overview of mobile operating system concepts/techniques and will learn how to develop software for mobile/smart devices, with particular emphasis on the constraints intrinsic to such devices. Topics in location-based services and pervasive computing will also be covered. Participation in a project is a requirement in this course. This class requires knowledge in computer programming.
+ Restriction(s):  Cannot enroll if Class is Can enroll if Level is Doctorate or Rackham or Graduate or Can enroll if Major is Software Engineering, Computer & Information Science, Computer Engineering, 
+CIS 536     Text Mining and Information Retrieval     3 Credit Hours
+
+This course covers techniques for retrieving ranked relevant documents from a text repository based on user queries, using various techniques for extracting and representing latent knowledge from these documents. Topics also include language models, summarization, topic modeling, entity extraction, sentiment analysis, and embeddings. A significant aspect of this course is participation in a medium to large-scale project.
+ Restriction(s):  Can enroll if Level is Doctorate or Rackham or Graduate or Can enroll if Major is Software Engineering, Computer & Information Science, Data Science, 
+CIS 537     Advanced Networking and Distributed Systems     3 Credit Hours
+
+This course focuses on the design, implementation, analysis, and evaluation of large-scale networked systems.  Specific networking topics include congestion/flow control, traffic analysis, routing, internetworking, multicast, mobile and wireless networks, quality of service, and security.  Fundamental distributed systems topics include domain name service, global routing protocols, content delivery networks, and peer-to-peer systems.
+Prerequisite(s):  CIS 527
+ Restriction(s):  Can enroll if Level is Graduate or Rackham or DoctorateCan enroll if College is Engineering and Computer Science
+CIS 540     Foundation of Information Security     3 Credit Hours
+
+This course provides the foundation for understanding the key issues associated with protecting information assets, determining the levels of protection and response to security incidents, and designing a consistent, reasonable information security system, with appropriate intrusion detection and reporting features. The purpose of the course is to provide the student with an overview of the field of information security and assurance. Students will be exposed to the spectrum of security activities, methods, methodologies, and procedures. Coverage will include inspection and protection of information assets, detection of and reaction to threats to information assets, and examination of pre-and post-incident procedures, technical and managerial responses, and an overview of the information security planning and staffing functions.
+ Restriction(s):  Can enroll if Level is Rackham or Graduate or Doctorate or Can enroll if Major is , Software Engineering, Data Science, Info Systems and Technology, Computer & Information Science
+CIS 544     Computer and Network Security     3 Credit Hours
+
+ The course will provide a broad spectrum introduction of the fundamental principles of computer and network security. Topics will include security policies, models and mechanism for confidentiality, integrity and availability, access control, authorization, cryptography and applications, threats and vulnerabilities in computer networks, key management, firewalls and security services in computer networks.
+ Restriction(s):  Can enroll if Level is Rackham or Graduate or Doctorate or Can enroll if Major is , Software Engineering, Computer Engineering, Info Systems and Technology, Computer & Information Science
+CIS 545     Data Security and Privacy     3 Credit Hours
+
+With the continuing proliferation of ways to collect and use information about people, there is a great concern whether such use of information about people affects privacy adversely. This course covers basics of data security and privacy techniques which can facilitate the use of data in a secure and privacy-sensitive way. Topics include security and privacy challenges due to big data collection and analytics, technologies and strategies for data security and privacy (access control mechanism, integrity policy, cryptography and encryption, notice and consent, anonymization or de-identification, deletion and non-retention).
+ Restriction(s):  Can enroll if Level is Rackham or Graduate or Doctorate or Can enroll if Major is Software Engineering, Computer & Information Science, Data Science, 
+CIS 546     Security and Privacy in Wireless Networks     3 Credit Hours
+
+This course focuses on security issues in wireless networks, such as cellular networks, wireless LANs, mobile ad-hoc networks, vehicular networks, sensor networks, and RFID. The course will first present an overview of wireless networks, then focus on attacks and discuss proposed solutions and their limitations.
+ Restriction(s):  Cannot enroll if Class is Can enroll if Level is Rackham or Graduate or Doctorate or Can enroll if Major is , Software Engineering, Computer Engineering, Info Systems and Technology, Computer & Information Science
+CIS 548     Security and Privacy in Cloud Computing     3 Credit Hours
+
+This course covers the major security and privacy topics in cloud computing. The goals of this course are to familiarize students with the major security and privacy issues and challenges associated with cloud computing, and to show them how to address them. Topics include outsourced storage security and privacy, outsourced computation security and privacy, secure virtualization and cloud platform security, trusted cloud computing technology, key management in the cloud, cloud forensics, cloud-related regulatory and compliance issues, and business and security risk models.
+ Restriction(s):  Can enroll if Level is Doctorate or Rackham or Graduate or Can enroll if Major is , Software Engineering, Computer Engineering, Data Science, Info Systems and Technology, Computer & Information Science
+CIS 549     Software Security     3 Credit Hours
+
+This course provides a broad-spectrum introduction to the fundamental principles of software security, as well as the approaches that allow understanding common software security practices, analyzing programs for vulnerabilities, and methods for developing secure software systems. The course will cover three major areas: software attacks and defenses, program analysis, and software verification. Various forms of software will be considered in this class including high level applications and system software. The course will also provide insight into many open research problems in this area.
+ Restriction(s):  Can enroll if Level is Rackham or Graduate or Doctorate or Can enroll if Major is Software Engineering, Computer & Information Science, 
+CIS 550     Object-Oriented Programming and Its Applications     3 Credit Hours
+
+This course covers the major concepts involved in object-oriented programming, including inheritance, polymorphism, encapsulation and patterns in C# and Java. Topics include standalone objects, distributed objects, and objects in web services and cloud computing environments.
+ Restriction(s):  Can enroll if Level is Rackham or Graduate or Doctorate or Can enroll if Major is Software Engineering, Computer & Information Science, Info Systems and Technology, 
+CIS 551     Advanced Computer Graphics     3 Credit Hours
+
+ Introduction to curves, surfaces, and solids.  Bezier and B-spline curves, spline surfaces, intersections of curves and surfaces, blending methods.  Illumination models and surface rendering.  Solid modeling-wireframe, constructive solid geometry.
+Prerequisite(s):  CIS 515
+ Restriction(s):  Can enroll if Level is Graduate or Rackham or Doctorate
+CIS 552     Information Visualization and Virtualization     3 Credit Hours
+
+This course introduces basic techniques for visualization, virtualization, digital animation, computer and video games, and web multimedia. Topics include data visualization, the process of creating animated video clips from start to finish (including story creation, storyboarding, modeling, animation, and post-production), and computer virtualization; several key techniques include graphic design, video editing, motion generation, multimedia, real-time rendering, visualization tools, and virtual machines.
+ Restriction(s):  Cannot enroll if Class is Can enroll if Level is Rackham or Graduate or Doctorate or Can enroll if College is Engineering and Computer ScienceCan enroll if Major is Software Engineering, Computer Engineering, Data Science, , Computer & Information Science
+CIS 553     Software Engineering     3 Credit Hours
+
+Program design methodologies; control flow and data flow in programs; program measurement. Software life cycle; large program design, development, testing, and maintenance. Software reliability and fault tolerance. Evolution dynamics of software.
+ Restriction(s):  Can enroll if Level is Rackham or Graduate or Doctorate or Can enroll if College is Engineering and Computer ScienceCan enroll if Major is Software Engineering, Computer & Information Science, Info Systems and Technology, 
+CIS 554     Info Sys Analysis and Design     3 Credit Hours
+
+ To analyze the information needs of organizations and design suitable information systems to meet their needs. Topics include: systems analysis and design techniques related to analyzing and determining information needs, feasibility studies, designing input/processing/output systems, and hardware/software development and evaluation.
+Prerequisite(s):  CIS 350
+CIS 555     Decision Support and Expert Systems     3 Credit Hours
+
+The application of artificial intelligence to building decision support and expert systems for management and other applications. Topics include fundamentals of artificial intelligence, knowledge representation and knowledge processing, tools for building expert systems (logic programming, expert shells), decision support system design (modelling and simulation), expert system design (knowledge engineering, learning).
+ Restriction(s):  Can enroll if Level is Rackham or Graduate or Doctorate or Can enroll if College is Engineering and Computer ScienceCan enroll if Major is Computer & Information Science, Data Science, 
+CIS 556     Database Systems     3 Credit Hours
+
+Introduction to database system concepts and techniques. Topics covered include: database environment, ER model, relational data model, object-oriented databases, object-relational databases, database design theory and methodology, database languages, query processing and optimization, concurrency control, database recovery, and database security. No credit given to both CIS 421 and CIS 556.
+ Restriction(s):  Cannot enroll if Class is Can enroll if Level is Rackham or Graduate or Doctorate or Can enroll if Major is Software Engineering, Info Systems and Technology, , Computer & Information Science
+CIS 5570     Introduction to Big Data     3 Credit Hours
+
+This course provides an overview of what big data is and explores its characteristics. It  introduces the fundamental technologies, platforms, and methods that enable Big Data analysis, and covers how to  acquire, store, and analyze very large amounts of information to complete Big Data analysis tasks. Students will gain hands-on experience in real-world applications of Big Data such as in cyber-physical systems and health informatics. Most of the work in this course will be team-based and task-oriented.
+ Restriction(s):  Can enroll if Level is Rackham or Graduate or Doctorate or Can enroll if Major is , Software Engineering, Data Science, Info Systems and Technology, Computer & Information Science
+CIS 559     Principles of Social Network Science     3 Credit Hours
+
+This course presents an in-depth study of various types of information networks, which range from the structure and behavior of the world-wide web, to the structure and behavior of various collaboration networks, such as bibliographic citations, viral marketing, and online social networks. Using concepts from graph theory and game theory, topics include small-world networks, scale-free networks, the structure of the web, link analysis and web search, and influence networks.
+ Restriction(s):  Can enroll if Level is Doctorate or Rackham or Graduate or Can enroll if College is Engineering and Computer ScienceCan enroll if Major is Software Engineering, Data Science, Info Systems and Technology, , Computer & Information Science
+CIS 560     Electronic Commerce     3 Credit Hours
+
+ This course examines how new information technologies and networks affect the exchange of goods and services between buyers and sellers in firms.  What are economics of different electronic commerce models for firms?  The course combines critical evaluation of business strategies with hands-on experience in building supporting electronic commerce systems utilizing electronic data interchange (EDI) software.  (YR).
+ Restriction(s):  Can enroll if Class is Post-baccalaureate Cert only or Post-baccalaureate NCFD or Graduate
+CIS 562     Web Information Management     3 Credit Hours
+
+This course provides an in-depth examination of advances in web information management, retrieval and applications. Topics covered include: web interfaces to databases, XML standards, web database design, web database architectures, web query languages, web data restructuring, web information integration, semantic web and ontologies, and web mining.
+ Restriction(s):  Cannot enroll if Class is Can enroll if Level is Rackham or Graduate or Doctorate or Can enroll if Major is , Software Engineering, Data Science, Info Systems and Technology, Computer & Information Science
+CIS 563     Modeling of Computer-based Sys     3 Credit Hours
+
+ The purpose is to expose the students to modeling and simulation concepts and methodologies to use modeling and simulation as a tool for both the analysis of systems and the development of their information systems support.
+ Restriction(s):  Can enroll if Class is GraduateCan enroll if College is Engineering and Computer ScienceCan enroll if Major is Computer & Information Science
+CIS 564     Enterprise Information Systems     3 Credit Hours
+
+The purpose of this course is to provide a foundation for the analysis, design and implementation of enterprise information systems. Topics include systems and organization theories, and information systems planning and evaluation. Students will be also introduced to various systems development life cycle phases of an enterprise information system. Students will acquire an understanding of the flow of information (forecasts, financial, accounting and operational data) within an enterprise and the factors that should be considered in designing an integrated enterprise information system. This includes all systems in the business cycle from revenue forecasts, production planning, inventory management, logistics, manufacturing, accounts payable, sales, accounts receivable, payroll, general ledger and report generation. Specifications for some of these systems will be developed utilizing ERP software such as SAP R/3 application development software suite. (F, W).
+ Restriction(s):  Cannot enroll if Class is 
+CIS 565     Software Quality Assurance     3 Credit Hours
+
+The processes, methods, and techniques for developing quality software, for assessing software quality, and for maintaining the quality of software. Software testing at the unit, module, subsystem and system levels, automatic and manual techniques for generating and validating test data, the testing process, static vs. dynamic analysis, functional testing, inspections, and reliability assessment. Tradeoffs between software cost, schedule, time and quality, integration of quality into the software development process, as well as the principles of test planning and test execution.
+ Restriction(s):  Can enroll if Level is Rackham or Graduate or Doctorate or Can enroll if College is Engineering and Computer ScienceCan enroll if Major is Software Engineering, Computer & Information Science, Info Systems and Technology, 
+CIS 566     Software Architecture and Design Patterns     3 Credit Hours
+
+Architectural and software design patterns in theory and in practice, with various applications. The course will end with a case study and design exercise demonstrating identification and utilization of architectural design patterns in a real world application. Students will test their understanding by completing projects utilizing popular design patterns and a term project utilizing a multitude of patterns. Class presentation of published advanced patterns may be required.
+ Restriction(s):  Cannot enroll if Class is Can enroll if Level is Rackham or Graduate or Doctorate or Can enroll if College is Engineering and Computer ScienceCan enroll if Major is Software Engineering, Computer & Information Science, 
+CIS 568     Data Mining     3 Credit Hours
+
+ Advances in computer information systems, machine learning, statistics, and intelligent systems and methodologies for the automatic discovery of knowledge from large high- dimensional databases.  This course also uses engineering development tools such as neural networks, fuzzy logic, and genetic algorithms.
+Prerequisite(s):  ECE 479 or CIS 479
+ Restriction(s):  Can enroll if College is Engineering and Computer Science
+CIS 569     Wireless Sensor Networks     3 Credit Hours
+
+This course provides students with an overview of wireless sensor networks and the issues related to their design and implementation.  It introduces students to the state-of-the-art in wireless sensor networking and helps them solve problems in designing and deploying resource-limited sensor networks for real-world sensing applications.  During this course, students are required to work in teams to design and implement some primitive sensing applications.
+ Restriction(s):  Can enroll if Level is Rackham or  or Graduate or DoctorateCan enroll if Major is Software Engineering, Computer Engineering, , Computer & Information Science
+CIS 5700     Advanced Data Mining     3 Credit Hours
+
+This course provides an in-depth study of advanced data mining, data analysis and pattern recognition concepts and algorithms. Course content builds upon a first data mining course and explores advanced machine learning algorithms, high-dimensional data, graph and temporal data, and advanced methods and applications to deal with dynamic stream data. Various applications will be considered, including social networks and health informatics. Students will be able to understand the research methods applied in the field and conduct an end-to-end data mining project and document and present the results.
+ Restriction(s):  Can enroll if Level is Rackham or Graduate or Doctorate or Can enroll if Major is , Software Engineering, Computer Engineering, Data Science, Info Systems and Technology, Computer & Information Science
+CIS 571     Web Services     3 Credit Hours
+
+In this course, we study the major concepts and techniques for enabling service based interactions on the Web. The objective is to familiarize the students with the recent trends in industry and academia to address service computing research and implementation issues. The course will address various aspects of service computing including SOAP Services, WSDL, REST services, service composition and mashup, security, privacy, service management as well as recent trends in service computing such as cloud, Internet of Things (IoT), social media, crowdsourcing, and big data.
+ Restriction(s):  Cannot enroll if Class is Can enroll if Level is Rackham or Graduate or Doctorate or Can enroll if Major is Software Engineering, Data Science, Info Systems and Technology, , Computer & Information Science
+CIS 572     Object Oriented Systems Design     3 Credit Hours
+
+ Students will be introduced to fundamental concepts and methods of object design and development. Topics that will be covered include object database concepts, data models, schema design (conceptual schema and physical schemas), query languages, physical storage of objects and indexes on objects, version management, schema evolution and systems issues such as concurrent control and recovery from failure. For application programming, a programming language such as C++ will be used for database design and query language.  (YR).
+ Restriction(s):  Can enroll if Class is Post-baccalaureate Cert only or Post-baccalaureate NCFD or Graduate
+CIS 574     Compiler Design     3 Credit Hours
+
+Principles of language compilation. Introduction to formal languages, lexical analysis, top-down and bottom-up parsing, code generation and optimization. Error handling and symbol table management, run-time storage management, programming language design. Introduction to compiler-writing tools such as LEX and YACC.
+Prerequisite(s):  CIS 350 or CIS 3501 or IMSE 350 or (ECE 370 and MATH 276)
+ Restriction(s):  Can enroll if Class is GraduateCan enroll if College is Engineering and Computer Science
+CIS 575     Software Engineering Mgmt     3 Credit Hours
+
+ Quantitative models of the software lifecycle; cost-effectiveness; uncertainty and risk analysis; planning and modeling a software project; software cost estimation (COCOMO, Function points); software engineering metrics; software project documentation. Special emphasis on emerging software process standards such as the Capability Maturity Model of the Software Engineering Institute, and other international ones.
+Prerequisite(s):  CIS 553
+ Restriction(s):  Can enroll if College is Engineering and Computer Science
+CIS 577     S/W User Interface Dsgn&Analys     3 Credit Hours
+
+This course introduces current theory and design techniques concerning how user interface (UI) and user experience (UX) should be designed and assessed to be easy to learn and use. Course includes flowing general modules: introduction of HCI & UX; Interface/Interaction design strategy; Advanced Issues in HCI; and Evaluation methods.
+ Restriction(s):  Can enroll if Level is Rackham or Graduate or Doctorate or Can enroll if College is Engineering and Computer Science
+CIS 578     Advanced Operating Systems     3 Credit Hours
+
+ Advanced techniques used in operating system design. Distributed operating systems. Message-based operating systems. Operating systems for parallel architectures. Layered techniques in operating systems. Formal models of operating systems. Current trends in operating system design. (YR).
+Prerequisite(s):  CIS 450 or IMSE 450 or ECE 478
+ Restriction(s):  Can enroll if College is Engineering and Computer Science
+CIS 579     Artificial Intelligence     3 Credit Hours
+
+This course introduces students to the essential concepts, methods, and techniques of artificial intelligence (AI) from a computer science perspective. The general topics of the course will include a variety of knowledge representations and algorithms for interference, decision-making, planning, and learning. Modern intelligent systems, including those that can handle uncertainty, will serve to motivate the course material. The course will cover topics at a depth appropriate for an introductory AI course at the graduate level. A student project may be required.
+ Restriction(s):  Cannot enroll if Class is Can enroll if Level is Rackham or Graduate or Doctorate or Can enroll if Major is Software Engineering, Computer Engineering, Data Science, , Computer & Information Science
+CIS 580     Data Analytics in Software Engineering     3 Credit Hours
+
+Full Course Title: Data Analytics in Software Engineering-This course focuses on state-of-the-art methods, tools, and techniques for evolving software.  Topics such as reverse engineering, design recovery, program analysis, program transformation, refactoring, and traceability will be covered.  There will be a project in which student teams participate.
+ Restriction(s):  Can enroll if Level is Rackham or Graduate or Doctorate or Can enroll if Major is Software Engineering, Data Science, , Computer & Information Science
+CIS 581     Computational Learning     3 Credit Hours
+
+This graduate-level course covers computational aspects of learning from experience to making inferences and providing improved decisions. The main focus is an in-depth examination of the computational learning landscape from the viewpoint of a computer scientist. We will focus on such computer science concerns as basic runtimes, time/space complexity analysis, programming aspects, and empirical evaluations, including the appropriateness of various techniques for particular problems. Topics include learning frameworks and problem formulations, standard models, methods, computational tools, algorithms and modern techniques, and methodologies to evaluate learning ability to automatically select optimal models. Applications to areas such as visual analysis, natural language processing, and multimodal interaction will also motivate the course material. (W).
+ Restriction(s):  Can enroll if Level is Doctorate or Rackham or Graduate or Can enroll if Major is Software Engineering, Computer & Information Science, Data Science, 
+CIS 583     Deep Learning     3 Credit Hours
+
+This course is an introduction to deep learning, a branch of machine learning concerned with the development and application of modern deep neural networks. Students will learn to build up deep learning models and review the state-of-the-art deep learning literature to solve real-world computational problems. Students will delve into selected deep learning topics, discussing a range of model architectures such as CNN (convolutional neural network), RNN (recurrent neural network), LSTM (long short-term memory network), GAN (generative adversarial network), etc., and commonly used model optimizers. Students will participate in a research-oriented project in the course.
+ Restriction(s):  Can enroll if Level is Rackham or Graduate or Doctorate or Can enroll if Major is , Software Engineering, Data Science, Info Systems and Technology, Computer & Information Science
+CIS 584     Advanced Computer and Network Security     3 Credit Hours
+
+This course consists of an in-depth examination of current technological advancements in computer and network security.  Topics will include secure group communication (key generation, distribution, and management), secure routing and multicasting, identity-based encryption, digital signatures, broadcast authentication, device pairing, and malware/intrusion detection and mitigation.
+Prerequisite(s):  CIS 544
+ Restriction(s):  Can enroll if Level is Rackham or Graduate or Doctorate or Can enroll if College is Engineering and Computer Science
+CIS 585     Advanced Artificial Intelligence     3 Credit Hours
+
+This course will cover the most recent advances in the theory and practice of artificial intelligence, from a computer-science perspective. Topics covered will include the state-of-the-art in knowledge representation, uncertainty, learning, CSPs, graphical models, multi-agent systems, algorithms and heuristics, and propagation-based techniques. Various application areas will be taken from security, game theory, economics, finance, biology, sociology, and big data.
+Prerequisite(s):  CIS 579
+ Restriction(s):  Can enroll if Level is Rackham or Graduate or Doctorate or 
+CIS 586     Advanced Data Management     3 Credit Hours
+
+ This course provides an in-depth examination of some advanced database technologies. Topics are selected from: object-relational databases, active databases, distributed databases, parallel databases, deductive databases, fuzzy databases, data warehousing and data mining, spatial and temporal databases, multimedia databases, advanced transaction processing, information retrieval and database security.
+Prerequisite(s):  CIS 556
+ Restriction(s):  Can enroll if Level is Graduate or Rackham or DoctorateCan enroll if College is Engineering and Computer Science
+CIS 587     Computer Game Design and Implementation     3 Credit Hours
+
+ This course deals with the study of the technology, science, and art involved in the creation of computer games. The focus of the course will be hands-on development of computer games. Students will study a variety of software technologies relevant to computer game design, including: programming languages, scripting languages, operating systems, file systems, networks, simulation engines, and multi-media design systems. Lecture and discussion topics will be taken from several areas of computer science: simulation and modeling, computer graphics, artificial intelligence, real-time processing, game theory, software engineering, human computer interaction, graphic design, and game aesthetics.
+Prerequisite(s):  CIS 553*
+ Restriction(s):  Can enroll if Class is Post-baccalaureate NCFD or GraduateCan enroll if College is Engineering and Computer Science
+CIS 588     Computer Game Design II     3 Credit Hours
+
+This course is a continuation of the material studied in CIS 587. Focus on hands-on development of computer games and computer game development tools, such as game engines. A variety of software technologies relevant to computer game design, including data-driven game design, multiplayer game programming, game AI, game theory, game content development, and game aesthetics.
+Prerequisite(s):  CIS 587
+ Restriction(s):  Can enroll if Class is GraduateCan enroll if College is Engineering and Computer ScienceCan enroll if Major is Software Engineering, Computer & Information Science
+CIS 589     Edge Computing     3 Credit Hours
+
+This course introduces state-of-the-art edge computing technologies and their applications in data-intensive distributed systems like smart homes, Internet of Things, and connected vehicles. Topics include edge computing applications and platforms, edge-based sensor data collection and processing, computation offloading and QoS-optimal task scheduling, and security/privacy. This course will also explore the current challenges facing edge computing. Participation in a project is a requirement in this course.
+ Restriction(s):  Can enroll if Level is Rackham or Graduate or Doctorate or Can enroll if Major is , Software Engineering, Computer Engineering, Data Science, Computer & Information Science
+CIS 590     Selected Topics     1 to 3 Credit Hours
+
+In-depth study of a CIS topic of contemporary interest. Topic varies from semester to semester.
+ Restriction(s):  Cannot enroll if Class is Can enroll if Level is Rackham or Graduate or Doctorate or Can enroll if College is Engineering and Computer Science
+CIS 590J     Selected Topic: Edge Computing     3 Credit Hours
+
+This course introduces state-of-the-art edge computing technologies and their applications in data-intensive distributed systems like smart homes, Internet of Things, and connected vehicles. Topics include edge computing applications and platforms, edge-based sensor data collection and processing, computation offloading and QoS-optimal task scheduling, and security/privacy. This course will also explore the current challenges facing edge computing. Participation in a project is a requirement in this course.
+ Restriction(s):  Can enroll if Level is Rackham or Graduate or Doctorate or Can enroll if Major is , Software Engineering, Computer Engineering, Data Science, Computer & Information Science
+CIS 590K     Selected Topic: Deep Learning     3 Credit Hours
+
+This course is an introduction to deep learning, a branch of machine learning concerned with the development and application of modern deep neural networks. Students will learn to build up deep learning models and review the state-of-the-art deep learning literature to solve real-world computational problems. Students will delve into selected deep learning topics, discussing a range of model architectures such as CNN (convolutional neural network), RN (residual network), RNN (recurrent neural network), LSTM (long short-term memory network), GAN (generative adversarial network), autoencoder, etc. and commonly used model optimizers such as gradient descent (GD), stochastic gradient descent (SGD), etc. Students will learn to deploy these methods to real-life applications, such as patient classification using medical images or electronic health records, cell biology data analysis, protein secondary structure detection, etc. Selected software packages, e.g., PyTorch, Keras, or Matlab Deep Learning Toolbox, will be used. Participation in a research-oriented project is a requirement in this course.
+ Restriction(s):  Can enroll if Level is Graduate or Rackham or DoctorateCan enroll if Major is Software Engineering, Computer & Information Science, Data Science, 
+CIS 591     Directed Research Project     1 to 3 Credit Hours
+
+ Special projects for laboratory or library investigation with the intent of developing initiative and resourcefulness.  The student will submit a report of the project and give an oral presentation to a panel of faculty members at the close of the term.
+ Restriction(s):  Can enroll if Class is Graduate
+CIS 624     Research Advances in Computer and Network Security     3 Credit Hours
+
+An in-depth study of the current state-of-the-art in computer and network security.  Selected topics will be from areas such as social network security, sensor network security, information and network provenance, cyber-physical system security, pervasive and mobile computing security, smart-grid security, and healthcare system security and privacy.
+Prerequisite(s):  CIS 584
+ Restriction(s):  Can enroll if Level is Rackham or Graduate or Doctorate or 
+CIS 647     Research Advances in Networking and Distributed Systems     3 Credit Hours
+
+In-depth investigation of one or more advanced areas in networking and distributed systems. Examples of possible areas are Internet analysis, approaches for network performance enhancements, multimedia applications, network coding, routing techniques, congestion control, wireless networking, vehicular networks, distributed algorithms, and concurrency control and synchronization.
+Prerequisite(s):  CIS 527
+ Restriction(s):  Can enroll if Level is Doctorate or Rackham or Graduate or 
+CIS 652     Advanced Information Visualization and Virtualization     3 Credit Hours
+
+This course introduces algorithms for virtual reality, three-dimensional imaging, geometric modeling, geometric processing, information visualization, computer animation, and computer virtualization. Particular research topics include data visualization, cognitive science, perception, volume graphics, point-based graphics, surface reconstruction, wavelet and subdivision methods, level of details, and virtual machines. Students will study state-of-the-art papers in the above areas and be involved in a course project.
+Prerequisite(s):  CIS 552
+ Restriction(s):  Can enroll if Level is Rackham or Graduate or Doctorate or 
+CIS 658     Research Advances in Data Management     3 Credit Hours
+
+An in-depth study of special topics of current interest in database systems. Selected topics will be from areas such as query optimization for emerging database systems, indexing for non-traditional data, data provenance for scientific databases, databases on modern hardware, self-managing databases, information integration and retrieval, bioinformatics, or other emerging database areas/applications.
+Prerequisite(s):  CIS 556
+ Restriction(s):  Can enroll if Level is Doctorate or Rackham or Graduate or 
+CIS 676     Soft Arch Des & Analysis     3 Credit Hours
+
+This course provides in-depth coverage of the concepts needed to effectively design and analyze software architectures. It introduces major architectural styles and design patterns and illustrates their application in designing and analyzing modern software architectures such as wireless, service-oriented, and security-based systems. The course also studies software architecture documentation practices that meet the needs of the entire architecture stakeholder community.
+Prerequisite(s):  CIS 553
+ Restriction(s):  Can enroll if Level is Doctorate or Rackham or Graduate or 
+CIS 678     Research Advances in Software Engineering     3 Credit Hours
+
+An in-depth study of the current state-of-the-art in software engineering.  Selected topics will be from areas such as software maintenance, software testing, model-driven engineering, human factors in software engineering, software specifications, software management, emerging technology and applications, applying optimization techniques in software engineering, and empirical software engineering.
+Prerequisite(s):  CIS 553
+ Restriction(s):  Can enroll if Level is Doctorate or Rackham or Graduate or 
+CIS 679     Research Advances in Computational Game Theory and Economics     3 Credit Hours
+
+This course will introduce students to fundamental concepts and results in the area of computational game theory and economics, and expose them to the state-of-the-art and applications, providing them with the ability to make significant contributions to this quickly developing research area. This emerging area is at the interface of computer science and economics and seeks to build on classical results in game theory to provide practical models and effective algorithms better suited to study and solve problems in large complex systems in modern society. Of major interest are compact models and efficient algorithms to understand and predict the complex global behavior that emerges from local interactions. Auctions, the Internet, social networks, computational biology, and interdependent security are some example application domains. (F).
+Prerequisite(s):  CIS 579
+ Restriction(s):  Can enroll if Level is Rackham or Graduate or Doctorate or 
+CIS 685     Research Advances in Artificial Intelligence     3 Credit Hours
+
+Full Course Title: Research Advances in Artificial Intelligence.
+An in-depth study of the current state-of-the-art in artificial intelligence. Selected topics will be from areas such as analytics, advanced neural nets and deep learning, multi-agent systems, auctions, cooperation, competition, genetic algorithms and evolutionary computing, swarm intelligence, game-theoretic approaches to decision and policy making, advanced techniques for natural language processing, and advanced techniques in knowledge discovery.
+Prerequisite(s):  CIS 579
+ Restriction(s):  Can enroll if Level is Rackham or Graduate or Doctorate or Can enroll if College is Engineering and Computer Science
+CIS 691     Advanced Directed Study     1 to 3 Credit Hours
+
+Advanced Directed Studies:  Special topic in computer and information science.  A project report and a seminar are required.
+ Restriction(s):  Can enroll if Level is Rackham or  or Graduate or DoctorateCan enroll if College is Engineering and Computer Science
+CIS 695     Master's Project     3 Credit Hours
+
+Application of the methodologies, tools and theory of software engineering to produce a specific validated software product. Projects can be faculty-generated, self-generated, and/or work related. All projects must be undertaken with one or more students under the supervision of the instructor. Prior to enrollment, a project proposal must be prepared and approved by the instructor. Standard software engineering documents must be prepared and approved at each phase of the project, and an oral presentation of the project is required. Course includes lectures and case studies. Permission of instructor required.
+ Restriction(s):  Cannot enroll if Class is Can enroll if Level is Rackham or GraduateCan enroll if College is Engineering and Computer ScienceCannot enroll if Program is 
+CIS 699     Master's Thesis     1 to 6 Credit Hours
+
+ Graduate students electing this course, while working under the general supervision of a member of the department faculty, are expected to plan and carry out the work themselves and submit a thesis for review and approval, and also present an oral defense of the thesis.
+ Restriction(s):  Can enroll if Class is GraduateCan enroll if Level is Rackham or GraduateCan enroll if College is Engineering and Computer Science
+CIS 791     Advanced Guided Study for Doctoral Students     2 to 6 Credit Hours
+
+This is a guided study course for doctoral students on an advanced topic of research.  A report and an oral presentation are required.
+ Restriction(s):  Can enroll if Level is Doctorate or Can enroll if College is Engineering and Computer ScienceCan enroll if Major is Computer & Information Science
+CIS 798     Doctoral Seminar     0 Credit Hours
+
+After attaining candidacy, every Ph.D. student is required to attend and actively participate in seminars each semester until graduation. In addition, each Ph.D. student is required to present a one-hour seminar about his/her research on a pre-assigned research topic, as wel as lead a follow-up discussion on the future trends in his/her field.
+ Restriction(s):  Can enroll if Level is Rackham or  or DoctorateCan enroll if Major is Computer & Information Science
+CIS 980     Pre-Candidate Dissertation Research     1 to 9 Credit Hours
+
+Dissertation work by a pre-candidate student in Computer and Information Sciences program conducted under guidance of the faculty advisor.
+ Restriction(s):  Can enroll if Level is  or DoctorateCan enroll if Major is Computer & Information Science
+CIS 990     Doctoral Dissertation     1 to 9 Credit Hours
+
+Dissertation work by a student of the Ph.D. in Computer and Information Science program, conducted under guidance of the faculty advisor. The student must be a Ph.D. candidate.
+ Restriction(s):  Can enroll if Level is Doctorate or Can enroll if Major is Computer & Information Science
+*An asterisk denotes that a course may be taken concurrently.
+Frequency of Offering
+The following abbreviations are used to denote the frequency of offering: (F) fall term; (W) winter term; (S) summer term; (F, W) fall and winter terms; (YR) once a year; (AY) alternating years; (OC) offered occasionally
+Send Page to Printer
+Print this page.
+Download Page (PDF)
+The PDF will include all information unique to this page.

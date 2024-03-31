@@ -1,0 +1,18 @@
+Roger Williams University official policy on generative AI Artificial Intelligence
+https://law.rwu.edu/library/blog/please-use-ai-responsibly
+Everyone is talking about artificial intelligence (AI) these days.  And everyone includes legal educators and law librarians.  The news broke in 2023 that GPT-4 aced the bar exam, and the story dominated the news cycle for weeks.  Those of us at law schools are especially concerned with the best way to go about teaching the next generation of lawyers to use this technology.  GPT-4 is a large language model (LLM) created by OpenAI.  It—like all LLMs—is a program trained on a large amount of data to understand and generate human-like language.  Put another way, it’s a computer program designed to answer questions for or provide information to us humans.  It can also generate written products from essays and resumes to legal documents. 
+The obvious question on everyone’s mind is should we use AI products and encourage students to do so? And, more importantly, can we trust them to provide us with accurate information?  The answer to the first question is relatively easy.  Yes, of course, we should learn how to appropriately use these powerful new tools.  The lawyer's work can become more efficient through AI, which is undoubtedly here to stay.  Lawyers can generate and analyze basic documents and written products using AI.  It can also be a great way to get started with a research task.  
+However, AI is only as accurate as its programming and the LLM that created it, which brings us to our second question. Should we rely on it? The consensus is that AI should only be used as a tool, something used to help with tasks but not as a replacement for human judgment and expertise. AI isn’t always accurate or appropriate for every task, so please use it responsibly.
+What things should you consider when using an AI tool?  Here are a few tips.
+As you are no doubt aware, legal databases are rapidly incorporating AI tools into their platforms. In many cases, AI is used to provide detailed document analysis to help in the research and drafting process.  However, this spring, both Lexis+ and Westlaw Practical Law released generative AI tools, or in other words, tools that will generate written summaries or products. In both cases, the AI tools rely solely on materials available to researchers within the databases.  Westlaw’s Practical Law AI will answer legal questions for you with a prompt.  The Lexis+ AI Assistant gives users more options and will also generate document drafts and summarize cases.  Sorry 1Ls, you won’t have access to the Lexis+ AI Assistant until next year as a second year (2L). 
+For more information about using Practical Law AI and Lexis+ AI Assistant, check out these video tutorials: Lexis+ AI Assistant tutorials and Westlaw Practical Law AI.
+And, of course, your friendly law librarians are always available to help you navigate the new world of AI or help you with any of your other research questions.  Reach out to us anytime at lawlibraryhelp@rwu.edu. 
+At RWU Law, we equip you with the foundational knowledge, skills-based training, and real-world experience you need to hit the ground running as soon as possible.
+Designed for students who want to bring legal knowledge to their current work or strengthen their career outlook.
+What program are you interested in?
+Find out how you can change the world with a law degree from RWU Law.
+Designed for working professionals who want to bring legal knowledge to their work.
+Ten Metacom Avenue, Bristol, RI 02809
+
+(401) 254-4500
+

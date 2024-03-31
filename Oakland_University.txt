@@ -1,0 +1,64 @@
+Oakland University official policy on generative AI Artificial Intelligence
+https://oakland.edu/cetl/teaching-resources/teaching-tips/2023/ChatGPT-and-Artificial-Intelligence
+
+            Center for Excellence in Teaching and Learning
+            
+
+
+        Kresge Library, Room 430 
+    
+            100 Library Drive 
+    
+            Rochester,
+            Michigan
+            48309-4479
+    
+(location map)
+
+            (248) 370-2751
+    
+[email protected]
+
+
+
+            Center for Excellence in Teaching and Learning
+            
+
+
+        Kresge Library, Room 430 
+    
+            100 Library Drive 
+    
+            Rochester,
+            Michigan
+            48309-4479
+    
+(location map)
+
+            (248) 370-2751
+    
+[email protected]
+
+
+Like many schools, we have spent much time facilitating discussions about academic integrity, or preventing and addressing various forms of cheating. While cheating has always been a part of formal education, it is hard to not get swept up in the ways technological advances increase these challenges. The current focus is on ChatGPT, an AI-powered chatbot that generates written text based on your prompts, from asking it questions to requesting it write an essay, lesson plan, or company statement. A websearch about ChatGPT will yield stories such as ChatGPT an MBA exam.
+This teaching tip introduces how artificial intelligence, specifically ChatGPT, may change the way students engage with writing-based assessments and encourages all of us to explore it and design activities accordingly. 
+To get an idea of how this tool treats your writing assignments, enter your assignments’ directions into the ChatGPT bot to see what results it produces. If the results seem “passable” for the assignment, tweak the prompt or assignment description until ChatGPT produces a low quality result (illogical, too vague, etc.). Such tweaks might include:
+I entered our writing department’s first-week writing prompt, which is meant to give instructors an early sense of students’ writing skills in case they may benefit from extra available support. The prompt presents a common societal issue, examples of different perspectives, and then asks the writer to explain their perspective, all in 450-600 words. Each time I regenerated a response (i.e. pressed the button for the AI to try it again), the response got longer, with the fourth time reaching 255 well-written, on-topic words. To the prompt’s credit, the AI response did not refer to the specific evidence presented. See my ChatGPT Simulation of WRT 1060 Prompt for the full examples. (OU Writing and Rhetoric professor Crystal VanKooten offers a link to more bot-produced essays below.)
+While tech tools get more sophisticated and powerful, these issues have been around for decades. Even before widely available internet access, a student could always hire someone to do their writing assignments. Assessing students’ process can deter cheating by having students show you their work. This could be done through students submitting prewriting, reading notes, reflection, and works-in-progress. They could also meet with you to discuss their ideas. These don’t necessarily have to be closely reviewed or evaluated, but could be given credit as done/not done. I offer some of these potential checkpoints in Plagiarize-Proof Your Writing Assignments.
+In the guide Short-term Suggestions for AI Issues Cynthia Alby, education professor and author of Learning That Matters, suggests using “performance tasks” such as speeches, interviews, diagrams, peer instruction, and storyboards. Even if you teach a writing intensive course, writing could be derived from these other modes, such as the transcript for a podcast or interview, and written descriptions or annotations of visual texts. The world of writing is so much bigger than the kind of prose ChatGPT generates - and so much more fun! Writing is digital, multimodal, linked, and networked. It involves words, images, sources, and audio, it’s delivered via links and video, and it’s colorful and loud. When students are asked to work towards composing dynamic, multimodal writing for a motivating purpose, using an AI Text Generator fades away as even an option. 
+Show students what response it generates to course work, and ask them to analyze the quality of the response. Is it meaningful, or does it simply sound good? What do students offer as human writers that the computer does not? Are there writing tasks well-suited for a computer? (Who of us hasn’t benefited from spellcheck?) 
+If you do have students use and build on the bot’s writing in class, make sure you discuss the values and implications of doing so. What does using ChatGPT to write communicate about what the user values, and what our society values as a whole? If many writers used such a program to start their writing, what are some of the societal implications? What kinds of writing situations might ChatGPT writing be good for? In what kinds of writing situations would it be inappropriate or fail?
+It is a rich opportunity to discuss rhetorical concepts such as context and purpose, which make the work of writing far richer than a sentence that sounds good. In their CETL Teaching Tip Beyond “Gotcha!” Proactive Plagiarism Pedagogy, OU’s Sherry Wynn Perdue and Melissa Vervinck promoted using these tools for pedagogical purposes rather than for surveillance.
+Hi colleagues! This is Crystal VanKooten, chair of Writing and Rhetoric at OU. As a faculty member who studies writing and compositional practices and a follower of many writing teachers on Twitter and online, I’ve seen and heard many different responses to the recent advances in ChatGPT’s capabilities. These responses have ranged from sheer panic to bored indifference. 
+As Christina’s example above shows, ChatGPT will generate logical, error-free chunks of writing in response to a writing prompt. To read more of the bot’s prose, check out writing professor Anna Mills’ collection of sample AI-generated essays. Overall, the writing is….well, it’s ok! It’s not the most eloquent, original prose, but it’s on topic, grammatically correct, and communicates a discernible argument. 
+So as teachers who care about student writing and learning, what do we do? Do we need to stop assigning writing outside of class? Is this a moment of panic?
+I don’t think so, and most experts in the teaching of writing don’t either. However, it is a moment to reflect on how and why we assign and assess writing in our courses. We can ask students to use writing to think and to learn, an approach to composition that doesn’t focus so much on the end product–those 255 words that the bot spits out. Students can show us their writing-to-think processes and demonstrate their learning through turning in notes and pre-writing, giving feedback to one another on assignments, composing and revising drafts, and reflecting in writing and via audio and video. 
+In addition to writing-to-learn and focusing on composition process, students must also write for specific audiences and purposes, when the end product itself is important. For these writing situations, Christina’s tips above will come in handy. There may be times when analyzing, critiquing, and even building on ChatGPT’s writing could lead to a better understanding of what works (and what doesn’t) in different writing contexts. Anna Mills has curated an extensive resource list on AI Text Generators and Teaching Writing on the Writing Across the Curriculum Clearinghouse that provides links to articles, questions to consider, and strategies for mitigating harm to student learning for those who’d like to dig in more.
+So my advice for other teachers is this: don’t panic, but do think critically about how and why students write in your class, and what you want them to take away from the writing experience that you design. 
+Let’s see this as an opportunity to ask important questions about our role as educators and how to authentically engage students in learning. We’re happy to explore the possibilities with you: Meet with Us to review writing assessment strategies or overall create a learning environment in which everyone works to uphold academic integrity.
+Save and adapt a Google Doc version of this teaching tip.
+Written by Christina Moore, associate director of the Center for Excellence in Teaching and Learning, and Crystal VanKooten, associate professor of Writing and Rhetoric at Oakland University.  Image from Open AI’s ChatGPT. Others may share and adapt under Creative Commons License CC BY-NC. 
+View all CETL Weekly Teaching Tips. 
+Oakland University 
+Budget and Transparency Reporting
+Oakland University is accredited by the Higher Learning Commission, a regional accreditation agency recognized by the U.S. Department of Education

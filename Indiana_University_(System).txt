@@ -1,0 +1,51 @@
+Indiana University (System) official policy on generative AI Artificial Intelligence
+https://citl.indiana.edu/teaching-resources/academic-integrity/AI-Generated%20Text.html
+
+
+Indiana University Bloomington
+Indiana University Bloomington
+IU Bloomington
+
+
+Updated 3/4/2024See our latest update below—a video on how instructors can talk to students about suspected cases of AI misuse. 
+News about ChatGPT and its text-generating capabilities have been sweeping across higher education, raising questions about what AI-powered text generators mean to learning, writing, and academic integrity in our classes. There is potential that some students may misuse these AI tools, misrepresenting AI-generated text as their own, but there is also great potential for how this technology can transform teaching and learning. This page is intended to provide some ideas on how we can engage with this emerging technology in productive and pedagogically sound ways. 
+We will continue to update this page over time, so if you have a specific resource, insight, or teaching idea to share, please let us know.  
+The current set of AI text tools utilizes large language generator models, training artificial neural networks (algorithms designed to recognize patterns) on a large dataset of human conversations. One of the current models, GPT (Generative Pre-Trained Transformer) is trained for the task of conversational language modeling and is fine-tuned to generate more contextually relevant responses. A key element of this is the ability to predict what the next words and phrases are within a conversational context (similar to what Word and Google do on a smaller scale). Chat-GPT is the tool that has most recently hit the headlines, but there are many others evolving—such as Google's Gemini (formerly Bard) and Microsoft's Copilot—which will quickly advance this new field of interactive text generation.  
+These generative AI tools are the latest in a progression of tools we’ve all become familiar with—from the automatic chatbots on customer service webpages to the editing and phrase-completion tools we see in Word and Google Docs. While the text-generation capabilities of these recent tools seem a huge leap over Word’s editorial suggestions, integration of these generative technologies is likely to continue growing.
+As with any discussion about academic integrity, we want to address the very real and important question of where you want to put your time and energy. We understand the need to ensure academic integrity in your courses, but we also want to promote approaches that can help you focus less on policing student behavior so you can get back to teaching. How can you keep learning at the core of your interactions with students, allowing you to strike a balance that doesn’t make you hate teaching or view your students as adversaries?  
+In this case, rather than focusing solely on a punitive approach of catching uses of AI-generated text—which is a challenging proposition with a tool that learns and evolves—we recommend putting your time and energy into approaches that can mitigate its inappropriate use while improving student learning. 
+There are many reasons why students may turn to online tools, including text-generation tools. For some it is a way to start the research process and get help with narrowing down their topic areas, similar to how they might use other research tools. For others, it might be the novelty of using this new tool that is getting so much media attention. Some students, however, may use these AI tools as shortcuts to complete their work for them. In this case, it is important to consider why students may choose to outsource their work to an AI bot. They may find themselves needing to complete an assignment quickly because of poor time and workload management skills, they may feel pressure to receive a high grade, or they may not feel confident with their content knowledge or academic writing skills, among other reasons. Simply writing students off as lazy or dishonest misses valuable opportunities to structure assignments in ways that can encourage academic integrity and promote student learning and success. 
+We address some ways below that you can revise specific assignments to promote academic integrity—additional structure, increased relevance, alternate assignment formats, etc.—but instructors can also help students avoid misuses of these tools by addressing broader issues. If you want students to help engage in the research process, for example, we highly recommend working with IU librarians to support students in that process. Or, if you are concerned about your students’ time management skills, we recommend you turn to the Student Academic Center (SAC) and their time management resources page. We understand that instructors are not directly responsible for student academic misconduct, but it is always better to address the challenges students face through educational support than to deal with disciplinary issues later. 
+Much of the early discussion around generative AI so far has been about how you can identify the text it generates. While we are trying not to make detection and punishment the focus of our efforts, here are a few things you should know. 
+Most instructors already include statements in their syllabi about academic integrity, so extending those practices to overtly include Chat-GPT and other AI-generated text makes sense. Here are some suggestions:
+Probably the best way to guard against inappropriate use of AI-generated text is to redesign your assignments, both the prompts themselves and the related processes. Success in these efforts will depend on a combination of two factors: 1) increasing student motivation by making the assignments relevant and engaging, and 2) making assignments more resistant to AI use through some of the suggestions below. These options vary in their usefulness across contexts, but consider these ideas as starting points:
+Long before generative AI, instructors have had to address potential student plagiarism or other forms of academic misconduct on assignments. And while this sometimes had a paper trail that included clear matches to online or print materials, more often the instructor would have more general evidence that the writing did not sound like the student's voice, was significantly different than their prior work, or didn't match their sophistication with language or the content. Talking to students about such suspicions is a delicate task, where outright accusations can lead to confrontational situations rather than educational ones. So, how can instructors firmly uphold academic integrity while keeping student learning and growth at the heart of the discussion? Please see the video below for suggestions from Dr. Miranda Rodak, Clinical Associate Professor and Director of Undergraduate Teaching in IUB's Deptment of English.
+
+ 
+Most of our comments so far have focused on mitigating or disrupting the use of ChatGPT and other generative AI tools. But since these tools will only proliferate and will be a part of our students’ educational and professional careers, consider ways of actively addressing and embracing them as part of your work with students.* Here are some suggestions: 
+* Note: ChatGPT is currently available for free, but access to the most recent version (GPT-4) costs $20/month, so be aware of costs associated with incorporating this or other generative AI tools into your teaching, and the potential inequities between students who can and cannot afford the improved version. Also note the concerns the university raises about requiring students to use a tool it has not vetted for security and privacy issues.
+ 
+While none of these approaches will completely prevent students from using AI in unauthorized ways in your classes, we hope that these suggestions improve learning for your students while promoting academic integrity. We recognize that there will always be instances of academic misconduct that you need to address—be aware of your department’s policies and procedures there—but focusing on ways to improve learning and disincentivizing cheating is better in the long run for both your students and yourself. 
+As always, you can reach out to the CITL for assistance with course and assignment design, and we welcome any sample assignments or activities you are willing to share. We are also available to talk with departments about uses of AI in teaching and learning.
+ 
+Alby, Cynthia. “ChatGPT: A Must-See Before the Semester Begins.” Faculty Focus. January 9, 2023. 
+ChatGPT and AI in Teaching and Learning: Opportunities and Challenges. Webinar recording from January 18, 2023 faculty panel.
+ChatGPT, Generative AI, & Syllabi An Ethics of Practice. Webinar recording from August 15, 2023.
+Developing AI Course Policies and Addressing Academic Integrity Violations. Webinar recording from the August 11 presentation in the IUB College of Arts and Sciences.
+Lang, James. Cheating Lessons: Learning from Academic Dishonesty. 2013. (IU instructors and staff can also access a video of Lang’s 2020 SoTL talk on academic integrity.) 
+McMurtrie, Beth. “AI and the Future of Academic Writing.” Chronicle of Higher Education. December 13, 2022. [IU off-campus proxy link here] 
+Novotney, Amy. “Beat the Cheat.” APA Monitor on Psychology 42.6. June, 2011.  
+Rettinger, David. “Show Students You Care About Their Learning—They May Cheat Less.” The Faculty Lounge (Harvard Business Publishing). May 3, 2022. 
+Center for Innovative Teaching and Learning
+
+
+
+
+
+Accessibility | Privacy Notice
+
+ | 
+Copyright © 2024 The Trustees of 
+Indiana University
+
+

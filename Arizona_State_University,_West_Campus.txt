@@ -1,0 +1,28 @@
+Arizona State University, West Campus official policy on generative AI Artificial Intelligence
+https://ai.asu.edu/
+
+ 
+ 
+The AI Innovation Challenge at ASU is launching its second round of submissions, with updated eligibility criteria expanding the availability of ChatGPT Enterprise to student researchers and faculty to use in the classes they teach. Submissions open on March 25, 2024.
+ 
+Learn more
+At Arizona State University, we embrace generative AI not as a replacement for human intelligence but as a tool to enhance our collective creativity and problem-solving.
+ASU’s knowledge core enables us to stand at the forefront of innovation, propelling the university to develop unique and transformative applications that push the boundaries of what is possible in artificial intelligence….for today, tomorrow and future generations.
+By building collaborative alliances across the ASU enterprise, we leverage AI to create positive outcomes for students, pave new pathways for research, and develop the technical infrastructure for expanded operational excellence.
+Guides our ability to imagine new concepts, catalyze ideas and form new solutions guided by principles that create positive change for humanity.
+Generative AI refers to a category of artificial intelligence (AI) systems and models designed to generate new content, data, or information. These systems are capable of producing outputs that resemble human-generated text, images, audio or other forms of data. Generative AI is often used in creative applications, content generation, data augmentation and various other tasks where the generation of new and meaningful information is required.
+It's important to note that while generative AI has made significant advancements, it also raises ethical and privacy concerns, particularly when it comes to generating highly convincing fake content, such as deepfakes. Therefore, responsible and ethical use of generative AI is crucial in its development and deployment.
+Do not share information that is confidential under university policies and rules. Examples of such information you should never submit to GenAI tools include: 
+Additionally, do not share valuable intellectual property, whether it is yours,  the university’s, or someone else’s. Be absolutely certain any information submitted to an AI-based model is public and does not include any sensitive or personally identifiable information - including information that could identify someone when combined with other data.
+The owner of intellectual property is entitled to control who can copy or use that intellectual property. By submitting information to a generative AI tool, you may give up valuable rights to control who can use that intellectual property in the future. This is especially problematic if you do not own the intellectual property or do not have the right to authorize others to copy or use it (for example, if the intellectual property belongs to the Arizona Board of Regents, to another institution, or to a co-author or collaborator).
+Consider whether you or the university need to own the intellectual property rights of selected materials. Materials prepared using a generative AI tool may not be eligible for intellectual property rights if there is not enough direct human involvement in their development. Not owning intellectual property rights may impact your or the university’s ability to publish, distribute, patent, or use the materials.
+Look for tools that make it easy to find their privacy, ethics, risk, safety and accessibility policies.
+These tools are quickly evolving - join in the conversation as we establish best practices. 
+The ASU community is invited to join the discussion and working teams on Slack. #ai and #ai-digital-trust.
+ 
+AI is a powerful technology and will be an enduring part of the innovation landscape for the foreseeable future.
+Harnessing the power of AI brings the responsibility to innovate in a principled way, centering our charter and values of inclusion and access.
+AI can support human intelligence and capabilities, rather than replace them, to promote equal access to creativity and amplify potential.
+We have a responsibility to our community to keep pace with the rapid progression of AI.
+This technology must be easily accessible to people from diverse backgrounds, aiming to bridge the accessibility gaps.
+ Required

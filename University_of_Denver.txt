@@ -1,0 +1,30 @@
+University of Denver official policy on generative AI Artificial Intelligence
+https://academicaffairs.du.edu/writing/content/statement-generative-ai-and-writing
+
+Skip to Content
+
+
+                Explore this Section
+            
+
+September 2023
+It is the University Writing Program’s position that genAI is a powerful and productive development in the long history of literacy technologies, and that the teaching of writing should include methods of integration and collaboration with these technologies while also interrogating the rhetorical and ethical dimensions of genAI. 
+In conjunction with this position, the University Writing Program also acknowledges the following:
+Responsible and Ethical Use of GenAI
+Artificial Intelligence (AI) has been an important development in computer technologies, and advances in generative AI (genAI)—AI that can create something new—has been used in the past decade in business and journalism. Developments in genAI, especially those applications that use Large Language Models (LLMs) using billions of parameters, have come in leaps and bounds due to the free sharing of studies from both academia and industry. Nevertheless, it still took some by surprise when, in November 2022, OpenAI publicly released for free ChatGPT, a text-to-prose transformer genAI, that produced extraordinarily articulate writing in a variety of genres, from essays, to computer code, to poetry, to business plans.
+The public availability of these powerful applications has provided opportunities for many to explore, play, and collaborate in new ways with literacy technologies. For those with access, the potential to address skill inequality has shown great promise. Of course, this has also led to profound concerns in higher education about genAI’s negative effects, including student use without guidance.
+And yet, genAI has already been integrated into Google Docs and Microsoft Word, two of the most popular word processors writers use. The integration of these technologies will continue to proliferate, so that many common applications will eventually have genAI assistance, much in the same way that literacy technologies have developed to include design and formatting elements with little input from a user. 
+The University Writing Program supports responsible and ethical use of genAI assistive writing technologies by writers and teachers. 
+For writers, responsible and ethical use means the following:
+         “GPT-4 was used for help with wording, formatting, and styling throughout this work.”         “ChatGPT was used to help organize early drafts of this project.”         “Portions of this articles were revised based on suggestions made by Grammarly.”         “Google Bard was used to generate the idea about X in early drafts.”
+For Faculty assigning writing tasks, responsible and ethical integration means the following:
+The University Writing Program and University Writing Center are happy to consult with individual faculty or departments on strategies for integrating genAI into writing assignments.
+We would also like to share the following additional resources:
+ 
+ 
+
+
+University of Denver
+2199 S. University Blvd.
+Denver, CO 80208
+

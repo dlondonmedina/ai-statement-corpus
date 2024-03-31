@@ -1,0 +1,151 @@
+Australian National University official policy on generative AI Artificial Intelligence
+https://libguides.anu.edu.au/generative-ai
+ 
+Generative Artifical Intelligence (AI) is a machine learning technology that uses AI technology to understand natural language inputs (called prompts) and to generate natural language outputs (called completions). Users interact with generative AI tools and systems in a question and answer style “conversation”.
+Australian National University (2023) Chat GPT and other generative AI tools: What ANU academics need to know (PDF, 103KB)
+There are many Generative AI systems available, including:
+The University does not recommend any specific system. The University will continue to “help students develop skills around the appropriate and responsible use of AI tools as part of an ongoing conversation about academic integrity, ethics and professional practice”.
+Australian National University (2023) Chat GPT and other generative AI tools: What ANU academics need to know (PDF, 103KB)
+Individual course convenors will guide students on what uses of ChatGPT may or may not be permitted in a specific course.
+“ChatGPT is one of various AI language models and other AI tools that students can access. It would be ineffectual to ban access to ChatGPT. We also recognise that the use of AI tools by students can support their learning. The application of AI tools in some professions is growing and students need to be able to use them effectively. The ANU plans to work with staff so they can help students develop skills around the appropriate and responsible use of AI tools as part of an ongoing conversation about academic integrity, ethics and professional practice”.
+Australian National University (2023) Chat GPT and other generative AI tools: What ANU academics need to know (PDF, 103KB)
+For more information see the Centre for Teaching and Learning blog ChatGPT: What ANU academics need to know.
+Turnitin recently turned on a preview of its AI writing detection tool.
+The tool is not part of the University's regular contract with Turnitin and it will not continue to be visible beyond 1 January 2024 unless we decide to upgrade our license to include it.
+The tool is available and visible to staff, but not to students, who only see the regular originality score.
+As the Turnitin AI writing detection tool was introduced part-way through a teaching semester, we had no opportunity to evaluate it or consider how we might properly prepare staff and students around its use. Hence, the Turnitin AI writing detection tool will not be used at ANU for the purposes of pursuing academic integrity matters at this time.
+While the tool remains available, we can learn more about it and assess its efficacy, talk to our peers across the sector, and make an informed judgement about whether it has a place in our academic integrity toolkit.
+Generative AI content can be unique because it is not created by a person and the content is generally non-recoverable by the reader. 
+While different referencing styles have different requirements for citing generative AI content, some do not provide requirements and authors should therefore follow the format for a personal communication. 
+As a general guideline, you should:
+MLA Style Center, 2023, https://style.mla.org/citing-generative-ai/
+ 
+The guidance provided is current as of 3 May 2023.
+Citations from any source should always be checked and verified, as this is part of the practice of Academic Integrity.
+You should verify any references provided by any generative AI system.
+If references can’t be located please ask the Library or your course convenor or supervisor.
+In text
+Two options
+Reference list
+Placed in 'Other' category in bibliography.
+OpenAI, ChatGPT to First name, Surname, Output, 3 May 2023
+Appendix
+Appendix created for the detail of the prompt.
+In text
+(OpenAI, 2023).
+Reference list
+OpenAI. (2023). ChatGPT (Mar 14 version) [Large language model]. https://chat.openai.com/chat
+Further detail is provided by the APA in the blog post How to cite ChatGPT?
+In text
+Three options are available:
+Reference list
+Do not cite ChatGPT in a bibliography or reference list.
+Further detail is provided in the Chicago Manual of Style online FAQ.
+To be referenced using private communication format.
+In text
+(OpenAI ChatGPT, personal communication, 3 May 2023) 
+or
+OpenAI ChatGPT (personal communication, 3 May 2023)
+Reference
+Entry not required in reference list.
+To be referenced using private communication format.
+In text
+Specific question asked (OpenAI's ChatGPT, private communication, 3 May 2023).
+Reference
+Entry not required in reference list.
+The MLA Style Center has developed guidelines for the citation of a generative AI interaction.
+The guidelines state you should:
+In text
+(specific question asked)
+Reference list
+“Specific question asked” prompt. ChatGPT, OpenAI, 3 May. 2023, chat.openai.com/chat.
+Visit the MLA website for specific examples and guidance.
+To be referenced using personal communication format.
+In text
+(OpenAI’s ChatGPT, response to input from author, 3 May, 2023).
+Reference
+Entry not required in reference list.
+Under the University's Privacy policy and the Privacy Act (1988), personal information such as names should not be provided to third parties such as generative AI tools such as ChatGPT.
+Different tools will have different privacy policies and it is important to understand privacy policies before using a tool.
+Generative AI systems are generally developed outside of Australia and are therefore not required to comply with Australian law but with the privacy law in the country in which the system is developed.
+
+Further information
+Further information about Open AI's data use policies and how data is used to improve model performance is available here. This includes details about how to opt-out of data use for model training for Open AI tools.
+For any questions or concerns, please contact the Senior Privacy Officer on (02) 6125 4679 or privacy@anu.edu.au
+This is an example of some of the privacy policies from a selection of Generative AI tools.
+We encourage you to review the privacy policy of any tool you use.
+Not all providers will have the same degree of transparency in how they use your data. If you are unable to find a privacy policy or a usage agreement for the specific tool, it may be best to find another tool with clearer terms around their data usage, storage, and retention.
+ChatGPT
+If an individual signs up and uses ChatGPT or other systems their information is recorded.
+The ChatGPT Privacy policy outlines the use that will be made of personal information and the rights that you have.
+Will you use my conversations for training?
+Yes. Your conversations may be reviewed by our AI trainers to improve our systems.
+Can you delete my data?
+Yes, please follow the data deletion process.
+Can you delete specific prompts?
+No, we are not able to delete specific prompts from your history. Please don't share any sensitive information in your conversations.
+This information is from the ChatGPT website and is current as of 3 July 2023.
+Bard
+Please do not include information that can be used to identify you or others in your Bard conversations.
+What data is collected? How is it used?
+When you interact with Bard, Google collects your conversations, your location, your feedback and your usage information. That data helps us to provide, improve and develop Google products, services and machine-learning technologies, as explained in the Google Privacy Policy. 
+Read our privacy and security principles to better understand how we keep our users' data private, safe and secure.
+Who has access to my Bard conversations?
+We take your privacy seriously and we do not sell your personal information to anyone. To help Bard improve while protecting your privacy, we select a subset of conversations and use automated tools to help remove personally identifiable information. These sample conversations may be reviewed by trained reviewers and kept for up to three years, separately from your Google Account. 
+Can I delete my data from my Google Account?
+Yes, there's a link to managing your data in Bard. You can always turn off saving your Bard activity and you can always delete your Bard activity from your account at myactivity.google.com/product/bard. Even when Bard activity is off, your conversations will be saved with your account for a short period of time to allow us to provide the service and process any feedback. This activity will not show up in your Bard activity.
+This information is from the Bard website and is current as of 3 July 2023.
+Wordtune 
+If an individual signs up and uses Wordtune their information is recorded. 
+What information we collect, why we collect it, and how it is used
+The Privacy Policy includes a detailed breakdown of what details are collected, when and how they are used by Wordtune. 
+How to delete your account
+You have the right to request the erasure/deletion of your Personal Data (e.g. from our records). 
+Log files and information collected automatically 
+We use log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, clicked pages and any other information your browser may send to us. We use such information to analyze trends, administer the Website, track users’ movement around the Website, and gather demographic information. 
+This information is from the Wordtune website and is current as of 6 July 2023. 
+Textero 
+If an individual signs up and uses Textero their information is recorded. 
+Information we collect about you 
+When using our Services and paying for them, and/or visiting our website, or member communities, we may automatically collect information about you, for example: 
+Why do we collect personal data? 
+Your rights 
+The policy also includes an extensive list of user’s rights, including:  
+‘The right to Erasure: This is sometimes called ‘the right to be forgotten’. If you want us to erase all your personal data, and we do not have any legal reason to continue to process and hold it, please contact our Data Protection Officer: dpo@nuovostep.com’ 
+This information is from the Textero website and is current as of 6 July 2023. 
+Jasper 
+If an individual signs up and uses Jasper their information is recorded.  
+Will the content generated in Jasper Chat be saved? 
+Yes! Like all other AI outputs with Jasper, chat history is available in your AI Outputs History section. You can also separate your content using multiple Chat threads. 
+Request erasure of your personal data  
+You have the right to ask Us to delete or remove Personal Data when there is no good reason for us to continue processing it. 
+This information is from the Jasper website and is current as of 3 July 2023.
+Writesonic 
+Retention 
+Processor will retain Controller Data as long as Customer deems it necessary for the Permitted Purpose or as required by Applicable Data Protection Law. Upon the termination of this DPA, or at Customer's written request, Processor will either destroy or return the Controller Data to Customer, unless legal obligations necessitate the storage of Controller Data. 
+Confidentiality 
+Processor shall limit access to Controller Data to its personnel who need access to fulfil Processor's obligations under the Agreement. Processor will take commercially reasonable steps to ensure the reliability of any Processor personnel engaged in the Processing of Controller Data. 
+This information is from the Writesonic website and is current as of 3 July 2023.
+How did the system get my personal data? 
+Training sets used by Generative AI systems will include material scraped from the internet. 
+This could include personal information on ANU websites or from places such as LinkedIn. When registering for those systems, personal information is collected, and the data entered by individuals is generally recorded and placed into the training data set. 
+When you sign up to use a generative AI system, it will generally require you to provide some personal details like name and contact information. Depending on the company’s privacy policy, this information may be accessible to third parties. 
+ 
+Can I ask for my data to be deleted? 
+This will depend on the privacy policy of a specific AI tool you have used. Before signing up to use any system, read the privacy policy in detail to see how your information will be used. 
+If a company does not state whether they will be willing to delete your data, it is best to assume that they will not and take steps to protect yourself. 
+
+How can I prevent my personal data appearing in an AI system? 
+At present there are limited controls on offer to remove or prevent your information from being accessed by large data mining AI systems. In countries where data protection laws already apply, such as in Europe, there are some mechanisms in place to make data removal requests but these are not guaranteed.  
+Read more at Tech Crunch, accessed 7 July 2023. 
+Getting in touch with us is easy:
+We're the information specialists, and are here to help you!
+ANU staff can get support from the ANU Centre for Learning and Teaching (CLT).
+CLT provides expert advice and support in delivering innovative learning and teaching services through collaborative partnerships across the University.
+For more information and support, browse the CLT website, subscribe to their newsletter, read blog posts, or email clt@anu.edu.au
+
+Responsible Officer: University Librarian/Page Contact: Library Systems & Web Coordinator 
++61 2 6125 5111
+			The Australian National University, Canberra
+			CRICOS Provider : 00120C
+			ABN : 52 234 063 906

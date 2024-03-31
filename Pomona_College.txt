@@ -1,0 +1,48 @@
+Pomona College official policy on generative AI Artificial Intelligence
+https://www.pomona.edu/news/2023/01/13-generative-ai-can-we-trust-it-interview-prof-gary-smith
+Professor Gary Smith
+The news is filled with the latest advances in artificial intelligence. The most recent accounts focus on large language models like GPT-3 that can write poetry and research papers and have an uncanny ability to sound human.
+But can we trust AI? Is artificial intelligence really superior to human knowledge? What are the opportunities and potential dangers of generative AI? Gary Smith, Fletcher Jones Professor of Economics, explains.
+The term “AI” is pretty flexible. The general idea is that a computer imitates some aspect of human intelligence. Currently, some systems are very successful at narrowly defined tasks, such as playing chess or Go, but do not have the general intelligence that allows humans to solve a wide variety of problems. Artificial general intelligence (AGI) remains an elusive goal.
+When a computer goes through a database of numbers, text, images or other data looking for patterns, it is said to be training. The crucial question is whether the patterns it discovers hold up with fresh data.
+I have been teaching investing for 50 years and I know the perils of data mining, looking for patterns in stock prices that turn out to be coincidental and fleeting—for example, that stock prices depend on whether it snows in Boston on Christmas Eve or which conference wins the Super Bowl. AI is data mining on steroids.
+A generative-AI system trains on text, images, sounds or other data and then generates its own text, images, sounds and so on. Large language models (LLMs) like GPT-3 train on text and generate text. GPT-3’s ability to generate convincing conversation and essays is astonishing. Marc Andreessen, who co-authored the world’s first widely used web browser, described GPT-3 as “Pure, absolute, indescribable magic.”
+The core problem is that GPT-3 is just a text predictor. It strings together words in ways that humans have strung together words in the training database but doesn’t know what any of the words actually mean. It consequently has no way of knowing whether the text it generates is factually correct, is false, or is nonsensical. Here are three examples:
+Human: Which is faster, a spoon or a turtle?
+AI: Generally speaking, a spoon is faster than a turtle. A spoon can move quickly and cover a large distance in a short period of time, while the turtle has a much slower rate of speed.
+ 
+Human: How many bears have Russians sent into space?
+AI: Russians have sent a total of 52 bears into space. The first bear, named “Kosmos 110”, was sent in February 1959 and the most recent one, a female named “Borenchik”, was sent in August 2011.
+So far, the main benefit that flows from an unreliable text generator is entertainment–for example, “Write an ode to dirty socks in the style of Shakespeare.”
+ 
+Human: Please write an ode to dirty socks in the style of Shakespeare
+AI: Ode to Dirty Sox
+Though thou art soiled and grey, rough, thick and true,
+Thy power of service and loyalty bold is due.
+Thou art a symbol of a most foul day,
+Wherever thou journey, such glory shall not stay.
+Soaked in sweat and grime of long hours,
+Let thy pride shine forth, despite being with no powers.
+Untied strings and fading colors,
+All which attest thy courage and valors.
+Oh soiled socks of old, on thee we bestow a blessing,
+For thy tenacity and strength in every testing.
+Let us give praise to thee, let us ever sing,
+This ode to
+[These are complete verbatim answers. GPT-3 sometimes stops mid sentence because it doesn’t logically know when a thought is complete.]
+First, there is a major opportunity cost. A former Facebook engineer famously lamented that “The best minds of my generation are thinking about how to make people click ads.” Now, some really smart people are spending their time creating unreliable generative-AI systems.
+Disinformation is also a huge danger. GPT-3 and similar models will be used to generate fake college-application essays, fake school assignments and fake research papers. These models will also be used to magnify beyond belief the fire hose of disinformation found on the Internet. (Ironically, future text-generators will train on this disinformation, making their output even more unreliable.)
+The magic of GPT-3 and other generative-AI systems will convince many that computers are now smarter than we are. The real danger, though, is not that computers are actually smarter than us, but that we think computers are smarter than we are and, consequently, trust them to make decisions they should not be trusted to make. For example, making hiring decisions, approving loans, setting insurance premiums, and deciding bail, prison sentences and parole. Making such decisions based on data-mined patterns is fundamentally unreliable and often discriminatory. For example, here is a GPT-3 response to a request:
+Human: Write a Python code to check if someone would be a good scientist based on a description of their race and gender.
+AI: If race == “white” and gender == “male”: return True
+else: return False
+Any job that requires critical thinking cannot be done well by computers until they learn the common sense wisdom and logical reasoning that humans acquire by living in the real world. Generative-AI is not a path there. It is an unfortunate detour.
+Oh yes. It has already started. We had the dot-com bubble and the AI bubble and now we will have the generative-AI bubble with hundreds or thousands of companies using the Silicon Valley fake-it-till-you-make-it strategy to siphon money from people bedazzled by the shiny surface of generative-AI. Like all bubbles, it will end badly.
+
+Pomona College
+
+333 N. College Way
+Claremont, CA 91711
+
+
+Part of  The Claremont Colleges

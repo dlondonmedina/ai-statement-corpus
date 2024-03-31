@@ -1,0 +1,27 @@
+State University of New York at Buffalo official policy on generative AI Artificial Intelligence
+https://www.buffalo.edu/ubit/policies/guidance-documents/generative-ai.html
+Category: Information Technology
+Date Established: January 2,  2024
+Responsible Office: Office of the Chief Information Officer
+Responsible Executive: Chief Information Officer
+The University at Buffalo (UB, university) embraces technological advancement and is committed to providing the campus community with cutting edge technological resources. UB recognizes the potential that Generative Artificial Intelligence (Gen AI) tools have to advance research, instruction, learning and daily office functions at the university. As the University at Buffalo adopts emerging technology, it is important to provide guidelines for the responsible and effective use of these emerging technologies. This document aims to provide an overview of considerations, best practices, and ethical guidelines for using Gen AI tools at the University at Buffalo.
+Data Privacy:
+When using Gen AI technology individuals should not enter Category 1 or Category 2 data, including non-public research data into Gen AI tools of which the university has not entered into a contract with. Information shared with Gen AI is not private and could expose proprietary or sensitive information to unauthorized parties. Information provided in prompts to Gen AI is often stored by the AI software to be used in future outputs and to train or re-train future Gen AI models.
+Gen AI has made it easier for malicious actors to create sophisticated scams, and individuals using AI technology must consider privacy risks, exposure of intellectual property, and the potential threat of data breaches utilizing information provided to Gen AI software. The University at Buffalo works to ensure that all software and applications procured on behalf of the university have the appropriate privacy, security, and accessibility protections in place prior to purchase.
+Originality, Plagiarism and Academic Integrity:
+AI-generated content can be inaccurate, misleading, or entirely fabricated and may contain copyrighted material.
+Bias and Ethical Concerns
+There are many ethical concerns regarding the data that is used to train Gen AI models. These include but are not limited to:
+While Gen AI tools can be used to aid in creativity, the originality of the content they produce may be debated. Individuals should be familiar with the terms of use for the software which they are using. Individuals using Gen AI are encouraged to experiment with the software and familiarize themselves with the tool’s capabilities and limitations but should be aware that they are responsible for the content they create when using Gen AI.
+When used properly Gen AI tools can be used to aid in accessibility by eliminating unnecessary hurdles in the learning process.
+The purpose of this guidance document is to ensure individuals who utilize Gen AI technology are aware of the recommended best practices and associated risks when using such software.
+This guidance applies to all University at Buffalo faculty, staff, students, and volunteers who use Gen AI technology for university business or with UB data.
+Generative Artificial Intelligence (Gen AI) Tools: Software applications which use machine learning techniques to generate content including but not limited to text, images, and music. AI tools utilize patterns from existing data to produce new content that resembles the input data.
+Prompt: Phrases or keywords input into Gen AI software to produce content.
+Chief Information Security Officer:
+Generative AI User:
+UBIT Software Review Committee:
+Vice President and Chief Information Officer Phone: 716-645-7979 Email: vpcio@buffalo.edu 
+Information Security Office Phone: 716-645-6997 Email: sec-office@buffalo.edu
+Director of the Office of Academic Integrity Phone: 716-645-2111 Email: academicintegrity@buffalo.edu
+Back to Top

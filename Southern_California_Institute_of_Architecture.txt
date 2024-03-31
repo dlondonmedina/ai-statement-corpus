@@ -1,0 +1,105 @@
+Southern California Institute of Architecture official policy on generative AI Artificial Intelligence
+https://www.sciarc.edu/academics/postgraduate/architectural-technologies
+· Applications Now Open
+· Applications Now Open
+· Applications Now Open
+· Applications Now Open
+· Applications Now Open
+· Applications Now Open
+· Applications Now Open
+· Applications Now Open
+SCI-Arc About
+SCI-Arc Academics
+SCI-Arc Prospective Students
+SCI-Arc Campus Life
+SCI-Arc News
+SCI-Arc Events
+SCI-Arc Give
+SCI-Arc Store
+SCI-Arc Breadcrumbs Home
+SCI-Arc Breadcrumbs Academics
+SCI-Arc Breadcrumbs Postgraduate Programs
+SCI-Arc Breadcrumbs MS Architectural Technologies
+The Master of Science in Architectural Technologies is a one-year, three-semester program focused on contemporary and near-future design technologies.
+Coordinator: M. Casey RehmProgram Faculty: Soomeen Hahm, Damjan Jovanovic
+Complete the online application here.
+Submit all required application materials here.
+Request information from SCI-Arc
+Office of Admissionsadmissions@sciarc.edu213.356.5320
+“We are not interested in training a generation of software operators; our students will graduate with design knowledge, a business plan, and a technology platform to accelerate the future of architecture.”
+SCI-Arc’s MS in Architectural Technologies program formalizes connections between advanced topics in computational research alongside the rapidly developing innovations in platform applications, game engines, machine vision, and AI.
+As platform-based corporations have entered territories traditionally associated with architectural practice, there is an increasing urgency for architecture to develop strategies and tools to address the growing prevalence of systematized workflows within design-oriented disciplines and industries. 
+SCI-Arc is situated within an important international hub for technology startups, as companies have been drawn to Los Angeles’s unique geographical, cultural, and economic advantages. Tech giants have similarly established a presence to benefit from the dynamic startup culture that is developing research and applications in AI, blockchain, and interactive media. 
+The Architectural Technologies program actively engages new models of entrepreneurship to maximize student involvement with multiple forms of technological expertise in order to bring disruptive ideas into reality, while investigating how new platforms are fundamentally transforming the way we inhabit and experience the world.
+The Master of Science in Architectural Technologies is organized as a year-long research project, which leverages SCI-Arc’s identity of entrepreneurship and positions students to join the emerging platform-based economy. Coursework in Architectural Technologies builds proficiency in software and platform development and challenges students to develop their own automated infrastructures as related to problems of architectural practice. 
+During their first semester in the program, students investigate data platforms such as social media, machine intelligence, managerial practices, and automation to consider their potential applications in a contemporary context. Courses during the first semester cover topics including software and platform development , robotics, AI, coding, blockchain technology, interactive software design, smart systems for building and urban applications,  construction, fabrication, and advanced materials .
+Students continue through the remainder of the program, prototyping and finalizing ideas developed in their first semester while developing projects, creating a business plan, and cultivating professional connections.
+Furthering research opportunities, the required Advanced Architectural Studies seminar sequence provides a forum for SCI-Arc EDGE students to discuss the theoretical problems that impact design and the contemporary world. Students form interdisciplinary teams to produce and execute a fully-developed research proposal. The sequence culminates in a postgraduate colloquium where resulting research projects are presented. Each semester, EDGE students are able to select an elective course from SCI-Arc curricula in Applied Studies, Visual Studies, History + Theory, or Liberal Arts.
+Graduates of the Architectural Technologies program have gone on to hold technical and research and development positions in architectural offices,  application development for media firms, product design, and technology startups. Others have entered PhD programs to continue their pursuit of architectural scholarship.
+Maxime Lefebvre
+“When there are to be changes in the play or when the gods appear with sudden thunders, they are to turn and change the kind of subject presented to the audience.” Vitruvius, Book 5, Chapter 6. Vitruvius’ description of the Periaktos accounts for a Greek device mechanically operated to present an audience with different sceneries. Although it is debated whether or not it was used in the Roman Theater, the simple panel has seen a considerable range of re-interpretation throughout the different stylistic periods. Recently, advancements in Neural Network technologies offer a new window into image making, which in turn could bring a fresh new look at the artifice of the stage. Proposing a new armature for stage design, this project develops and utilizes an A.I model which collects, samples and reimagines stage imagery while tracking and mapping a panel system in motion. Re-examining a major principle of current image-making culture –decorum-, the re-invented Periaktoi achieve visual trickery through its totally unbiased ability to blend form and style. Taken as a whole, the new armature presents an interesting spin on the scaenae frons; heavily articulated architectural background of a Roman theater stage.
+Pedro Ferrazini and Potsung Huang
+The project gives structure to the Popular Flower Market of Mexico City. Using Generative Adverserial Neural Network algorithms to map and study land and public space subdivision patterns, the market utilizes scale and A.I. as massing and design tools for its new proposal. Laying the building horizontally softens the hard edge between city and park, converting ‘fuzzy’ into a habitable public space, a market. The negotiation of this new edge is furthered with the hopeful belief that technology can upgrade our level of architectural and cultural cognition.
+Sofia Ospina and Rachele Sipione
+The project deals with one of the most pressing urban issues in Mexico City: a paradox between shortage of water and excess of flooding. To address this problem, we’ve designed a vertical reservoir that collects rain water, stores it, cleans it and redistributes it back to the city. The building serves as a public infrastructure that can host various public programs for instance plazas, parks, baths and pools among others. 
+As part of the design process, we incorporated the use of image based artificial intelligence (GANs). We developed a hybrid typology based on the archetypical floor plans of existing water spaces such as baths, terms, cisterns and aqueducts. By combining artificial intelligence and coded design we generated a new approach to public infrastructure with an unprecedented aesthetic. 
+Marcos Dana
+The project explores the use of generative and analytical neural networks in combination with detailed LIDAR scans of a site to produce architecture responding to contemporary technology and disciplinary history. AI was utilized to analyze relationships between the existing building and large datasets of architectural imagery. The network privileges aesthetic features over historical relationships so the software accumulated precedents featuring extensive use of columns. From these precedents both in plan and elevation, generative networks were used in combination with perspectival projection though voxelized space to produce a new architectural intervention. The project expresses clear formal relationships with the features of the existing building while establishing novel organizational principles.
+Hseng Tai Lintner
+Existing in tension between the physical and the non-physical, the project re-examines the hyper-dense urban block by juxtaposing it against a digital veneer. Possible relationships and interactions between digital and physical are interrogated through a speculative urban tectonic that is it simultaneously physical and digital. The result is a highly articulated, trackable architecture for machine vision overlayed with a digital filter that changes our notions of what it means to inhabit and traverse a space. The project interrogates these digital/physical interactions at a variety of scales - from the scale of the urban block, to the scale of the human body - through the development of augmented and mixed reality architectural environments. Constructed through various sampling techniques of content based image retrieval, in this case pixel averaging and convolutional neural net style transfer, these environments are estranged, bastardized versions of historic architectural typologies. It is a speculative hyperbole that embraces a constructed synthetic reality that is at once familiar and at once uncanny. In aggregate, these hybrid digital/physical environments create landscapes that enable data to begin to take on qualities that are phenomenological rather than informative. It is an architecture of spectacle activated through the collective occupation of its inhabitants.
+Agustina Alaines & Galileo Morandi Studio
+“The unexpected is the object of design.”
+
+ 
+The tension between the technical approach, the architectural and human interpretation of data, and the material agency of some elements offers a blurry limit for unexpected aspects of a highly controlled process. An expandable system of buildings is approached at different scales—where the relationship of what is a part and what is a whole interchanges subject—and at multiple levels: urban, architectural, and constructive. At an urban scale, the project is generated by a 2D-designed process of image reading that decompresses spatial graphic information and determines the outlines of intervention. Immediately after, at an architectural scale, those perimeters are transformed into volumes. The tensions and hidden directions inside them are materialized by a repetitive component that offers a rich gradient of void-solidity and textures. Finally, when approaching the fabrication—either for a multi-material 3D-printing simulation or real construction speculation—the support material needed in order to build the permanent structure becomes a part of the design. Instead of removing it, a slow process of natural dissolution is appreciated; the building will continuously re-propose itself from a formal and programmatic point of view. It's the non-control of the expected. 
+"Unexpected Aspects of Control"Agustina Alaines & Galileo Morandi
+"Unexpected Aspects of Control"Agustina Alaines & Galileo Morandi
+"Unexpected Aspects of Control"Agustina Alaines & Galileo Morandi
+"Unexpected Aspects of Control"Agustina Alaines & Galileo Morandi
+"Unexpected Aspects of Control"Agustina Alaines & Galileo Morandi
+"Unexpected Aspects of Control"Agustina Alaines & Galileo Morandi
+"Unexpected Aspects of Control"Agustina Alaines & Galileo Morandi
+Burcin Nalinci & Sanhita Vartak
+
+ 
+
+
+ This project produces a platform that generates an autonomous agricultural system in order to reintroduce nature into a domesticated environment. Historically, we define “wilderness” as an environment which is unknowable to humans, a complex ecosystem outside of the familial. Traditionally within architecture, we create a series of thresholds that mediate the house, from medieval cities to the agricultural field. Now, the wilderness is an entire pocket within the larger Anthropocene. The project mitigates the danger and risks of human proximity to wilderness. Using AI, it reintroduces a domestic component to the environment, so that we can benefit from the wilderness as a computational engine for evolving new chemical products. The artificial intelligence interface controls the autonomous aggregation of growing components by initiating plant growth, nurturing it, and terminating it. The system operates between the risks of the rainforest and the luxury of the garden mall.
+"Biophilia"
+Burcin Nalinci & Sanhita Vartak
+Complete and submit your application and the SCI-Arc Writing Supplement here.
+Once you’ve applied, log in to check your application status.
+Receive printed information about SCI-Arc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Please note: This degree program is designated as a STEM program in Architectural and Building Sciences/Technology (CIP code 04.0902). International students who graduate from this program are eligible to extend their F-1 Visas for a maximum of 36 months.
+Office of Admissions admissions@sciarc.edu213.356.5320
+960 East 3rd StreetLos Angeles, CA 90013
+SCI-Arc Parking Directions
+SCI-Arc External Instagram
+SCI-Arc External Facebook
+SCI-Arc External X
+SCI-Arc External YouTube
+SCI-Arc External TikTok
+SCI-Arc WeChat
+SCI-Arc External my.sciarc.edu
+SCI-Arc Press Releases
+SCI-Arc External 2023 Annual Security Report
+SCI-Arc Privacy Policy
+SCI-Arc External news@sciarc.edu
+SCI-Arc Sign up for updates
+SCI-Arc and the SCI-Arc logo are registered trademarks of the Southern California Institute of Architecture.
+
+Notice of Nondiscriminatory Policy as to Students:SCI-Arc admits students of any race, color, and national or ethnic origin to all the rights, privileges, programs, and activities generally accorded or made available to students at the school. It does not discriminate on the basis of race, color, or national and ethnic origin in administration of its educational policies, admissions policies, scholarship and loan programs, and other school-administered programs. Learn more.
+This website has several pdf links, you can download Adobe Reader from Adobe website.

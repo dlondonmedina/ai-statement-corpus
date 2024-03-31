@@ -1,0 +1,20 @@
+University of Rochester official policy on generative AI Artificial Intelligence
+https://www.rochester.edu/university-research/updated-advisory-guidance-on-the-use-of-generative-ai-in-research/
+
+
+				Updated Advisory Guidance on the Use of Generative AI in Research			
+
+
+			SHARE		
+Dear Colleagues,
+As we all know, generative AI is profoundly changing many aspects of our lives – including research and scholarship.  In an effort to continuously update our guidance to the research community, I’m writing to share some updated information from our major federal research sponsors (NIH, NSF) and some related advisory guidance related to the use of generative AI tools in research.
+In June of 2023, NIH issued a new policy that Prohibits the Use of Generative Artificial Intelligence Technologies for the NIH Peer Review Process.  NIH Deputy Director Mike Lauer provided additional details/insights through his blog, in a piece entitled Using AI in Peer Review Is a Breach of Confidentiality.
+More recently (December, 2023), NSF issued a very similar Policy Memo to its extramural research community, indicating that “NSF reviewers are prohibited from uploading any content from proposals, review information and related records to non-approved generative AI tools.”
+The NSF Policy Memo also notes that: “Any information uploaded into generative AI tools not behind NSF’s firewall is considered to be entering the public domain. As a result, NSF cannot preserve the confidentiality of that information. The loss of control over the uploaded information can pose significant risks to researchers and their control over their ideas”.
+The NSF memo draws attention to the potentially serious unintended consequences that may result from uploading unpublished research papers, data, or scholarly works into ChatGPT or other generative AI tools that do not explicitly guarantee the confidentiality of any uploaded information.  Please keep this in mind.
+Best,
+Steve
+Stephen Dewhurst, PhD
+Vice President for Research
+University of Rochester
+Explore our 2030 Strategic Plan

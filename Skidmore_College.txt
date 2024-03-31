@@ -1,0 +1,70 @@
+Skidmore College official policy on generative AI Artificial Intelligence
+https://leds.domains.skidmore.edu/generative-ai-tools-and-their-uses-for-teaching-learning/
+Applications utilizing artificial intelligence have become ubiquitous in our everyday lives. Tools such auto-correct in MS Word, voice assistants like Siri and Alexa, and navigation apps are just a few examples of AI integration. Artificial intelligence are computer programs designed to mimic human intelligence and perform a range of tasks. Generative AI is a category of AI that can generate new content based on pretrained information that has been loaded into a large language model and drawn from using algorithms and probability models. The new content that is generated could be text, images, music, video, and more. These new tools are posing unique opportunities and challenges in higher education. This page aims to assist faculty and students in understanding what these tools are and how to use them appropriately for teaching and learning.
+Although OpenAI’s release of ChatGPT seemed groundbreaking, along with other more recent generative AI tools, we have been through this cycle of technology adoption before, from the advent of writing itself to calculators to word processors to Google translate. As with each of these tools, the technologies will only improve and continue to disupt our lives in everchanging ways.
+Generative AI is not going away. The field of generative AI will continue to disrupt our work and study both positively and negatively, and making sure our students are aware of it and develop healthy habits around its use is critical. Possessing a good understanding of how to use generative AI for various tasks, and when not to use it, could be considered a valuable digital literacy for our students, as employers will increasingly expect this knowledge from college graduates they employ.
+If faculty choose to require students create an account with a generative AI service, such as ChatGPT, we encourage you to not only inform students of the limitations of such platforms (they are prone to hallucinating, i.e. can provide inaccurate or biased information, fabricated quotes and sources, etc.) but also potential data privacy concerns. Everyone who chooses to create an account should review the terms and privacy policy to fully understand the provisions permitting the sharing of information, as well as reflect on what is being given up by the user for “free” access to these tools.
+Many AI developers have released terms of use that are unclear or nonexistant. ChatGPT has noted the following privacy concerns that students need to be aware of (along with faculty):
+You may want to revisit your syllabus to include some mention of your own course’s considerations around the use of generative AI. Here are some example statements you may adjust in service of what is best for your students and desired learning goals for your class.
+View sample syllabi statements here, submitted by Skidmore faculty. Feel free to re-use or modify as needed for your course(s).
+ 
+See these additional resources regarding generative AI and syllabus statements:
+University of Minnesota’s guide – https://provost.umn.edu/chatgpt-syllabus-statements
+Colorado State University’s guide – https://tilt.colostate.edu/what-should-a-syllabus-statement-on-ai-look-like/
+ 
+There are numerous approaches to addressing generative AI in the classroom. Depending on your discipline, course topic, and teaching style, there are a collection of resources below that might be helpful as you think through how you might alter writing assignments, incorporate generative AI in creative ways, and/or utilize a detection tool.
+If you expect students to avoid the use of AI chatbots when producing their work, add this to your policy. See the above section for example statements that can be added to your syllabus.
+As for explaining why, understanding the learning goals behind assignments helps students commit to them. The only reason to assign written work is to help students learn — either to deepen their understanding of the material or to develop the skill of writing in itself.
+Research shows that people learn more and retain the information longer when they write about it in their own words. If instead, students task an AI to generate texts, they won’t learn as much. This is why we ask them to write their own papers, homework assignments, problem sets, and coding assignments. This impact on learning applies across all disciplines—STEM problem sets that require explanations also depend on students’ generating language to learn more deeply. ChatGPT can also generate coding solutions, not just natural language.
+— modified from Yale – https://poorvucenter.yale.edu/AIguidance
+ 
+If learning to become a stronger writer is part of a course learning outcome or goal, weave that outcome intentionally into your course. Help students understand the value or benefits they gain from writing in your class. For example, incentivize or give credit for students to turn in outlines, drafts, pre-writing, and other kinds of notes so that they demonstrate their thinking about a topic prior to the creation of a formal written piece. Scaffolding in pre-writing, drafting, or outlining will help faculty more easily see the evolution of a student’s thought before they engage with the final written product.
+ 
+In a portion of the course syllabus dedicated to academic integrity, it is worth mentioning that if a student uses text generated from ChatGPT and passes it off as their own writing, without acknowledging or citing the influence of ChatGPT in their process, they are in violation of the college’s academic honor code. Lifting full sentences and paragraphs wholecloth, whether it’s from an encyclopedia, written article, or AI-generated text creation tool, may be considered plagiarism. Providing concrete examples to students of what constitutes written plagiarism may help them make more informed choices about how and whether to use particular tools to support their writing. Again, see the section above for example statements you might consider adding to your syllabus.
+ 
+Librarians are a valuable resource to inform conversations about information literacy and the use of various online tools for composing research-based writing. Draw upon their expertise when meeting with students to explore different ways that students can and can’t use ChatGPT effectively for research-based writing assignments.
+Based on research about when students plagiarize (whether from published sources, commercial services, or each other), we know that students are less likely to cheat when they:
+Many of the above characteristics can be integrated into authentic assessments, which are assignments that 1. have a sense of realism to them, 2. are cognitively challenging, and 3. require authentic evaluation. Examples can be found at the bottom of this website. Authentic assessments also align with practices that prioritize student learning, and make it harder to collaborate with AI tools, including:
+–modified from Yale – https://poorvucenter.yale.edu/AIguidance
+ 
+If you’re interested in having students actively engage with ChatGPT, invite them to submit prompts to ChatGPT and analyze what the output. Alternatively, especially considering the privacy considerations oultlined on this page, you as the instructor might be the one to submit the prompt. What does ChatGPT do well in its response? What do they see as the limitations of the response? What are they noticing about the tone, style, and engagement with core ideas from the class you’re teaching? As you help students guide their own critique and engagement with ChatGPT’s output, the more thoughtful and informed students can be about what ChatGPT is capable of doing, while at the same time engaging with the course material in a new way.
+ 
+Current users of ChatGPT have found that ChatGPT struggles particularly to generate text that incorporates analysis of cited materials or artifacts, such as images, audio, and video. As such, if you are designing writing assignments that include “close reading” of particular texts or media that are relevant to your class context, it is unlikely that ChatGPT will be capable of producing very meaningful work.
+ 
+AI-generated answers do well at providing expositions and facts (even if the “facts” are not all accurate!). However, when asked to relate one concept to another, ChatGPT presents an exposition of one concept followed by the other, making only minimal and superficial connections between them. You can strengthen this kind of assignment by specifying a need for students to engage with multiple sources, asking them to cite those sources and explain how they are connected around shared themes, arguments, and ideas in your course.
+ 
+ChatGPT does an adequate job of summary, but is incapable of close reading and of description based on sensory perception. Any assignment that includes a clear and specific requirement to discuss concrete examples that cite sensory experiences will require students to do much of the work themselves.
+The arms race predicted last year between AI developers and AI detection tools has begun. The consensus among experts is that the detection tools will mostly remain a step behind, and thus not especially accurate or reliable. Therefore, it is suggested that any AI detection tool be utilized with extreme caution and always as part of a multi-faceted approach in instances where honor violations are suspected.
+The AI detection tool that we currently license here at Skidmore is part of our plagiarism detection software by Turnitin. Visit the LEDS Plagiarism Prevention & Detection page for information on how to implement AI detection for writing assignment.
+While acknowledging that new technologies can change the landscape, we know that most students want to do their own work because they care about learning. Tools like ChatGPT raise broad questions across higher education. We agree with this approach from Inside Higher Ed: “Go big. How do these tools allow us to achieve our intended outcomes differently and better? How can they promote equity and access? Better thinking and argumentation? … In the past, near-term prohibitions on … calculators, … spellcheck, [and] search engines … have fared poorly. They focus on in-course tactics rather than on the shifting contexts of what students need to know and how they need to learn it.”
+ 
+Generative AI is evolving rapidly, and many of us at Skidmore are doing our best to keep up with the technology. A curated list of resources, including articles, podcasts, and open resources from Skidmore faculty and staff, are included below.
+Will Artificial Intelligence Kill College Writing? from The Chronicle of Higher Education, Jeff Schatten, September 14, 2022 
+Will ChatGPT Change How Professors Assess Learning? from The Chronicle of Higher Education, April 5, 2023
+ChatGPT Advice Academics Can Use Now from Insider Higher Ed, Susan D’Agostino, January 11, 2023
+Advice and a sample class activity from Times Higher Education, Nancy Gleason, Dec. 9, 2022
+Hidden biases and societal risks from People of Color in Tech, Christian Ilube, Dec. 13, 2022
+ChatGPT Citations | Formats & Examples from Scribbr, Jack Caulfield, May 15, 2023 
+How Many Languages Does ChatGPT Support?  from SEO.ai, Alexander Christensen, February 3, 2023 
+What Are Large Language Models (LLMS)? from Analytics Vidhya, Suvojit Hore, March 13, 2023 
+EdSAFE and AI at SXSW ’23 from EdSAFE AI Alliance, March 10, 2023 
+
+
+EdSAFE AI Alliance
+AI in Higher Education – from Ray Schroeder
+WAC Clearinghouse – from Anna Mills
+More Useful Things: AI Resources
+
+
+Hard Fork – Can ChatGPT Make This Podcast?
+Hard Fork – ChatGPT Transforms a Classroom
+The ChatGPT Report – Is Education Dead?
+The ChatGPT Report – Interview with University Professor Dr. Jennie Carr
+Teaching in Higher Ed – ChatGPT and Good Intentions in Higher Ed
+Intentional Teaching – AI Writing with Rober Cummings
+The CLTL and LEDS hosted a workshop on generative AI on March 22, 2023. A number of topics were discussed and participants were encouraged to jot down their thoughts and questions in the shared OneNote linked below. This is an open resources that faculty are encouraged to continue adding to and referencing whenever needed.
+Generative AI Workshop in OneNote
+Reach out to CLTL or LEDS for help with generative AI in the classroom.
+Our office is on the second floor of the library (Library 222)
+Our office hours are M-F: 8:30am – 4:30pm.
+leds@skidmore.edu

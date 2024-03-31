@@ -1,0 +1,6 @@
+Central Washington University official policy on generative AI Artificial Intelligence
+https://www.cwu.edu/about/media-resources/news/campus-notices/2023/november/campus-notice.php
+This workshop delves into the practical and ethical aspects of Generative Artificial Intelligence in education with a specific emphasis on student applications in coursework, aiming to spark faculty discussions for policy considerations at Central Washington University.
+The rapid growth of Generative Artificial Intelligence raises numerous practical and ethical issues in education. This workshop will briefly outline common generative AI tools, introduce several models of approaching the ethics of AI, and then explore how AI impacts issues like academic honesty, privacy, bias, equity, and sustainability. While generative AI impacts all areas of education, this workshop will primarily focus on the student applications of AI tools in their coursework. We hope to stimulate ongoing faculty conversations that can inform policy on these issues for Central Washington University
+
+

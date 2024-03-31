@@ -1,0 +1,77 @@
+Charles Darwin University official policy on generative AI Artificial Intelligence
+https://www.cdu.edu.au/current-students/student-code-conduct/academic-integrity
+Personalised content for
+You're an international student if you are:
+You're a domestic student if you are:
+You're a domestic student if you are:
+You're an international student if you are:
+Academic integrity is the expectation that students will act with honesty, trust, fairness, respect and responsibility.
+Sections in this page
+The Student Academic Integrity Policy outlines CDU’s expectations of academic integrity for all students.
+This Policy applies to all students enrolled at CDU or with a partner organisation in:
+The Policy applies to all assessment activities including those on campus, online, in workplaces, or in the field.
+Academic integrity is the demonstration of the values of honesty, trust, fairness, respect and responsibility in achieving academic outcomes, resulting in a growing sense of ethical and professional behaviour.
+We expect that you will act honestly and do the right thing for yourself, other students, and CDU.
+To meet the required standards of academic integrity, you will:
+Learn about academic integrity by participating in activities and accessing resources designed to help you understand appropriate academic practices and professional or industry standards.
+Be truthful when providing documentation to the University, submitting original work, giving due credit to the work of others, and supplying additional information when requested, including saving back-up copies to provide proof of authorship.
+Role-model academic integrity within the University, speaking up against breaches in academic or research integrity, where it is safe to do so. Commit to creating an ethical and professional University environment, online, on campus, in the field and in the workplace.
+Visit TEQSA to learn more about the information on Artificial Intelligence for students.
+Academic misconduct is where a student seeks an unfair advantage for themselves or others by behaving in a way that is different to the ethical principles of academic honesty and integrity.
+A false representation made in attempting to gain an unfair advantage.
+A deliberate attempt to gain an unfair advantage, including:
+Any unauthorised collaboration in preparation or presentation of work, including knowingly allowing personal work to be copied by others.
+Securing a person or computer program to complete part or all your assessment, including using work prepared by another person.
+Resubmitting or largely reusing work that you have previously had assessed as new work, without permission from the lecturer/tutor.
+The intentional use of information or data that has been made up but is implied to be real.
+Inappropriate or unsanctioned use of generative artificial intelligence (GenAI) tools.
+GenAI is a type of artificial intelligence that focuses on the creation and generation of new content such as audio, code, images, text, simulations and videos.
+Assuming the identity of another person and completing assessments on their behalf.
+Presenting an untrue or incomplete statement that could mislead, including:
+Presenting the work of another as your own work without proper acknowledgement that clearly identifies which parts of the work originate from another source.
+Work includes ideas, interpretations, words, or creative works such as works in print and electronic media, published and unpublished documents, designs, music, sounds, images, photographs, computer codes and ideas gained through working in a team.
+Offering, inducing or advertising for a person to complete an assessment on your behalf, including work likely to be used for cheating, misrepresentation and/or plagiarism.
+Note that a student who agrees to assist another student through solicitation, cheating, misrepresentation or plagiarism (for example by willingly sharing their own work or advertising the availability of their own work or someone else’s work) is also in breach of academic integrity, and will be subject to disciplinary action.
+Breaches of academic integrity will be dealt with under this Policy in the first instance, acknowledging that repeated or serious cases may be referred to the Student Code of Conduct for action.
+Breaches will be dealt with by:
+There are varying degrees of seriousness in relation to breaches of academic integrity:
+Description
+Penalties / outcomes
+Impact on results
+Academic Misconduct will be deemed serious if it appears to be:
+All cases of contract cheating will be deemed serious.
+For severe or repeated cases, and for all cases of contract cheating:
+Description
+Penalties / outcomes
+Impact on results
+All academic misconduct not deemed to be serious will be deemed minor.
+For HE students:
+For TAFE students:
+Depending on the breach:
+All students who breach academic integrity, regardless of the level of breach, will undertake an educative intervention strategy to ensure future academic integrity. This includes, but is not limited to:
+What is this unit for?The Academic Integrity unit on Learnline is compulsory for all currently enrolled commencing Higher Education students. 
+There are four modules that will help you understand the principles and concepts of academic integrity and how this is applied in your academic work with practical examples and scenarios.
+We recommend completing this as soon as possible so you have a clear understanding of what constitutes plagiarism, cheating and other forms of academic misconduct. 
+What is required to complete this unit?This unit must be completed by the end of your first semester of study, otherwise your grades will be withheld.
+To successfully complete the unit, you need to work through the content and score at least 80% or higher on each module quiz. You will not have access to the quiz unless you have first worked your way through the content. You can see your grade for each quiz and overall grade within the Grade Centre of the unit.
+Log in to Learnline
+ContactsIf you have any questions about academic integrity and your units, you should ask your unit coordinator or lecturer for advice. 
+For more general enquiries, reach out to the Library by email askthelibrary@cdu.edu.au 
+CDU, like other educational institutions, is monitoring the impact of artificial intelligence (AI) on our sector. Most notably, ChatGPT, released in November 2022 by OpenAI, has dominated nearly every media stream in 2023. 
+Its arrival has resulted in direct exposure to AI for many staff and students. Understandably, there are concerns about academic integrity and acceptable use of AI. 
+OpenAI’s ChatGPT (Chat Generative Pre-training Transformer) is an application of a Large Language Model (LLM) that uses complex deep learning algorithms to aggregate and complete natural language generation tasks. Like other AI-based tools, it uses large databases of information collected from the Internet to interact with users in a conversational manner and provide answers to requests and specific questions.
+We have seen a range of AI tools impacting CDU teaching and learning in helpful ways such as:
+ 
+Recently tools have been developed to help educators identify text that might be prepared by a generative AI tool.
+When students submit written work to Turnitin for similarity checking, the AI writing detection utility looks for English language patterns, and it scores as likely generated from an AI source and applies a percentage value.
+From Semester 2, 2023, this utility will be available to CDU educators to identify text that may have been generated from a generative AI tool like ChatGPT.
+CDU supports all AI tools that can assist, support and scaffold student learning. Our challenge is to provide awareness and guidance so these new AI tools will have positive impacts and not be used inappropriately, compromising academic integrity at CDU. Importantly, staff and students will need to develop an awareness of the ethical use of AI.
+The ongoing challenge for CDU is to embrace this new AI era for research, teaching and learning, knowledge acquisition and knowledge creation. CDU will continue to monitor good practice across the sector and establish a framework of acceptable use. Staff and students have an opportunity to accelerate and ignite more personalised, enabled and authentic teaching and learning, to better equipping ourselves for the jobs of the future. 
+Charles Darwin University acknowledges the traditional custodians across the lands on which we live and work, and we pay our respects to Elders past, present and emerging.
+CRICOS Provider No: 00300K RTO Provider No: 0373 TEQSA Provider ID PRV12069
+ABN 54 093 513 649 | Privacy | Copyright and Disclaimer | Cookies | Feedback 
+Find courses and add them to your shortlist by clicking on the
+          
+
+It may take up to 5 minutes.
+We use cookies to improve our service. By continuing you agree to our privacy statement. EU/EA members can update your cookie settings here.

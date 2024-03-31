@@ -1,0 +1,14 @@
+Portland Community College official policy on generative AI Artificial Intelligence
+https://www.pcc.edu/technology/2023/04/05/chatgpt-and-information-security/
+
+    	Posted by matthew.brehm15 
+ChatGPT is one of the newest Artificial Intelligence (AI) technologies that is quickly gaining in popularity. It offers the ability for a chat bot to conversationally respond with very realistic writing that can be used to compose email or even technical information such as code. At its core, these systems are simply web forms that accept input, process that input, and then produce output.
+First, a malicious person could put input into one of these systems in order to automatically generate spam and phishing emails that are very convincing. This makes them much harder to identify and track. Staying alert to potential threats in emails and messages is more vital than ever.
+Then, there is a question of how the data entered will be used. When you enter information into a form online you are sharing that information with a third party. That third party can then share that information with other parties. This is why confidential information should never be entered as input into these AI chat bots unless appropriate approval and authorization is in place. PCC policy and legal regulations prohibit PCC related controlled sensitive information from being shared with third parties without authorization, and that includes the companies behind these AI services.
+Finally, the output of these AI services should not be treated as meeting the goals and standards of quality and service that PCC maintains through our values and policies. The values of the college are not necessarily the same as those programmed and trained into these AI bots. So, the output could be offensive, misleading, incorrect, or otherwise not aligned with PCC’s mission.
+Popularity of this new “AI” industry is growing rapidly and has already seen adoption from companies such as Microsoft in their Bing search engine. Google and Slack have stated they are also working on implementations. As this technology is adopted, PCC will be evaluating it to ensure policy, regulations, and the college’s mission are fulfilled by the use of such technology. Until that process is conducted, we recommend not using these chat AI services for any PCC related work.
+Search: Information Technology
+Copyright © 2000-2024 Portland Community College
+					| Log in to the website editor
+
+          An Affirmative Action Equal Opportunity Institution

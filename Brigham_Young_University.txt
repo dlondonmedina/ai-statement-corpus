@@ -1,0 +1,16 @@
+Brigham Young University official policy on generative AI Artificial Intelligence
+https://gradstudies.byu.edu/about/statement-on-use-of-ai
+Statement on Use of Artificial Intelligence in Graduate Programs
+
+Graduate Studies supports the statement from the Academic Vice President’s Office on Academic Use of Artificial Intelligence at BYU and concurs that academic use of artificial intelligence (AI) at Brigham Young University should be consistent with the principles of the Honor Code and Academic Honesty Policy.
+
+This document describes AI use considerations in graduate programs; further clarifications or limitations on the use of AI in specific disciplines may also be defined by colleges, schools, departments, or programs, while following the higher expectations in the general BYU policies referred to in this document.
+
+The Academic Honesty Policy states, “BYU students should seek to be totally honest in their dealings with others. They should complete their own work and be evaluated based upon that work.” In the graduate context, “work” includes coursework and research or creative works, as well as theses, dissertations, projects, prospectuses, publications, presentations, exhibitions, performances, papers, and other academic work.
+
+To be appropriate, at a minimum, generative AI use should be consistent with norms in the discipline, as well as any university, college/school, and department/program policies. Additionally, generative AI use in graduate education must be approved in advance by the student’s graduate committee (or faculty advisor in programs with that model) and disclosed in the final product. For graduate coursework, AI use must also be consistent with the expectations set forth in the course syllabus or other assignment documentation. Inappropriate use of generative AI toward any graduate program requirement is inconsistent with BYU’s Academic Honesty Policy.
+
+Use of AI that is inconsistent with the above expectations may result in a student being subjected to disciplinary measures from the “Applicable Actions” section of BYU’s Academic Honesty Policy, the severest of which is dismissal from the university.
+For additional information about using Generative Artificial Intelligence at BYU, please visit https://genai.byu.edu/.
+Graduate StudiesFormer President's Home Provo, UT 84602
+801-422-4091gradstudies@byu.edu

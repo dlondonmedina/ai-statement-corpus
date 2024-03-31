@@ -1,0 +1,120 @@
+Hilbert College official policy on generative AI Artificial Intelligence
+https://online.hilbert.edu/blog/electoral-integrity/
+
+            Resources ▼
+A democracy is a form of government that empowers citizens to vote for their leaders. In a democracy, the pursuit of fairness, stability and liberty means that all eligible citizens can participate equally and fully, which helps build trust in the democratic system. 
+Trust deficits in democracies often derive from a lack of electoral integrity, also known as 
+election integrity. The term “electoral integrity” refers to the fairness and transparency of an election, as well as adherence to rules and norms. 
+Outside forces can be to blame for compromising electoral integrity, but the problem of trust sometimes lies within the electoral process itself. According to a 2020 study in Quality & Quantity, citizens who voted for a losing candidate were less likely to believe that an 
+election outcome was fair, decreasing political trust. 
+This guide discusses the importance of electoral integrity, the challenges faced in maintaining it, goals to strive for and resources available to address common issues.
+
+Electoral integrity serves as a benchmark for democratic norms and standards, which can vary by jurisdiction. Democratic societies function as they should when they adhere to the cornerstones of electoral integrity, including the following: 
+Fairness.
+Democracy and fairness go hand in hand. Each citizen should have the same rights as any other to determine who governs them.
+Inclusivity.
+Inclusivity in democracy means removing obstacles to electoral participation so that every eligible individual can cast a ballot.
+Transparency.
+Election transparency helps bring corruption and unfair advantages to light. This safeguard is necessary to prevent activities that could erode trust in democracy.
+
+Achieving electoral integrity involves promoting voter literacy, ensuring maximum participation, mitigating electoral violence and building confidence in electoral outcomes.
+
+Enhancing accessibility is key to promoting election integrity. This encompasses protecting critical infrastructure, implementing reforms that improve voting processes for all and providing fair access to the ballot box.
+Understanding electoral integrity requires a look into 
+democracy’s past, which provides a glimpse into its future. The word “democracy” comes from the Greek demokratia. While democracy’s founding is often attributed to ancient Greek societies, the practice and ideals of democracy existed much earlier, in several cases to counter autocratic rule. For example, collective forms of governance in ancient Mesopotamia included councils and assemblies that helped put some constraints on autocratic rulers.
+While the institutions associated with modern democracy were born in Europe, it was in North America where democracy as a form of government took root and flourished, with the United States being the centerpiece of the experiment in the late 18th century. 
+Today, however, electoral integrity in the United States lags behind other liberal democracies: The 
+Electoral Integrity Project ranks it No. 15 out of 29. Its report also highlights the following:
+Canada ranks higher than the United States in North America. 
+Electoral quality is ranked highest in Finland, Sweden and Denmark.
+Democracies outside of Europe with high electoral integrity include Cape Verde, Taiwan and New Zealand.
+In the United States, the events of January 6, 2021, when protestors breached the U.S. Capitol building in an attempt to overturn the presidential election, demonstrated how delicate the balance of power can be in a democracy. However, throughout history, democracy has demonstrated to be an effective 
+counter to autocracy and authoritarianism.
+Government agencies; private sector entities; election experts, such as 
+policy analysts; and individual collaborators, including citizens who volunteer at polling stations, rely on established election frameworks to help ensure that the laws are followed and citizens’ rights are upheld in election processes. 
+
+Title 52 of the United States Code focuses on voting and election laws and is divided into three primary sections:
+Subtitle I: Voting Rights
+Subtitle II: Voting Assistance and Election Administration 
+Subtitle III: Federal Campaign Finance
+Subtitles I and II establish legal electoral processes for Election Day and provide a framework for standards and goals of electoral integrity. While every jurisdiction must adhere to federal election laws—and standards and goals may be common across different states and localities—each jurisdiction may follow different legal and procedural frameworks. For example, 
+voting laws can differ by state when it comes to voter registration and casting ballots.
+State differences in electoral processes often lead to misunderstandings and uncertainty about 
+election security in the minds of some voters. To help distinguish 
+election security rumor vs. reality, election officials typically perform election audits—before, during and after an election—to promote voter confidence. 
+
+Election audits can include the following:
+Ensuring that voting systems operate accurately
+Verifying that processes comply with regulations or policies
+Identifying and resolving discrepancies
+Internationally, the United States Agency for International Development (USAID) helps other countries set standards and goals to lay the groundwork for integrity in electoral processes.  This includes an 
+electoral assessment framework that provides guidance on election process-related obligations, such as ensuring the following:
+The broadest pool of voters without discrimination or restriction
+Periodic elections to reduce the possibility of authoritarian regimes
+Eligible citizens able to vote in secret without fear of intimidation or threat of retribution
+Transparency to prevent corruption
+Various factors can undermine the integrity of elections, including foreign intervention, technology, photo ID requirements and gerrymandering.
+Foreign threats to U.S. elections include election interference and election influence. For example, a 
+National Intelligence Council (NIC) assessment declassified in March 2021 reported that the Russian government sought to interfere in the 2016 presidential election by trying to access U.S. election infrastructure. While no similar technical attempt occurred in the 2020 presidential election, the NIC reported that the Russian government pushed election influence narratives through various proxies to undermine public confidence in the electoral process.
+Decades after the 1996 presidential political campaigns first used the internet, the use of 
+technology in elections has come a long way. However, thanks to misinformation and false claims of election fraud in the 2020 presidential election eroding public trust in the way votes are cast and counted, many now see electronic voting systems as unreliable.
+
+Concerns over the role of social media in elections and recent advancements in generative 
+artificial intelligence (AI) tools are also causing increased worries about the spread of misinformation and disinformation this election cycle. To help boost voter confidence in the next election, most states have adopted 
+hybrid voting systems that include both paper ballots and electronic vote counting systems.
+
+Voter identification laws in 35 states either request or require identification at the ballot box, according to the National Conference of State Legislatures. Proponents 
+argue that voter ID laws prevent voter fraud and increase electoral integrity and voter confidence. However, opponents say these laws unnecessarily burden many voters, particularly underrepresented communities, as voter fraud rarely happens.
+Article I, Section 2 of the U.S. Constitution specifically allows states to redefine voting districts within certain guidelines. Based on the Supreme Court’s Wesberry v. Sanders ruling, 
+congressional redistricting requires that the population of each district be as close to equal as possible. This helps ensure that everyone’s vote in a congressional election is equal, 
+no matter the district. However, partisan redistricting, known as 
+gerrymandering, compromises the “one person, one vote standard” because it intentionally divides voters to favor one political party over another. Gerrymandered districts are often so one-sided that it makes it nearly impossible for individuals voting for an opposing party to get their representatives elected; this is antithetical to free and fair elections.
+The primary sign of a fair election is its credibility. An 
+election is credible when the outcome reflects the people’s will; the path to the outcome is transparent and inclusive; and voters, election officials and political parties all trust the outcome.
+The path to fair and credible elections begins with equality. Political parties must have equal opportunities for competition, and voters must have equal opportunities to vote for the candidates of their choice. While the law protects the broad principles of equal rights, safeguarding these freedoms through 
+nonpartisan observation is important.
+Another key mark of fair elections is that they follow a consistent cycle. For example, the U.S. presidential election is held every four years, while 
+midterm elections for the Senate and House of Representatives are held every two years. This means that elections are an ongoing, interconnected process. While autocratic countries may hold elections, they’re generally isolated events and tightly controlled by authoritarian regimes.
+The following are also important in ensuring 
+free and fair elections:
+Protecting the rights of eligible voters, enabling their participation in the electoral process without intimidation and harassment
+Making sure that election management bodies and political parties are strong and have equal access to voters
+Strengthening election processes through reforms that address concerns, investigate complaints and ensure accountability
+Enhancing voter education through reliable, trusted information  that can help enhance voter turnout and participation
+Mitigating electoral violence and ensuring electoral justice
+Breaking down barriers that hinder the participation of marginalized groups
+Empowering election officials by providing essential resources and support
+Preventing politicians or special interests from manipulating the outcome or dictating election rules
+Developing election systems and processes that are secure, accessible and accurate
+Safeguarding elections from interference by foreign adversaries or domestic political entities
+Policymakers, election officials, and state and local election administrators are responsible for ensuring electoral integrity. In the United States, the 
+federal role in elections includes participation from different branches of government, including the judiciary—for example, the 
+Supreme Court rejected an argument that could’ve compromised the integrity of the 2024 election. However, ensuring electoral integrity is an ongoing, collaborative effort. It requires a joint effort between the federal government, state and local governments, the private sector and everyday citizens.
+Organizations with electoral integrity initiatives aim to address challenges that undermine free and fair elections. Below are examples.
+
+Kofi Annan Foundation’s Electoral Integrity Initiative focuses on supporting and strengthening electoral integrity worldwide. Through various programs and partnerships, the initiative works to promote fair and credible elections, enhance democratic governance, and prevent electoral violence. Its areas of work include peace and trust building, supporting elections and democracy, promoting youth leadership, and gender equality.
+The 
+Electoral Integrity Project is an independent academic project that conducts research and provides policy recommendations to enhance electoral integrity globally. Its work encompasses analyzing the factors that contribute to flawed elections and understanding the consequences, and identifying strategies to mitigate these challenges. The project collaborates with researchers, policymakers and practitioners to develop evidence-based solutions for improving electoral processes.
+With a mission that centers on achieving justice, fairness, inclusion and performance, the National Academy of Public Administration (NAPA) provides resources focused on 
+protecting electoral integrity and enhancing voter participation. Its initiatives involve addressing issues such as foreign intervention, technology utilization and voter accessibility. NAPA emphasizes the importance of secure election infrastructure, robust monitoring mechanisms and inclusive policies to ensure equitable access to the electoral process.
+
+Freedom House, an international nongovernmental organization, assesses and advocates for political freedom and human rights. Its work includes monitoring election processes and promoting election integrity globally. Freedom House publishes reports such as “Freedom in the World” and “Nations in Transit” that 
+provide comprehensive assessments of democratic practices, including electoral integrity. The organization also investigates the ties between digital platforms and election integrity with its 
+Election Watch for the Digital Age research initiative.
+The following resources provide collective knowledge, analysis and best practices to help protect the integrity of elections: 
+
+ASQ, “Center For Electoral Quality and Integrity (CEQI)”: Aims to demonstrate how best practice operational models can be used to help solve challenges in elections.
+
+Brennan Center for Justice, “Securing the 2024 Election”: Emphasizes the importance of collaboration between federal, state and local officials, with recommendations.
+
+C-Span, “Video Clip: Election Integrity and Confidence in 2024 Results”:  Presents findings of a survey that shows Americans’ confidence level in the upcoming presidential election.
+
+Integrity Institute, “Misinformation Amplification Analysis in the US Midterm Elections”:  Highlights analysis of voting and election misinformation in the 2022 U.S. midterm elections.
+
+MITRE, Ensuring Election Integrity:  Defines the three primary elements of election integrity —policies and procedures, security, and accurate information—and offers recommendations.
+
+United States Election Assistance Commission, Help America Vote Act:  Summarizes key legislation following the 2000 election that aims to improve voting systems and voter access.
+“We the People.” These words in the preamble of the 
+U.S. Constitution serve as the foundation of American democracy. They’ve also 
+inspired democracy worldwide—for example, “We the Peoples” are the opening words of the Charter of the United Nations. 
+For democracy to continue being an inspirational force, electoral integrity is essential. What this means is that citizens can choose their representatives through free and fair elections. However, public trust and confidence must remain as the foundation of electoral processes. By addressing challenges such as foreign intervention, disinformation and voter accessibility through continuous improvement, collaboration and the promotion of inclusive democratic processes, democracy can become stronger.

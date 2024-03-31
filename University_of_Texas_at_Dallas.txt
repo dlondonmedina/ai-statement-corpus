@@ -1,0 +1,9 @@
+University of Texas at Dallas official policy on generative AI Artificial Intelligence
+https://ctl.utdallas.edu/2024/01/23/crafting-effective-policies-and-syllabi-in-the-ai-era/
+In a recent CTL webinar focused on teaching in the age of generative artificial intelligence (AI), co-presenters Dr. Sarah Moore and Aaron Cummings from the Naveen Jindal School of Management shared practical strategies for addressing the use of AI tools like ChatGPT in the classroom. Moore, director of JSOM’s Business Communication Center, offered three tips for developing policies and syllabi related to the use of generative AI.
+When addressing AI tools, opt for broad terminology such as “generative AI” rather than mentioning specific tools like ChatGPT to avoid having to change your policies as technologies emerge. Keep language straightforward and positive.
+While the UT Dallas Office of Community Standards and Conduct has not developed a new policy specifically focused on AI, academic integrity policies that ban plagiarism, fabrication and cheating do apply. “I think the meaning of plagiarism is going to change, and some people will say plagiarism is generating a paper in AI and copy/pasting it,” Moore said. “Fabrication will be a big one, too.” She suggested promptly reporting suspicions of dishonesty and avoiding statements like: “If Turnitin identifies AI use, a zero will be assigned.”
+Do include syllabi statements and assignment instructions that outline the acceptable use of generative AI or its outright ban. For instance, if an assignment should be completed without AI assistance, you could include a statement like: “This assignment is generative AI free.” You then can use AI detection tools like Turnitin, which is integrated into eLearning, to check for compliance.
+© The University of Texas at DallasOffice of the ProvostCenter for Teaching and Learning800 W. Campbell Road, MC 2.402Richardson, Texas 75080-3021
+972-883-2247
+Privacy Policy

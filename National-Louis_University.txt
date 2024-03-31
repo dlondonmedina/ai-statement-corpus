@@ -1,0 +1,309 @@
+National-Louis University official policy on generative AI Artificial Intelligence
+https://nl.edu/ctle/managing-your-course/teaching-your-course/best-practices-for-educators/ai-and-your-class/ai-launch-pad/
+Artificial Intelligence is making it's way to classrooms. This will bring many opportunities and challenges for instructors. This page will help you understand what AI is and how to work with it in your classes.
+
+
+	   Intro to AI
+
+Artificial Intelligence, or AI, is used to create systems and machines that can perform tasks that would typically require human intelligence, such as learning, problem-solving, and decision-making. ChatGPT is a specific implementation of AI, known as a language model, which is trained to generate human-like text based on a given prompt. This technology can be used for a variety of applications, such as natural language processing, automated writing and content generation, and conversational interfaces for chatbots and virtual assistants. The goal of ChatGPT is to make it easy for developers to add human-like language capabilities to their applications, making the interactions with their systems more natural and intuitive for end-users.
+(The above introduction was written by Chat GPT given the following prompt, "To an audience of faculty, explain the purpose of AI and Chat GPT")
+
+Video Credit: TechTarget (retrieved from: https://www.techtarget.com/searchenterpriseai/definition/AI-Artificial-Intelligence)
+
+
+
+Artificial Intelligence, or AI, is used to create systems and machines that can perform tasks that would typically require human intelligence, such as learning, problem-solving, and decision-making. ChatGPT is a specific implementation of AI, known as a language model, which is trained to generate human-like text based on a given prompt. This technology can be used for a variety of applications, such as natural language processing, automated writing and content generation, and conversational interfaces for chatbots and virtual assistants. The goal of ChatGPT is to make it easy for developers to add human-like language capabilities to their applications, making the interactions with their systems more natural and intuitive for end-users.
+(The above introduction was written by Chat GPT given the following prompt, "To an audience of faculty, explain the purpose of AI and Chat GPT")
+
+Video Credit: TechTarget (retrieved from: https://www.techtarget.com/searchenterpriseai/definition/AI-Artificial-Intelligence)
+Artificial Intelligence, or AI, is used to create systems and machines that can perform tasks that would typically require human intelligence, such as learning, problem-solving, and decision-making. ChatGPT is a specific implementation of AI, known as a language model, which is trained to generate human-like text based on a given prompt. This technology can be used for a variety of applications, such as natural language processing, automated writing and content generation, and conversational interfaces for chatbots and virtual assistants. The goal of ChatGPT is to make it easy for developers to add human-like language capabilities to their applications, making the interactions with their systems more natural and intuitive for end-users.
+(The above introduction was written by Chat GPT given the following prompt, "To an audience of faculty, explain the purpose of AI and Chat GPT")
+
+Video Credit: TechTarget (retrieved from: https://www.techtarget.com/searchenterpriseai/definition/AI-Artificial-Intelligence)
+
+
+	   Faculty Guidelines for Course-based Use of Artificial Intelligence
+
+During the 2023-24 Academic Year, the University will engage the shared governance system to address in position and policy the student use of artificial intelligence (AI) when completing academic work. The plan is to charge the Student Academic Standard Committee (SASC) to review FP302 - Academic Honesty to include artificial intelligence technology such as ChatGPT, Bard, Talk to Books, and formula bot. Additionally, the Learning Quality Committee (LQC) will recommend to Academic Cabinet the University’s position on student use of artificial intelligence technology as a tool for engaging academic work. 
+In the meantime, individual faculty should check with their college leadership team or program chair to determine the program’s position on the use of artificial intelligence technology to engage course work. Below is guidance on permitting and discouraging student use. 
+The Center for Teaching and Learning Excellence (CTLE) maintains this webpage about artificial intelligence. There are resources, ideas for classroom use, and a presentation of various detectors and their success rates. This page is frequently updated as new resources and ideas emerge, so check back often. Additionally, the CTLE will be hosting workshops each month. Check the faculty newsletter or return here for upcoming workshops. 
+Additionally, each of the colleges are offering trainings and workshops. See their respective newsletters and communication channels or reach out to your chair for more information. 
+If you have any questions or want to talk to someone about AI in the Classroom, please contact the CTLE: ctle@nl.edu
+
+
+
+During the 2023-24 Academic Year, the University will engage the shared governance system to address in position and policy the student use of artificial intelligence (AI) when completing academic work. The plan is to charge the Student Academic Standard Committee (SASC) to review FP302 - Academic Honesty to include artificial intelligence technology such as ChatGPT, Bard, Talk to Books, and formula bot. Additionally, the Learning Quality Committee (LQC) will recommend to Academic Cabinet the University’s position on student use of artificial intelligence technology as a tool for engaging academic work. 
+In the meantime, individual faculty should check with their college leadership team or program chair to determine the program’s position on the use of artificial intelligence technology to engage course work. Below is guidance on permitting and discouraging student use. 
+The Center for Teaching and Learning Excellence (CTLE) maintains this webpage about artificial intelligence. There are resources, ideas for classroom use, and a presentation of various detectors and their success rates. This page is frequently updated as new resources and ideas emerge, so check back often. Additionally, the CTLE will be hosting workshops each month. Check the faculty newsletter or return here for upcoming workshops. 
+Additionally, each of the colleges are offering trainings and workshops. See their respective newsletters and communication channels or reach out to your chair for more information. 
+If you have any questions or want to talk to someone about AI in the Classroom, please contact the CTLE: ctle@nl.edu
+During the 2023-24 Academic Year, the University will engage the shared governance system to address in position and policy the student use of artificial intelligence (AI) when completing academic work. The plan is to charge the Student Academic Standard Committee (SASC) to review FP302 - Academic Honesty to include artificial intelligence technology such as ChatGPT, Bard, Talk to Books, and formula bot. Additionally, the Learning Quality Committee (LQC) will recommend to Academic Cabinet the University’s position on student use of artificial intelligence technology as a tool for engaging academic work. 
+In the meantime, individual faculty should check with their college leadership team or program chair to determine the program’s position on the use of artificial intelligence technology to engage course work. Below is guidance on permitting and discouraging student use. 
+The Center for Teaching and Learning Excellence (CTLE) maintains this webpage about artificial intelligence. There are resources, ideas for classroom use, and a presentation of various detectors and their success rates. This page is frequently updated as new resources and ideas emerge, so check back often. Additionally, the CTLE will be hosting workshops each month. Check the faculty newsletter or return here for upcoming workshops. 
+Additionally, each of the colleges are offering trainings and workshops. See their respective newsletters and communication channels or reach out to your chair for more information. 
+If you have any questions or want to talk to someone about AI in the Classroom, please contact the CTLE: ctle@nl.edu
+Artificial intelligence can be an effective tool to help students during the writing process. It can generate outlines, write an introduction paragraph, and write thesis statements. Additionally, it can be used as a brainstorming partner or to provide information about topics. That being said, students should use artificial intelligence technology to augment or support their engagement in academic work. 
+Although the University is not discouraging the use of AI, there may be circumstances where a faculty member, with approval of their college leadership and/or program chair, may want to prohibit student use of AI when engaging course activities. In these cases, the following guidance should be considered.  
+
+
+	   Academic Honesty
+
+Amy Hall and Sarah Leeman, from The University Library, discussed ChatGPT's relevance to Academic Honesty. For more information regarding this topic, please see the Teaching Academic Honesty Lib Guide. 
+
+Did my student use Chat GPT? Identifying & Addressing AI Academic Honesty in the Classroom
+
+Upcoming: Academic Integrity Office Hours
+Join the University Library for open-ended, faculty-focused discussions on all things related to academic honesty and plagiarism, including teaching strategies, AI tools, Turnitin, APA style, plagiarism detection, student conversations, and more. Bring questions, concerns, and scenarios, or simply come to chat.
+Academic Honesty Office Hours are hosted by the University Library on the 4th Wednesday of the month from 11:30am-1:00pm (CST).
+
+
+
+
+Amy Hall and Sarah Leeman, from The University Library, discussed ChatGPT's relevance to Academic Honesty. For more information regarding this topic, please see the Teaching Academic Honesty Lib Guide. 
+
+Did my student use Chat GPT? Identifying & Addressing AI Academic Honesty in the Classroom
+
+Upcoming: Academic Integrity Office Hours
+Join the University Library for open-ended, faculty-focused discussions on all things related to academic honesty and plagiarism, including teaching strategies, AI tools, Turnitin, APA style, plagiarism detection, student conversations, and more. Bring questions, concerns, and scenarios, or simply come to chat.
+Academic Honesty Office Hours are hosted by the University Library on the 4th Wednesday of the month from 11:30am-1:00pm (CST).
+
+Amy Hall and Sarah Leeman, from The University Library, discussed ChatGPT's relevance to Academic Honesty. For more information regarding this topic, please see the Teaching Academic Honesty Lib Guide. 
+
+Did my student use Chat GPT? Identifying & Addressing AI Academic Honesty in the Classroom
+
+Upcoming: Academic Integrity Office Hours
+Join the University Library for open-ended, faculty-focused discussions on all things related to academic honesty and plagiarism, including teaching strategies, AI tools, Turnitin, APA style, plagiarism detection, student conversations, and more. Bring questions, concerns, and scenarios, or simply come to chat.
+Academic Honesty Office Hours are hosted by the University Library on the 4th Wednesday of the month from 11:30am-1:00pm (CST).
+
+
+
+	   Leaning into AI
+
+When we first hear about AI chatbots and what they can do, we are naturally concerned about the role they may take in student learning. First, will students use this to do their assignments? Do I need to revise every assignment to make it more difficult for AI to write it?
+First, AI chatbots like Chat GPT, Bard, and Bing aren't perfect content creators. As highlighted in this Hard Fork podcast, to get ChatGPT to generate an above average assignment, the student really needs to know the right questions to ask the chatbot. This will require the student being well-versed in the content.
+Knowing this we can use these AI chatbots as a teaching tool, rather than a potential cheat, as discussed in this Inside Higher Ed Article. Here are some articles to guide you in leaning into AI in our classrooms
+Don’t Ban ChatGPT. Use It as a Teaching Tool - Education Week
+Key Takeaway: Chatbots can provide the structure so that students can focus on content.
+Advice Academics Can Use Now - Inside Higher Ed
+Key Takeaways: 
+
+
+
+
+
+
+
+Be deliberate. Adjust quickly.
+Don’t Abandon Pencil and Paper.
+Question How Writing Is Taught.
+Think a Few Years Out.
+Delegate Responsibilities.
+Identify and Reveal Shortcomings.
+Remind Students to Think.
+Invite Students Into the Conversation.
+Experiment. Don’t Panic.
+
+
+
+
+
+
+
+ChatGPT: Threat or Menace? - Inside Higher Ed
+Key Takeaway: Offers multiple strategies for using chatbots like ChatGPT in the classroom.
+ChatGPT Both Is and Is Not Like a Calculator - Inside Higher Ed
+Key Takeaway: An emerging comparison for chatbots is to a calculator. They didn't ruin math; they are used to help teach it. This school of thought asks us to think of chatbots as an "Essay calculator" whereby we use chatbots to generate text, which is then reviewed and edited by students. Editing may include adjusting the tone or correcting mistakes made by the chatbot.
+
+
+
+When we first hear about AI chatbots and what they can do, we are naturally concerned about the role they may take in student learning. First, will students use this to do their assignments? Do I need to revise every assignment to make it more difficult for AI to write it?
+First, AI chatbots like Chat GPT, Bard, and Bing aren't perfect content creators. As highlighted in this Hard Fork podcast, to get ChatGPT to generate an above average assignment, the student really needs to know the right questions to ask the chatbot. This will require the student being well-versed in the content.
+Knowing this we can use these AI chatbots as a teaching tool, rather than a potential cheat, as discussed in this Inside Higher Ed Article. Here are some articles to guide you in leaning into AI in our classrooms
+Don’t Ban ChatGPT. Use It as a Teaching Tool - Education Week
+Key Takeaway: Chatbots can provide the structure so that students can focus on content.
+Advice Academics Can Use Now - Inside Higher Ed
+Key Takeaways: 
+
+
+
+
+
+
+
+Be deliberate. Adjust quickly.
+Don’t Abandon Pencil and Paper.
+Question How Writing Is Taught.
+Think a Few Years Out.
+Delegate Responsibilities.
+Identify and Reveal Shortcomings.
+Remind Students to Think.
+Invite Students Into the Conversation.
+Experiment. Don’t Panic.
+
+
+
+
+
+
+
+ChatGPT: Threat or Menace? - Inside Higher Ed
+Key Takeaway: Offers multiple strategies for using chatbots like ChatGPT in the classroom.
+ChatGPT Both Is and Is Not Like a Calculator - Inside Higher Ed
+Key Takeaway: An emerging comparison for chatbots is to a calculator. They didn't ruin math; they are used to help teach it. This school of thought asks us to think of chatbots as an "Essay calculator" whereby we use chatbots to generate text, which is then reviewed and edited by students. Editing may include adjusting the tone or correcting mistakes made by the chatbot.
+When we first hear about AI chatbots and what they can do, we are naturally concerned about the role they may take in student learning. First, will students use this to do their assignments? Do I need to revise every assignment to make it more difficult for AI to write it?
+First, AI chatbots like Chat GPT, Bard, and Bing aren't perfect content creators. As highlighted in this Hard Fork podcast, to get ChatGPT to generate an above average assignment, the student really needs to know the right questions to ask the chatbot. This will require the student being well-versed in the content.
+Knowing this we can use these AI chatbots as a teaching tool, rather than a potential cheat, as discussed in this Inside Higher Ed Article. Here are some articles to guide you in leaning into AI in our classrooms
+Don’t Ban ChatGPT. Use It as a Teaching Tool - Education Week
+Key Takeaway: Chatbots can provide the structure so that students can focus on content.
+Advice Academics Can Use Now - Inside Higher Ed
+Key Takeaways: 
+ChatGPT: Threat or Menace? - Inside Higher Ed
+Key Takeaway: Offers multiple strategies for using chatbots like ChatGPT in the classroom.
+ChatGPT Both Is and Is Not Like a Calculator - Inside Higher Ed
+Key Takeaway: An emerging comparison for chatbots is to a calculator. They didn't ruin math; they are used to help teach it. This school of thought asks us to think of chatbots as an "Essay calculator" whereby we use chatbots to generate text, which is then reviewed and edited by students. Editing may include adjusting the tone or correcting mistakes made by the chatbot.
+The emergence of AI has led to the creation of a number of chatbots capable of conversational support for learners. Typically, these chatbots are used to overcome writer's block and to help someone get started on a project or paper. It can help with a number of preparatory activities such as, generating written content, outlines, code, poetry, etc. 
+Faculty have also been using these features to quickly develop work samples for students to analyze/scrutinize. Outputs from chatbots are not intended to be finished products and often contain errors or biased outputs. Examples of common chatbots:
+The most commonly used at this time is ChatGPT. To learn more about the ChatGPT language model, it's conversational approach to interacting with humans, and it's ability to generate content, visit the ChatGPT blog site.
+If you're looking to create an account to start using ChatGPT to learn how it works or to lesson plan, please sign-up or log-in to ChatGPT here.
+
+QuillBot is a word processor that acts as an AI co-writer. It can help students paraphrase, break through writer's block, and check for grammar. 
+Talk to Books (by Google Books) allows users to ask books to quote themselves. A user enters a question and the response comes in the form of quotes from different books that may address that question.
+Formula Bot allows users to generate an excel equation by explaining the type of formula they need. For example, "Display a 'No' when Column A is less than 60% and 'Yes' if it is greater than 60%."
+Jasper is a copy writing tool to help businesses write copy in the voice of a particular brand - typically their own brand. Jasper is built on multiple language models to use recent search data, brand voice, and SEO optimization to help a company create on-brand copy for social media, web sites, and marketing materials. 
+Khan Academy is creating an AI tutor, khanmigo, to guide students through the learning process. Khanmigo will ask students questions to guide them through a critical thinking process, rather than providing them answer in response to a prompt. It also mimics a writing coach by offering prompts and suggestions for improvement.
+In addition to chatbots, which primarily output content as text and tables, there are a host of AI tools that output images, art, and even video.
+
+
+	   AI for Faculty
+
+AI Chatbots and other tech are not just for students. In the wake of ChatGPT's release, faculty are exploring how AI can help faculty prepare for their classes as well. Ethan Mollick, Professor of Entrepreneurship and Innovation at the Wharton School of the University of Pennsylvania, framed it this way, "Think of it like having an intern, but one who just happens to work instantaneously, can write both code and solid descriptive writing, and has a large chunk of the world’s knowledge in their brain."
+Visit his blog, The Mechanical Professor, to see his use of a Chatbot to create a 12-session MBA-level Intro to Entrepreneurship class, complete with readings, assignments, and summary of what will be covered in each module.
+See the dropdowns below for additional uses for educators.
+
+
+
+AI Chatbots and other tech are not just for students. In the wake of ChatGPT's release, faculty are exploring how AI can help faculty prepare for their classes as well. Ethan Mollick, Professor of Entrepreneurship and Innovation at the Wharton School of the University of Pennsylvania, framed it this way, "Think of it like having an intern, but one who just happens to work instantaneously, can write both code and solid descriptive writing, and has a large chunk of the world’s knowledge in their brain."
+Visit his blog, The Mechanical Professor, to see his use of a Chatbot to create a 12-session MBA-level Intro to Entrepreneurship class, complete with readings, assignments, and summary of what will be covered in each module.
+See the dropdowns below for additional uses for educators.
+AI Chatbots and other tech are not just for students. In the wake of ChatGPT's release, faculty are exploring how AI can help faculty prepare for their classes as well. Ethan Mollick, Professor of Entrepreneurship and Innovation at the Wharton School of the University of Pennsylvania, framed it this way, "Think of it like having an intern, but one who just happens to work instantaneously, can write both code and solid descriptive writing, and has a large chunk of the world’s knowledge in their brain."
+Visit his blog, The Mechanical Professor, to see his use of a Chatbot to create a 12-session MBA-level Intro to Entrepreneurship class, complete with readings, assignments, and summary of what will be covered in each module.
+See the dropdowns below for additional uses for educators.
+Students aren't the only ones who can benefit from AI. Copilot offers faculty a platform that can help them generate lesson plans, handouts, writing prompts, and templates for project outlines. Copilot is a paid service, but offers a free trial before committing to $9/month. Visit the Copilot website for more info.
+For an example of the work Copilot can help with, we asked Copilot to create some resources for an imaginary Introduction to Maya Culture unit. Here are the results:
+Introduction to Maya Civilization Lesson Plan
+Maya Agriculture Context Builder
+Maya Religion Context Builder
+Maya Architecture PPT
+Maya Religion PPT
+Agriculture Project
+Religion Project
+Ag and Religion Writing Prompt
+Khan Academy is introducing a teacher companion to their Khanmigo platform (discussed above). This version of the product will help instructors lesson plan and think through student feedback by prompting instructors with questions to help them gain deeper insights into their students and ideas to meet course objectives.
+Chatbots can help you write lecture notes to accompany your lesson plan. The Chatbot can output notes, but it's important to continue to prompt the Chatbot to meet your specific lesson plan requirements. See the video below for an example.
+
+A group of professors from across the country are starting are starting a project called "Teaching with Text Generation Technologies." If you're using AI Chatbots or other text generation technologies in your class assignments, you may consider submitting them to the Teaching with Text Generation Technologies project. Your class assignment may be selected as one published to an open access edited collection in August of 2023. This repository will help faculty around the world find new techniques for working with text generation technologies in their classrooms.
+
+
+	   Turnitin AI Writing Detection
+
+Context
+Turnitin has developed AI detection into its platform. Turnitin's tool (along with other AI detectors) will likely have flaws as they have been developed quickly and primarily based on an older version of ChatGPT - there were four major versions of GPT from November 30 - March 14. So, we need to be cautious about the accuracy of detection tools as the primary source for determining student voice and original work.
+For example, Turnitin's predictions have a 1% false positive rate. This means that for every 100 papers it identifies as being written by AI, one of those will be incorrect. To understand a bit more about what that means, please watch this video from David Adamson at Turnitin.
+
+What does this mean? Essentially, this functionality from Turnitin, or any detector, is a tool that can open doors to conversations. We still need to be giving students the benefit of the doubt and approaching them for conversations with open minds. If we find that a student has used an AI writing tool and submitted that work without citation, we should also seek to understand the reasons that the student has done so. Were they in a hurry? Did they not understand the material? Discovering a student's reasoning for turning to AI will help us better support that student.
+Turnitin Resources:
+
+To learn more about Turnitin's technology and its ability to spot AI please visit their AI writing detection page.
+To better understand how to use the Turnitin AI writing detection tool in your class, please visit their page that explains the AI writing indicator.
+For some frequently asked questions developed by Turnitin, please visit their FAQ page.
+
+How to enable Turnitin in D2L and how to check AI originality
+
+
+
+
+Context
+Turnitin has developed AI detection into its platform. Turnitin's tool (along with other AI detectors) will likely have flaws as they have been developed quickly and primarily based on an older version of ChatGPT - there were four major versions of GPT from November 30 - March 14. So, we need to be cautious about the accuracy of detection tools as the primary source for determining student voice and original work.
+For example, Turnitin's predictions have a 1% false positive rate. This means that for every 100 papers it identifies as being written by AI, one of those will be incorrect. To understand a bit more about what that means, please watch this video from David Adamson at Turnitin.
+
+What does this mean? Essentially, this functionality from Turnitin, or any detector, is a tool that can open doors to conversations. We still need to be giving students the benefit of the doubt and approaching them for conversations with open minds. If we find that a student has used an AI writing tool and submitted that work without citation, we should also seek to understand the reasons that the student has done so. Were they in a hurry? Did they not understand the material? Discovering a student's reasoning for turning to AI will help us better support that student.
+Turnitin Resources:
+
+To learn more about Turnitin's technology and its ability to spot AI please visit their AI writing detection page.
+To better understand how to use the Turnitin AI writing detection tool in your class, please visit their page that explains the AI writing indicator.
+For some frequently asked questions developed by Turnitin, please visit their FAQ page.
+
+How to enable Turnitin in D2L and how to check AI originality
+
+Context
+Turnitin has developed AI detection into its platform. Turnitin's tool (along with other AI detectors) will likely have flaws as they have been developed quickly and primarily based on an older version of ChatGPT - there were four major versions of GPT from November 30 - March 14. So, we need to be cautious about the accuracy of detection tools as the primary source for determining student voice and original work.
+For example, Turnitin's predictions have a 1% false positive rate. This means that for every 100 papers it identifies as being written by AI, one of those will be incorrect. To understand a bit more about what that means, please watch this video from David Adamson at Turnitin.
+
+What does this mean? Essentially, this functionality from Turnitin, or any detector, is a tool that can open doors to conversations. We still need to be giving students the benefit of the doubt and approaching them for conversations with open minds. If we find that a student has used an AI writing tool and submitted that work without citation, we should also seek to understand the reasons that the student has done so. Were they in a hurry? Did they not understand the material? Discovering a student's reasoning for turning to AI will help us better support that student.
+Turnitin Resources:
+How to enable Turnitin in D2L and how to check AI originality
+
+
+
+	   Other AI Detectors
+
+If you're concerned about students using AI, like ChatGPT, to write essays and complete other work, there are a number of AI detectors to help you identify whether something is written by a human or AI. These AI detectors will continue to improve alongside of AI. Below you will see a prompt to and response from ChatGPT. The accordion below contains the AI Detectors we tasked with checking the ChatGPT response. Please keep in mind that ChatGPT is iterating very quickly - ChatGPT was released on November 30, and by March 14th, three updates had been released. So, we need to be cautious about using these detectors as the primary source for determining student voice and original work.
+Chat GPT Prompt:
+What would an expert analyst say about the current state of the stock market and specifically the tech stocks? Does the current market condition match any other periods in history? Make the response be a little poetic in style and also make sure to include very aggressive and extreme words that generate an emotional response. Change direction frequently in terms of tone going from, funny, serious, witty, sober and sarcastic. Make it about 5 paragraphs long.
+Chat GPT Response:
+The stock market is a wild and unpredictable beast, my dear reader. One moment, tech stocks are soaring to new heights, reaching for the stars. The next, they come crashing back down to earth, their value plummeting faster than a lead balloon.
+But make no mistake, the current state of the market is no laughing matter. This is a volatile and dangerous time, where fortunes can be made or lost on the turn of a dime. The tech giants of Silicon Valley dominate the landscape, their power and influence only growing with each passing day.
+Yet despite this, there is still hope. For those with nerves of steel, the risk can be worth the reward. The bold and the daring, those willing to take risks and chase their dreams, they stand to reap the greatest rewards.
+But be warned, dear reader. The market is a fickle mistress, and she does not play fair. One false move, one moment of weakness, and it all could come crashing down. So tread carefully, my friend. Stay vigilant, stay focused, and above all, never let your guard down.
+In short, the current state of the stock market is a volatile and unpredictable rollercoaster ride, where only the bravest and most cunning will emerge victorious. So buckle up, my friend, and hold on tight. It's going to be a wild ride.
+
+
+
+If you're concerned about students using AI, like ChatGPT, to write essays and complete other work, there are a number of AI detectors to help you identify whether something is written by a human or AI. These AI detectors will continue to improve alongside of AI. Below you will see a prompt to and response from ChatGPT. The accordion below contains the AI Detectors we tasked with checking the ChatGPT response. Please keep in mind that ChatGPT is iterating very quickly - ChatGPT was released on November 30, and by March 14th, three updates had been released. So, we need to be cautious about using these detectors as the primary source for determining student voice and original work.
+Chat GPT Prompt:
+What would an expert analyst say about the current state of the stock market and specifically the tech stocks? Does the current market condition match any other periods in history? Make the response be a little poetic in style and also make sure to include very aggressive and extreme words that generate an emotional response. Change direction frequently in terms of tone going from, funny, serious, witty, sober and sarcastic. Make it about 5 paragraphs long.
+Chat GPT Response:
+The stock market is a wild and unpredictable beast, my dear reader. One moment, tech stocks are soaring to new heights, reaching for the stars. The next, they come crashing back down to earth, their value plummeting faster than a lead balloon.
+But make no mistake, the current state of the market is no laughing matter. This is a volatile and dangerous time, where fortunes can be made or lost on the turn of a dime. The tech giants of Silicon Valley dominate the landscape, their power and influence only growing with each passing day.
+Yet despite this, there is still hope. For those with nerves of steel, the risk can be worth the reward. The bold and the daring, those willing to take risks and chase their dreams, they stand to reap the greatest rewards.
+But be warned, dear reader. The market is a fickle mistress, and she does not play fair. One false move, one moment of weakness, and it all could come crashing down. So tread carefully, my friend. Stay vigilant, stay focused, and above all, never let your guard down.
+In short, the current state of the stock market is a volatile and unpredictable rollercoaster ride, where only the bravest and most cunning will emerge victorious. So buckle up, my friend, and hold on tight. It's going to be a wild ride.
+If you're concerned about students using AI, like ChatGPT, to write essays and complete other work, there are a number of AI detectors to help you identify whether something is written by a human or AI. These AI detectors will continue to improve alongside of AI. Below you will see a prompt to and response from ChatGPT. The accordion below contains the AI Detectors we tasked with checking the ChatGPT response. Please keep in mind that ChatGPT is iterating very quickly - ChatGPT was released on November 30, and by March 14th, three updates had been released. So, we need to be cautious about using these detectors as the primary source for determining student voice and original work.
+Chat GPT Prompt:
+What would an expert analyst say about the current state of the stock market and specifically the tech stocks? Does the current market condition match any other periods in history? Make the response be a little poetic in style and also make sure to include very aggressive and extreme words that generate an emotional response. Change direction frequently in terms of tone going from, funny, serious, witty, sober and sarcastic. Make it about 5 paragraphs long.
+Chat GPT Response:
+The stock market is a wild and unpredictable beast, my dear reader. One moment, tech stocks are soaring to new heights, reaching for the stars. The next, they come crashing back down to earth, their value plummeting faster than a lead balloon.
+But make no mistake, the current state of the market is no laughing matter. This is a volatile and dangerous time, where fortunes can be made or lost on the turn of a dime. The tech giants of Silicon Valley dominate the landscape, their power and influence only growing with each passing day.
+Yet despite this, there is still hope. For those with nerves of steel, the risk can be worth the reward. The bold and the daring, those willing to take risks and chase their dreams, they stand to reap the greatest rewards.
+But be warned, dear reader. The market is a fickle mistress, and she does not play fair. One false move, one moment of weakness, and it all could come crashing down. So tread carefully, my friend. Stay vigilant, stay focused, and above all, never let your guard down.
+In short, the current state of the stock market is a volatile and unpredictable rollercoaster ride, where only the bravest and most cunning will emerge victorious. So buckle up, my friend, and hold on tight. It's going to be a wild ride.
+Results by Detector:
+http://gptzero.me/ : Most Likely AI.  However, when a few human sentences were entered throughout the text, it resulted in “most likely human.” So far, this is the best performing detector in our tests.
+https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/ : The classifier considers the text to be unclear if it is AI-generated. Note: This is ChatGPT's new classifier.
+https://writer.com/ai-content-detector/ : Human 
+https://copyleaks.com/features/ai-content-detector 84% Human 
+https://openai-openai-detector.hf.space/ 52% Fake
+https://crossplag.com/ai-content-detector/ : This text is co-written by both a human and AI
+https://contentatscale.ai/ai-content-detector/ 28% Real 
+http://gltr.io/dist/index.html : Interesting results. Text is colored in various colors depending on the probability that it is AI generated. Based on that, this tool did pretty well at detecting. However, it also colored mostly green (AI) some human text entered, so the sensitivity might be so high that it may produce high levels of false positives. 
+https://fourweekmba.com/ai-detector/ : 47% AI
+This Inside Higher Ed article outlines 10 tips for adjusting assignments if you're worried your assignment is susceptible to AI. When changing assignments in your course, it is recommended that you check with your Chair/Unit Director prior to the change. Article: Teaching Actual Student Writing in an AI World
+Some key takeaways:
+We know that there are and there will continue to be many questions from faculty about Artificial Intelligence (AI), especially the use of ChatGPT. Given how rapidly evolving these programs are, NLU is working to develop comprehensive policies related to the use of AI or ChatGPT.  The work will be done through the Provost’s Office and shared governance structures in the upcoming months.  In the meantime, the Provost Office is sharing the following FAQ guidance and resources for your use. The FAQ and this page will be treated as a living document and will evolve as we work to understand the implications of AI within the classroom. 
+Below is a list of some of the tools that students or faculty could be using. Tools like the ones below typically help students and faculty generate different types of content.
+While on the surface, AI Tools seem to be able to answer or produce responses to any prompt imaginable, there are several limitations and considerations in using the tool.
+NLU has not prohibited the use of AI tools, such as ChatGPT. There are a number of instances where AI could be used as a tool within the classroom. As such, Department Chairs and Instructors are strongly encouraged to determine what support tools - inclusive of AI - can be used to complete assignments and explicitly state this to students in the assignment directions.  Instructors should also communicate their expectations for the use of AI tools (like ChatGPT) in their course via discussion, announcement, email, or syllabus statement; these expectations for AI tool use should be collaboratively built with students. 
+See the current Provost Office guidance above.
+The APA has provided the following guidance for citing ChatGPT and other chatbots.
+APA Guidance
+AI generated text tends to be atypically accurate in grammar usage, voiceless and lacking in any human context or presence and follow predictable writing formations. Paragraphs begin with strong topic sentences and end with a summary sentence, generating very formulaic text. However, ATI chatbots, like ChatGPT, can be instructed to take on a voice (such as write like a high school freshman). There are AI Detector tools available, however, they typically are not 100% accurate.
+See above for more information on Detection Tools.
+Most notably, please see the info regarding the Turnitin AI Writing Detection Tool
+Please keep in mind that AI is a tool that can assist faculty and benefit student learning, if used properly. Given the speed at which AI is evolving and the implications that will have on the workplace, we recommend an approach that teaches students how to properly use the tool rather than placing energy into prohibiting the use of the tool.
+The first step in curating an AI-positive environment is to explicitly talk to your students about the tool, its limitations, and how it can or cannot be used for your course or the assignment. Here are some guideposts for those conversations:
+If the faculty and student have differing expectations regarding AI tool use for a particular assignment, the faculty should have a conversation with the student. During this conversation, faculty will attempt to understand the student's process for the assignment, if AI was used, and where the breakdown in communication may have arisen. Further, this conversation is also an opportunity to review the following topics:
+If the faculty and student are unable to find common ground during the conversation, it is recommended that a mutually satisfactory remedy be sought. Be sure to review the Academic Honest Policy for suggested remedies and required steps.
+Notes: This conversation should be had within 14 days of the assignment submission, as indicated in NLU’s Academic Honesty Policy.  For reference, the use of AI tools falls under the “Receiving and/or Giving Improper Assistance and Other Forms of Cheating” section of the Academic Honesty Policy. 
+With over 135 years of excellence and 70,000 alumni, we provide an extraordinary education that’s within your reach.
+Inspire tomorrow’s difference-makers by equipping them with a world-class education today!
+Give today!

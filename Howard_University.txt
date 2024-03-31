@@ -1,0 +1,8 @@
+Howard University official policy on generative AI Artificial Intelligence
+https://provost.howard.edu/cetla/generativeAI
+ 
+Generative artificial intelligence is artificial intelligence capable of generating text, images, or other media, using generative models. Generative AI models learn the patterns and structure of their input training data and then generate new data that has similar characteristics. (What Is Generative AI?, 2023)
+Analytics Insight. (2021). Understanding Generative AI, Its Impacts and Limitations [YouTube Video].
+ 
+ 
+Initial Howard University Guidelines for use of Generative AI Tools

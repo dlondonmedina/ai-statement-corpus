@@ -1,0 +1,89 @@
+Southern University - Baton Rouge official policy on generative AI Artificial Intelligence
+https://www.subr.edu/page/dr-yaser-banadaki-computer-science
+This website uses cookies to ensure site visitors get the best experience on our website. By continuing to use this site, you accept our use of cookies and Privacy Statement. To find out more, please visit Southern University's Privacy Statement.
+Southern University and A&M College is a comprehensive institution offering four-year, graduate, professional, and doctorate degree programs, fully accredited by the Southern Association of Colleges and Schools (SACS). The University today is part of the only historically black Land Grant university system in the United States.
+Southern University and A&M College is a comprehensive institution offering four-year, graduate, professional, and doctorate degree programs, fully accredited by the Southern Association of Colleges and Schools (SACS). The University today is part of the only historically black Land Grant university system in the United States.
+Dr. Yaser Banadaki
+Associate Professor
+Undergraduate Coordinator
+ 
+ 
+     Dr. Yaser Banadaki is an Associate Professor and Undergraduate Coordinator of the Department of Computer Science, College of Science and Engineering, Southern University and A&M College, Baton Rouge, Louisiana. Dr. Banadaki received his Ph.D. in Electrical and Computer Engineering from Louisiana State University and joined Southern University in January 2016. He has a distinguished record of excellence in academic teaching and research activities and industry experience. He has published over 100 research articles in highly peer-review journals and conferences, and a book on computational modeling of materials and devices to address the emerging design of next-generation computer hardware. He secured several federal and state supports for his research in cybersecurity and artificial intelligence, totaling $1.3 million from the National Science Foundation, National Security Agency, and Louisiana Board of Regents. Dr. Banadaki has been selected as an Outstanding Researcher of Southern University in 2020. He has worked at various research laboratories including a R&D Electronics Engineer at SAMSUNG and holds industry certificates in Data Science, Quantum Computing, Cloud Computing, Artificial Intelligence, Cyber Security, and Blockchain. He has supervised graduate and undergraduate students for data-driven interdisciplinary projects that led to numerous awards including four Best Paper Awards in three consecutive Annual Meetings of the Louisiana Academy of Sciences. His research endeavors include interdisciplinary research themes of national priority, with special emphasis on Artificial Intelligence and Cyber Security. His research goal is to employ Artificial Intelligence for underrepresented discoverers in Engineering and Science and leverage project efforts to develop STEM talent of underrepresented minorities for prosperous careers in the Research and Development (R&D) sectors. Dr. Banadaki’s current research interests include
+- Cyber Security and Intrusion Detection using Machine Learning Techniques,
+- Machine Learning and Data Mining for Knowledge Discovery in Science and Engineering
+- Computational Material Science for Emerging Sensing and Information Technology,
+- Quantum Computers and Nanotechnology,
+- Computer Science Education for STEM.
+ 
+PUBLICATIONS
+2021
+Azeema Sadath, Y. Banadaki, F. Tsai, “Attack detection in water distribution systems using artificial intelligence,” AGU Fall Meeting, 2021.
+Soha Ghaemimood, Y. Banadaki, F. Tsai, “Application of text-mining and image processing techniques on digitizing drillers logs and developing big geological and hydrological well log datasets,” AGU Fall Meeting, 2021.
+Song, F. Tsai, Y. Banadaki, J. Zhang, Lithofacies modeling utilizing generative adversarial networks and geostatistics, AGU Fall Meeting, 2021.
+?Banadaki, J. Brook, S. Sharifi, “Design of Intrusion Detection Systems on the Internet of Things Infrastructure using Machine Learning Algorithms,” SPIE Smart Structures+ Nondestructive Evaluation, March 2021.
+Banadaki, A. Okunoye, S. Batra, E. Martinez, S. Sharifi, “Automated analysis of microscopy images using deep convolutional neural networks,” SPIE Smart Structures+ Nondestructive Evaluation, March 2021.
+Hasan, S. Sharifi, Y. Banadaki, G. Veronis, M. Gartia, “Introducing an opt plasmonic amplifier operating in the visible range and generating Raman signal internally with injection seeding,” SPIE Nanoscience + Engineering, San Diego, CA, August 2021.
+Bradley, Y. Banadaki, “Network Intrusion Detection using AutoAI,” The 95th Annual Meeting of the Louisiana Academy of Sciences, Louisiana Tech University Ruston, LA, March 2021.
+Ghaemimood, R. Joubert, Y. Banadaki, “Application of Text-Mining and Image Processing Techniques on Developing Big Geological and Hydrological Data Sets,” The 95th Annual Meeting of the Louisiana Academy of Sciences, Louisiana Tech University Ruston, LA, March 2021.
+Ranjbar, Y. Banadaki, “Review of Machine Learning Applications for Diagnosing Depression,” The 95th Annual Meeting of the Louisiana Academy of Sciences, Louisiana Tech University Ruston, LA, March 2021.
+Brooks, Y. Banadaki, “Differentiating Potentially Malicious Darknet Traffic from Benign Network Traffic using Machine Learning,” The 95th Annual Meeting of the Louisiana Academy of Sciences, Louisiana Tech University Ruston, LA, March 2021.
+Mullamuri, D. Davis, Y. Banadaki, “Evaluation of Quantum Programming Languages,” The 95th Annual Meeting of the Louisiana Academy of Sciences, Louisiana Tech University Ruston, LA, March 2021.
+Davis, B. Mullamuri, Y. Banadaki, “Simulation of quantum cheques circuits in five-qubit IBM Quantum Computer,” The 95th Annual Meeting of the Louisiana Academy of Sciences, Louisiana Tech University Ruston, LA, March 2021.
+Abdussalam, M. Salam, Y. Banadaki, “A Prospective of Machine Learning in Wireless Sensor Network,” The 95th Annual Meeting of the Louisiana Academy of Sciences, Louisiana Tech University Ruston, LA, March 2021.
+2020
+Y. M. Banadaki, “Enhancing the role of machine learning in STEM disciplines through supervised undergraduate research experiences,” Literacy Information and Computer Education Journal, Vol. 11, no.2, pp. 3417-3423, 2020.
+Y. M. Banadaki, “Detecting malicious DNS over HTTPS traffic in domain name system using machine learning classifiers,” Journal of Computer Sciences and Applications, Vol. 8, no.2, pp. 70-75, 2020.
+Y. M. Banadaki, “Evaluating the performance of machine learning algorithms for network intrusion detection systems in the internet of things infrastructure,” Journal of Advanced Computer Science and Technology, Vol. 9, no. 2, 2020.
+S. Sharifi, Y. M. Banadaki, T. Cullen, G. Veronis, J. P. Dowling, T. Corbitt, “Design of microresonators to minimize thermal noise below standard quantum limit”, Review of Scientific Instruments, Vol. 91, no. 5, p. 054504, 2020.
+Y. M. Banadaki, S. Sharifi, “Toward enabling a reliable quality monitoring system for additive manufacturing process using deep convolutional neural networks”, Advances in Manufacturing, 2020 (Under Review).
+S. Sharifi, Yaser Banadaki, Georgios Veronis, Jonathan P. Dowling, “Towards classification of experimental Laguerre–Gaussian modes using convolutional neural networks,” Optical Engineering, Vol. 59, no. 7, p. 076113, 2020.
+H. Fekrmandi, J. Allen, B. Dadashzadeh, Y. Banadaki, “Modular design and sensorless control of a robotic crawler for small diameter complex piping” ASME Journal of Autonomous Vehicles and Systems, 2020. (Under review)
+N. Price, Y. Banadaki, “On the use of machine learning approaches to detect anomaly in networks,” The 94th Annual Meeting of the Louisiana Academy of Sciences, Louisiana State University Alexandria, April 2020. [Best Paper Award]
+R. Joubert, S. Sharifi, Y. Banadaki, “On the use of convolutional neural networks to identify the optical modes,” The 94th Annual Meeting of the Louisiana Academy of Sciences, Louisiana State University Alexandria, April 2020. [Best Poster Award]
+S. Sharifi, Y. M. Banadaki, J. P. Dowling, G. Veronis, “Machine learning-based identification of orbital angular momentum modes,” OSA Frontiers in Optics + Laser Science APS/DLS, New Orleans, Louisiana, August 2020. (Under review)
+A. S. Abdulkadir, Y. Banadaki, D. Kambiranda, and S. Batra, “Machine learning applications in nutraceuticals.” Society of Toxicology Annual Meeting, Anaheim, California, March 2020.
+2019
+Y. M. Banadaki, “On the use of machine learning for additive manufacturing technology in industry 4.0,” Journal of Computer Science and Information Technology, Vol. 7, no. 2, pp 61–68, 2019.
+D. Pleshinger, S. Alnussirat, J. Arias, S. Bai, Y. Banadaki, M. Cherry, J. Hoffman, E. Khosravi, M. Legault, R. Rodriguez, D. Smith, E. Toro, J. Trepanier, A. Sunda-Meya, “Gamma-Ray Flashes Produced by Lightning Observed at Ground Level by TETRA-II”, Journal of Geophysical Research - Space Physics, 2019.
+S. Sharifi, Y. Banadaki, E. Siddiqui, S. Cuozzo, N. Bhusal, L. Cohen, A. Kalasky, N. Prajapati, R. Soto-Garcia, S. Brown, I. Novikova, E. Mikhailov, G. Veronis, and J. Dowling, “Identifying Laguerre-Gaussian Modes using Convolutional Neural Network,” IEEE International Conference on Machine Learning and Applications, 2019.
+S. Cuozzo, A. Kalasky, N. Prajapati, E. Siddiqui, S. Sharifi, L. Cohen, Y. Banadaki, J. Dowling, I. Novikova, and E. Mikhailov, “Improving Quantum Noise Suppression Using Spatial Beam Profile Optimization”, Frontiers in Optics + Laser Science, 2019.
+A. Okunoye, N. Razaviarab, E. Khosravi, and Y.M. Banadaki, “A Fast, Accurate and Fully Automated Technique for the Quantitative Analysis of Microscopy Images using Deep Learning Algorithm” Louisiana Academy of Science, 2019 [Best Graduate Student Poster Award].
+Y.M. Banadaki and S. Sharifi, “Cyber-Enabled Distributed Machine Learning Networks for Smart Manufacturing Systems,” Nanosensors, Biosensors, Info-Tech Sensors and 3D printers, Proc. of the SPIE, 2019.
+N. Razaviarab, S. Sharifi, and Y. M. Banadaki “Smart additive manufacturing empowered by a closed-loop machine learning algorithm,” Nanosensors, Biosensors, Info-Tech Sensors and 3D printers, Proc. of the SPIE, 2019.
+N. Razaviarab, E. Khosravi, and Y.M. Banadaki, “Detecting Defects in 3D Printing Process using Machine Learning and Transfer Learning Approach” Louisiana Academy of Science, 2019.
+G. Smith Jr., E. Khosravi, and Y. M. Banadaki, “Machine Learning for High-performance Social Mobile Applications Development” Louisiana Academy of Science, 2019.
+2018
+S. Sharifi, Y. M. Banadaki, V. F. Nezhad, G. Veronis, and J. P. Dowling, “Aperiodic multilayer graphene based tunable and switchable thermal emitter at mid-infrared frequencies", Journal of Applied Physics, Vol. 124, p. 233101, 2018. H.C. Hou, Y.M. Banadaki, S. Basu, S. Sharifi, “A Cost-Efficient Surface Enhanced Raman Spectroscopy (SERS) Molecular Detection Technique for Clinical Applications” Journal of Electronic Materials, Springer, Volume 47, pp 5378–5385, 2018.
+S. Sharifi, Y. M. Banadaki, T. Corbitt, G. Veronis, and J. P. Dowling, “Design of New Generation Microresonators for Large Signal-to-Noise Ratio of Quantum Radiation Pressure Noise to Thermal noise,” International Congress on Applications of Lasers & Electro-Optics, Oct. 14-18, 2018.
+D. J. Pleshinger, S. Al-Nussirat, S. Bai, Y. M. Banadaki, M. L. Cherry, J. Hoffmann, A. Igl, E. Khosravi, M. D. Legault, R. Rodriguez, D. Smith, J. Trepanier, and A. Sunda-Meya, “The TETRA-II Experiment to Observe Terrestrial Gamma Flashes at Ground Level – Instrumentation and Results,” AGU Meeting, Dec. 10-14, 2018.
+A. Johnese, S. Guo, M. Sun, E. Khosravi, Y. M. Banadaki, “How Machine Learning Helps Additive Manufacturing in 3D Metal Printers,” Consortium for Innovation in Manufacturing and Materials, CIMM Symposium, 2018.
+2017
+M. L. Cherry, C. Adams, S. Al-Nussirat, S. Bai, Y.M. Banadaki, P.M. Bitzer, J. Hoffmann, E. Khosravi, M. Legault, M. Orang, D.J. Pleshinger, R. Rodriguez, D. Smith, J.C. Trepanier, A. Sunda-Meya, and N. Zimmer, “The TETRA-II Experiment to Observe Terrestrial Gamma Flashes at Ground Level,” AGU Meeting, Dec. 10-14, 2017.
+S. Sharifi, Y. M. Banadaki, C. You, S. Lorenzo, G. Veronis, and J. P. Dowling, “Aperiodic Multilayer Graphene Based Tunable and Switchable Thermal Emitter at Mid-Infrared Frequencies,” 231st ECS Meeting, New Orleans, USA, May 28-June 2, 2017.
+Y. M. Banadaki, H. C. Hou and S. Sharifi, “Graphene field effect transistor for generating on-chip thermoelectric power,” Smart Structures/NDE: Nano-, Bio-, and Info-Tech Sensors and 3D Systems (SSNO6), Portland, Oregon, 25-29 March 2017.
+H. C. Hou, Y. M. Banadaki and S. Sharifi, “Detection of complex molecular samples by low-cost surface enhanced raman spectroscopy (SERS) substrate,” Smart Structures/NDE: Nano-, Bio-, and Info-Tech Sensors and 3D Systems (SSNO6), Portland, Oregon, 25-29 March 2017.
+2016
+Y. M. Banadaki and A. Srivastava, “Effect of edge roughness on static characteristics of graphene nanoribbon field effect transistor,’’ Electronics, vol. 5, no. 1, p. 11, 2016.
+Safura Sharifi and Y. M. Banadaki, “Investigation of Chirality Dependence of Carbon Nanotube-Based Ring Oscillator,’’ International Journal of Modern Engineering Research, vol. 6, no. 6, pp. 10-18, 2016.
+Y. M. Banadaki, Safura Sharifi, Walter O. Craig III and Hsuan-Chao Hou, “Carbon nanotube ring oscillator for detecting ionized radiation,” Journal of Materials Science and Engineering B, 2016.
+Hsuan-Chao Hou, Y. M. Banadaki, Safura Sharifi, Srismrita Basu, Subhodip Maulik, Shu-Wei Yang, and Safura Sharifi, “Characterization of Sputtered Nano-Au Layer Deposition on Silicon Wafer,” International Journal of Advanced Research Trends in Engineering and Technology, Vol. 3, no. 12, pp. 1-6, 2016.
+Y. M. Banadaki, Safura Sharifi, Walter O. Craig III, and Hsuan-Chao Hou, “Power and delay performance of graphene-based circuits including edge roughness effects,” American Journal of Engineering Research, Vol. 5, no. 6, pp. 1-13, 2016.
+Y. M. Banadaki and A. Srivastava, “Width Dependent Characteristics of Graphene Nanoribbon Field Effect Transistor for High Frequency Applications,” IEEE-CS International symposium on Nanoelectronic and Information Systems, Gwalior, India, 2016. [Best Paper Award]
+Y. M. Banadaki, A. Srivastava and S. Sharifi, “Graphene nanoribbon field effect transistor temperature sensor,” Smart Structures/NDE: Nano-, Bio-, and Info-Tech Sensors and Systems (SSNO6), Las Vegas, Nevada, 20-24 March 2016.
+Y. M. Banadaki, A. Srivastava and S. Sharifi, “Metallic Single-walled carbon nanotube for ionized radiation detection,” Smart Structures/NDE: Nano-, Bio-, and Info-Tech Sensors and Systems (SSNO6), Las Vegas, Nevada, 20-24 March 2016.
+2015
+Y. M. Banadaki and A. Srivastava, “Investigation of the width-dependent static characteristics of graphene nanoribbon field effect transistors using non-parabolic quantum-based model,” Solid State Electronics, vol. 111, pp. 80-90, 2015. [Google Scholar: Rank 7th in Microelectronics & Electronic Packaging]
+Y. M. Banadaki and A. Srivastava, “Scaling effects on static metrics and switching attributes of graphene nanoribbon FET for emerging technology,” IEEE Transaction on Emerging Topics in Computing, Vol. 3, no. 4, pp. 458-469, 2015.
+Y. M. Banadaki, A. Srivastava and S. Sharifi, “Clocked adiabatic XOR and XNOR gates design based on graphene nanoribbon transistors,” IEEE-CS International symposium on Nanoelectronic and Information Systems, Indore, India, 2015.
+2014
+A. Srivastava, Y. M. Banadaki and Md. S. Fahad “Dielectrics for graphene transistors for emerging integrated circuits,” IEEE EDS/ECS International Symposium on Dielectrics for Nanosystems, 225th ECS Meeting, Orlando, USA, vol. 61, pp.351-361, 2014.
+Y. M. Banadaki, K.M. Mohsin and A. Srivastava, “A graphene field effect transistor for high temperature sensing applications,” SPIE Smart Structures/NDE: Nano-, Bio-, and Info-Tech Sensors and Systems (SSNO6), San Diego, USA, 2014.
+K.M. Mohsin, Y. M. Banadaki and A. Srivastava, “Metallic single-walled, carbon nanotube sensor with self-heating,” SPIE Smart Structures/NDE: Nano-, Bio-, and Info-Tech Sensors and Systems (SSNO6), San Diego, USA, 2014.
+2013 and older
+Y. M. Banadaki and A. Srivastava, “A novel graphene nanoribbon field effect transistor for integrated circuit design,” Proc. of the 56th IEEE Midwest Symposium on Circuit and System (MWSCAS), Columbus, USA, 2013.
+M. J. Sharifi and Y. M. Banadaki, “General SPICE models for memristor and application to circuit simulation of memristor-based synapses and memory cells,” Journal of Circuits, Systems and Computers, vol. 19, no. 2, pp. 407-424, 2010.
+M.J. Sharifi and Y. M. Banadaki, “A SPICE large signal model for resonant tunneling diode and its applications,” Proc. of AIP, International Conference on Computational Methods in Sciences and Engineering, vol.1148, pp. 890-893, 2009.
+Y. M. Banadaki and M.J. Sharifi, “A memristor circuit model and nonvolatile memory based on it,” NanoThiland Symposium, 2008.
+Y. M. Banadaki and M.J. Sharifi, “A SPICE large signal model for resonant tunneling diode and its applications,” NanoThiland Symposium, 2008.
+Y. M. Banadaki and M.J. Sharifi, “Simulation of current-voltage characteristics of resonant tunneling diodes,” 11th student conference on Electrical Engineering, Zanjan, Iran, 2008
+ 

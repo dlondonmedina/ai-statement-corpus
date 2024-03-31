@@ -1,0 +1,139 @@
+University of West Florida official policy on generative AI Artificial Intelligence
+https://uwf.edu/academic-engagement-and-student-affairs/departments/career-development-and-community-engagement/resources/ai-toolkit/
+Welcome to the University of West Florida’s Career Development Artificial Intelligence (AI) Career Toolkit! This site provides resources to help students learn about and responsibly use AI within the realm of career development.
+AI has incredible potential to assist and amplify students' efforts to secure jobs and internships, but it also carries risks if not applied carefully. We have created this toolkit to empower students with knowledge so they can interact with AI systems in an ethical, safe, and beneficial way in support of their career goals. We hope you find this helpful as you navigate the fascinating world of AI.
+As a student exploring and learning about AI in the context of career education, it's vital to engage with this technology thoughtfully. 
+Keep these best practices in mind, but consider that this list is by no means exhaustive:
+
+
+Evaluate bias - AI generally pulls information from a certain amount of data from the internet as a whole. Be wary that some of this information may be biased or not representative of every person.
+
+
+Protect privacy - Be selective about sharing personal data with AI tools. Understand how your data is being stored, used, and secured by reviewing the data privacy policy page of the tool you are using.
+
+
+Personally identifiable information such as names, addresses or company names should NEVER be included in an AI search.
+
+
+Check transparency - Favor AI tools from companies that explain how their systems work and are open about limitations. Lack of transparency is a red flag.
+
+
+Verify recommendations - AI suggestions are not always accurate. Make sure you are evaluating and tailoring the generated content to best capture your skill set, experiences, and your career planning priorities.
+
+
+Consider ethics - Be mindful that AI should be used as a starting point or revision tool and should not be used to create application materials. AI text does not count as your own original writing. Avoid plagiarism by citing any sources used. You should not cite information from an AI tool directly; strive to cite from the source directly. You must uphold academic integrity.
+
+
+Supplement AI with human advice - Meet with real career coaches to get personalized perspectives. AI should complement human guidance, not replace it. Consider scheduling an appointment with a career coach.
+
+
+Keep these best practices in mind, but consider that this list is by no means exhaustive:
+Learn the pros and cons of some of the popular AI software. 
+Please note: UWF does not endorse or recommend any specific AI platforms.
+ChatGPT:
+
+Pros:
+
+Free to use
+Quick response time
+Evolves with user input
+External recording of chat logs
+Archives Chat History for reference
+
+Cons:
+
+OpenAI stores ALL user data
+Sourced information may not be current using the free version
+
+
+Claude:
+
+Pros:
+
+Free to use
+Quick response time
+No character limit for queries and responses
+Able to upload documents for content analysis
+
+Cons:
+
+No disclosure about information sourcing
+Minimal disclosure about data use and storage
+Limited amount of queries per day
+Occasionally experiences downtime due to “capacity constraints”
+
+
+ChatGPT:
+Claude:
+While it certainly can’t predict every part of your career journey, Generative AI can offer a great starting point when it comes to research. It can help you explore careers relating to your interests and job searching methods, prepare for an interview and even how better tailor your resume to apply to specific positions.
+The collapsable box below shares some sample prompts related to career planning you can use to get started.
+Major and Career Exploration:
+
+What <undergraduate/graduate> degree programs align with an interest in <interest>?
+Generate a list of careers relating to <degree>
+Generate a list of industries where professionals with a background in <Major> are in high demand and provide insights into specific job titles
+
+Warning: Due to the database cutoff for most AI programs, this information may not be relevant/up to date
+
+
+What are the most important skills for a career in <field>?
+
+Follow up: How can I highlight <skill> on my resume in a way that is relevant to <field>?
+
+
+
+Major and Career Exploration:
+Job Search Strategies:
+
+Generate current position titles for <degree>.
+
+Follow up: Generate keywords and skills relating to <job title>.
+
+
+What job search strategies help applicants seeking positions in <field> specifically?
+What technical and soft skills should an applicant develop to excel in <field>?
+What type of networking options or mentorship programs relate to <field>?
+
+Job Search Strategies:
+Job Search Documents
+Depending on the AI platform you are using, you can either upload or copy and paste your resume or cover letter into it to compare to the job description. Note: ensure all personally identifiable information has been removed from your resume prior to uploading or copying and pasting.
+
+Identify the skills mentioned in this job description
+
+Follow up: Provide suggestions on how to showcase these skills better
+
+
+Provide a list of industry-specific keywords that can be added to tailor the document for <degree/field/position>
+
+Follow-up: Where can those keywords be integrated into the document?
+Follow up: What skills could be added to improve the applicant’s chances for this position?
+
+
+Compare this document to the following job description for <position> and highlight the relevant skills: “<job description>”
+
+Job Search Documents
+Depending on the AI platform you are using, you can either upload or copy and paste your resume or cover letter into it to compare to the job description. Note: ensure all personally identifiable information has been removed from your resume prior to uploading or copying and pasting.
+Interview Skills:
+
+What are some common interview questions for <field/position title>?
+What is a good <technical/behavioral> interview question for <degree/field>?
+
+Follow up: What is a good response to this question?
+Follow up: What is an interviewer looking for in a response to this question?
+
+
+
+Interview Skills:
+ 
+Let's put these AI tips and tricks into action. Meet with a career coach to get a personalized perspective.
+Get Career Support
+For questions, please contact our office at career@uwf.edu or 850.474.2254
+11000 University ParkwayBuilding 19Pensacola, FL 32514
+850.474.2254career@uwf.edu
+Service HoursMonday–Friday8 a.m.–5 p.m.
+Drop-In HoursMonday–Thursday10 a.m. to 4 p.m.
+Locate CDCE
+ 
+Give to CDCE
+11000 University Pkwy Pensacola, FL 32514
+Maps & Directions

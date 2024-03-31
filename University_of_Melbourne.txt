@@ -1,0 +1,13 @@
+University of Melbourne official policy on generative AI Artificial Intelligence
+https://academicintegrity.unimelb.edu.au/plagiarism-and-collusion/artificial-intelligence-tools-and-technologies
+Using artificial intelligence software in the preparation of material for assessment
+ This page was last updated on 21 Apr 2023. 
+The process of preparing material for assessment is an important part of students’ learning experience. It allows students to demonstrate their understanding of concepts and apply what they have learnt in different domains and settings. Assessment supports students in their development of analytical skills, evaluative judgement, communication skills, and presentation skills. These are essential capabilities for graduates.
+The University of Melbourne’s Student Academic Integrity Policy (MPF1310) makes clear that all work submitted by an individual student must be their own. In the case of group work, the individual contribution of each student must be their own work.
+If a student uses artificial intelligence software such as ChatGPT or QuillBot to generate material for assessment that they represent as their own ideas, research and/or analysis, they are NOT submitting their own work. Knowingly having a third party, including artificial intelligence technologies, write or produce any work (paid or unpaid) that a student submits as their own work for assessment is deliberate cheating and is academic misconduct.
+If a student uses AI generated material in the preparation of their assessment submission, this must be appropriately acknowledged and cited in accordance with the Assessment and Results Policy (MPF1326).
+Any student who commits academic misconduct is subject to the penalties outlined in the Schedule of Student Academic Misconduct Penalties.
+The penalties for submitting work that is not a student’s own include failure of the subject, suspension and expulsion, depending on the severity of the case and/or any prior offences.
+Professor Karen FarquharsonPresident, Academic Board
+Professor Gregor KennedyDeputy Vice-Chancellor, Academic
+Read the University's advice for students regarding Turnitin and AI writing detection.

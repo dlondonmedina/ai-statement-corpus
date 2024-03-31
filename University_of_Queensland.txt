@@ -1,0 +1,48 @@
+University of Queensland official policy on generative AI Artificial Intelligence
+https://guides.library.uq.edu.au/referencing/chatgpt-and-generative-ai-tools
+
+Attribute our work under a  Creative Commons Attribution-NonCommercial 4.0 International License.
+Confirm with your course coordinator or check your course profile before using Artificial Intelligence (AI) in your assessment. Some assessment pieces do not permit the use of AI tools, while others may allow AI with some limitations.
+Any permitted use of AI for assessment must be acknowledged appropriately. Your course coordinator will provide guidance on how to reference the use of AI tools. Some possible examples include:  
+Note: Information about using and referencing ChatGPT and other generative AI tools in assignments and publications will continue to be updated. Check this page regularly to keep up with any changes (last updated 17 April 2023).
+AI models sometimes produce incorrect, biased or outdated information. Verify the accuracy of AI-generated content using reliable sources before including it in your work.
+Additionally, there may be legal or ethical issues to consider when using AI. Works created by non-humans are not eligible for copyright protection under Australian law. If you intend to publish work incorporating AI-generated content, check the publisher guidelines about what is allowed.
+When interacting with AI models, you should be cautious about supplying sensitive information, including personal, confidential or propriety information or data.
+Find out more about using AI tools in your studies.
+Where an assignment requires ChatGPT to be cited, you must reference all the content from Generative AI tools that you include. Failure to reference externally sourced, non-original work can result in Academic misconduct.
+References should provide clear and accurate information for each source and should identify where they have been used in your work.
+For many referencing styles, there are no specific guidelines for citing ChatGPT or other generative AI.
+Content from generative AI is a nonrecoverable source as it can't be retrieved or linked.
+We recommend that you base the reference for generative AI content on the reference style for personal communication or correspondence, unless the referencing style has specific guidelines.
+Check the referencing style used in your course for how to cite generative AI or follow the format of the following examples for different styles.
+Based on APA Style guidance.
+Author of generative AI model, Year of version used
+Example:
+(OpenAI, 2022)
+OpenAI (2022)
+Author of AI model used. (Year of AI model used). Name of AI model used (Version of AI model used) [Type or description of AI model used]. Web address of AI model used
+Example:
+OpenAI. (2022). ChatGPT (Dec 20 version) [Large language model]. https://chat.openai.com/
+The full transcript of a response can be included in an appendix or other supplementary materials.
+Visit How to cite ChatGPT for more information.
+Essentially use rule 7.12 that covers written correspondence. This is included in the bibliography (rule 1.13). Include the name of the creator and recipient first.
+OpenAI, ChatGPT to Fred Jones, Output, 24 February 2023.
+Note:
+Number Output from [program], [creator] to [recipient], [full date].
+1Output from ChatGPT, OpenAI to Fred Jones, 24 February 2023. 
+Text explaining the prompt that was used can be included in the footnote. The full detail can also be included in an appendix.
+1 Output from ChatGPT, OpenAI to Fred Jones, 24 February 2023. The output was generated in response to the prompt, ‘What is the history of the Law School at The University of Queensland’: see below Appendix C.
+Number.Originator of the communication, medium, Day Month, Year.
+1 OpenAI's ChatGPT AI language model, response to question from author, 7 February, 2023.
+Guidance based on How do I cite generative AI in MLA style? from the official style website.
+(Short form Title of source) 
+(“Describe the symbolism”) 
+“Title of source” prompt. Name of AI Tool, version, Company, Date content was generated, General web address of tool. 
+“Describe the symbolism of the green light in the book The Great Gatsby by F. Scott Fitzgerald” prompt. ChatGPT, 13 Feb. version, OpenAI, 8 Mar. 2023, chat.openai.com/chat. 
+The text of your document must include:
+In an online chat with OpenAI's ChatGPT AI language model (7 February 2023) ...
+If you use ChatGPT or other generative AI to help you generate ideas or plan your process, you should still acknowledge how you used the tool, even if you don’t include any AI generated content in the assignment.
+Provide a description of the AI tool used, what you did and the date accessed.
+Save a copy of the transcript of your questions and responses from the generative AI tool. You can:
+Different publishers are taking different approaches to whether generative AI is allowed.
+If you are writing for publication, you should check the publisher's information for authors.

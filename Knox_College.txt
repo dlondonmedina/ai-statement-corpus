@@ -1,0 +1,227 @@
+Knox College official policy on generative AI Artificial Intelligence
+https://www.knox.edu/academics/majors-and-minors/computer-science/courses
+Explore more
+Explore other majors & minors
+David Bunde
+William & Marilyn Ingersoll Chair in Computer Science
+2 East South Street
+Galesburg, IL 61401-4999
+309-341-7479
+dbunde@​knox.edu
+CS 127 Computing, Technology, and Society 
+
+                An overview of computer science. Topics include history and future of computing, robotics, computers in fiction, computer hardware, artificial intelligence, networking and the World-Wide-Web, social and ethical implications of technology, and an introduction to structured problem solving in a high-level programming language. Designed for non-majors.
+                                                                                    Not open to students with credit in CS 142 or above; Offered occasionally; 
+Staff
+
+CS 141 Introduction to Computer Science 
+
+                An introduction to the fundamental principles of computer science focusing on problem solving and abstraction techniques. Students will learn to break down problems and specify solutions at a level of detail that lets them be executed by a machine. Specific concepts taught include control structures, data types, and object-oriented design. The course is currently taught using Java.  
+                                                    Prerequisite(s): Concurrent enrollment is CS 141L is required; 
+QR; Offered every fall and winter; 
+Staff
+
+CS 142 Program Design and Methodology 
+
+                A continued study of principles of computer science and programming. This course teaches students how to design increasingly complex programs in a manageable way, using abstract data structures, data encapsulation, and other software engineering concepts. It also addresses some of the classic algorithms in computer science and begins studying how to analyze their complexity. This course is currently taught using Java.
+                                                    Prerequisite(s): CS 141 or permission of the instructor; 
+QR; Offered every winter and spring; 
+Staff
+
+CS 160 Programming Practice (1/2)
+
+                Individual instruction in programming and laboratory skills.  The student will implement several programming projects over the course of the term, regularly meeting with the supervising faculty member.  Projects will be appropriate to the level of the student.  
+                                                    Prerequisite(s): CS 141; 
+May be repeated once for credit; graded on an S/U basis; 
+Staff
+
+CS 180 Programming Language and Tools Workshop (1/2)
+
+                Students will study programming languages and development environment topics. This course will be offered as needed to support the Computer Science curriculum. Programming languages offered may include, but are not limited to: Lisp, Scheme, Prolog, C, Python, Perl, C++. Tools offered may include Linux/Unix system administration, and shell programming.
+                                                    Prerequisite(s): CS 142 or permission of the instructor; 
+Version CS 180F Programming Challenges is graded on an S/U basis. May be repeated for credit using different languages; 
+Staff
+
+CS 205 Algorithm Design and Analysis 
+
+                Advanced data structures and analysis of algorithms and their complexity. Trees, graphs, hashing, analysis of sorting algorithms, divide and conquer algorithms, dynamic programming, development of complex abstract data types typically with an object-oriented approach, an introduction to complexity theory.  
+                                                    Prerequisite(s): CS 142 and MATH 175, or permission of the instructor; 
+Offered every year; 
+D. Bunde
+
+CS 208 Programming Languages 
+
+                A critical study of the design issues that underlie modern programming languages. Students will study and use languages from a variety of programming paradigms, including functional, logic, imperative, and object-oriented.
+                                                    Prerequisite(s): CS 142 or permission of the instructor; 
+QR; Offered every year; 
+J. Spacco
+
+CS 214 Introduction to Computing Systems 
+
+                An introduction to low-level programming and computer hardware, with the goal of understanding how features of the hardware and operating system affect the performance of programs. Introduces assembly language and C. Topics include caching, memory management, and concurrency.
+                                                    Prerequisite(s): CS 142 or permission of the instructor; 
+Offered every year; 
+D. Bunde
+
+CS 220 Applied Data Structures 
+
+                Solve real-world problems by applying the key data structures covered in CS 142 to real�world data. Some possible problems to solve include detecting likely plagiarism in a large collection of documents, evaluating possible outcomes in board games using graphs, determining the likelihood an email message is �spam�, and building a data model for a database.
+                                                    Prerequisite(s): CS 142 or permission of the instructor; 
+Offered every year; 
+J. Spacco
+
+CS 223  
+
+
+CS 241F  
+
+                This course investigates how playing interactive video games constructs narratives that resemble ritual enactments of religious myth. The "reader" of a game plays an active role by actualizing the game's narrative even as the game's structure steers any action towards a predetermined conclusion. This dynamic tension, in which the player feels an illusory sense of narrative agency, will be our starting point for exploring how religion influences the narrative structure of video games. In addition to asking whether the mechanics of video games resemble the mechanics of myth and ritual, students will evaluate the intertextual relationships between particular games and real-world religious traditions.
+                                                                                                                                                                                                                                                            
+CS 248 Teaching Assistant (1/2 or 1)
+
+Prerequisite(s): Permission of instructor; 
+May be graded S/U at instructor's discretion; 
+Staff
+
+CS 292 Software Development and Professional Practice 
+
+                Covers topics in software development essential to the design and development of larger software projects. Topics include requirements management, design, code construction, testing, concurrency, parallel programming and project management. Students typically work in teams on a medium-sized software project. Issues of social responsibility, intellectual property, copyright, and assessing the risks in computer systems are discussed. 
+                                                    Prerequisite(s): Any two CS courses numbered 205 or higher; 
+Offered annually; 
+V. Kazakova
+
+CS 295 Special Topics (1/2)
+
+                Courses offered occasionally to students in special areas of Computer Science not covered in the usual curriculum. 
+                                                                                                                                                                                                                                                                    Staff
+
+CS 303 Computer Graphics 
+
+                Mathematical theories, algorithms, software systems, and hardware devices for computer graphics. Translation, rotation, scaling, projection, clipping, segmented display files, hidden line and surface elimination, surface texturing, 2-D and 3-D graphics, and input of graphical data.  
+                                                    Prerequisite(s): Any CS course numbered 205 or higher; 
+Typically offered alternate years; 
+Staff
+
+CS 305 Operating Systems 
+
+                Advanced management of computer resources such as storage, processors, peripheral devices, and file systems. Storage allocation, virtual memory, scheduling algorithms, synchronization, mutual exclusion, deadlock, concurrent programming, processes, inter-process communication, protection, operating system organization.  
+                                                    Prerequisite(s): CS 214; 
+Offered occasionally; 
+Staff
+
+CS 308 Networks and Distributed Systems 
+
+                Covers advanced topics in computer/data networking.  Topics include media types, network architectures, common networking practices and components, network design fundamentals, network management technologies and practices, and an introduction to various service and maintenance protocols (IP, DNS, DHCP, WINS, etc.). 
+                                                    Prerequisite(s): CS 214; 
+Offered occasionally; 
+Staff
+
+CS 309 Parallel Programming 
+
+                Advanced study of principles and techniques for parallel programming. Topics include load balance, dependencies, overhead, scaling, synchronization, and heterogeneity. Students will express parallelism using a variety of libraries and languages, learning approaches that provide different combinations of abstraction and programmer control in both shared and distributed memory environments.
+                                                    Prerequisite(s): CS 214 or permission of the instructor; 
+Typically offered alternate years; 
+D. Bunde
+
+CS 312 Data Mining & Statistical Computing 
+
+                A rigorous exploration of statistical methods designed to glean information from a data set. Techniques include categorical analysis, clustering, trees and forests, dimensionality reduction, outlier detection. Further topics include graphical and statistical methods for exploring data, as well as evaluating statistical methods. Computer programs, such as Python and R, will be used.
+                                                    Prerequisite(s): STAT 200 or equivalent; an additional STAT course, CS 142, MATH 151 and 152 (or MATH 145), and MATH 185.; 
+Cross Listing: STAT 312;
+Offered alternate years; 
+O. Forsberg
+
+CS 317 Artificial Intelligence 
+
+                A survey of topics in the branch of computer science concerned with creating and understanding "intelligent" computer systems, including advanced search techniques and heuristics, knowledge representation, expert systems, natural language processing, machine learning, and game playing. Topics will also include the study of the nature of intelligence and the representation of intelligent machines in fiction. 
+                                                    Prerequisite(s): Any CS course numbered 205 or higher or permission of the instructor; 
+Typically offered alternate years; 
+J. Spacco
+
+CS 320 Database Systems 
+
+                Theory and management of database management systems, including database models, design principles, data structures and query organization for efficient access, query languages, database-interface applications, normalization and relational concepts such as views, procedural database programming and referential integrity. 
+                                                    Prerequisite(s): Any CS course numbered 205 or higher; 
+Typically offered alternate years; 
+J. Spacco
+
+CS 322 Software Engineering 
+
+                Building large-scale computing systems uses requirements analysis, project planning, extensive documentation, cooperative teamwork, and design techniques to decompose a system into independent units.  The course covers all the phases of large-scale system development: software process, estimation and scheduling, configuration management, and project management. Students typically work together in teams to build a term-long project, gaining practical experience with developing larger systems.
+                                                    Prerequisite(s): CS 292; 
+Typically offered alternate years; 
+Staff
+
+CS 323 Machine Learning 
+
+                In this course, students learn and use several of the data analysis algorithms and methodologies that are common in Machine Learning to use historical data to predict or classify a target variable using other feature variables. Specifically, students will learn to: (1) understand and implement supervised learning strategies such as logistic regression, nearest neighbors, support vector machines, decision trees, and linear scoring for prediction and classification; (2) evaluate and optimize the success of these models; (3) apply appropriate technological tools such as Python or R to carry out data analysis; and (4) communicate the results of analyses effectively orally and in writing, with an accompanying understanding of ethical considerations.
+                                                    Prerequisite(s): STAT 200 or equivalent,CS 142, MATH 151 and 152 (or MATH 145), and MATH 185.; 
+Cross Listing: STAT 323;
+Offered alternate years.; 
+A. Leahy
+
+CS 330 Cryptography and Computer Security 
+
+                With the increasing ubiquity of computers and computer networks, issues of privacy and security are becoming increasingly important for computing professionals. This course introduces students to a number of related areas in computer security. Topics covered include classical cryptography, public-key cryptography, block and stream ciphers, file system security, network security, Internet and web-based security, and design principles behind cryptographic systems. In addition, the course examines social, political, legal, and ethical issues related to security systems.
+                                                    Prerequisite(s): CS 214; 
+Typically offered alternate years; 
+Staff
+
+CS 335 Interactive Design 
+
+                This class will focus on processes used when creating well-designed, user-centric interactive media. Course focus will be on conceptualizing and creating compelling designs and experiences while engaging in the various phases of design and pre-production (ideation, proposal, design, prototype) processes in a team environment. Self-initiated, problem-solving skills, as well as critical analysis of form and function will be heavily emphasized. Upon completing the class, students will have a working knowledge of interactive media project design and development. This approach will utilize an interdisciplinary, collaborative framework embedding visualization, narrative, and technology.
+                                                    Prerequisite(s): CS 292, or ART 112; 
+Cross Listing: ART 235;
+Offered alternate years; 
+J. Spacco; T. Stedman
+
+CS 340 User Experience (UX) Design 
+
+                As computing becomes more pervasive, there is a growing need to understand the point where humans and machines connect. This course is a survey of topics that arise from examination of this connection. Topics include user interface design, usability analysis, scientific visualization, novel interfaces, and an exploration of what happens when it all goes terribly wrong.
+                                                    Prerequisite(s): Any CS course numbered 205 or higher; 
+Offered occasionally; 
+Staff
+
+CS 343 Neural Artificial Intelligence 
+
+                An exploration of modern Neural and Generative AI models with an emphasis on application. Students learn the theoretical basis of models like ChatGPT and Dall-e, how to use and improve these and other Neural models programmatically, and engage with moral and ethical considerations which may arise from their use and continual improvement.
+                                                    Prerequisite(s): two or more 200-level Computer Science courses and MATH 185, or permission of the instructor; 
+R. Bose
+
+CS 348 Teaching Assistant (1/2 or 1)
+
+Prerequisite(s): Permission of instructor; 
+May be graded S/U at instructor's discretion; 
+Staff
+
+CS 375 Computing Models and Complexity 
+
+                This course examines the fundamental question "What can be computed?" by looking at different models of computing, including finite automata, regular expressions, context-free grammars, and Turing machines. It also considers time and space complexity for computable problems with a particular focus on computational lower bounds and NP-completeness.
+                                                    Prerequisite(s): CS 142 and MATH 175 or permission of the instructor; 
+Offered alternate years; 
+D. Bunde
+
+CS 395 Special Topics (1/2 or 1)
+
+                Courses offered occasionally to students in special areas of Computer Science not covered in the usual curriculum.  
+                                                                                                                                                                                                                                                                    Staff
+
+CS 395J  
+
+                Like other businesses, tech companies try to make money. What are the business models used by key technology companies, what kinds of incentives do those business models create, how do technology companies disrupt society and other businesses, and what opportunities and challenges might these powerful companies create for democratic societies?
+                                                                                                                                                                                                                                                            
+CS 399 Research Seminar in Computer Science 
+
+                An advanced study of a special topic in computer science not substantially covered in the regular curriculum. Resources are usually drawn from the current computing literature. Emphasis is on student presentations and independent writing and research. Students submit a major paper and give a public lecture.
+                                                    Prerequisite(s): CS 292 and junior standing or permission of the instructor; 
+May be taken more than once for credit but only one instance will count as an elective for the computer science major.; 
+Staff
+
+CS 400 Advanced Studies (1/2 or 1)
+
+                See College Honors Program. 
+                                                                                                                                                                                                                                                                    Staff
+
+Follow Knox 
+https://www.knox.edu/academics/majors-and-minors/computer-science/courses
+Printed on Saturday, March 30, 2024

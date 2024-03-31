@@ -1,0 +1,78 @@
+University of Pittsburgh at Johnstown official policy on generative AI Artificial Intelligence
+https://www.utimes.pitt.edu/news/teaching-pitt-chatgpt
+
+By SARAH KILDOW and LINDSAY ONUFER
+
+	The spring 2023 semester started in high gear at the Center for Teaching and Learning. As we were preparing faculty development programming, and to teach our own courses for the spring term, we began to receive a rapid influx of inquiries about a new generative artificial intelligence (AI) tool called ChatGPT (Chat Generative Pre-Trained Transformer), released by a company called OpenAI.
+
+LEARN MORE
+
+		The use of generative AI tools in higher education is a rapidly evolving topic. If you would like to learn more about how to address or integrate generative AI in your teaching, please register for one of the February and March ChatGPT events, or contact the Teaching Center.  
+
+		The first event — ChatGPT: The Evolution of Generative AI Tools and Implications for Teaching — is at 1 p.m. Feb. 17. In this virtual event, Diane Litman, professor of computer science and senior scientist in the Learning Research and Development Center, and John Radzilowicz, interim director of teaching support in the Center for Teaching and Learning, will discuss the evolution and functionality of generative AI and considerations for teaching. Register through the University calendar.
+
+	A colleague emailed a link to an article with the hyperbolic title, “The College Essay is Dead,”  which described how generative AI was poised to cause radical shifts in teaching and learning. As educational developers, we approach claims about technology tools transforming higher education with some skepticism but recognized that the samples of ChatGPT-generated novel text in the article were surprisingly sophisticated. Like many other instructors, we wondered about the capabilities of tools like ChatGPT, Quillbot and DALLE-2 and how we could address generative AI tools in our teaching.    
+
+	In the three months since ChatGPT has gone live, a flurry of publications has documented educators’ reactions, which vary from concerns about potential AI-driven academic integrity violations to enthusiasm for creative uses of AI tools. Educators have learned that generative AI tools can summarize, revise, compose and translate creative and academic texts; respond to questions; analyze data; and more.
+
+	The Teaching Center published a ChatGPT resources for faculty website to provide a broad overview of generative AI tools’ functionality, uses, and inclusive teaching strategies for encouraging students to follow academic integrity policies and avoid inappropriately using AI when completing coursework.
+
+	We also have learned that generative AI can serve as powerful teaching tools. Some faculty, like Mark DiMauro, visiting professor of multimedia and digital culture at Pitt–Johnstown and the first contributor to the Teaching Center’s ChatGPT Assignment Repository, are already incorporating AI into their class activities and assignments. Those of us who are new to teaching with generative AI are still exploring the possibilities. Below, we have listed some examples of how we plan to use ChatGPT in our own courses this term to hopefully inspire other instructors who are considering using AI for the first time.
+
+	ChatGPT can be used to:
+
+Quickly create activities for the classroom, especially for second-language teaching. ChatGPT can instantly produce texts of any specified length or style, including dialogues, incorporating specific topics or grammatical elements. ChatGPT also is adept at simplifying and summarizing texts, meaning that it can create “pre-reading” summaries of text which can be scaffolded into class activities. Much like Google Translate or Wordreference.com, ChatGPT also can serve as a dictionary or translator to aid in classroom comprehension activities.
+
+Help students understand assessment expectations. ChatGPT can generate text examples for students to analyze, critique or evaluate using a rubric or assessment prompt. Students can generate ChatGPT output to compare to their own work. In addition to clarifying instructor expectations, discussing the quality and limitations of AI-generated text can reinforce the value of academic integrity and completing work independently.  
+
+Teach editing and revision. ChatGPT can be used like a sophisticated version of an editing tool like Grammarly. For example, students can feed ChatGPT a first draft with instructions to make their text more concise, then compare the revised version to the original.
+
+Generate explanations of commonly misunderstood concepts or feedback comments. For example, when we asked ChatGPT to list the three most important elements of an effective thesis statement, it created a response that could be adapted and added to a feedback comment bank:
+
+	Despite their potential as teaching and learning tools, AI language generators do have limitations. ChatGPT is a proprietary software. Although there is a body of knowledge on how to create and train large language neural networks, the exact processes and coding that went into creating ChatGPT are opaque. We cannot reliably predict what output the software will give us, which is not ideal for users.
+
+	ChatGPT may also generate text that reflects inaccuracies, overconfidence, or include fake information or sources. ChatGPT was trained using data through 2021, meaning that it has no knowledge of recent events.
+
+	Lastly, because ChatGPT was created using existing human language, any biases existing in that language have become a part of ChatGPT's possible output. While these limitations should be considered when using AI, instructors can develop assignments that prompt students to complete tasks beyond ChatGPT’s capabilities to reinforce academic integrity.
+
+Sarah Kildow is an educational software consultant, and Lindsay Onufer is program manager and senior teaching consultant, both in the Center for Teaching and Learning.
+
+
+View Events
+
+Submit details on recently published books. Then look for a running list of publications in the University Times every two weeks.
+All Accolades
+All Passings
+
+Tell us about newsworthy people,
+	programs, and events at Pitt.
+
+	Craig Hall, fourth floor
+	200 S. Craig St.
+	Pittsburgh, PA 15260
+
+	412-648-4294
+utimes@pitt.edu
+
+About University Times
+
+			 
+
+Deadlines
+
+			 
+
+Letters Policy
+
+			 
+
+Pitt Notice of Non Discrimination
+
+Volume 55-50
+Volumes 49–27
+ 
+
+ 
+
+Subscribe
+

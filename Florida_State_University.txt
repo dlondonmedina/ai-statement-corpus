@@ -1,0 +1,56 @@
+Florida State University official policy on generative AI Artificial Intelligence
+https://its.fsu.edu/about-its/initiatives/ai-fsu
+Florida State
+                      University
+FSU | Information Technology Services
+
+Generative AI is intersecting with higher education at FSU and changing the way we learn and work.
+FSU ITS is drawing attention nationally for our work with artificial intelligence. To remain at the forefront of AI adoption, ITS continually assesses and releases new tools and features to the FSU community. Learn more about how AI is being used at Florida State and the tools currently available to our campus community.
+Generative AI refers to a class of artificial intelligence algorithms and models that are designed to generate new content similar to existing data it has been trained on. It is a bit like a creative friend who can come up with new ideas, even if they have never seen those exact ideas before! 
+Generative AI is like a smart computer program that learns from a bunch of examples. It figures out the patterns in the examples and then uses that knowledge to create new content that looks similar.
+Copilot for M365 is a new AI-powered productivity solution that helps you work smarter and faster with features like intelligent writing assistance, web page summarization, and content creation. FSU ITS is piloting the use of Copilot for M365 with various representatives across campus to determine the impact of generative AI use in daily work for higher education faculty and staff. 
+More
+
+
+
+Did you know?
+Integrated with Adobe Creative Suite, Adobe Firefly puts generative AI at your fingertips for your creative work. Use simple text prompts to bring your imagination to life. 
+Get Started 
+Meet Ruby—an AI-driven chatbot connected to the university’s customer support system. Named after FSU alumna Ruby Diamond, Ruby greets everyone and collects information before connecting to live support.
+More
+Let Zoom AI take notes for you! ITS is piloting Zoom’s AI Companion service, which records and summarizes meeting transcripts into chapters and identifies action items assigned during the meeting.
+More
+Microsoft Viva at Florida State University brings together communications, insights, knowledge and learning in an integrated experience that empowers people and teams to be their best.
+More
+Learn the core concepts of artificial intelligence and generative AI functionality with this online Learning Path and earn a professional certificate from Microsoft.
+More 
+EDUCAUSE is a nonprofit association whose mission is to advance higher education through the use of information technology. Learn more about how AI is being used across the higher education landscape.
+More 
+An upcoming event hosted by the Florida State University Department of Mathematics plans to show local students and families that math + you = fun. FSU will hold its ninth annual Math Fun Day to provide hands-on activities, presentations, exhibits, and demonstrations of mathematical concepts and how they play into our daily lives. This year’s event — from 1-5 p.m., Saturday, Feb. 3, at the Love Building on FSU’s main campus — will show the public how exciting learning about math can be.
+January 31, 2024 
+Florida State University’s faculty and staff are central to its mission and the key to its countless accomplishments. Throughout the year, honors and recognitions are awarded to individual faculty and staff members across campus. Faculty and Staff Briefs are produced monthly to recognize accomplishments and provide a space where honors, awards, bylines, presentations, grants, service and any other notable items can be showcased.
+January 30, 2024 
+Anubi and his team will develop algorithms to detect and mitigate the effects of cyberattacks in the electric grid. Current approaches to keeping the electric grid’s computer systems safe use artificial intelligence and machine learning to detect anomalies that signal an attack.
+January 4, 2024 
+Researchers at the Resilient Infrastructure and Disaster Response Center (RIDER) are using artificial intelligence and aerial imaging to make Florida’s school zones safer.
+November 20, 2023 
+The Jim Moran College of Entrepreneurship at Florida State University continues to maintain its standing among the nation’s top entrepreneurship programs. The college is regularly evaluating and updating its curriculum, including the addition of a course focused on artificial intelligence.
+November 7, 2023 
+Over the summer, five students in Florida State University’s Honors Program participated in a workshop at the University of Oxford in England addressing the impact of technology on human rights and spoke with leading scholars from an array of fields including artificial intelligence, media, law, and philosophy.  
+October 13, 2023 
+Florida State University’s weeklong celebration of research, creativity and innovation made an appropriate stop Wednesday at the Innovation Hub where students will find technologies that span digital fabrication and include immersive media, programmable drones, robotics and generative artificial intelligence.
+October 6, 2023 
+Florida State University will recognize 10 distinguished alumni during the annual Alumni Awards event on Friday, Oct. 20, and three Grads Made Good Award recipients at the Homecoming Breakfast on Saturday, Oct. 21. The 2023 Askew Award honoree Amanda Schell specializes in applying machine learning models and other artificial intelligence algorithms to inform policymaker decision-making on national security issues.
+September 22, 2023 
+Using publicly available data across the state, Associate Professor Christopher Uejio with the FSU College of Social Sciences & Public Policy, will create a new cumulative impact assessment approach using artificial intelligence to provide information about a diverse population of more than 21 million people to look for relevant patterns of health.
+August 21, 2023 
+Listen to FSU Headlines on Soundcloud. 
+August 11, 2023 
+Information Technology Services · 1721 W Paul Dirac Drive · Tallahassee, FL 32310
+© Florida State University
+                    Tallahassee, FL 32306
+FSU Directory Assistance
+Questions or Comments
+
+Privacy Policy
+Copyright

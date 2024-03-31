@@ -1,0 +1,7 @@
+Occidental College official policy on generative AI Artificial Intelligence
+https://libguides.oxy.edu/c.php?g=1294909&p=9981490
+The following represent concerns that have been discussed in academic literature and the news media and are not exhaustive:
+The short video below from the University of Maryland libraries summarizes the main concerns quite well.
+Currently, there are no applications or programs that can definitively evaluate or alert you if the content you are reading or seeing was created by an AI like ChatGPT.  There are a few out there that tell you the probability that the content was ChapGPT created such as the app GPTZero which is free and created by a computer science student at Princeton. 
+"As the technology stands today, it's safest to avoid automated AI detection tools completely. 'As of now, AI writing is undetectable and likely to remain so,' frequent AI analyst and Wharton professor Ethan Mollick told Ars in July. 'AI detectors have high false positive rates, and they should not be used as a result.'" Edwards, B. (2023, September 8). OpenAI confirms that AI writing detectors don’t work. Ars Technica. https://arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/
+As the large language models and image generators "learn" more by interacting with human users, it will become increasingly difficult for humans to detect AI content.  These articles give some more information on this topic:

@@ -1,0 +1,54 @@
+Harvard University official policy on generative AI Artificial Intelligence
+https://huit.harvard.edu/ai/guidelines
+
+
+Protect confidential data
+
+
+Review content before publication
+
+
+Adhere to existing academic policy
+
+
+Be alert for phishing
+
+
+Connect with HUIT before procuring generative AI tools
+
+
+	Generative AI is a type of artificial intelligence that can learn from and mimic large amounts of data to create content such as text, images, music, videos, code, and more, based on inputs or prompts. The University supports responsible experimentation with Generative AI tools, but there are important considerations to keep in mind when using these tools, including information security and data privacy, compliance, copyright, and academic integrity.
+
+
+
+
+
+You should not enter data classified as confidential (Level 2 and above, including non-public research data, finance, HR, student records, medical information, etc.) into publicly-available Generative AI tools, in accordance with the University’s Information Security Policy. Information shared with Generative AI tools using default settings is not private and could expose proprietary or sensitive information to unauthorized parties. 
+
+
+	Level 2 and above confidential data must only be entered into Generative AI tools that have been assessed and approved for such use by Harvard’s Information Security and Data Privacy office. 
+
+
+
+
+
+AI-generated content can be inaccurate, misleading, or entirely fabricated (sometimes called “hallucinations”) or may contain copyrighted material. You are responsible for any content that you publish that includes AI-generated material.
+
+
+
+
+
+Review your School’s student and faculty handbooks and policies. We expect that Schools will be developing and updating their policies as we better understand the implications of using Generative AI tools. In the meantime, faculty should be clear with students they’re teaching and advising about their policies on permitted uses, if any, of Generative AI in classes and on academic work. Students are also encouraged to ask their instructors for clarification about these policies as needed.
+
+
+
+
+
+Generative AI has made it easier for malicious actors to create sophisticated phishing emails and “deepfakes” (i.e., video or audio intended to convincingly mimic a person’s voice or physical appearance without their consent) at a far greater scale. Continue to follow security best practices and report suspicious messages to phishing@harvard.edu. 
+
+
+
+
+
+	Additionally, the University is working to ensure that tools procured on behalf of Harvard have the appropriate privacy and security protections and provide the best use of Harvard funds.
+

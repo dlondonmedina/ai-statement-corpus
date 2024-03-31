@@ -1,0 +1,24 @@
+Montana Tech official policy on generative AI Artificial Intelligence
+https://libguides.mtech.edu/Generative_AI/references
+References
+
+Caplan, B., Selingo, J.J., Kitcher, P., Robbins, H., Underwood, T., Starr, G.G., Vinsel, L., Chiang, M., Clark, R.     
+      Botstein, L., Pines, D.J., & Boyd, D. (2023, May 25). How will artificial intelligence change higher ed? The     
+      Chronicle of Higher Education. https://www.chronicle.com/article/how-will-artificial-intelligence-change-higher-ed
+Google Bard. (2023. September 27). Experiment updates. https://bard.google.com/updates
+Grammarly. (2023). Introducing GrammarlyGO. https://support.grammarly.com/hc/en-us/articles/14528857014285-
+       Introducing-GrammarlyGO
+Mc,Adoo, Timonthy. (2023, April 7). How to cite ChatGPT. American Psychological Association.
+      https://apastyle.apa.org/blog/how-to-cite-chatgpt
+MLA Style Center. (2023). How do I cite generative AI in MLA style? https:style.mla.org/citing-generative-ai/
+Open AI. (n.d.). Chat GPT overview. https://openai.com/chatgpt
+Open AI. (n.d.). Dall-E2. https://openai.com/dall-e-2
+Pelletier, K., Robert, J., Muscanell, N., McCormack, M., Reeves, J., Arbino, N. and Grajek, S., Birdwell, T., Liu, D.,       
+        Mandernach, J., Moore, A., Porcaro, A., Rutledge, R, & and Zimmern, J. (2023). Educause Horizon report: teaching and
+       learning edition. BY-NC 4.0 License. 
+        https://library.educause.edu/-/media/files/library/2023/4/2023hrteachinglearning.pdf?
+The White House. (2023, October 30). FACT SHEET: President Biden Issues Executive Order on Safe, Secure, and
+        Trustworthy Artificial Intelligence. https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-
+        president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/
+United States Department of Education, Office of Educational Technology. (n.d.). Artificial Intelligence. https://tech.ed.gov/ai/
+ 

@@ -1,0 +1,66 @@
+Drake University official policy on generative AI Artificial Intelligence
+https://www.drake.edu/media/collegesschools/cbpa/documents/Zimpleman%20AI%20Guidelines%2003-3034.pdf
+Zimpleman Artificial Intelligence Guidelines
+Artificial Intelligence (AI)
+Artificial Intelligence (AI) is the use of technology to simulate human intelligence. Generative AI, a subset of
+AI, uses machine learning, algorithms, and large data sets to produce human-like responses. Generative AI
+tools can be used to brainstorm ideas, summarize research, produce stories or essays, generate or debug
+code, write emails or resumes, among other things. In an educational setting, AI tools can complement a
+learning experience. However, AI tools can also pose challenges related to academic integrity. With this
+background in mind, the Zimpleman College of Business has developed the following considerations for
+students and faculty for the ethical use of AI tools.
+Considerations for Students
+• The use of AI tools for course work or assignments will depend on faculty policies.
+• Faculty policies on the use of AI for course work, assignments, or exams will vary.
+• Students should consult with faculty regarding the appropriate use of AI tools for course work.
+• Students who use AI tools for course work without faculty permission or without following course
+policies will be in violation of the Zimpleman Academic Integrity Policy.
+• For course work where AI tools are permitted, students should not solely rely on AI generated
+material. Students who use AI tools should use proper attribution and citation practices and should
+carefully review any AI-generated material as AI-generated content can be inaccurate, misleading,
+entirely fabricated (e.g., deepfakes), or may contain copyrighted material.
+• Students are responsible for any content they use that includes AI-generated material.
+Considerations for Faculty
+• Faculty are encouraged to use class time to communicate their expectations regarding allowing, or
+not allowing the use of AI tools for coursework.
+• Faculty should include AI policies or expectations in their syllabi and/or on individual course
+assignments.
+• Faculty should encourage critical thinking ensuring that students do not become overly reliant on AI
+tools for learning.
+• Faculty should not rely on single-type assessment methods for a course (i.e., consider a mix of
+assessment methods).
+• Faculty should evaluate assessment methods to consider the impact of AI tools. For example, faculty
+should enter assignment prompts into AI tools to see the results to validate that assessment method
+is sound.
+• Faculty should establish a step-by-step plan for how they will address suspected student misuse of AI
+tools per their course policies. For example, per the academic integrity policy, if an instructor assigns
+a penalty to an assessment related to academic integrity, the incident must be immediately reported
+in writing to the Associate Dean of Student Affairs. For more details see Zimpleman Academic
+Integrity Policy.
+• Faculty should be aware that AI detection tools are not perfectly reliable for detecting academic
+integrity issues and need to consider the risk of false positives.
+• Faculty are encouraged to regularly review AI course policies as new developments emerge.
+Zimpleman College of Business
+Drake University 2847 University Avenue | Des Moines, IA 50311 | 515-271-3142 | drake.edu/zimpleman
+Example AI Policy for Syllabi1
+This course is designed to encourage original critical thinking. Generative AI tools may be utilized as a support
+tool for academic work in this course, provided that the following guidelines are adhered to:
+• Proper Citation: All work generated or assisted by generative AI tools must be appropriately cited.
+Citations should include the name of the AI tool used, its version (if applicable), and any other
+relevant information necessary for others to identify and access the tool.
+• Transparency: Students must be transparent about the use of generative AI tools in their academic
+work. This includes clearly indicating which portions of their work were generated or assisted by AI.
+• Originality: While the use of generative AI tools is permitted, students are expected to maintain the
+integrity of their work and ensure that it remains original. Students should not rely solely on AI-
+generated content without engaging in critical thinking, analysis, and synthesis of the material.
+• Understanding and Learning: The primary goal of assignments is to foster understanding and
+learning. Therefore, students are encouraged to use generative AI tools as a support mechanism to
+enhance their comprehension of course material. Merely regurgitating AI-generated content without
+understanding the underlying concepts is discouraged.
+• Academic Integrity: Utilizing generative AI tools does not exempt students from adhering to
+academic integrity standards. Plagiarism, including the submission of AI-generated content without
+proper citation, will not be tolerated and may result in disciplinary action.
+• Instructor Guidance: Students are encouraged to consult with the instructor regarding the
+appropriate use of generative AI tools for specific assignments. The instructor may provide additional
+guidance or limitations on the use of AI tools based on the nature of the assignment and learning
+objectives.

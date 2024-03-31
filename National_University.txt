@@ -1,0 +1,85 @@
+National University official policy on generative AI Artificial Intelligence
+https://resources.nu.edu/writingresources/GenerativeAI
+Generative AI includes programs such as ChatGPT, Google Bard, Microsoft Bing, Perplexity AI, and more. It is the student’s responsibility to consult their course syllabus, course template, or instructor before making use of such tools. 
+Misuse of AI in courses constitutes a breach of academic integrity as defined by the Student Code of Conduct.
+Generative AI (short for artificial intelligence) refers to text generators that use algorithms to pull information from the internet to respond to prompts given by program users. There are many of these tools already in existence, and more are being created daily. Here are some that are currently available:
+Generative AI tools can help you build stronger writing skills, but should never be used to do the work for you. Think of it as a learning tool to help generate ideas to help you get started. For example, you could ask the program to rewrite a phrase, sentence, or paragraph. Analyze the generated response and decide what improvements you want to incorporate into your work. You could even consider asking the program to rewrite the same content a few times for even more options. By using the tool in this way, you may learn new words to expand your vocabulary and develop new ideas for how to communicate your ideas.
+Over-reliance on generative AI tools could mean that you are not developing the skills needed for academic or career success. Without proper skill development, you will not be able to produce work independently when AI tools are not available, like when giving a presentation or defending a dissertation. Using generative AI as a writing coach adds another tool to your toolbox that you can use to help you become a stronger writer.
+Generative AI tools can make the writing process less stressful and help you overcome writer's block. However, users should be aware of some of the limitations of these algorithms.
+For these reasons, students will want to consider their purpose for using the program and not take the responses at face-value. All generated responses should be fact-checked and adapted to the original purpose.
+Here are just a few ways you can use generative AI tools to help you with the writing process:
+The purpose of academic integrity is to guarantee the knowledge pools of each academic field are not contaminated by incorrect or unsubstantiated information. In other words, all written work must be accurate, original work. National University (NU) students and faculty must carefully ensure their writing is distinct from the writing of others. Every day—every discussion post, every assignment, every dissertation document must be thoroughly supported from scholars who have gone before, or who are currently active in the field, along with meaningful original work, all the while assuring accuracy with the selection of and application of referenced and original information. In sum, NU is committed to supporting students and faculty in understanding and applying standards of academic integrity by: 
+NU is committed to maintaining a community with exceptional ethical standards of professional and academic conduct. Community members of the University are expected to conduct themselves professionally and refrain from acts of misconduct including, but not limited to, dishonesty, cheating, and plagiarism. Substantiated violations of plagiarism may result in disciplinary sanctions, up to and including expulsion from the University.
+The University considers it a serious violation of academic integrity to – intentionally or unintentionally – present the thoughts or ideas of another as your own. The key to academic integrity originates in the writer’s choices on how to divide their voice from the voices of others. The combination of an individual’s style, perspective, and tone of writing is partly what makes your voice stand apart from others. The other important part is ensuring all supporting material within your writing is accurate and correctly substantiated. The American Association of University Professors defines plagiarism as, “Taking over the ideas, methods, or written words of another, without acknowledgment and with the intention that they be taken as the work of the deceiver.”
+Often the words “copying” and “borrowing” of someone else’s original ideas are associated with plagiarism; unfortunately, terms such as these cover up the seriousness of the offense.
+According to the Merriam-Webster online dictionary, 2 to plagiarize means:
+So, how well do you know plagiarism? Here’s a 10-question quiz to find out: http://en.writecheck.com/plagiarism-quiz
+There are two types of plagiarism: Intentional and unintentional. Intentional plagiarism is defined as using someone else’s words or ideas and passing them off as your own. Unintentional plagiarism is the accidental appropriation of the work of others due to a lack of understanding of how to document.
+National University considers it a serious violation of academic integrity to plagiarize one’s work, even unintentionally. The key to academic integrity originates in the writer’s choices on how to divide his or her voice from the voices of others. Intentional plagiarism can be defined as appropriating the words or ideas of someone else and passing them off as your own.
+Intentional plagiarism can include:
+Unintentional plagiarism is the accidental appropriation of the work of others due to a lack of understanding of documentation conventions. However, this misuse of sources is still considered a violation of academic integrity. NU’s response to such violations may range from requiring a student to rewrite a paper to permanently dismissing a student from the University.
+Unintentional plagiarism can include: 
+To monitor for potential plagiarism, the University submits student assignments through the institution’s third-party text matching service (Turnitin).
+The academic integrity policy applies to all course assignments submitted by a student to a faculty member.
+Based on a worldwide survey of nearly 900 secondary and higher education faculty, Turnitin has identified ten types of plagiarism, referred to as The Plagiarism Spectrum. Each type has been given an easy-to-remember moniker to help students and faculty better identify and discuss the ramifications of plagiarism in student writing. Additionally, each type has been ranked by severity (#1-10) and scored by a frequency of appearance (1=lease, 10=most). See https://www.turnitin.com/static/plagiarism-spectrum/ for more information.
+Confirmed violations of the academic integrity policy range from requiring a student to rewrite a paper to permanently dismissing a student from the institution.
+As per the NU Catalog, students dismissed due to a violation of the Student Code of Conduct, the University's Academic Integrity policy, or due to any other legal or ethical matters, do not qualify for readmission to the University.
+Academic Success Center (ASC)
+ 
+Content generated by artificial intelligence (AI) reflects someone else's ideas, even if that "someone" is a computer program. Any time an individual uses someone else's ideas in their writing, the writer needs to give credit to the appropriate source. That means, students should cite work that is generated by a generative AI program. Failure to cite an AI source could result in academic integrity violations and subsequent consequences.
+At this time, the various publication styles (i.e., APA, MLA, or AMA) are beginning to address citing generative AI sources. This page will be updated as needed to reflect current guidance. Here are some examples of how to cite text obtained from a generative AI tool in various publication formats:
+Chicago Style - cite as a numbered footnote or endnote
+1. Text generated by ChatGPT, March 7, 2023, OpenAI, https://chat.openai.com/chat.
+Author: name of the AI tool
+Date: date of generation
+Publisher: name of the company that made the tool
+Location: general URL to access the AI tool
+MLA - attribution belongs on the Works Cited page - adapt as needed
+“Describe the symbolism of the mockingjay in the book The Hunger Games by Susan Collins” prompt. ChatGPT, 13 Feb. version, OpenAI, 17 Mar. 2023, chat.openai.com/chat.
+Author: there will be no author
+Source Title: description of what was generated or the prompt that was used
+Container Title: name of the AI tool
+Version: include any specific version information available for the tool
+Publisher: the name of the company that made the tool
+Date: date of generation
+Location: general URL to access the AI tool
+APA - cited in text and included in the reference list
+Reference List: OpenAI. (2023). ChatGPT (Mar 14 version) [Large language model]. https://chat.openai.com/chat
+Author: name of the company that created the tool
+Date: year of the version used
+Title: name of the AI tool used to generate the response (version used) [brief description of the type of model]
+Source: general URL to access the AI tool
+In-Text Citation: OpenAI (2023) or (OpenAI, 2023)
+
+Please note that generative AI programs are not scholarly sources. In addition to providing potentially inaccurate information, the responses are not peer-reviewed, nor do they undergo any review process. Therefore, students should conduct their own research, using scholarly sources, to verify any information obtained from AI-generated text.
+(Webinar) AI text generators like ChatGPT have emerged as influential tools, altering the way we work, write, and learn. If you want to learn more about partnering with these programs to support your research, then you can attend a webinar with Dr. Brian Arnold and Dan Johnston. They will showcase the available tools, teach how to use them effectively and responsibly, and field questions about the latest developments in generative AI --This summary brought to you by Brian and Dan, in partnership with ChatGPT
+ As a reminder, AI must be used ethically. The Academic Success Center does not provide support for the use of these tools. 
+We will assist you in understanding the ethical use of AI and citing your work after using these tools. Here are just a few free use AI tools.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

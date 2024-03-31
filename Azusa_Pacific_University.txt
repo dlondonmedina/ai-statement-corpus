@@ -1,0 +1,98 @@
+Azusa Pacific University official policy on generative AI Artificial Intelligence
+https://gocanvas.apu.edu/ai-resources
+Since February 2023, the Provost Office has been equipping APU faculty to engage effectively and critically with the emergence of artificial intelligence (AI) tools and their potential impact on teaching and learning. Below are resources that have been developed to support faculty as they engage with their colleagues and students around these critical issues. If you have any questions or need additional consultation, please contact Mike Truong, Director of Faculty Development at mtruong@apu.edu.
+APU Academic Integrity Policy - The updated policies explicitly note that using AI tools for work submitted for credit will require instructor permission. 
+APU A.I. Classroom Use Policy - This document provides instructors with suggested policies for varying levels of AI classroom use to include in the syllabus.
+APU Guidance on the Usage of A.I. Detection Tool - This document provides instructors with some important considerations when using AI detection tools within and outside Canvas. 
+APU Guidance and Strategies for Assignment Makeover in the Age of A.I. - This document provides guidance and strategies for revamping assignments to reflect students’ true learning rather than AI's capabilities.
+APU Faculty Guide to ChatGPT - A basic introduction to ChatGPT for faculty
+A.I. Classroom Policies by Disciplines - Example AI classroom use policies by disciplines | AI Code of Conduct by Harvard
+A.I. Citations | Formats & Examples - How to cite ChatGPT in APA, MLA, and Chicago Style
+AI Text Generators - Collection of articles and resources to stimulate discussion among faculty
+ChatGPT Assignments to Use in Your Classroom Today - Collection of assignments that utilize ChatGPT, teaching students AI fluency.
+Practical AI for Instructors and Students - A crash course on AI by Wharton professors. 
+Part 1 - Intro to AI 
+Part 2 -  Large Language Models (LLMs)
+Part 3 - Prompting AI
+Part 4 - AI for Teachers
+Part 5 - AI for Students
+SimCheck (a Turnitin product) is an integrated plagiarism tool within Canvas. It provides both an Originality Score (percentage of submitted work that is found elsewhere) and an AI Score (percentage of submitted work that is potentially written by AI). Both reports can be accessed from within the SpeedGrader view. Please note that instructors and students can view the Originality Score, but only the instructor can view the AI Score.
+How to create an assignment with SimCheck enabled.
+How to access the Similarity Report within SpeedGrader.
+How to interpret the AI score and the AI Writing Report.
+Turnitin's AI Writing Detection Tool - Feature Guidance.
+Outside of Canvas, there are stand-alone AI-writing detectors you can use. Please note that these free tools are often limited in how many words they can check. If you have a lot of text to check, you'll need to do it in small batches.
+GPTZero - Limited to 5,000 characters per detection
+ZeroGPT - Limited to 15,000 characters per detection 
+Caution: At the moment, AI-writing detection tools are not entirely reliable. There are many "false positives." If a piece of writing is flagged as "AI-written," further investigation is warranted. Watch the webinar on AI and Academic Integrity for a detailed discussion (see below).
+AI detection tools work by recreating questionable text using AI models. If the questionable text has high variability, it's likely that it's not AI written. However, there are "remover tools" that can "scramble" or "wash clean" AI writing, making them virtually undetectable by traditional AI detection tools. Some of the most popular AI remover tools include Undetectable AI, HideMyAI, and WriteHuman. If you come across writing that sounds machine-generated but has a 0% AI score, then most likely an AI remover tool was used. There are second-generation AI writing detectors that can detect "sanitized AI writing," but it's a matter of time before new AI removers will come onto the scene. 
+Here are some recommended practices for how to deal with suspected AI-related academic integrity violations:
+Compare the writing in question with the student's previous work. Does it match their style, tone, and level of previous writing? If there are significant differences, it’s worth further conversation with the student.
+Check for inaccuracies in sources, arguments, facts, etc. AI text generators often have no concept of something being accurate or truthful, so they may often “hallucinate” and generate fictitious sources, non-sensical arguments, and/or utter falsehoods.
+Meet with the student who is suspected of misusing AI. Focus the meeting on “seeking to understand,” instead of “proving who’s right.” Ask the student how the paper was written, what was the process like, and what additional tools, if any, were used. Asking these “writing process questions” will often reveal important insight about the paper's integrity. Also, clarify with your students what types of AI tools may or may not be used, such as writing assistant tools like Grammarly and Quillbot that can summarize, paraphrase, and/or suggest writing style edits. 
+If this issue is prolific, discuss the issue with the entire class. If you find multiple students with high AI scores and/or suspect inappropriate AI use, then it’s worth having a conversation with the entire class, directing them back to your AI classroom use policy. If you don't have one, implement one immediately (see resource).
+Offer a second chance. Consider allowing students to redo the work without penalty or for a reduced grade. If it is clear that the student used AI-generated text and did no original work, give the assignment a zero or a substantial reduction in grade.
+If a violation has indeed occurred, it’s essential to establish what progressive discipline might look like. For example, a first offense results in an oral warning and an automatic failure of the assignment. A second offense results in filing a violation report and an automatic failure of the assignment. A third offense results in filing another violation report and failure from the class. Please also refer to the APU’s Academic Integrity Policies for details on handling violations.
+Dr. Mike Truong, Director of Faculty Development, and Tim Schreffler, Academic Support Center Coordinator, will facilitate a semester-long FLC on leveraging artificial intelligence (AI) tools for academic productivity gains. In particular, the FLC will explore AI tools and techniques for improving teaching, research, and administrative tasks. All faculty, including full-time, part-time, and adjunct faculty, are encouraged to apply.  [See FLC syllabus  for topics covered.] 
+To apply for the Spring 2024 cohort, please submit an application by December 8, 2023. Accepted applicants will be notified by December 15, 2023. To optimize the learning experience, our cohort will be limited to 20 participants. 
+The FLC will meet every other Thursday, starting January 18th, via Zoom for five meetings. Participants will need to commit to attending at least four sessions in order to be accepted into the FLC. 
+Thursday, Jan. 18, 2024, 10:00-11:30am PT
+Thursday, Feb. 1, 2024, 10:00-11:30am PT
+Thursday, Feb. 15, 2024, 10:00-11:30am PT
+Thursday, Feb. 29, 2024, 10:00-11:30am PT
+Thursday, Mar. 14, 2024, 10:00-11:30am PT
+Upholding academic integrity in the face of prolific AI use can be challenging for instructors. In this workshop Drs. Karen Lang and Mike Truong will discuss how AI writing detection tools work, what cautions need to be considered, and how to approach conversations with students when investigating if there was a violation. Dr. Kandy Mink Salas, Associate Provost for Student Success, will be available to answer questions related to academic integrity violations. 
+Date: November 14, 2023, 2-3:30pm PT
+Facilitators: 
+Karen Lang, Lead Instructor, Writing Program
+Mike Truong, Director of Faculty Development, Provost Office
+Kandy Mink Salas, Associate Provost, Student Success
+Resources: 
+Recording of presentation
+Presentation slides
+Accompanying handout
+The rise of artificial intelligence (AI) text-generation tools presents new challenges for educators. How can faculty ensure assignments reflect students’ true learning rather than AI's capabilities? In this interactive workshop, Drs. Karen Lang and Mike Truong will offer guidance and strategies on how to revamp your assignments to encourage deeper learning in the age of AI.
+Date: August 17, 2023, 11-12pm PT
+Facilitators: 
+Karen Lang, Lead Instructor, Writing Program
+Mike Truong, Director of Faculty Development, Provost Office
+Resources: 
+Recording of presentation
+Presentation slides
+Accompanying handout
+During spring 2023, the Office of the Provost hosted a series of informal conversations with faculty and academic staff about the potential impact of artificial intelligence (A.I.), such as ChatGPT, on teaching, learning, and scholarship. Over 100 individuals participated in these conversations.
+Date: February 16, 2023, 11-12pm PT
+Overview: This introduction session focused on what generative artificial intelligence is, how it works, and why it's getting so much attention in education.
+Facilitator: Mike Truong, Director of Faculty Development, Provost Office
+Resource: Presentation Slides
+Date: February 22, 2023, 11-12pm PT
+Abstract: This session was part 2 of the overview of generative AI, focused on some of the challenges and opportunities of this tool with special attention to how Christian educators should approach this technology.
+Facilitator: Mike Truong, Director of Faculty Development, Provost Office
+Resource: Presentation Slides
+Date: February 28, 2023, 1-2:30pm PT
+Abstract: This session focused on the ins and outs of AI-created text, suggested some positive practices and guardrails for its uses, and examined the pitfalls together.
+Facilitators: 
+Aurora Matzke, Director, Writing & Tutoring Centers
+Catherine Hahs Brinkley, Chair and Assistant Professor, Division of Teacher Education, School of Education
+Mike Truong, Director of Faculty Development, Provost Office
+Resources
+Presentation Slides
+Annotated bibliography - Curated by Rhonda Grego
+Sources to Stimulate Discussion Among Teachers - Curated by Anna Mills
+Date: March 13, 2023, 1-2:30pm PT
+Abstract: This session focused on the ethical handling of AI writing and motivating student-writers in an AI age.
+Facilitators: 
+Karen Lang, Lead Instructor, Writing Program
+Mike Truong, Director of Faculty Development, Provost Office
+Resources: 
+AI Humanizing Handout - Developed by Karen Lang
+Methods Amidst Our Human Responses to AI Composing - Developed by Karen Lang
+Date: March 22, 2023, 10-12pm PT
+Abstract: This session focused on the ethical handling of AI writing and motivating student-writers in an AI age.
+Facilitators: 
+Jeff Tirrell, Associate Director, Office of Curricular Support and Effectiveness
+Dave Harmeyer, Professor, University Libraries
+Mike Truong, Director of Faculty Development, Provost Office
+Resources: 
+Presentation Slides
+Session Recording

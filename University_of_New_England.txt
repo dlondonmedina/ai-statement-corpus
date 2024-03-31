@@ -1,0 +1,23 @@
+University of New England official policy on generative AI Artificial Intelligence
+https://library.une.edu/research-help/evaluating-sources/generative-ai/
+UNE Library Services
+Generative AI is increasingly embedded in the tools we use every day, such as Microsoft 365, Grammarly, and Spotify. Newer AI programs like ChatGPT, Gemini, and DALL-E2 are exciting and powerful tools with an impressive ability to produce content. Using generative AI in your academic work, however, requires careful consideration. 
+Generative AI is a form of artificial intelligence (AI) trained on a huge amount of text and data so that they can generate responses to a wide variety of prompts. These programs can produce text, images, audio, code or other formats.
+These programs are rapidly changing and evolving and require careful consideration and evaluation. These tools come with limitations including currency and bias of information.  
+Before using generative AI in your work, be sure to confirm with your instructor that using content produced by these programs is acceptable and if there are any restrictions.  See UNE’s policy on Academic Integrity.
+It’s worth mentioning that AI-generated content should be carefully evaluated and scrutinized. The output of AI models may not always be accurate, reliable or appropriate, and human review and editing are often necessary to ensure the quality and ethical considerations of the content. “
+Generative AI programs may produce inaccurate, outdated, or false information, called hallucinations. ChatGPT has been shown to create realistic looking citations to articles which do not exist. Also, because these programs were developed by humans, bias may be present in the language and answers provided. Evaluate any AI-generated information or references carefully! 
+If you use AI generated content in your work you will need to attribute the source. Be sure to verify factual information in other credible sources and check references provided to make sure they are real.  
+As AI is still developing, the rules for citation are being developed. Guidance for incorporating AI tools in your research in the following styles is currently available:  
+If you have questions on this, or another, topic, contact a librarian for help! 
+11 Hills Beach Road
+Biddeford, Maine 04005
+(207) 602-3000
+Hours 
+Directions
+716 Stevens Avenue
+Portland, Maine 04103
+(207) 602-3000
+Hours
+Directions
+© 2024

@@ -1,0 +1,39 @@
+Elmhurst College official policy on generative AI Artificial Intelligence
+https://www.elmhurst.edu/blog/how-todays-ai-will-impact-your-profession-a-panel-discussion/
+Popular Searches
+Home » Blog » How Today’s AI Will Impact Your Profession: A Panel Discussion
+ BY JAMES KULICH |  5 MIN READ
+
+Artificial Intelligence (AI) is here to stay. It has woven its way into our society through many avenues. As I’ve written about in this three-part series (A Path to Data Literacy and The Current State of AI), we are not to be scared or awed of its existence. Rather, we need to lean in, to listen and prepare to adapt to the uses that present themselves. Through a little preparation and understanding, you can utilize uses of AI in your workplace to thrive in the coming year.
+Earlier this fall, I had the pleasure of hosting a panel discussion titled How Today’s AI Will Impact Your Profession and How You Can Prepare. The panelists, all of whom are faculty members in Elmhurst University’s Master’s program in Data Science and Analytics, were Jobi Abraham, Debbie Chafee, Ryan Elmore and Stephen Gnidovec. They offered a wealth of insights from their professional backgrounds in health care, financial services, consulting and supply chain management analytics. Together we explored the nuances of uses of AI and how each industry can become efficiently integrated with the new technology.
+Six Steps in Utilizing AI
+To get a sense of what’s possible, here are a few examples of use cases our panelists experienced or are developing.
+Education: Creating a 24-7 interactive academic support system for college students using generative AI trained on information captured from large numbers of student-faculty interactions via a variety of media.
+Health Care: Simplifying and enhancing the record keeping process for physicians, who may see 100 patients on a given day, by using AI to transcribe written notes, summarize the transcriptions, submit the summaries to an electronic medical records system, and signal cases where opportunities for medical treatment may have been missed that can be addressed in future visits.
+Marketing: Reverse engineering a marketing campaign by using AI to capture prior posts on social media, translate images and videos to text, add current relevant information such as demographics, and prepare a recommendation for the next marketing campaign.
+Financial Services: Serving clients when and how they want to interact by using AI to offer real-time guidance for live customer service agents tailored to a client’s specific situation and by using AI in a different way to create focused, personalized options for a customer seeking planning advice online.
+Manufacturing: Enhancing an organization’s ability to differentiate its level of service by using AI to improve forecast accuracy at the operations level and the delivery level, enabling more goods to be made and delivered when and where customers desire.
+Staffing: Anticipating and meeting staffing needs in an environment where unplanned absences are common by using AI to more precisely forecast the true number of employees needed on a specific day and to best deploy employees when an unexpected staff shortage occurs.
+Coding: Reducing the need to develop code from scratch and improving code quality by using AI to generate baseline code from a natural language description of a business need and tapping AI’s capability to verify, debug, and explain code.
+The professors in the Data Science and Analytics Program at Elmhurst University are very active in the ongoing usage and research of AI. If you are looking to develop deep data skills, Elmhurst’s Master’s program in Data Science and Analytics can help. Fill out the form below to connect with us.
+Jim Kulich is a professor in the Department of Computer Science and Information Systems at Elmhurst University. Jim directs Elmhurst’s master’s program in data science and analytics and teaches courses to graduate students who come to the program from a wide range of professional backgrounds.
+Posted December 5, 2023
+ November 7, 2023 | 5 Minute Read
+ October 10, 2023 | 5 Minute Read
+ July 18, 2023 | 5 Minute Read
+ July 5, 2022 | 5 Minute Read
+ March 1, 2022 | 6 Minute Read
+ February 1, 2022 | 5 Minute Read
+ | 6 Minute Read
+ January 10, 2022 | 7 Minute Read
+ October 13, 2021 | 4 Minute Read
+ October 5, 2021 | 5 Minute Read
+Your email address will not be published. Required fields are marked *
+Comment *
+Name * 
+Email * 
+Website 
+  
+190 Prospect Avenue Elmhurst, Illinois 60126
+ (630) 617-3400 admit@elmhurst.edu
+ © 2024 Elmhurst University

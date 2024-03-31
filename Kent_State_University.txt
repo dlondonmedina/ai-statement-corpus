@@ -1,0 +1,24 @@
+Kent State University official policy on generative AI Artificial Intelligence
+https://www.kent.edu/today/news/generative-ai-friend-or-foe
+Professional development is an important part of being a successful member of the professional workforce. Learning new skills is key for students, faculty and staff. University Libraries has developed the Digital Scholarship Series, a collection of professional development virtual and in-person opportunities focused on the digital landscape that will help professionals and introduce training to areas that may not be covered in regular instruction and curricula.
+The workshops are presented most Fridays to educate participants on aspects of digital academics, some offer an in-person workshop option. The Feb. 16 workshop welcomed Kent State University students and faculty to Microsoft Teams for a discussion about the changing landscape of generative AI presented by LeighAnn Tomaswick and Cindy Kristof.  
+This workshop talked about how artificial intelligence can work for or against teachers in the classroom.  
+Tomaswick, innovation learning design specialist at the Center for Teaching and Learning, stresses the importance of teaching and exploring artificial intelligence.  
+“At least explore AI with curiosity, talk with others, and see the possibilities of how it cannot just support our students, it can support every single person,” Tomaswick said. “I'd say the biggest message or takeaway is thinking about instructors’ use of it.”  
+A key component of Tomaswick’s presentation was spent emphasizing the assistive use of AI by students using a checklist.  
+“Talking to your students and having a shared understanding of expectations can be really helpful if you talk with others in your unit,” Tomaswick said during the presentation.
+Empowering students to use AI as an assistance tool instead of completing an assignment for them can help grow the technological landscape, according to Tomaswick.  
+One participant was curious about the future of an AI policy at Kent State, but Tomaswick explained that it is a sticky situation because of how AI is implemented into day-to-day software that Kent uses.  
+“The university is not telling instructors they can't have their students use AI. AI is a part of Outlook, Teams and many things we already use,” Tomaswick wrote in the chat, clarifying that, “generative AI is considered cheating unless otherwise indicated.”
+Cindy Kristof, copyright and scholarly communication librarian, joined the presentation to discuss copyright on the front of AI.  
+According to the Brennan Center for Justice, there are few AI regulations at the state level, and the few states that have made general legislation changes have delegated research to better understand AI.  
+Kristof shares this point of view, and she advises those who do use AI for information to always fact-check their findings.
+“I think that what the human can do is go back and double-check generative AI,” Kristof said. “Ask, ‘Is this accurate? Is this something that will hold up to the truth? And is the generative AI drawing on resources that are based in fact or is it drawing on an incomplete set of information which could lead you to the wrong conclusion?’ I think we have to be very careful how it gets used, and what it's used for.”
+Kristof’s portion of the presentation educated listeners on why AI is the talk of the copyright community.  
+“There are concerns of what they call substantial similarity, and I think this is definitely going to happen,” Kristof said during the presentation. “You ask AI to produce something … is it too similar to something that the creator already produced? Or is it in the style of because then the style can be fair use, but a substantial similarity is not.”
+The Digital Scholarship series was originally opened to graduate students only but quickly grew to include all students and faculty.  
+The presentation on Microsoft Teams had 39 participants from inside and outside of the Kent State community of faculty and students. The presentation ended with a Q&A session.  
+Last week, the Digital Scholarship series focused on “Open Access and Predatory Publishers.”
+The next session will be from 12-1 p.m. on March 1, talking about "Web Scraping Using R.”
+Learn more about the Digital Scholarship Series.
+Learn more about University Libraries.

@@ -1,0 +1,87 @@
+Boise State University official policy on generative AI Artificial Intelligence
+https://www.boisestate.edu/policy/generative-artificial-intelligence-ai-use-and-policies/
+
+Generative Artificial Intelligence (AI) – Guidance on Use and Applicable Policies
+
+Boise State University has a number of policies that safeguard institutional data, which  university faculty, staff, students, and affiliates must follow. Those using generative AI in their work should consider what data they are using and whether or not such data usage is prohibited by university policy or otherwise generally cautioned against.
+
+Entering data into a generative AI tool or service is like posting that data on a public website. AI tools collect and store data from users as part of their learning process. Any data you enter into an AI tool becomes part of its training data, which it may then share with other users outside the university.
+
+Boise State University does not have enterprise contracts or agreements with any generative AI tool or service provider. No AI tool meets the university’s security, privacy, and compliance standards for handling anything besides public data. Therefore, you may not enter internal, sensitive, or restricted data into any generative AI tool or service. Only publicly available information classified as level three data (data that has no legal or other requirement for confidentiality, integrity, or availability under the Freedom of Information Act) may be used in generative AI tools and services. Questions about university data standards and security should be directed to the Chief Information Security Officer at CISO@boisestate.edu or (208) 426-5701.
+
+As with everything you do at the university, you must follow Idaho State Board of Education and University policies when using generative AI tools and services.
+General Policies Relevant to AI Use
+Policy No.	Policy Name	What to Note
+8000	Information Technology Resource Use	Prohibitions on using university IT resources to intentionally damage, disrupt, or expose IT resources or data to unauthorized access or harm.
+8060	Information Privacy and Data Security	Explanation of the need to classify data as part of the university’s obligation to protect sensitive information
+
+Data classifications
+
+Requirement for all information to be kept in a manner consistent with appropriate controls, and standards commensurate with its data classification and the protections outlined in UWSA 1031.B, Information Security: Data Protection Standard
+
+Prohibited Use and Relevant Policies
+Prohibited Use	Explanation	Relevant Policy
+You may not enter any sensitive, restricted or otherwise protected data into any generative AI tool or service. This information includes, but is not limited to:
+
+1. FERPA-protected information, such as:
+- Bronco card ID photos
+- University Directory data
+- University non-directory data such as student ID numbers
+- Work produced by students to satisfy course requirements
+- Student names and grades
+- Student disability-related information
+
+2. Health information protected by HIPPA
+
+3. Information related to employees and their performance
+
+4. Intellectual property not publicly available
+
+5. Material under confidential review, including research papers and funding proposals
+
+6. Information subject to export control	The university is obligated to protect sensitive information to comply with applicable state and federal privacy and security laws and regulations and with university and Idaho State Board of Education policies. Access to protected institutional data must be authorized and managed to protect individual privacy, maintain promised confidentiality, and ensure appropriate access and use.	University Policy 1090 (Intellectual Property)
+
+University Policy 1150 (HIPAA Hybrid Entity Designation)
+
+University Policy 2080 (Equal Access for Students with Disabilities)
+
+University Policy 5120 (Export Control and Controlled Data)
+
+University Policy 7530 (Employee Files)
+
+
+University Policy 8000 (Information Technology Resource Use)
+
+University Policy 8060 (Information Privacy and Data Security)
+You may not upload any data that could be used to help create or carry out malware, spam and phishing campaigns or other cyber scams.	System IT resources may not be used to disseminate unauthorized email messages.	University Policy 8000 (Information Technology Resource Use)
+You may not direct AI tools or services to generate or enable content that facilitates sexual harassment, stalking or sexual exploitation or that enables harassment, threats, defamation, hostile environments, stalking or illegal discrimination.
+	University policy 1060 prohibits discrimination or harassment on the basis of protected class. University Policy 1065 prohibits sexual harassment, stalking, dating violence, and domestic violence. University Policy 1075 prohibits discrimination on the basis of disability.	University Policy 1060 (Non-discrimination and Anti-harassment)
+
+University Policy 1065 (Sexual Harassment, Sexual Misconduct, Dating Violence, Domestic Violence, and Stalking)
+
+University Policy 1075 (Non-discrimination on the Basis of Disability)
+You may not use AI tools or services to generate content that helps others break federal, state or local laws; institutional policies, rules or guidelines; or licensing agreements or contracts.	System IT resources may not be used to violate laws, policies or contracts.	University Policy 8000 (Information Technology Resource Use)
+You may not use AI tools or services to infringe copyright or other intellectual property rights.	System IT resources may not be used to violate copyright or other intellectual property laws. Entering copyrighted material into a generative AI tool or service may effectively result in the creation of a digital copy, which is a copyright violation. Feeding copyrighted material into a generative AI tool or service could “train” the AI to output works that violate the intellectual property rights of the original creator. In addition, entering research results into a generative AI tool or service could constitute premature disclosure, compromising invention patentability.	University Policy 1130 (Use of Copyrighted Works)
+
+University Policy 1090 (Intellectual Property)
+
+University Policy 8000 (Information Technology Resource Use)
+
+In addition to violating university policies, many of the above uses also violate generative AI providers’ policies and terms.
+Incident Reporting Policies
+
+Any member of the university community who learns of a potential breach of data protection or confidentiality—including through the use of generative AI—must report the incident.
+
+    University Policy 2020 (Student Code of Conduct) – Suspected plagiarism for failing to properly acknowledge or cite works or ideas produced through the use of generative AI may be reported through the Student Conduct Report form.
+    University Policy 2250 (Student Privacy and Release of Information) – Suspected FERPA violations should be reported to the Office of Institutional Compliance and Ethics at complianceandethics@boisestate.edu or (208) 426-1258. Reports may also be made through the university’s Compliance Reporting Hotline.
+    University Policy 8060 (Information Privacy and Data Security Policy) – Suspected security breaches as defined in University Policy 8060 should be reported to the Help Desk at (208) 426-4357. The Information Technology Incident Response Procedure must also also be followed.
+
+Trustworthy AI
+
+For uses of generative AI that are not prohibited, university faculty, staff, students, and affiliates can help protect themselves and others by choosing tools and services that exhibit the National Institute of Standards and Technology’s (NIST’s) characteristics of trustworthy AI.
+Additional AI Resources
+
+    Artificial Intelligence in Education – AI in Education
+    Chat GPT Terms of Use
+    Google Bard Terms of Service (references Google’s Terms of Service)
+    Generative Artificial Intelligence and Copyright Law (Congressional Research Service)

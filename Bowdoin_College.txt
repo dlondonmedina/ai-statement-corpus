@@ -1,0 +1,13 @@
+Bowdoin College official policy on generative AI Artificial Intelligence
+https://www.bowdoin.edu/it/ai/index.html
+The Division of Information Technology (IT) supports the responsible use and experimentation with generative AI tools.
+This page provides a collection of guidelines and resources that will be regularly updated as generative AI is a rapidly evolving technology.  
+IT will make concerted efforts to stay informed of developments in AI and will be partnering across the College to seek feedback to update guidelines and build on existing College policies.
+In accordance with Bowdoin’s Written Information Security Program (WISP), you should not enter any non-public data, specifically anything that includes non-public research data, into publicly available generative AI tools. Information shared with generative AI tools using default settings is not private and could expose proprietary or sensitive information to unauthorized parties.
+You are responsible for any content that you produce or publish that includes AI-generated material: AI-generated content can be inaccurate, misleading, or entirely fabricated (sometimes called “hallucinations”), and may contain copyrighted material. 
+Review the Academic Honor Code and faculty handbook for details. Faculty should be clear about their policies on permitted uses, if any, of generative AI with the students they are teaching and advising.  Students are also encouraged to ask their instructors for clarification about these policies as needed.
+Generative AI resources focused on learning and teaching can be found in the "Resources for Faculty and Instructors" organization in Canvas.
+Generative AI has made it easier for malicious actors to create sophisticated scams at far greater scale. Continue to use safe computing best practices and report suspicious messages using the options outlined in the How to Report a Phish or Spam Email article. 
+Let us know if you have procured, are considering procuring, or have any questions about generative AI tools using our online form. It's important that tools procured on behalf of the College are reviewed by IT and have the appropriate privacy, accessibility, and security protections.  
+AI Questions and Procurement Form
+There are AI tools currently available at Bowdoin that are free to access with your bowdoin.edu account.

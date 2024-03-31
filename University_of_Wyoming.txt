@@ -1,0 +1,103 @@
+University of Wyoming official policy on generative AI Artificial Intelligence
+https://www.uwyo.edu/uwyo/current/24-3/departments/an-amazing-time-for-advances-in-artificial-intelligence.html
+Academics
+UW Life
+Research
+About UW
+Contact Us
+Institutional CommunicationsBureau of Mines Building, Room 137Laramie, WY 82071Phone: (307) 766-2929Email: cbaldwin@uwyo.edu
+ 
+
+                              												Published April 24,  2023
+                              												
+An Amazing Time for Advances in Artificial Intelligence 
+By Ed Seidel 
+Exciting things are happening in our world that will profoundly impact every educational
+                              institution, every business and everyone’s daily lives. Artificial intelligence (AI),
+                              a computing technology that has been under development for decades, has reached a
+                              level of maturity — transitioning from use in science and engineering labs, and behind-the-scenes
+                              use in our phones, TVs and other home devices, to a technology that we will actively
+                              and explicitly use to help us write papers, organize our work and generally enhance
+                              our productivity. 
+A relatively new form of AI — generative AI — can create works of art, help us search
+                              the web and write messages, essays — and, yes, even entire term papers for our students
+                              — all from simple commands that we may give by typing in a phrase to a command line
+                              or literally speaking to a computer “bot” that understands spoken language. 
+In recent months, these capabilities have exploded in visibility, gracing the headlines
+                              of every newspaper, and in capability, with AI-generated art winning art shows and
+                              AI-powered bots passing BAR and MBA exams. A two-year-old demonstration technology
+                              called ChatGPT has stolen much of the limelight, as it can carry out quite a lively
+                              discussion and, in my own experience, it can write an entire column for UWyo Magazine (see the below)! But this is just the tip of the iceberg of what is coming in the
+                              next few months, let alone the coming years.
+Along with the explosion of interest have come funding streams that support the growth
+                              of this industry. Microsoft alone has invested at least $13 billion in the company
+                              called Open AI that created ChatGPT, has integrated it into its search engine Bing
+                              and has promised within months to make such technology available in every one of its
+                              software programs. Imagine asking MS Word to draft your letter or paper, Outlook to
+                              reply to all your emails, PowerPoint to generate your presentation so it is suited
+                              for the Board of Trustees, a physics conference, a freshman class or a first-grade
+                              class! Other AI offerings are already being used to have conversations with long-dead
+                              historical figures, design marketing campaigns or act as travel agents.
+The world is changing very rapidly as a result! How will this impact UW? I commissioned
+                              a working group to recommend how the university should use such technologies in our
+                              classes, how it can be used to enhance our research, how we might reconsider regulations
+                              on plagiarism and more. The School of Computing is in the final stages of carrying
+                              out multiple searches for new faculty in AI technologies and their applications to
+                              STEM and social science areas. And students, staff and faculty alike are already experimenting
+                              with it in their daily work.
+This coming year will be pivotal for UW and the world as these technologies are widely
+                              deployed and used by people in all walks of life. Get ready! UW will be! 
+Ed Seidel is UW’s 28th president. 
+Unleashing the Power of AI at the University of Wyoming 
+Written entirely by ChatGPT-4, after simple input of just a few lines from Ed Seidel 
+The University of Wyoming has long been at the forefront of innovation, constantly
+                              seeking to adapt and embrace new technologies to enhance the educational, research,
+                              and economic development programs of the institution. One such technology that has
+                              taken the world by storm is artificial intelligence (AI). As an increasingly important
+                              field, AI offers vast potential for the university, its students and faculty, as well
+                              as the wider community. This article will explore the significance of AI at the University
+                              of Wyoming, the role of the newly launched School of Computing, the computing minor
+                              program, and the key trends and caveats in AI technology.
+The recent establishment of the School of Computing at UW is a testament to the institution’s
+                              commitment to integrating AI into its various programs. With an initial focus on hiring
+                              experts in AI and applications, the school aims to create joint appointments across
+                              different university units, fostering interdisciplinary collaboration. By breaking
+                              down the barriers between fields, the university is well-positioned to create a vibrant
+                              ecosystem of research, innovation and economic development that will benefit both
+                              academia and industry.
+The addition of a computing minor program, available to every major starting next
+                              year, demonstrates the university’s recognition of AI’s growing importance. This initiative
+                              enables students from diverse disciplines to gain foundational knowledge in computing
+                              and AI, equipping them with the skills required to thrive in a technology-driven world.
+                              As a result, UW graduates will emerge with a competitive edge, ready to tackle complex
+                              challenges in their respective fields.
+AI’s importance for UW students and faculty cannot be overstated. The technology’s
+                              capacity to process vast amounts of data quickly and efficiently has revolutionized
+                              research methodologies, enabling researchers to tackle complex questions in fields
+                              as diverse as medicine, climate change, agriculture and economics. By incorporating
+                              AI into their research, faculty can accelerate the discovery of innovative solutions
+                              and insights, ultimately benefiting society as a whole.
+However, as with any powerful technology, there are caveats to using AI. Concerns
+                              about data privacy, algorithmic bias and ethical implications are significant and
+                              must be addressed proactively. The University of Wyoming is well aware of these concerns
+                              and is dedicated to ensuring that the development and application of AI adhere to
+                              the highest ethical standards. By fostering open dialogue and interdisciplinary collaboration,
+                              the university strives to create an environment that balances innovation with responsibility.
+Trends in the AI industry point toward a future where the technology becomes increasingly
+                              integrated into our daily lives. With advances in machine learning, natural language
+                              processing and computer vision, AI will continue to revolutionize various sectors,
+                              such as health care, transportation and manufacturing. As a result, there will be
+                              a growing demand for skilled AI professionals, making the university’s investment
+                              in AI education and research all the more essential.
+In conclusion, the University of Wyoming’s commitment to AI integration, as evidenced
+                              by the launch of the School of Computing and the computing minor program, will undoubtedly
+                              have profound effects on the institution’s educational, research and economic development
+                              programs. By fostering interdisciplinary collaboration and placing a strong emphasis
+                              on ethical considerations, UW is poised to make a lasting and positive impact on the
+                              AI landscape, benefiting its students, faculty and the broader community for years
+                              to come.
+Contact Us
+Institutional CommunicationsBureau of Mines Building, Room 137Laramie, WY 82071Phone: (307) 766-2929Email: cbaldwin@uwyo.edu
+ 
+UW Operator: (307) 766-1121Contact Us | Report a Broken Link
+A-Z DIRECTORY & PEOPLE FINDER

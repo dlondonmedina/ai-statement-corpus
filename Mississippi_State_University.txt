@@ -1,0 +1,29 @@
+Mississippi State University official policy on generative AI Artificial Intelligence
+https://www.ctl.msstate.edu/resources/generative-ai-resources-instructors
+The introduction of ChatGPT has sparked discussions in higher education about its use and the challenges and opportunities it presents for instructors in the classroom. As with any technology used in instruction, following best practices is key to success . As always, focusing on learning objectives and being transparent with students will continue to be key to quality teaching and learning. With generative AI, it is also paramount that instructors know what AI is and how it can be ethically used in preparation and instruction.
+To access a free version of ChatGPT 3.5, visit OpenAI and set up your account. 
+ 
+The following videos were created by Mississippi State's Assistant Teaching Professor & Associate Director of Data Science Dr. Jonathan Barlow.
+
+
+
+
+Instructional use of Generative AI in higher education courses will continue to evolve. Here are just a few common uses for AI in the classroom:
+For further ideas on possibilities for AI use in preparation and instruction, as well as ways to address the topic with students and in your syllabi, visit Brandeis University's CTL resources here.
+The articles listed below provide an overview of early generative AI use in higher education. 
+Johnson, SM, et.al. (2023). Teaching in the Age of AI. Vanderbilt University Center for Teaching. 
+McMurtiie, B. and Beckie Supiano. (June 13, 2023). Caught Off Guard by AI. Chronicle of Higher Education.  
+McCormack, M. (April 2023). Adopting and Adapting to Generative AI in Higher Ed Tech. Educause.
+Mittelstadt, M. (2023). ChatGPT Guidance for Instructors. University of Georgia Center for Teaching and Learning.
+As Generative AI continues to evolve, it is clear that "proof" of plagiarism is becoming more problematic. The Turnitin tool we have used before could directly compare student writing to websites, articles, and other writing; whereas, AI writing detection is less definitive. We in the Center for Teaching and Learning would reiterate a few of the points from Turnitin.com AI Writing Detection's own site: "Remember there is no 'right' or 'target' score with the AI writing indicator"; "Always dig deeper and analyze in conjunction with your institution's policies on the use of AI writing tools, in coordination with the assignment's rubric"; and "Engage with your student if you have doubts about the authenticity of the submission...use this [AI Writing Detection results] to have an honest, open dialogue with students regarding their work." Ultimately, your openness about your AI policies with students throughout the semester will be the best indicator as to how ethically your students use the tools in your class.
+The Student Honor Code Office suggests placement of one of the three syllabus statement options below and notice of the use of turnitin.com AI Writing Detection on course syllabi.
+AI Policy: Permitted in This Course with Attribution
+In [course name], students are encouraged to use Generative AI Tools such as ChatGPT to support their work. Students must give credit and cite any AI-generated material according to rules of documentation including in-text citations, quotations, and references. 
+Students must also include the following statement in assignments to indicate use of a Generative AI Tool: "The author acknowledges the use of [Generative AI Tool Name] in the preparation of this assignment for [brainstorming, grammatical correction, citation, etc].
+AI Policy: Permitted When Assigned with Attribution
+In [course name], students are permitted to use Generative AI tools such as ChatGPT for specific assignments, as designated by the instructor. Students must give credit and cite any AI-generated material according to [APA, MLA, etc.] rules, including in-text citations, quotations, and references. Submitted work may be filtered through turnitin.com AI Writing Detection. This review may initiate further discussion about the authenticity of the submission which could result in a more formal review through the Honor Code Council.
+Students must also include the following statement in assignments to indicate use of a Generative AI Tool: "The author acknowledges the use of [Generative AI Tool Name] in the preparation of this assignment for [brainstorming, grammatical correction, citation, etc].
+AI Policy: AI Use Discouraged in This Course
+In [course name], it is expected that all submitted work is produced by students themselves. Use of a Generative AI tool to complete an assignment constitutes academic dishonesty and will be reported as an Honor Code Violation. Submitted work may be filtered through turnitin.com AI Writing Detection. This review may initiate further discussion about the authenticity of the submission which could result in a more formal review through the Honor Code Council.  
+University of Tennessee
+Texas A&M University

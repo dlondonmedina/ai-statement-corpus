@@ -1,0 +1,65 @@
+University of Idaho official policy on generative AI Artificial Intelligence
+https://www.webpages.uidaho.edu/cetl/ai-teaching-learning.asp
+Suggestion Box
+CETL | Canvas | AI Guide | Course Design | Online | Software | Workshops
+The Center for Excellence in Teaching and Learning is approaching the growing prevalence of AI in higher education from a number of different angles: as a research question, as an ethical question, as a pedagogical/andragogical tool, as a spark for creative and critical thinking and judgment, and seeks to inform faculty instructional practices and policies. We are involved in SBoE and multi-institutional working groups to advance our knowledge about AI’s implications and applications for teaching and learning; sponsor a cross-disciplinary AI faculty group, now in its second year; and offer workshops and consultations on AI’s uses and limitations for faculty. The goal of this webpage is to summarize, share, and invite information and recommendations on existing and emerging best practices for AI at the U of I.
+A statement of shared principles was created by members of the Idaho Statewide AI Alliance in January 2024 to communicate and emphasize shared principles of student learning and ethics when using generative AI in the academy. The shared principles focus on human judgment, empathy, and ethical discernment when harnessing generative AI for the benefit of education.
+While the principles are not hard and fast rules, it is a good idea to review them and keep them in mind as you use generative AI in your teaching and learning. The Generative AI in Higher Education Shared Principles Statement provides additional depth on the following principles:
+In creating this statement, the members of the Alliance used a statement published by the United Nations Internet Governance Forum, ""Higher Education’s Essential Role in Preparing Humanity for the Artificial Intelligence Revolution.” The members of the Alliance recognize that this is a rapidly developing situation and consider their statement to be a living document that will likely be modified in the future as events warrant.
+The flexibility of AI text generators is causing some consternation in the academy on how to set up the boundaries on its use by learners in the classroom and how they might use it in their own practice. One can use AI to help generate ideas, as a grammar and spelling checker, as a tool to moderate voice and tone in writing, or even as a virtual study-buddy to bounce ideas off of to see what sticks. It can also provide mostly correct answers to objective questions and can help learners provide responses to assignments so they can pass a class without having to do the hard work of learning something. 
+Our challenge then, is how to maintain our focus on helping our learners grow now that we all have access to a tool that might help them grow and can absolutely prevent them from growing. Therefore, as educators we need to be transparent about our goals for our learners and how AI text generators can interfere with support our goals for our learners, and the rationale we have for our decisions on how learners may (or may not) use AI tools in our classes.
+    The Challenge of AI
+    Pedagogical Implications
+    Your Decisions
+    Uses by Instructors
+    Citing Generative AI 
+    Syllabus Examples
+    Our Goal
+    Contact Information
+    Resources
+Like the introduction of moveable type, the World Wide Web and sites like Wikipedia, AI tools require us to think hard about what it is we want to teach to our learners. We should consider using pedagogical practices that help our learners think like an expert in our discipline and move beyond the memorization of facts and the production of “the one right” answer. In practice, that means a shift towards a “flipped classroom” model where students focus on learning the nuts and bolts of the discipline outside the classroom, and then work to put into practice what they have learned during class meetings.
+Working on case studies, project based learning, and other high impact practices can be the instructors’ ticket to venues where students are either not using AI tools, or able to integrate AI tools into the learning process under your direction.
+Whatever your choices, AI tools encourage us to move beyond the compilation of factual knowledge as a marker of an education and towards ways of thinking and problem solving (or problematizing) as the goal of our educational practices. 
+If you decide that learners need to develop skills and that the use of AI tools will jeopardize their ability to do so, then you may conclude that you will not allow them to use AI tools in our assignments and activities. If this is the case, clearly explain your decision and the reasoning for your decision in your instructions and on your syllabus. Furthermore, the UI has a clear policy on plagiarism and it would apply to any learner who submits an artifact wholly created by, or heavily created by, an AI text generator.
+If you decide that AI tools will assist your learners to develop the skills you want them to develop, then clearly explain how you will allow your learners to use AI tools and the guidelines for their use. Also, explain what you will not allow and the reasoning for your decision. You should communicate your policy in your syllabus, and on the instructions for your assignments and activities. 
+Some potential uses of AI in the classroom:
+Brainstorm topics
+One can query AI text generators to provide potential research topics, narrow the focus of research questions, or to get ideas on how one can get started addressing a topic.
+Create an Outline
+An AI text generator can provide an outline for writing or coding that can give a creator a structure to use for their creative process.
+Proofread
+One can use an AI text generator to proofread writing, or to suggest alternative ways of expressing an idea to moderate the writer’s voice.
+Collect Sources
+AI text generators can create annotated bibliographies that give insights into potential primary and secondary source material.
+Create an initial draft for a norming session
+Learners could create a draft of a writing or coding prompt to compare it against an evaluation rubric. In doing so, learners could familiarize themselves with the evaluation standards, learn to apply them to an artifact, and in doing so internalize the evaluation standards so they could in turn apply them as they created their own artifact.
+Practice Analysis
+AI text generators can provide an analysis of themes in a piece of writing, art, or music. Learners can use such generated analysis to further explore themes or ideas uncovered in the AI generated responses, or to compare their own analysis to one generated from culling through previously written material.
+Assistance in Course Materials
+Text generators also give instructors some options to use in their practice. It’s perfectly acceptable not to use them, but if you do so, they could be of assistance in:
+Generating learning outcomes
+You will need to use your own expertise to review the generated outcomes and add your own, or reflect the generated outcomes and use them as a springboard for your own.
+Creating assignment rubrics
+Here, too, a text generator may be useful in helping you describe what success looks like and how to describe it when creating a rubric. Again, you will likely need to refine your prompts and use your own judgement when creating the finalized version.
+Identifying learning materials
+Text generators have a deserved reputation for making up source material, though that does not automatically disqualify them from being helpful as you look for learning materials. They can provide mostly accurate information on learning materials that could be appropriate for your course and even if text generators provide faulty information, they may give you ideas on the types of materials you’d like to use and send you in the right direction.
+Outlining a Course
+AI text generators may assist you as you map out a new course, or revise and existing course as you think about the progression of learning you want your students to experience and identify points along the path where learning assessments can be deployed.
+Note that you still must play an integral role in all of these generative processes. You have the expertise and responsibility to have the final say in how your course is taught and the learning materials your learners will use.
+It is important to be transparent when using large language model generative AI applications in your work. One of the challenges is how to do so in a traditional footnote or bibliography as the “chat” in applications like ChatGPT are not retrievable by others.
+Style guides such APA, Chicago Manual of Style, and MLA have recommendations on when to cite your work with AI in text, in a footnote/endnote, and in a bibliography. While you may have to make your own decision on the best way to reference your use of AI, the key is to be transparent.
+      For more information, consult the following source guide webpages:
+We have three examples of language you can include in your syllabus depending on your level of AI utilization. One has some suggested language if you do not want your students to use AI tools under any circumstances. A second has suggested language if you want to allow your students to use AI tools under certain circumstances. The third has suggested language if you want to allow your students to use AI tools as they see fit. The latter also includes links to suggested citation practices in the Chicago Manual of Style, APA, and MLA formats.
+Our goal is to investigate the use of AI tools in your practice and in your students learning experience, not to advocate for or against your use or your students use of such tools. We welcome your feedback and collaboration on this issue.
+Douglas Habib
+	  Asst. Director for Programming
+	  Center for Excellence in Teaching and Learning
+dhabib@uidaho.edu
+	  Education Bldg 224
+Instructors should be mindful of policies 
+          regarding FERPA. Test your knowledge bytaking the FERPA Tutorial in VandalWeb under Personal Information.
+ 
+		Center for Excellence in Teaching and Learning | 
+		cetl@uidaho.edu | 
+		208-885-0968 |
+        Educ Bldg Suite 220, 83844-3080

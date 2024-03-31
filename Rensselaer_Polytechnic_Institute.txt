@@ -1,0 +1,12 @@
+Rensselaer Polytechnic Institute official policy on generative AI Artificial Intelligence
+https://tw.rpi.edu/person/HenriqueSantos
+Rensselaer Polytechnic Institute
+Dr. Henrique Santos is the Director of Semantic Applications in the Tetherless World Constellation at Rensselaer Polytechnic Institute. His research focuses on knowledge representation, domain-specific reasoning, and explainable artificial intelligence. His expertise in conducting applied research has allowed his work to appear in top AI journals and conferences including Nature Machine Intelligence, IEEE Intelligent Systems, the International Semantic Web Conference, and the Extended Semantic Web Conference. Dr. Santos has led government sponsored research, including National Spectrum Consortium's Policy Development, and DARPA's Machine Common Sense.
+Large generative AI models (LGAIMs), such as ChatGPT, GPT-4 or Stable Diffusion, are rapidly transforming the way we communicate, illustrate, and create.
+ChatBS: A Context-aware LLM Exploratory Sandbox uses the OpenAI Completion API service (GPT-4-0613 model) to answer questions.
+In 2019 the Human Health Exposure Analysis Resource (HHEAR) Data Center was established by NIEHS as a continuation of the CHEAR Data Center expanding to include health outcomes at all ages.
+Tetherless World Constellation (TWC)
+Winslow Building
+110 8th Street, Rensselaer Polytechnic Institute, 12180
+tetherless-admin@cs.lists.rpi.edu
+Phone (518) 276-4384, Fax (518) 276-2148

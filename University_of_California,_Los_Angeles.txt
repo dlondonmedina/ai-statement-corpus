@@ -1,0 +1,67 @@
+University of California, Los Angeles official policy on generative AI Artificial Intelligence
+https://teaching.ucla.edu/resources/ai_guidance/
+Students and instructors are embracing ChatGPT (GPT-4 as of March 2023) and similar artificial intelligence (AI) technologies across disciplines for different learning goals. There is no one-size-fits-all best practice for their use. This document is meant as a guideline for instructors on what to consider as these tools evolve. We will provide strategies for adopting AI technologies in a responsible, ethical manner, and innovating within each discipline, major, and course. Exploring and communicating about the opportunities and limitations to using these tools will allow instructors and students to critically think about how knowledge is created.
+
+Acknowledgements: This guide was a collaborative development which included contributions from the Center for Education Innovation and Learning in the Sciences, the Bruin Learn Center for Excellence, UCLA’s Online Teaching and Learning, Excellence in Pedagogy and Innovation in the Classroom, the Center for the Advancement of Teaching along with input from members of the Academic Senate, the Center for Accessible Education, Advanced Research Computing (Privacy and Governance), and University Registrar. Special thanks to Ava Arndt, Jess Gregg, Ilana Intonato, and Rachel Kennison for leading the writing and editing process.
+
+UCLA Virtual Town Hall: What is ChatGPT and How Does it Relate to UCLA’s Academic Mission held on March 3, 2023, featured the following UCLA faculty panel:
+What is ChatGPT? 
+ChatGPT is a “chatbot” developed by a private company called OpenAI. Users can enter question prompts and within seconds ChatGPT will produce text-based responses in the form of poems, essays, articles, letters and more. It can also create structured responses like tables, bulleted lists and quizzes. ChatGPT can provide translation and copy language style and structure. It can also be used to develop and debug programming code. New and expanded uses continue to be developed and launched. A similar tool called DALL-E uses AI to create art pieces, and other AI tools have been created or are in rapid development to do even more – music, animation, multimedia video, powerpoints – and the list goes on.
+Are students using ChatGPT? 
+Yes, students have already been exploring and using it to support completion of their coursework. Some courses explicitly encourage the use of ChatGPT for assignments. However, one concern is that students may be using ChatGPT to draft responses to homework responses without learning the material, and this presents the challenges and opportunities for reflection on teaching and learning at this time.
+Explore how ChatGPT works 
+
+CEILS Education Research Talk with Jess Gregg. Demo portion starts just after the 5 minute mark.
+
+Revolutionizing Education with ChatGPT: How AI is Transforming the Way We Learn – Learning and Technology with Frank
+Dig Deeper (article): How ChatGPT Works
+Recommendation: Try out ChatGPT (or other AI tech) with your own course materials and assignments 
+Instructors can sign up for a free account at ChatGPT (or GPT-4) on Open AI’s platform. A first step in exploring the tool may be to enter some of your assignment prompts and assess the accuracy of the output. Then reflect on how you might embrace the tool or implement strategies that make use of the tool unnecessary.
+PRO TIP: Including your students in the reflective process is also a learning opportunity to help them understand the benefits and limitations of the tool.
+A few things to try:
+Note: If you do not wish to create an account, reach out to your local teaching support to set up a consultation and explore your assignments together. There are also many demonstrations of ChatGPT available online that you can search and watch.
+Adjusting assignments and activities 
+View this collaborative Google Doc: AI Examples and Resources to see examples and resources curated by UCLA’s teaching and learning community.
+Discuss opportunities for AI to contribute positively to your discipline 
+Discuss the potential: Many of our students will go on to become leaders at organizations that utilize and/or develop new AI technologies. How will these tools support advancements in your field (medicine, science, art, music, humanities, health, and more)?
+Prepare students for the future when they will work and interact with AI: This technology is likely to develop and become embedded in many parts of our lives. Preparing students to thoughtfully engage with it, co-create with it and be curious about and know how to interact with other technological developments as they occur.
+Seize the opportunity to center the importance of critical thinking and digital literacy. Students will have the opportunity in the future to break the cycle of spreading disinformation, lack of journalistic integrity in news, and elevating accurate and factual research and scholarship. Emphasize the importance of digital literacy, research, and writing skills with students; connect students to library resources for research and writing. As educators, we have an obligation to help guide our students through many types of literacy, including digital media and AI literacy. UCLA’s WI+RE has created the Understanding Misinformation: A Lesson Plan Toolkit, that is geared towards educators who want to prepare students to learn about misinformation. We can get students to vet information like experts.
+Lean in to talking to your students about how learning happens: Learning happens when actively engaging with the course material, through conversations and dialogue leading to deepening conceptual understanding.
+Academic integrity: Provide clear expectations on how students should cite use of ChatGPT and AI in their work 
+Discuss Academic Integrity with Your Students:
+One of the main concerns instructors have expressed is how to uphold academic integrity and prevent the misuse of tools like ChatGPT (intentional or not). These concerns include:
+The UCLA Student Conduct Code states, “Unless otherwise specified by the faculty member, all submissions, whether in draft or final form, to meet course requirements (including a paper, project, exam, computer program, oral presentation, or other work) must either be the Student’s own work, or must clearly acknowledge the source.” Unless an instructor indicates otherwise, the use of ChatGPT or other AI tools for course assignments is akin to receiving assistance from another person and raises the same concern that work is not the student’s own. Please communicate this to your students, and consider incorporating this language into your syllabus.
+Teaching Assistants will be seeking guidance on how to discuss ChatGPT with students and what to do if they suspect submitted work may be AI generated. In addition to talking with your students, make space for conversations with your TAs and other instructional team members to explore this topic and co-construct guidelines.
+The ultimate decision and responsibility for how to teach about AI and the establishment of or revision of course policies related to its use lies with the instructor.
+View this collaborative Google Doc: AI Examples and Resources to see examples (including Syllabus Language and Policy Language) and resources curated by UCLA’s teaching and learning community.
+Talk with your students about ethical issues and limitations related to AI development and use 
+Discuss the ethical issues and limitations  of AI
+
+Facilitate discussions with your students on the impacts of spreading disinformation or biased information, lack of regulation of companies that develop these technologies, and other dangers. While students will likely still continue to use ChatGPT and other tools like it, it is crucial that our community has this shared understanding of both dangers and opportunities.
+These technologies are not infallible and their accuracy is subject to a variety of factors, some listed below:
+Our nation has yet to catch up to the regulation needed to prevent the potential for tremendous harm when false or biased information is taken as fact. Our community must continue to explore the value and innovation that can come from AI while simultaneously contributing to the dialog about these potential harms.
+Share current examples of scholarly discussion on this topic.
+As our own UCLA experts have shared with our instructional community during the recent UCLA Virtual Town Hall: What is ChatGPT and How Does it Relate to UCLA’s Academic Mission, there are concerns about the ethics and practices around tools like ChatGPT. Algorithms can and do replicate and produce biased, racist, sexist, etc. outputs, along with incorrect and/or misleading information.
+Additional Examples:
+Be proactive in discussing concerns around privacy and intellectual property that students may have 
+On Requiring the Use of ChatGPT: Creating an account to use ChatGPT requires sharing of personal information. Depending on context, the use of ChatGPT may also mean sharing student intellectual property or student education records with ChatGPT under their terms and conditions of use. Individual students may have legitimate concerns and therefore may be unwilling to create an account. Discuss these concerns and consider alternatives.
+Protecting student privacy as required by FERPA: Academic records, such as examinations and course assignments, are considered a student record and protected by FERPA. For example, ChatGPT should not be used to draft initial feedback on a student’s submitted essay that included their identifying information. Asking ChatGPT to respond to question prompts would not be a FERPA violation, as no student information is provided to ChatGPT.
+ChatGPT is currently in the process of review through UCLA’s Third Party Risk Management to understand where there will be gaps in accessibility and security.
+Ensure equity and accessibility concerns are addressed 
+As with any emerging technology, ChatGPT may not always be accessible by individuals with disabilities. Open a conversation with the Center for Accessible Education (CAE) for ideas on exploring accessible alternatives. As always, we encourage faculty to use this sample syllabus language to direct a student toward CAE to discuss their options for accommodations and support. Requests for support should be directed to caeintake@saonet.ucla.edu or the student’s listed Disability Specialist on their accommodation letter.
+As the technology evolves, there may be a cost to using it, so continuing to revisit your learning goals and activities with respect to access is a critical equity issue.
+WEBSITE: UCLA Online Teaching and Learning – Information on Chat GPT and AI – Resources from UCLA Online Teaching and Learning
+CURATED RESOURCE LIST: Generative AI Tools and Resources – From Dr. Kim DeBacco, Senior Instructional Designer UCLA Online Teaching and Learning
+SUBSTACK POST: “Carving out time to learn: A conversation with ChatGPT” – From Caroline Kong, Instructional Designer and Technologist at the Center for the Advancement of Teaching
+RECORDED WEBINAR: “What’s All the Buzz About ChatGPT and AI in Higher Ed?”
+RECORDED WEBINAR: UCLA Virtual Town Hall: What is ChatGPT and How Does it Relate to UCLA’s Academic Mission
+RECORDINGS AND RESOURCES: AI in Action – Events brought to you by UCLA’s Center for the Advancement of Teaching (CAT), the Center for Education, Innovation, and Learning in the Sciences (CEILS), the Excellence in Pedagogy and Innovative Classrooms program (EPIC), Online Teaching and Learning (OTL), the Bruin Learn Center of Excellence (CoE), the Writing Programs, and Humanities Technology (HumTech)
+UCLA NEWSROOM ARTICLE: “Can AI and creativity coexist?” – In a joint interview, UCLA professors Jacob Foster and Danny Snelson discuss how chatbots could be used in teaching, offer historic analogs for the current AI explosion and opine about whether technology is actually capable of creativity.
+View this collaborative Google Doc: AI Examples and Resources to see examples and resources curated by UCLA’s teaching and learning community. This includes syllabus language, assignment ideas, and other strategies shared by instructors from UCLA and across the US.
+
+70 Powell Library
+Box 951515
+Los Angeles, CA 90095-1515
+Subscribe to our Newsletter
+Contact us
+ 

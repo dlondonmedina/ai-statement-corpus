@@ -1,0 +1,99 @@
+Claremont Graduate University official policy on generative AI Artificial Intelligence
+https://my.cgu.edu/faculty-excellence/resources/ai/
+AI CAFE Excellence Community Resources
+Share Resources
+
+Share and view resources in our SharePoint Folder: AI tools for Graduate Education. Upload ideas, resources, and examples to the folder to share with the community. We also have recordings of previous discussions.
+Webinar Recording: Artificial Intelligence Tools like ChatGPT in Higher Education
+
+Host: Shelby D. Lamar, Associate Director
+Co-Host: Sarah Aburaisi, CAFE Fellow
+View the Slides – View the Video
+
+Artificial intelligence is taking the world by storm and higher education is no exception. ChatGPT is an artificial intelligence based natural language processing tool designed by OpenAI. It can answer questions and commands written in natural language and respond with answers, novel content, code, and more. This webinar will cover the basics of how to use ChatGPT, then we will discuss how it can be integrated into courses and assignments.
+
+Using ChatGPT in Graduate Education: A Beginner’s Guide (and We’re All Beginners Here) by Robert Klitgaard, January 8, 2024
+
+University Professor, Claremont Graduate University, Claremont, CA 91711 https://robertklitgaard.com. Please feel free to distribute—and please share your comments and examples robertklitgaard@cgu.edu.
+Extensive Shared Resource in Development by Educators
+
+Eduaide. A.I. assisted teaching tools.
+
+Magic School. Using the magic of AI to help educators save time.
+
+Fight burnout and join thousands of teachers saving hours of time using MagicSchool to help lesson plan, differentiate, write assessments, write IEPS, communicate clearly, and more.
+
+Mills, Anna (Curator). AI Text Generators and Teaching Writing: Starting Points For Inquiry. (2022).
+
+This community driven resource list has extensive resources for teaching writing in light of AI technology. Many of the ideas will be helpful for educators in any field. Topics include basics of AI text generators/large language models, implications for higher education writing assignments, sample policy statements about text generators, using text generators for pedagogical purposes, detecting AI-generated text, and using text generators for help preparing courses and assessing students.
+
+QuestionWell. A.I. to help teachers do their homework.
+
+Vanderbilt University. Guidance on AI Detection and Why We’re Disabling Turnitin’s AI Detector. (2023).
+Example Statements for Syllabi:
+
+You don’t know yet what to do:
+
+“Artificial Intelligence tools such as ChatGPT will be transforming our learning communities during the semester. We will make decisions in relation to essays, exams and activities as we learn more about their capabilities. Therefore the content of this syllabus and descriptions in CANVAS may change accordingly.”
+
+You want to incorporate it in your course:
+
+“An exciting development in higher education is the use of artificial intelligence (AI) tools. We will be exploring the use of ChatGPT (Generative Pre-trained Transformer). In November 2022, OpenAI made ChatGPT available for free: https://chat.openai.com/chat. Please download ChatGPT. Give it a try. Please be ready to use it in our January 24 class.”
+– Courtesy of CGU professor Robert Klitgaard
+
+“I expect you to use AI (ChatGPT and image generation tools, at a minimum), in this class. In fact, some assignments will require it. Learning to use AI is an emerging skill, and I provide tutorials in Canvas about how to use them. I am happy to meet and help with these tools during office hours or after class.”
+– Mollick, Ethan. “All My Classes Suddenly Became AI Classes.” Substack newsletter. One Useful Thing (And Also Some Other Things), January 17, 2023. (https://oneusefulthing.substack.com/p/all-my-classes-suddenly-became-ai).
+Ideas about AI in Higher Education
+
+*Bruni, F. (2022, December 15). Will ChatGPT Make Me Irrelevant? New York Times (Online); New York Times Company.
+
+Caren, C. (2022, December 15). AI writing: The challenge and opportunity in front of education now.
+
+Chechitelli, A. (2023, January 13). Sneak preview of Turnitin’s AI writing and ChatGPT detection capability.
+
+D’Agostino, S. (2023, January 12). ChatGPT Advice Academics Can Use Now. Inside Higher Ed.
+
+Emma Bowman. (2023, January 9). A college student created an app that can tell whether AI wrote an essay. NPR Illinois.
+
+Gleason, N. (2022, December 9). ChatGPT and the rise of AI writers: How should higher education respond? THE Campus Learn, Share, Connect.
+“There is a risk that efforts to design more inclusive, flexible authentic assessments could be rolled back as part of knee-jerk administrative responses to the use of this software by students. If universities want to stay true to their missions of equity, inclusion and access, then we need to keep and develop these alternative assessments. The task now is to design assessment that incorporates AI-generated text. Not least because upon graduation, students will be using this technology in the workplace.”
+
+*Grobe, C. (2023, January 18). Why I’m Not Scared of ChatGPT. The Chronicle of Higher Education.
+
+*Krugman, P. (2022, December 6). Does ChatGPT Mean Robots Are Coming For the Skilled Jobs?. New York Times (Online); New York Times Company.
+
+Marche, S. (2022, December 6). The College Essay Is Dead. The Atlantic.
+
+Metzler, K. & ChatGPT. (2022, December 7). How ChatGPT Could Transform Higher Education. Social Science Space.
+
+Miller, M. (2022, December 17). ChatGPT, Chatbots and Artificial Intelligence in Education. Ditch That Textbook.
+“Can I use this as a tool for teaching and learning? The answer here, I believe is: ABSOLUTELY. The longer that AI and tools like ChatGPT are around, the more that teachers will try new teaching and learning strategies with it. The more that teachers try new things and share them widely, the more that the educator community will move forward with new ideas. In short: we will figure this out together, even though it will take some time.”
+
+Mollick, E. (2022a, December 6). The Mechanical Professor [Substack newsletter]. One Useful Thing (And Also Some Other Things).
+
+Mollick, E. (2022b, December 14). ChatGPT Is a Tipping Point for AI. Harvard Business Review.
+
+Mollick, E. (2023, January 17). All my classes suddenly became AI classes [Substack newsletter]. One Useful Thing (And Also Some Other Things).
+
+Mollick, E. (2023, February 17). My class required AI. Here’s what I’ve learned so far. [Substack newsletter]. One Useful Thing (And Also Some Other Things).
+
+Mollick, E. R., & Mollick, L. (2023). Using AI to Implement Effective Teaching Strategies in Classrooms: Five Strategies, Including Prompts (SSRN Scholarly Paper No. 4391243). https://papers.ssrn.com/abstract=4391243
+
+*Roose, K. (2022, December 5). The Brilliance and Weirdness of ChatGPT: The Shift. New York Times (Online); New York Times Company.
+
+*Roose, K. (2023, January 12). Don’t Ban ChatGPT in Schools. Teach With It.: The Shift. New York Times (Online); New York Times Company.
+
+*Sanders, N. E., & Schneier, B. (2023, January 15). How ChatGPT Hijacks Democracy: Guest Essay. New York Times (Online); New York Times Company.
+
+*Schulten, K. (2023a, January 24). How Should Schools Respond to ChatGPT?: Student Opinion. New York Times (Online); New York Times Company.
+
+Tian, E. (n.d.). GPTZero. Retrieved January 30, 2023, from https://gptzero.substack.com/
+This tool estimates how much, if any, of a text was generated from AI. Link to the software: https://gptzero.me/
+
+*Schulten, K. (2023b, January 24). Lesson Plan: Teaching and Learning in the Era of ChatGPT: Current Events. New York Times (Online); New York Times Company.
+
+Wang, E. (2022, October 12). What does plagiarism look like in a world with artificial intelligence?
+
+Watkins, R. (2022, December 19). Update Your Course Syllabus for chatGPT. Medium.
+
+*CGU faculty, staff, and students can access New York Times (Online), which includes most of the text-based information published on nytimes.com though the Claremont Colleges Library. Just search ChatGPT to see the most recent articles. For more information see the library’s FAQ page. The Claremont Colleges Library also has access to The Chronicle of Higher Education online.

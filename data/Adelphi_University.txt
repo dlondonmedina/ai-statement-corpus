@@ -1,4 +1,4 @@
-Adelphi University official policy on generative AI Artificial Intelligence
+Adelphi University
 https://www.adelphi.edu/provost/faculty-information/faculty-support-and-development/ai-task-force/student-resources/
 Generative AI, Ethics, and the Classroom
 Artificial Intelligence (AI) has revolutionized numerous industries, and one of its most intriguing subfields is Generative AI. Generative AI refers to a subset of AI models and algorithms designed to generate new content, imitate patterns from existing data, and create novel outputs. This technology has garnered immense interest due to its creative capabilities and practical applications. However, as college students, it is essential to understand the ethical considerations and limitations surrounding Generative AI to ensure its responsible use.
@@ -23,6 +23,4 @@ Do not use Generative AI to generate essays, responses to test questions, or any
 Be aware of the potential consequences of the generated content and use Generative AI in a manner that respects others’ rights and privacy.
 Generative AI is a powerful tool that holds immense potential for creativity and innovation. As college students, it is essential to understand its capabilities, applications, and the ethical considerations surrounding its use. By adopting responsible practices and being mindful of the limitations, we can harness the full potential of Generative AI while upholding academic integrity and ethical standards. Embracing Generative AI responsibly will undoubtedly pave the way for a future where AI-driven creativity coexists harmoniously with human ingenuity.
 © Adelphi University 2024
-You are now leaving the Adelphi University website...
-Adelphi is not responsible for the content of third-party sites. External sites may have different Privacy and Security policies than Adelphi University. You should review the policies of any third-party website before you provide personal or confidential information.
-Go back Continue
+

@@ -1,4 +1,4 @@
-Brenau University official policy on generative AI Artificial Intelligence
+Brenau University
 https://libguides.brenau.edu/chatgpt
 ChatGPT (Generative Pre-trained Transformer) was developed by OpenAI.
 Filled with information, it is designed to answer questions and prompts by generating human-like responses. It is able to generate responses in multiple languages, provide information, and engage in conversations with the user. Though certainly not infallible, it is making a name for itself in education for its usefulness to teachers and students. 

@@ -1,4 +1,4 @@
-Australian National University official policy on generative AI Artificial Intelligence
+Australian National
 https://libguides.anu.edu.au/generative-ai
  
 Generative Artifical Intelligence (AI) is a machine learning technology that uses AI technology to understand natural language inputs (called prompts) and to generate natural language outputs (called completions). Users interact with generative AI tools and systems in a question and answer style “conversation”.

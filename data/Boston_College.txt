@@ -1,4 +1,4 @@
-Boston College official policy on generative AI Artificial Intelligence
+Boston College
 https://cteresources.bc.edu/documentation/artificial-intelligence-in-teaching-and-learning/
  Updated on January 25, 2024
 There are many artificial intelligence (AI) tools that can generate “human-like” responses to a wide range of questions and statements. Among the most popular generative AI (or GenAI) tools is ChatGPT, a text-based tool that can produce essays, reports, lesson plans, and more. Boston College students will likely use content from these tools in a variety of ways, including as substitutes for their own thinking and writing. Like other technologies that have created new opportunities for academic dishonesty (e.g. Wikipedia, calculators, etc.), ChatGPT invites instructional responses that promote academic integrity and authentic student learning without sacrificing trust in instructor-student or student-student relationships.

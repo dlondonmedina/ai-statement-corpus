@@ -1,6 +1,5 @@
-Arkansas Tech University official policy on generative AI Artificial Intelligence
+Arkansas Tech University
 https://libguides.atu.edu/ai
-
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 This guide is attributed to:  AI, ChatGPT, and the Library Libguide by Amy Scheelke for Salt Lake Community College, is licensed CC BY-NC 4.0, except where otherwise noted.
 Generative artificial intelligence (AI) is a relatively new technology that is developing quickly. Like the internet in general, these AI tools, like ChatGPT or Google Bard, are neither good or bad when it comes to finding and using information. Instead, they represent a new way in which we can interact with information.

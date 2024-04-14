@@ -1,7 +1,10 @@
-Benedictine University official policy on generative AI Artificial Intelligence
+Benedictine University
 https://researchguides.ben.edu/c.php?g=1302542&p=9571540
 As in my example with Downers Grove being a sundown town, keep in mind when teaching that if you ask for a source, ChatGPT will either give you an indirect link elsewhere you have to look up separately, or backpedal and admit the answer was incorrect. Always, always ask for citations in research or writing prompts, and you'll cut the risk for AI plagiarism significantly. 
-
 In the context of ChatGPT conversations, have students read the Benedictine University Academic Honesty Policy. As the policy states, "In the classroom, faculty members are responsible for establishing an environment that promotes honest and ethical behavior. Faculty members will utilize the course syllabus as a vehicle for informing students about the Academic Honesty Policy. Faculty members should also explain course-specific rules and consequences, which will be included in the syllabus. Emphasis should be placed on educating students on proper academic techniques for work, study, authorship, and test taking."
 If ChatGPT is something you're willing to try in the classroom, make sure students understand this policy clearly, as well as the consequences for failing to make clear if they've used A.I. in their coursework. But it might be time to rethink what "cheating" may mean in the next 10 years in your classroom. Here's a helpful slide graphic from Matt Miller to jumpstart this academic honesty conversation with your colleagues in your disciplines.
+For Students: Try ChatGPT, and find its limitations.
+Keep in mind your instructors may be aware that you are using ChatGPT for your coursework, whether you inform them or not. If you want to use ChatGPT in any capacity for research or other projects, talk with your instructor first. See if your instructor would be willing to experiment in class with a side by side comparison of a chatbot response and a human response. If they aren't willing, please respect their wishes.
+In your own free time, I (not your instructor) encourage you to play around with it. See if you and your friends can "stump" the bot. It's easier than you think! Human creativity and free expression will not be outdone by artificial intelligence. 
+
 

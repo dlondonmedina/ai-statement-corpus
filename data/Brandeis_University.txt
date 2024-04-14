@@ -1,4 +1,4 @@
-Brandeis University official policy on generative AI Artificial Intelligence
+Brandeis University
 https://www.brandeis.edu/teaching/resources/syllabus/ai-statements.html
 We expect that all work students submit for this course will be their own. In instances when collaborative work is assigned, we expect for the assignment to list all team members who participated. We specifically forbid the use of ChatGPT or any other generative artificial intelligence (AI) tools at all stages of the work process, including preliminary ones. Violations of this policy will be considered academic misconduct. We draw your attention to the fact that different classes at Harvard could implement different AI policies, and it is the student’s responsibility to conform to expectations for each course.
 (Source)

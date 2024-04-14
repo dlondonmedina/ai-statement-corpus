@@ -1,7 +1,5 @@
-Amherst College official policy on generative AI Artificial Intelligence
+Amherst College
 https://libguides.amherst.edu/genAI
-Click on the Mammoth to use our Librarian Chat Service! Or Contact Us to find other ways to get help.
-Chat is currently unavailable. Contact Us for help!
 This guide provides a basic overview of generative AI, including ethical issues and potential costs, in order to help you make informed choices about using AI tools.
 Generative AI refers to AI models that can create new content, such as text, images, code, audio, or video, in response to user prompts. Generative AI uses machine learning techniques to learn the patterns and structures of training data in order to create new outputs with similar characteristics.
 Here's a plain language definition from The New York Times:

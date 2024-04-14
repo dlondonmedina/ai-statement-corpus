@@ -1,10 +1,10 @@
-Baylor University official policy on generative AI Artificial Intelligence
+Baylor University
 https://honorcode.web.baylor.edu/academic-integrity-office/faculty-resources/suggestions-dealing-artificial-intelligence-ai-produced
 The following suggestions are designed to help faculty deal with the issue of students submitting essays (and other assignments) that are produced by Artificial Intelligence (AI). 
-______________________________________________________________
- 12-11-2023 Provost Update: AI Detection Feature within Turnitin.com
+
+12-11-2023 Provost Update: AI Detection Feature within Turnitin.com
 After consultation with the Faculty Senate, the Teaching and Learning with Technology Committee, and the Honor Council, the University has decided to allow the AI detection feature within Turnitin.com to expire at the end of December 2023. Too much uncertainty exists, much of it related to accuracy, for the University to retain the feature at this time. This decision is consistent with determinations made at many of the University's comparator institutions. Questions? Please contact Dr. J. Wesley (Wes) Null, Vice Provost for Undergraduate Education and Academic Affairs.
-______________________________________________________________
+
 Faculty who require essays may want to use these proactive strategies:
 Additional resources to consider:
 AI Detection Added to Turnitin  https://honorcode.web.baylor.edu/sites/g/files/ecbvkj911/files/2023-04/AI_Detection_Added_to_Turnitin_Notice_to_Faculty--April_3_2023.pdf 

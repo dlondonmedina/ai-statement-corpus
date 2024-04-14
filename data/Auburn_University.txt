@@ -1,4 +1,4 @@
-Auburn University official policy on generative AI Artificial Intelligence
+Auburn University
 https://www.auburn.edu/administration/oacp/AIGuidance.php
 				
 With the emergence and widespread availability of public generative AI tools (GPT-4, ChatGPT, AlphaCode, GitHub Copilot, Bard, DALL-E 2, to name a few), many members of our community are eager to explore their use in the university context (example uses could include student academic work, faculty research, admissions, employee recruitment, etc.). Although AI tools have the ability to enhance such efforts, they also have the ability to cause harm if used improperly. The following guidelines have been established jointly by the Office of Information Technology, the Office of the General Counsel, and the Office of Audit, Compliance & Privacy to help you identify and mitigate risks associated with the use of AI tools:

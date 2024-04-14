@@ -1,4 +1,4 @@
-Aurora University official policy on generative AI Artificial Intelligence
+Aurora University
 https://libguides.aurora.edu/c.php?g=1294235&p=9542862
 Tools are available to identify whether a text was written by a human. These are imperfect but quickly improving.
 Please see the tab about detecting text written by an AI for more.

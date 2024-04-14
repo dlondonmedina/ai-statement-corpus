@@ -1,4 +1,4 @@
-Beloit College official policy on generative AI Artificial Intelligence
+Beloit College 
 https://guides.beloit.edu/c.php?g=1340175&p=9878804
 *Make sure to check with your professor about their policies regarding generative AI in their course.*
 Generative AI tools are trained with biased, and sometimes old, data and cannot make critical assessments of the material that they create. It is important to think of Generative AI as a tool like spellcheck rather than an equal substitute for you and your critical thinking skills. For example, Generative AI can be a helpful study buddy by summarizing text or creating flash cards, but can't replace your ability to detect if a source is biased or false. 

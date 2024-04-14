@@ -1,4 +1,4 @@
-Alfred University official policy on generative AI Artificial Intelligence
+Alfred University
 https://my.alfred.edu/teaching-learning-center/artificial-intelligence.cfm
 Artificial intelligence (AI) has existed for decades.  AI replicates human intelligence by leveraging computers and machines to complete problem-solving and decision-making tasks.  While AI is not a new concept, the field of higher education has had to adapt to the proliferation of generative AI tools, such as Chat GPT.
 Since the introduction of Open AI’s ChatGPT in the fall of 2022, many possibilities and challenges have arisen in higher education, concerning the use of Artificial Intelligence (AI). The goals of this guide are to:
@@ -28,17 +28,3 @@ The article How to Use Chat GPT to Save Time includes suggestions for how instru
 After you decide what level of AI use will be permitted in your courses, those expectations will need to be communicated with your students so they are aware of their responsibilities.  One way to communicate those expectations is with a syllabus statement.
 A syllabus statement on the permitted level of generative AI use can help students have a clear understanding of the instructor’s requirements.  When creating a syllabus statement, please consider including the following information:
 For additional guidance on AI syllabus statements, please the chapter of the SUNY FACT2 Guide to Optimizing AI in Higher Education entitled Setting Expectations in Your Classes.
-MLA
-APA
-Chicago
- 
-Chat GPT is Going to Change Education, Not Destroy It - W.D. Heaven, MIT Technology Review
-The Benefits and Limitations of Generative AI - Harvard Online
-If You Still Aren't Sure What Chat GPT is, This is Your Guide to the Viral Chatbot That Everyone is Talking About - S. Sundar, Business Insider
-Artificial Intelligence and the Future of Teaching and Learning: Insights and Recommendations - US Department of Education Office of Educational Technology
-The Timeline of Artificial Intelligence - From the 1940s - N. Singh, verloop.io
-In May of 2023, The SUNY Faculty Advisory Council on Teaching & Technology (FACT2) created a task group to investigate how AI could be optimized for teaching & learning in higher education. The resulting report discusses the benefits and challenges associated with AU, and serves as a guide for faculty and educational technologists as they learn more about AI, and consider its potential uses. As the task group continues its work into 2024 and beyond, the report will be updated and new knowledge and resources will be shared.
-FACT2 Guide to Optimizing AI in Higher Education (PDF) 
-FACT2 Guide to Optimizing AI in Higher Education (SUNY Pressbook)
-Manager of Instructional Technology & Virtual Education Support
-Copyright  ©  2024 Alfred University

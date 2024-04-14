@@ -1,10 +1,6 @@
-Arizona State University, West Campus official policy on generative AI Artificial Intelligence
+Arizona State University
 https://ai.asu.edu/
-
- 
- 
 The AI Innovation Challenge at ASU is launching its second round of submissions, with updated eligibility criteria expanding the availability of ChatGPT Enterprise to student researchers and faculty to use in the classes they teach. Submissions open on March 25, 2024.
- 
 Learn more
 At Arizona State University, we embrace generative AI not as a replacement for human intelligence but as a tool to enhance our collective creativity and problem-solving.
 ASU’s knowledge core enables us to stand at the forefront of innovation, propelling the university to develop unique and transformative applications that push the boundaries of what is possible in artificial intelligence….for today, tomorrow and future generations.
@@ -19,7 +15,6 @@ Consider whether you or the university need to own the intellectual property rig
 Look for tools that make it easy to find their privacy, ethics, risk, safety and accessibility policies.
 These tools are quickly evolving - join in the conversation as we establish best practices. 
 The ASU community is invited to join the discussion and working teams on Slack. #ai and #ai-digital-trust.
- 
 AI is a powerful technology and will be an enduring part of the innovation landscape for the foreseeable future.
 Harnessing the power of AI brings the responsibility to innovate in a principled way, centering our charter and values of inclusion and access.
 AI can support human intelligence and capabilities, rather than replace them, to promote equal access to creativity and amplify potential.

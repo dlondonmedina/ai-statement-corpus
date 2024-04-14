@@ -1,4 +1,4 @@
-Appalachian State University official policy on generative AI Artificial Intelligence
+Appalachian State University
 https://research.appstate.edu/news/use-generative-artificial-intelligence-technology-nsf-merit-review-process
 December 14, 2023
 Generative artificial intelligence1 (GAI) systems have great potential to support the U.S. National Science Foundation's mission to promote the progress of science. They could facilitate creativity and aid in the development of new scientific insights and streamline agency processes by enhancing productivity through the automation of routine tasks. While NSF will continue to support advances in this new technology, the agency must also consider the potential risks posed by it. The agency cannot protect non-public information disclosed to third-party GAI from being recorded and shared. To safeguard the integrity of the development and evaluation of proposals in the merit review process, this memo establishes guidelines for its use by reviewers and proposers:
@@ -11,10 +11,3 @@ Use of generative AI in proposal preparation. Proposers are encouraged to indica
 Proposers are responsible for the accuracy and authenticity of their proposal submission in consideration for merit review, including content developed with the assistance of generative AI tools. NSF's Proposal and Award Policies and Procedures Guide (PAPPG) addresses research misconduct, which includes fabrication, falsification, or plagiarism in proposing or performing NSF-funded research, or in reporting results funded by NSF. Generative AI tools may create these risks, and proposers and awardees are responsible for ensuring the integrity of their proposal and reporting of research results. This policy does not preclude research on generative AI as a topic of study.
 Implementation and guidance on appropriate use. NSF will update the 2025 PAPPG to align with the requirements stipulated in this memorandum or with additional guidance and requirements as necessary. NSF will also continuously evaluate future applications of generative AI technology for use by staff and the research community.
 Questions on this policy should be directed to media@nsf.gov.
- 
-_____________
-1 Generative artificial intelligence (GAI) is a technology that can create content, such as text, images, audio, or video, when prompted by a user. Generative AI systems create responses using algorithms often trained on large datasets of information, such as text and images from the internet. (Source: U.S. Government Accountability Office, Science and Tech Spotlight: Generative AI; June 2023 available at www.gao.gov/assets/830/826491.pdf)
-2 NSF will evaluate this memo and corresponding policy as the technology evolves. However, at the writing of this memo, the current generation of generative AI does not comply with NSF confidentiality standards as information may be released to a third party.
-3 Review information includes panel summaries, review analysis, recommendations for funding, PO comments and other similar records.
-4 This policy also applies to any content not developed by the proposer.
-Copyright 2024 Appalachian State University. All rights reserved.

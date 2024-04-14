@@ -1,4 +1,4 @@
-Bowdoin College official policy on generative AI Artificial Intelligence
+Bowdoin College
 https://www.bowdoin.edu/it/ai/index.html
 The Division of Information Technology (IT) supports the responsible use and experimentation with generative AI tools.
 This page provides a collection of guidelines and resources that will be regularly updated as generative AI is a rapidly evolving technology.  
